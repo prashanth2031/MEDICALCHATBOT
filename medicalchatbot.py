@@ -14,3 +14,5 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 "description": "Vitiligo causes loss of skinpigmentation.",
 "causes": ["Autoimmune condition"],
 "remedies": ["Skin therapy","Medical treatment"]},
+    "psoriasis": {
+        "description": "Psoriasis is a chronic skin disease causing red patches.",
