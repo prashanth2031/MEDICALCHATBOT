@@ -19,3 +19,5 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
         "causes": ["Immune disorder", "Genetics"],
         "remedies": ["Topical creams", "Medication"]
     },
+    "epilepsy": {
+        "description": "Epilepsy is a neurological disorder causing seizures.",
