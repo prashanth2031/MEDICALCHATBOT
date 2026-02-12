@@ -32,3 +32,7 @@ hypothermia": {
 "causes": ["Cold exposure", "Wet clothing"],
 
 "remedies": ["Warm blankets", "Warm drinks", "Medical
+help"]},
+"heatstroke": {
+
+"description": "Heatstroke is a severe heat-related illness with very high body temperature.",
