@@ -36,3 +36,6 @@ help"]},
 "heatstroke": {
 
 "description": "Heatstroke is a severe heat-related illness with very high body temperature.",
+"causes": ["Prolonged heat exposure", "Dehydration"],
+
+"remedies": ["Cool the body", "Fluids", "Emergency medical care"]
