@@ -39,3 +39,5 @@ help"]},
 "causes": ["Prolonged heat exposure", "Dehydration"],
 
 "remedies": ["Cool the body", "Fluids", "Emergency medical care"]
+    "motion_sickness": {
+         "description": "Motion sickness is nausea and dizziness triggered by movement during travel.",
