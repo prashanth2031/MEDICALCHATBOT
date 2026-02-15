@@ -41,3 +41,5 @@ help"]},
 "remedies": ["Cool the body", "Fluids", "Emergency medical care"]
     "motion_sickness": {
          "description": "Motion sickness is nausea and dizziness triggered by movement during travel.",
+   "causes": ["Travel by car/boat/air", "Inner ear sensitivity"],
+    "remedies": ["Look at horizon", "Ginger", "Motion sickness tablets"]},
