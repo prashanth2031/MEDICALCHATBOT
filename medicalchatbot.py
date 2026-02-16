@@ -43,3 +43,8 @@ help"]},
          "description": "Motion sickness is nausea and dizziness triggered by movement during travel.",
    "causes": ["Travel by car/boat/air", "Inner ear sensitivity"],
     "remedies": ["Look at horizon", "Ginger", "Motion sickness tablets"]},
+    "vitiligo": {
+        "description": "Vitiligo causes loss of skin pigmentation.",
+        "causes": ["Autoimmune condition"],
+        "remedies": ["Skin therapy", "Medical treatment"]
+    },
