@@ -48,3 +48,5 @@ help"]},
         "causes": ["Autoimmune condition"],
         "remedies": ["Skin therapy", "Medical treatment"]
     },
+    "psoriasis": {
+        "description": "Psoriasis is a chronic skin disease causing red patches.",
