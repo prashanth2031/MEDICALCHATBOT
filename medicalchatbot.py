@@ -50,3 +50,6 @@ help"]},
     },
     "psoriasis": {
         "description": "Psoriasis is a chronic skin disease causing red patches.",
+        "causes": ["Immune disorder", "Genetics"],
+        "remedies": ["Topical creams", "Medication"]
+    },
