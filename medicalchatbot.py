@@ -55,3 +55,6 @@ help"]},
     },
     "epilepsy": {
         "description": "Epilepsy is a neurological disorder causing seizures.",
+        "causes": ["Brain injury", "Genetics"],
+        "remedies": ["Antiepileptic drugs", "Medical care"]
+    },
