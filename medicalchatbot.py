@@ -58,3 +58,5 @@ help"]},
         "causes": ["Brain injury", "Genetics"],
         "remedies": ["Antiepileptic drugs", "Medical care"]
     },
+    "sleep_apnea": {
+        "description": "Sleep apnea causes breathing interruptions during sleep.",
