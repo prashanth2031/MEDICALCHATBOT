@@ -60,3 +60,6 @@ help"]},
     },
     "sleep_apnea": {
         "description": "Sleep apnea causes breathing interruptions during sleep.",
+        "causes": ["Obesity", "Airway blockage"],
+        "remedies": ["CPAP therapy", "Weight loss"]
+    },
