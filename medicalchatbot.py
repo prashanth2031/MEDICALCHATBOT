@@ -63,3 +63,5 @@ help"]},
         "causes": ["Obesity", "Airway blockage"],
         "remedies": ["CPAP therapy", "Weight loss"]
     },
+    "allergic_rhinitis": {
+        "description": "Allergic rhinitis causes sneezing and nasal congestion.",
