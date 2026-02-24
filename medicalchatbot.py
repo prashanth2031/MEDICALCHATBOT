@@ -65,3 +65,6 @@ help"]},
     },
     "allergic_rhinitis": {
         "description": "Allergic rhinitis causes sneezing and nasal congestion.",
+        "causes": ["Dust", "Pollen"],
+        "remedies": ["Antihistamines", "Avoid allergens"]
+    },
