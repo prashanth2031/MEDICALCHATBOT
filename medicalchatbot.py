@@ -68,3 +68,5 @@ help"]},
         "causes": ["Dust", "Pollen"],
         "remedies": ["Antihistamines", "Avoid allergens"]
     },
+    "influenza": {
+        "description": "Influenza is a viral respiratory illness.",
