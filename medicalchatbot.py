@@ -70,3 +70,6 @@ help"]},
     },
     "influenza": {
         "description": "Influenza is a viral respiratory illness.",
+        "causes": ["Influenza virus"],
+        "remedies": ["Antivirals", "Rest", "Fluids"]
+    },
