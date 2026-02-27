@@ -73,3 +73,5 @@ help"]},
         "causes": ["Influenza virus"],
         "remedies": ["Antivirals", "Rest", "Fluids"]
     },
+    "rubella": {
+        "description": "Rubella is a viral infection with rash and fever.",
