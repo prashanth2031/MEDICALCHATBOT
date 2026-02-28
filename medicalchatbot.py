@@ -75,3 +75,6 @@ help"]},
     },
     "rubella": {
         "description": "Rubella is a viral infection with rash and fever.",
+        "causes": ["Rubella virus"],
+        "remedies": ["Rest", "Vaccination"]
+    },
