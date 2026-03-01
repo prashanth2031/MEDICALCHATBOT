@@ -1,3 +1,4 @@
+# importing library
 import random
 
 # Medical knowledge base
@@ -7,74 +8,405 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
-"sunburn": {
-
-"description": "Sunburn is skin damage caused by excessive UV exposure.",
-
+"borderline_personality_disorder": {
+  "description": "Borderline personality disorder is a mental health condition affecting mood and relationships.",
+  "causes": ["Genetic factors", "Childhood trauma"],
+  "remedies": ["Psychotherapy", "Medication"]
 },
-"scabies": {
 
-"description": "Scabies is a skin infestation by mites causing itching.",
+"narcissistic_personality_disorder": {
+  "description": "Narcissistic personality disorder involves inflated self-importance.",
+  "causes": ["Environmental and genetic factors"],
+  "remedies": ["Psychotherapy"]
+},
 
-"causes": ["Mite infestation", "Close contact"],
+"antisocial_personality_disorder": {
+  "description": "Antisocial personality disorder involves disregard for others.",
+  "causes": ["Genetic predisposition", "Childhood environment"],
+  "remedies": ["Therapy"]
+},
 
-"remedies": ["Medicated lotions", "Wash clothes in
+"paranoid_personality_disorder": {
+  "description": "Paranoid personality disorder causes distrust of others.",
+  "causes": ["Genetic and environmental factors"],
+  "remedies": ["Psychotherapy"]
+},
 
-hot water"]},
+"schizoid_personality_disorder": {
+  "description": "Schizoid personality disorder involves detachment from social relationships.",
+  "causes": ["Genetic factors"],
+  "remedies": ["Therapy"]
+},
 
-"causes": ["Prolonged sun exposure"],
+"avoidant_personality_disorder": {
+  "description": "Avoidant personality disorder involves social inhibition.",
+  "causes": ["Low self-esteem", "Genetics"],
+  "remedies": ["Cognitive behavioral therapy"]
+},
 
-"remedies": ["Aloe vera", "Cool bath", "Hydration"]},
-hypothermia": {
+"dependent_personality_disorder": {
+  "description": "Dependent personality disorder involves excessive need for care.",
+  "causes": ["Childhood experiences"],
+  "remedies": ["Psychotherapy"]
+},
 
-"description": "Hypothermia occurs when body temperature drops dangerously low.",
+"histrionic_personality_disorder": {
+  "description": "Histrionic personality disorder involves excessive emotionality.",
+  "causes": ["Environmental factors"],
+  "remedies": ["Therapy"]
+},
 
-"causes": ["Cold exposure", "Wet clothing"],
+"dissociative_identity_disorder": {
+  "description": "Dissociative identity disorder involves multiple personality states.",
+  "causes": ["Severe trauma"],
+  "remedies": ["Long-term psychotherapy"]
+},
 
-"remedies": ["Warm blankets", "Warm drinks", "Medical
-help"]},
-"heatstroke": {
+"dissociative_amnesia": {
+  "description": "Dissociative amnesia involves memory loss due to stress.",
+  "causes": ["Psychological trauma"],
+  "remedies": ["Psychotherapy"]
+},
 
-"description": "Heatstroke is a severe heat-related illness with very high body temperature.",
-"causes": ["Prolonged heat exposure", "Dehydration"],
+"conversion_disorder": {
+  "description": "Conversion disorder presents neurological symptoms without medical cause.",
+  "causes": ["Psychological stress"],
+  "remedies": ["Therapy"]
+},
 
-"remedies": ["Cool the body", "Fluids", "Emergency medical care"]
-    "motion_sickness": {
-         "description": "Motion sickness is nausea and dizziness triggered by movement during travel.",
-   "causes": ["Travel by car/boat/air", "Inner ear sensitivity"],
-    "remedies": ["Look at horizon", "Ginger", "Motion sickness tablets"]},
-    "vitiligo": {
-        "description": "Vitiligo causes loss of skin pigmentation.",
-        "causes": ["Autoimmune condition"],
-        "remedies": ["Skin therapy", "Medical treatment"]
-    },
-    "psoriasis": {
-        "description": "Psoriasis is a chronic skin disease causing red patches.",
-        "causes": ["Immune disorder", "Genetics"],
-        "remedies": ["Topical creams", "Medication"]
-    },
-    "epilepsy": {
-        "description": "Epilepsy is a neurological disorder causing seizures.",
-        "causes": ["Brain injury", "Genetics"],
-        "remedies": ["Antiepileptic drugs", "Medical care"]
-    },
-    "sleep_apnea": {
-        "description": "Sleep apnea causes breathing interruptions during sleep.",
-        "causes": ["Obesity", "Airway blockage"],
-        "remedies": ["CPAP therapy", "Weight loss"]
-    },
-    "allergic_rhinitis": {
-        "description": "Allergic rhinitis causes sneezing and nasal congestion.",
-        "causes": ["Dust", "Pollen"],
-        "remedies": ["Antihistamines", "Avoid allergens"]
-    },
-    "influenza": {
-        "description": "Influenza is a viral respiratory illness.",
-        "causes": ["Influenza virus"],
-        "remedies": ["Antivirals", "Rest", "Fluids"]
-    },
-    "rubella": {
-        "description": "Rubella is a viral infection with rash and fever.",
-        "causes": ["Rubella virus"],
-        "remedies": ["Rest", "Vaccination"]
-    },
+"somatic_symptom_disorder": {
+  "description": "Somatic symptom disorder causes excessive focus on physical symptoms.",
+  "causes": ["Psychological factors"],
+  "remedies": ["Cognitive therapy"]
+},
+
+"illness_anxiety_disorder": {
+  "description": "Illness anxiety disorder involves fear of serious illness.",
+  "causes": ["Anxiety disorders"],
+  "remedies": ["Therapy"]
+},
+
+"hoarding_disorder": {
+  "description": "Hoarding disorder involves difficulty discarding possessions.",
+  "causes": ["Anxiety-related factors"],
+  "remedies": ["Behavioral therapy"]
+},
+
+"trichotillomania": {
+  "description": "Trichotillomania involves compulsive hair pulling.",
+  "causes": ["Stress", "Genetic predisposition"],
+  "remedies": ["Behavior therapy"]
+},
+
+"kleptomania": {
+  "description": "Kleptomania is impulse control disorder causing stealing.",
+  "causes": ["Impulse regulation issues"],
+  "remedies": ["Therapy"]
+},
+
+"pyromania": {
+  "description": "Pyromania involves compulsive fire setting.",
+  "causes": ["Impulse control disorder"],
+  "remedies": ["Psychotherapy"]
+},
+
+"oppositional_defiant_disorder": {
+  "description": "ODD involves defiant and hostile behavior in children.",
+  "causes": ["Genetic and environmental factors"],
+  "remedies": ["Behavior therapy"]
+},
+
+"conduct_disorder": {
+  "description": "Conduct disorder involves serious behavioral issues in youth.",
+  "causes": ["Environmental and genetic factors"],
+  "remedies": ["Therapy"]
+},
+
+"intermittent_explosive_disorder": {
+  "description": "Intermittent explosive disorder causes sudden anger outbursts.",
+  "causes": ["Impulse control issues"],
+  "remedies": ["Therapy", "Medication"]
+},
+
+"delirium": {
+  "description": "Delirium is sudden confusion due to illness or medication.",
+  "causes": ["Infection", "Drug effects"],
+  "remedies": ["Treat underlying cause"]
+},
+
+"mild_cognitive_impairment": {
+  "description": "Mild cognitive impairment is slight but noticeable decline in cognition.",
+  "causes": ["Aging", "Early dementia"],
+  "remedies": ["Cognitive exercises"]
+},
+
+"frontotemporal_dementia": {
+  "description": "Frontotemporal dementia affects personality and behavior.",
+  "causes": ["Neurodegeneration"],
+  "remedies": ["Supportive care"]
+},
+
+"vascular_dementia": {
+  "description": "Vascular dementia is cognitive decline from reduced brain blood flow.",
+  "causes": ["Stroke", "Vascular disease"],
+  "remedies": ["Manage risk factors"]
+},
+
+"lewy_body_dementia": {
+  "description": "Lewy body dementia involves abnormal brain protein deposits.",
+  "causes": ["Neurodegeneration"],
+  "remedies": ["Medication"]
+},
+
+"heat_exhaustion": {
+  "description": "Heat exhaustion is heat-related illness causing weakness.",
+  "causes": ["Prolonged heat exposure"],
+  "remedies": ["Cooling", "Hydration"]
+},
+
+"altitude_pulmonary_edema": {
+  "description": "Altitude pulmonary edema causes fluid in lungs at high altitude.",
+  "causes": ["High altitude exposure"],
+  "remedies": ["Descend altitude", "Oxygen therapy"]
+},
+
+"altitude_cerebral_edema": {
+  "description": "Altitude cerebral edema causes brain swelling at high altitude.",
+  "causes": ["Rapid ascent"],
+  "remedies": ["Immediate descent", "Medical care"]
+},
+
+"motion_induced_vertigo": {
+  "description": "Motion-induced vertigo causes dizziness during movement.",
+  "causes": ["Inner ear imbalance"],
+  "remedies": ["Medication", "Vestibular therapy"]
+},
+
+"benign_paroxysmal_positional_vertigo": {
+  "description": "BPPV causes brief episodes of dizziness.",
+  "causes": ["Inner ear crystals displacement"],
+  "remedies": ["Epley maneuver"]
+},
+
+"labral_tear": {
+  "description": "Labral tear is injury to shoulder or hip cartilage.",
+  "causes": ["Trauma", "Overuse"],
+  "remedies": ["Physical therapy", "Surgery"]
+},
+
+"shin_splints": {
+  "description": "Shin splints cause pain along shin bone.",
+  "causes": ["Overuse"],
+  "remedies": ["Rest", "Ice"]
+},
+
+"stress_fracture": {
+  "description": "Stress fracture is small crack in bone from overuse.",
+  "causes": ["Repetitive stress"],
+  "remedies": ["Rest"]
+},
+
+"compartment_syndrome": {
+  "description": "Compartment syndrome is increased pressure in muscle compartments.",
+  "causes": ["Trauma"],
+  "remedies": ["Emergency surgery"]
+},
+
+"rhabdomyolysis": {
+  "description": "Rhabdomyolysis is muscle breakdown releasing toxins into blood.",
+  "causes": ["Severe injury", "Overexertion"],
+  "remedies": ["IV fluids"]
+},
+
+"anaphylaxis": {
+  "description": "Anaphylaxis is severe allergic reaction.",
+  "causes": ["Food allergy", "Insect sting"],
+  "remedies": ["Epinephrine injection"]
+},
+
+"urticaria": {
+  "description": "Urticaria is hives causing itchy skin welts.",
+  "causes": ["Allergic reaction"],
+  "remedies": ["Antihistamines"]
+},
+
+"angioedema": {
+  "description": "Angioedema is swelling beneath skin surface.",
+  "causes": ["Allergic reaction"],
+  "remedies": ["Antihistamines", "Epinephrine"]
+}
+"neurofibromatosis": {
+  "description": "Neurofibromatosis is a genetic disorder causing tumors on nerve tissue.",
+  "causes": ["Inherited genetic mutation"],
+  "remedies": ["Monitoring", "Surgical removal if needed"]
+},
+"myocardial_infarction": {
+  "description": "Myocardial infarction, commonly called a heart attack, occurs when blood flow to the heart is blocked.",
+  "causes": ["Coronary artery blockage", "Blood clot"],
+  "remedies": ["Emergency medical care", "Medications", "Surgery"]
+},
+
+"hypertrophic_cardiomyopathy": {
+  "description": "Hypertrophic cardiomyopathy is thickening of the heart muscle.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Medications", "Surgical procedures"]
+},
+
+"dilated_cardiomyopathy": {
+  "description": "Dilated cardiomyopathy causes enlargement of the heart chambers.",
+  "causes": ["Genetics", "Alcohol abuse"],
+  "remedies": ["Medications", "Heart transplant in severe cases"]
+},
+
+"restrictive_cardiomyopathy": {
+  "description": "Restrictive cardiomyopathy reduces heart flexibility.",
+  "causes": ["Amyloidosis", "Scar tissue"],
+  "remedies": ["Medications", "Treat underlying cause"]
+},
+
+"thoracic_aneurysm": {
+  "description": "Thoracic aneurysm is abnormal bulging in chest aorta.",
+  "causes": ["High blood pressure", "Atherosclerosis"],
+  "remedies": ["Surgical repair"]
+},
+
+"abdominal_aortic_aneurysm": {
+  "description": "Abdominal aortic aneurysm is enlargement of lower aorta.",
+  "causes": ["Smoking", "High blood pressure"],
+  "remedies": ["Surgery"]
+},
+
+"mitral_valve_prolapse": {
+  "description": "Mitral valve prolapse occurs when valve bulges backward.",
+  "causes": ["Connective tissue disorder"],
+  "remedies": ["Monitoring", "Surgery if severe"]
+},
+
+"aortic_stenosis": {
+  "description": "Aortic stenosis is narrowing of aortic valve.",
+  "causes": ["Aging", "Congenital defect"],
+  "remedies": ["Valve replacement"]
+},
+
+"mitral_regurgitation": {
+  "description": "Mitral regurgitation is leakage of blood backward in heart.",
+  "causes": ["Valve damage"],
+  "remedies": ["Surgery"]
+},
+
+"rheumatoid_arthritis": {
+  "description": "Rheumatoid arthritis is autoimmune joint inflammation.",
+  "causes": ["Immune system attack"],
+  "remedies": ["Immunosuppressants", "Physical therapy"]
+},
+
+"juvenile_arthritis": {
+  "description": "Juvenile arthritis affects children’s joints.",
+  "causes": ["Autoimmune factors"],
+  "remedies": ["Medication", "Therapy"]
+},
+
+"ankle_sprain": {
+  "description": "Ankle sprain is ligament injury in ankle.",
+  "causes": ["Twisting injury"],
+  "remedies": ["Rest", "Ice", "Compression"]
+},
+
+"patellar_tendinitis": {
+  "description": "Patellar tendinitis causes knee pain.",
+  "causes": ["Overuse injury"],
+  "remedies": ["Rest", "Physiotherapy"]
+},
+
+"meniscus_tear": {
+  "description": "Meniscus tear is knee cartilage injury.",
+  "causes": ["Sudden twisting"],
+  "remedies": ["Rest", "Surgery if severe"]
+},
+
+"degenerative_disc_disease": {
+  "description": "Degenerative disc disease affects spinal discs.",
+  "causes": ["Aging"],
+  "remedies": ["Physical therapy", "Pain relief"]
+},
+
+"herniated_disc": {
+  "description": "Herniated disc occurs when spinal disc bulges.",
+  "causes": ["Spinal strain"],
+  "remedies": ["Physiotherapy", "Surgery if severe"]
+},
+
+"spinal_stenosis": {
+  "description": "Spinal stenosis is narrowing of spinal canal.",
+  "causes": ["Arthritis"],
+  "remedies": ["Medication", "Surgery"]
+},
+
+"osteogenesis_imperfecta": {
+  "description": "Osteogenesis imperfecta causes brittle bones.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Supportive care"]
+},
+
+"paget_disease_of_bone": {
+  "description": "Paget disease disrupts bone remodeling.",
+  "causes": ["Genetic factors"],
+  "remedies": ["Medication"]
+},
+
+"costochondritis": {
+  "description": "Costochondritis is inflammation of chest cartilage.",
+  "causes": ["Injury", "Infection"],
+  "remedies": ["Pain relievers"]
+},
+
+"thalassemia_minor": {
+  "description": "Thalassemia minor is mild inherited blood disorder.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Monitoring"]
+},
+
+"iron_deficiency_anemia": {
+  "description": "Iron deficiency anemia results from low iron levels.",
+  "causes": ["Poor diet", "Blood loss"],
+  "remedies": ["Iron supplements"]
+},
+
+"pernicious_anemia": {
+  "description": "Pernicious anemia is vitamin B12 deficiency anemia.",
+  "causes": ["Autoimmune disorder"],
+  "remedies": ["Vitamin B12 injections"]
+},
+
+"hemolytic_anemia": {
+  "description": "Hemolytic anemia is destruction of red blood cells.",
+  "causes": ["Autoimmune disease"],
+  "remedies": ["Medication"]
+},
+
+"thrombocytopenia": {
+  "description": "Thrombocytopenia is low platelet count.",
+  "causes": ["Bone marrow disorders"],
+  "remedies": ["Treat underlying cause"]
+},
+
+"hyperparathyroidism": {
+  "description": "Hyperparathyroidism causes excess parathyroid hormone.",
+  "causes": ["Parathyroid tumor"],
+  "remedies": ["Surgery"]
+},
+
+"hypoparathyroidism": {
+  "description": "Hypoparathyroidism is low parathyroid hormone.",
+  "causes": ["Surgical removal"],
+  "remedies": ["Calcium supplements"]
+},
+
+"diabetic_neuropathy": {
+  "description": "Diabetic neuropathy damages nerves due to diabetes.",
+  "causes": ["High blood sugar"],
+  "remedies": ["Blood sugar control"]
+},
+
+"diabetic_retinopathy": {
+  "description": "Diabetic retinopathy damages retinal blood vessels.",
