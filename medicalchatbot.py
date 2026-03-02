@@ -410,3 +410,21 @@ medical_db = {
 
 "diabetic_retinopathy": {
   "description": "Diabetic retinopathy damages retinal blood vessels.",
+  "causes": ["Uncontrolled diabetes"],
+  "remedies": ["Laser therapy"]
+},
+
+"diabetic_nephropathy": {
+  "description": "Diabetic nephropathy damages kidneys.",
+  "causes": ["Chronic high blood sugar"],
+  "remedies": ["Blood sugar control"]
+},
+
+"methemoglobinemia": {
+  "description": "Methemoglobinemia reduces oxygen delivery in blood.",
+  "causes": ["Genetic defect", "Drug exposure"],
+  "remedies": ["Methylene blue treatment"]
+},
+
+"gouty_arthritis": {
+  "description": "Gouty arthritis causes joint inflammation from uric acid.",
