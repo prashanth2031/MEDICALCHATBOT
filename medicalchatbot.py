@@ -428,3 +428,18 @@ medical_db = {
 
 "gouty_arthritis": {
   "description": "Gouty arthritis causes joint inflammation from uric acid.",
+  "causes": ["High uric acid"],
+  "remedies": ["Medication", "Diet control"]
+},
+
+"complex_regional_pain_syndrome": {
+  "description": "CRPS causes chronic pain after injury.",
+  "causes": ["Nerve dysfunction"],
+  "remedies": ["Physical therapy", "Medication"]
+},
+
+"narcolepsy_type_1": {
+  "description": "Narcolepsy type 1 includes sudden muscle weakness.",
+  "causes": ["Hypocretin deficiency"],
+  "remedies": ["Stimulants"]
+},
