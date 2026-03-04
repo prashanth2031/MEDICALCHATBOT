@@ -443,3 +443,27 @@ medical_db = {
   "causes": ["Hypocretin deficiency"],
   "remedies": ["Stimulants"]
 },
+"sleep_paralysis": {
+  "description": "Sleep paralysis is temporary inability to move during sleep.",
+  "causes": ["Sleep cycle disruption"],
+  "remedies": ["Improve sleep hygiene"]
+},
+
+"jet_lag": {
+  "description": "Jet lag is temporary sleep disturbance from travel.",
+  "causes": ["Time zone changes"],
+  "remedies": ["Gradual schedule adjustment"]
+},
+
+"seasonal_affective_disorder": {
+  "description": "SAD is depression related to seasonal changes.",
+  "causes": ["Reduced sunlight"],
+  "remedies": ["Light therapy"]
+},
+
+"claustrophobia": {
+  "description": "Claustrophobia is fear of confined spaces.",
+  "causes": ["Anxiety disorder"],
+  "remedies": ["Therapy"]
+},
+
