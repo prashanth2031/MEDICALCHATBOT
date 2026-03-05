@@ -466,4 +466,41 @@ medical_db = {
   "causes": ["Anxiety disorder"],
   "remedies": ["Therapy"]
 },
-
+    },
+    "agoraphobia": {
+        "description": "Agoraphobia is fear of open or crowded spaces.",
+        "causes": ["Anxiety disorder"],
+        "remedies": ["Cognitive behavioral therapy"]
+    },
+    "social_anxiety_disorder": {
+        "description": "Social anxiety disorder causes intense fear of social situations.",
+        "causes": ["Psychological factors"],
+        "remedies": ["Therapy", "Medication"]
+    },
+    "tuberous_sclerosis": {
+        "description": "Tuberous sclerosis is a genetic disorder causing benign tumors in organs.",
+        "causes": ["Genetic mutation"],
+        "remedies": ["Medication", "Surgery"]
+    },
+    "fragile_x_syndrome": {
+        "description": "Fragile X syndrome is a genetic condition causing intellectual disability.",
+        "causes": ["FMR1 gene mutation"],
+        "remedies": ["Supportive therapy"]
+    },
+    "down_syndrome": {
+        "description": "Down syndrome is a genetic disorder caused by extra chromosome 21.",
+        "causes": ["Chromosomal abnormality"],
+        "remedies": ["Supportive care", "Therapies"]
+    },
+    "turner_syndrome": {
+        "description": "Turner syndrome affects females due to missing X chromosome.",
+        "causes": ["Chromosomal abnormality"],
+        "remedies": ["Hormone therapy"]
+    },
+    "klinefelter_syndrome": {
+        "description": "Klinefelter syndrome affects males with extra X chromosome.",
+        "causes": ["Chromosomal abnormality"],
+        "remedies": ["Testosterone therapy"]
+    },
+    "marfan_syndrome": {
+        "description": "Marfan syndrome is a connective tissue disorder.",
