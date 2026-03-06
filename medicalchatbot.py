@@ -504,3 +504,26 @@ medical_db = {
     },
     "marfan_syndrome": {
         "description": "Marfan syndrome is a connective tissue disorder.",
+        "causes": ["Chromosomal abnormality"],
+        "remedies": ["Hormone therapy"]
+    },
+    "klinefelter_syndrome": {
+        "description": "Klinefelter syndrome affects males with extra X chromosome.",
+        "causes": ["Chromosomal abnormality"],
+        "remedies": ["Testosterone therapy"]
+    },
+    "marfan_syndrome": {
+        "description": "Marfan syndrome is a connective tissue disorder.",
+        "causes": ["Genetic mutation"],
+        "remedies": ["Monitoring", "Surgery if needed"]
+    },
+    "ehlers_danlos_syndrome": {
+        "description": "Ehlers-Danlos syndrome affects connective tissues causing hypermobility.",
+        "causes": ["Genetic mutation"],
+        "remedies": ["Physical therapy"]
+    },
+    "phenylketonuria": {
+        "description": "Phenylketonuria is a metabolic disorder affecting amino acid breakdown.",
+        "causes": ["Inherited enzyme deficiency"],
+        "remedies": ["Special diet"]
+    },
