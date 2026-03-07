@@ -527,3 +527,33 @@ medical_db = {
         "causes": ["Inherited enzyme deficiency"],
         "remedies": ["Special diet"]
     },
+    "galactosemia": {
+        "description": "Galactosemia is inability to process galactose sugar.",
+        "causes": ["Genetic enzyme deficiency"],
+        "remedies": ["Avoid dairy products"]
+    },
+    "tay_sachs_disease": {
+        "description": "Tay-Sachs is genetic disorder destroying nerve cells.",
+        "causes": ["Inherited mutation"],
+        "remedies": ["Supportive care"]
+    },
+    "gaucher_disease": {
+        "description": "Gaucher disease is inherited disorder affecting fat metabolism.",
+        "causes": ["Genetic mutation"],
+        "remedies": ["Enzyme replacement therapy"]
+    },
+    "pompe_disease": {
+        "description": "Pompe disease is genetic disorder affecting muscle function.",
+        "causes": ["Enzyme deficiency"],
+        "remedies": ["Enzyme replacement therapy"]
+    },
+    "cystic_fibrosis": {
+        "description": "Cystic fibrosis affects lungs and digestive system.",
+        "causes": ["Inherited gene mutation"],
+        "remedies": ["Respiratory therapy", "Medication"]
+    },
+    "primary_ciliary_dyskinesia": {
+        "description": "Primary ciliary dyskinesia affects respiratory tract clearance.",
+        "causes": ["Genetic mutation"],
+        "remedies": ["Airway clearance therapy"]
+    },
