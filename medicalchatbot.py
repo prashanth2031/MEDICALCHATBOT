@@ -557,3 +557,33 @@ medical_db = {
         "causes": ["Genetic mutation"],
         "remedies": ["Airway clearance therapy"]
     },
+    "alpha_1_antitrypsin_deficiency": {
+        "description": "Genetic disorder affecting lungs and liver.",
+        "causes": ["Inherited mutation"],
+        "remedies": ["Augmentation therapy"]
+    },
+    "goodpasture_syndrome": {
+        "description": "Autoimmune disorder affecting lungs and kidneys.",
+        "causes": ["Immune system attack"],
+        "remedies": ["Immunosuppressants"]
+    },
+    "sjogren_syndrome": {
+        "description": "Autoimmune disease causing dry eyes and mouth.",
+        "causes": ["Immune dysfunction"],
+        "remedies": ["Artificial tears", "Medication"]
+    },
+    "hashimoto_thyroiditis": {
+        "description": "Autoimmune disease causing hypothyroidism.",
+        "causes": ["Immune system attack on thyroid"],
+        "remedies": ["Thyroid hormone replacement"]
+    },
+    "graves_disease": {
+        "description": "Autoimmune disease causing hyperthyroidism.",
+        "causes": ["Immune system stimulation of thyroid"],
+        "remedies": ["Medication", "Radioactive iodine"]
+    },
+    "idiopathic_thrombocytopenic_purpura": {
+        "description": "ITP is immune disorder lowering platelet count.",
+        "causes": ["Autoimmune destruction of platelets"],
+        "remedies": ["Steroids", "Immunotherapy"]
+    },
