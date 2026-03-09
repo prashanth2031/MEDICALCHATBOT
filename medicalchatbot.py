@@ -587,3 +587,15 @@ medical_db = {
         "causes": ["Autoimmune destruction of platelets"],
         "remedies": ["Steroids", "Immunotherapy"]
     },
+    "aplastic_anemia": {
+        "description": "Aplastic anemia is bone marrow failure.",
+        "causes": ["Autoimmune factors", "Radiation"],
+        "remedies": ["Transfusions", "Bone marrow transplant"]
+    },
+    "polycythemia_vera": {
+        "description": "Polycythemia vera causes excess red blood cell production.",
+        "causes": ["Bone marrow disorder"],
+        "remedies": ["Phlebotomy", "Medication"]
+    },
+    "essential_thrombocythemia": {
+        "description": "Essential thrombocythemia increases platelet production.",
