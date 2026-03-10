@@ -599,3 +599,36 @@ medical_db = {
     },
     "essential_thrombocythemia": {
         "description": "Essential thrombocythemia increases platelet production.",
+        "causes": ["Bone marrow mutation"],
+        "remedies": ["Medication"]
+    },
+    "myelofibrosis": {
+        "description": "Myelofibrosis is bone marrow scarring disorder.",
+        "causes": ["Genetic mutation"],
+        "remedies": ["Medication", "Transplant"]
+    },
+    "amyloidosis": {
+        "description": "Amyloidosis is buildup of abnormal protein in organs.",
+        "causes": ["Protein misfolding"],
+        "remedies": ["Chemotherapy", "Supportive care"]
+    },
+    "churg_strauss_syndrome": {
+        "description": "Autoimmune disorder causing blood vessel inflammation.",
+        "causes": ["Immune dysfunction"],
+        "remedies": ["Steroids"]
+    },
+    "wegener_granulomatosis": {
+        "description": "Autoimmune vasculitis affecting respiratory tract.",
+        "causes": ["Immune system attack"],
+        "remedies": ["Immunosuppressants"]
+    },
+    "takayasu_arteritis": {
+        "description": "Inflammation of large arteries.",
+        "causes": ["Autoimmune disorder"],
+        "remedies": ["Steroids"]
+    },
+    "bechets_disease": {
+        "description": "Behcet disease causes blood vessel inflammation.",
+        "causes": ["Immune system dysfunction"],
+        "remedies": ["Immunosuppressants"]
+    },
