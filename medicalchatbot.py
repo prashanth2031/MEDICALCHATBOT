@@ -13,6 +13,41 @@ medical_db = {
   "causes": ["Genetic factors", "Childhood trauma"],
   "remedies": ["Psychotherapy", "Medication"]
 },
+"zoster_sine_herpete": {
+  "description": "Zoster sine herpete is a form of shingles where nerve pain occurs without the typical skin rash.",
+  "symptoms": [
+    "Burning or stabbing nerve pain",
+    "Tingling or numbness",
+    "Sensitivity to touch",
+    "Headache",
+    "Fatigue"
+  ],
+  "causes": [
+    "Reactivation of the varicella-zoster virus",
+    "Weak immune system",
+    "Previous chickenpox infection"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Immunocompromised conditions",
+    "Stress or illness"
+  ],
+  "diagnosis": [
+    "Clinical evaluation of nerve pain",
+    "PCR test for varicella-zoster virus",
+    "Blood antibody tests"
+  ],
+  "remedies": [
+    "Antiviral medications",
+    "Pain management medications",
+    "Rest and supportive care"
+  ],
+  "prevention": [
+    "Shingles vaccination",
+    "Maintaining strong immune health",
+    "Early treatment of symptoms"
+  ]
+},
 
 "narcissistic_personality_disorder": {
   "description": "Narcissistic personality disorder involves inflated self-importance.",
