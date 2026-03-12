@@ -839,4 +839,45 @@ medical_db = {
     "Vaccination (the risk from the flu itself is higher than the vaccine risk)"
   ]
 }
+"multiple_sclerosis": {
+  "description": "Multiple Sclerosis (MS) is a chronic disease where the immune system attacks the protective myelin sheath in the Central Nervous System (CNS), causing communication problems between the brain and the rest of the body.",
+  "symptoms": [
+    "Optic neuritis (blurred vision or pain in one eye)",
+    "Lhermitte’s sign (electric shock sensation when bending the neck)",
+    "Numbness or weakness in one or more limbs",
+    "Fatigue and dizziness",
+    "Slurred speech",
+    "Tremors or lack of coordination"
+  ],
+  "causes": [
+    "Autoimmune response targeting the CNS myelin",
+    "Genetic predisposition",
+    "Environmental triggers (e.g., Low Vitamin D, smoking)",
+    "Viral triggers (notably Epstein-Barr virus)"
+  ],
+  "risk_factors": [
+    "Age (most common between 20 and 40)",
+    "Gender (2-3 times more common in women)",
+    "Climate (more prevalent in temperate/colder regions)",
+    "Family history"
+  ],
+  "diagnosis": [
+    "MRI scans (to detect 'plaques' or lesions in the brain/spine)",
+    "Lumbar puncture (to check for oligoclonal bands in spinal fluid)",
+    "Evoked potential tests (measuring speed of nerve signals)",
+    "Blood tests to rule out other conditions"
+  ],
+  "remedies": [
+    "Disease-Modifying Therapies (DMTs) to slow progression",
+    "Corticosteroids (for acute relapses)",
+    "Physical therapy and muscle relaxants",
+    "Plasma exchange (in severe, non-responsive cases)"
+  ],
+  "prevention": [
+    "No known prevention",
+    "Early diagnosis and treatment (to prevent permanent disability)",
+    "Maintaining adequate Vitamin D levels",
+    "Smoking cessation"
+  ]
+}
 
