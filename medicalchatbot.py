@@ -667,3 +667,41 @@ medical_db = {
         "causes": ["Immune system dysfunction"],
         "remedies": ["Immunosuppressants"]
     },
+"trigeminal_neuralgia": {
+  "description": "Trigeminal neuralgia is a chronic pain condition affecting the trigeminal nerve, which carries sensation from your face to your brain.",
+  "symptoms": [
+    "Sudden, intense episodes of facial pain",
+    "Pain triggered by touch, eating, or speaking",
+    "Spontaneous electric shock-like sensations",
+    "Pain localized to the jaw, teeth, or cheek",
+    "Brief attacks lasting seconds to minutes"
+  ],
+  "causes": [
+    "Nerve compression by a blood vessel",
+    "Multiple sclerosis (demyelination)",
+    "Tumor pressing on the nerve",
+    "Physical trauma or surgical injury"
+  ],
+  "risk_factors": [
+    "Age (more common in people over 50)",
+    "Gender (higher prevalence in women)",
+    "High blood pressure",
+    "Family history of nerve disorders"
+  ],
+  "diagnosis": [
+    "Neurological examination",
+    "MRI (specifically MRA or MRTA to see blood vessels)",
+    "Clinical history of pain triggers"
+  ],
+  "remedies": [
+    "Anticonvulsant medications (e.g., carbamazepine)",
+    "Muscle relaxants",
+    "Microvascular decompression (surgery)",
+    "Gamma Knife radiosurgery"
+  ],
+  "prevention": [
+    "Managing underlying conditions like MS",
+    "Regular monitoring of vascular health",
+    "Avoiding known triggers during flare-ups"
+  ]
+}
