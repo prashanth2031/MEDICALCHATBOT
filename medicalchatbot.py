@@ -760,4 +760,45 @@ medical_db = {
   "risk_factors": [
     "Gender (more common in men)",
     "Age (typically starts in the 20s or 30
+"complex_regional_pain_syndrome": {
+  "description": "CRPS is a form of chronic pain that usually affects an arm or a leg, typically developing after an injury, surgery, stroke, or heart attack.",
+  "symptoms": [
+    "Continuous burning or 'pins and needles' pain",
+    "Allodynia (pain from even a light touch or breeze)",
+    "Changes in skin temperature, color, or texture",
+    "Swelling in the affected limb",
+    "Changes in hair and nail growth patterns",
+    "Joint stiffness and muscle atrophy"
+  ],
+  "causes": [
+    "Abnormal inflammation or nerve 'glitching' after trauma",
+    "Type 1: Occurs after an injury without direct nerve damage",
+    "Type 2: Occurs after a distinct, documented nerve injury",
+    "Maladaptive neuroplasticity (the brain 'learning' to stay in pain)"
+  ],
+  "risk_factors": [
+    "Female gender (statistically higher prevalence)",
+    "Recent limb trauma or surgery",
+    "Periods of prolonged immobilization (e.g., in a cast)",
+    "Genetic predisposition to inflammatory responses"
+  ],
+  "diagnosis": [
+    "Clinical diagnosis using the 'Budapest Criteria'",
+    "Triple-phase bone scan (to see changes in blood flow/bone)",
+    "Infrared thermography to map temperature asymmetry",
+    "MRI to rule out underlying tissue damage"
+  ],
+  "remedies": [
+    "Physical therapy (specifically Graded Motor Imagery)",
+    "Mirror box therapy to 'retrain' the brain",
+    "Medications (Bisphosphonates, gabapentin, or ketamine)",
+    "Sympathetic nerve blocks",
+    "Spinal Cord Stimulation (SCS) or DRG stimulation"
+  ],
+  "prevention": [
+    "Early mobilization after limb surgery or injury",
+    "High-dose Vitamin C after certain fractures (e.g., wrist)",
+    "Immediate physical therapy for early-stage nerve pain"
+  ]
+}
 
