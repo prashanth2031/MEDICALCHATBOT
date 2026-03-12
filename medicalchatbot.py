@@ -801,4 +801,42 @@ medical_db = {
     "Immediate physical therapy for early-stage nerve pain"
   ]
 }
+"guillain_barre_syndrome": {
+  "description": "Guillain-Barré Syndrome (GBS) is a rare autoimmune disorder where the body's immune system attacks part of the peripheral nervous system, specifically the myelin sheath.",
+  "symptoms": [
+    "Prickling 'pins and needles' sensations in fingers and toes",
+    "Ascending weakness (starts in legs and spreads to upper body)",
+    "Unsteady walking or inability to climb stairs",
+    "Difficulty with facial movements (speaking, chewing, swallowing)",
+    "Severe pain that may feel achy or cramp-like",
+    "Rapid heart rate and blood pressure fluctuations"
+  ],
+  "causes": [
+    "Molecular mimicry following an infection",
+    "Campylobacter jejuni (common food poisoning bacteria)",
+    "Viral infections (Flu, Zika, Cytomegalovirus, COVID-19)",
+    "Recent surgery or trauma (rarely)"
+  ],
+  "risk_factors": [
+    "Age (more common in older adults, though anyone can get it)",
+    "Gender (slightly more common in men)",
+    "Recent gastrointestinal or respiratory infection"
+  ],
+  "diagnosis": [
+    "Spinal tap (Lumbar puncture) to look for elevated protein",
+    "Electromyography (EMG) to measure nerve activity",
+    "Nerve conduction studies (NCS) to check signal speed"
+  ],
+  "remedies": [
+    "Plasmapheresis (Plasma exchange to 'wash' out antibodies)",
+    "Intravenous immunoglobulin (IVIG) therapy",
+    "Physical and occupational therapy for rehabilitation",
+    "Mechanical ventilation (if breathing muscles are affected)"
+  ],
+  "prevention": [
+    "Safe food handling (to prevent Campylobacter)",
+    "Prompt medical attention for rapidly spreading weakness",
+    "Vaccination (the risk from the flu itself is higher than the vaccine risk)"
+  ]
+}
 
