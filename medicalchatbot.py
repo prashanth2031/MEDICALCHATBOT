@@ -705,3 +705,41 @@ medical_db = {
     "Avoiding known triggers during flare-ups"
   ]
 }
+"bells_palsy": {
+  "description": "Bell's palsy is a sudden, temporary weakness or paralysis of the facial muscles, typically affecting only one side of the face.",
+  "symptoms": [
+    "Rapid onset of mild weakness to total paralysis",
+    "Facial droop and difficulty making expressions",
+    "Drooling",
+    "Pain around the jaw or behind the ear",
+    "Increased sensitivity to sound (hyperacusis)",
+    "Loss of taste on the front of the tongue"
+  ],
+  "causes": [
+    "Inflammation of the 7th cranial (facial) nerve",
+    "Viral infections (Herpes simplex, Epstein-Barr)",
+    "Immune system response"
+  ],
+  "risk_factors": [
+    "Pregnancy (especially third trimester)",
+    "Diabetes",
+    "Upper respiratory infections (flu/cold)",
+    "Family history"
+  ],
+  "diagnosis": [
+    "Physical exam (observing facial movement)",
+    "Electromyography (EMG) to test nerve damage",
+    "MRI or CT to rule out stroke or tumor"
+  ],
+  "remedies": [
+    "Corticosteroids (to reduce nerve swelling)",
+    "Antiviral medications",
+    "Physical therapy (facial exercises)",
+    "Eye protection (drops/patches if eye won't close)"
+  ],
+  "prevention": [
+    "Early treatment of viral infections",
+    "Stress management",
+    "General immune health"
+  ]
+}
