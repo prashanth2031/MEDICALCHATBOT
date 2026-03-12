@@ -743,3 +743,21 @@ medical_db = {
     "General immune health"
   ]
 }
+"cluster_headache": {
+  "description": "Cluster headaches are a series of relatively short but extremely painful headaches that occur in cyclical patterns or 'clusters.'",
+  "symptoms": [
+    "Excruciating pain centered around one eye or temple",
+    "Redness or watering of the eye on the affected side",
+    "Drooping eyelid or constricted pupil (Horner's syndrome)",
+    "Nasal congestion or runny nose (one side)",
+    "Restlessness or inability to lie still during an attack"
+  ],
+  "causes": [
+    "Hypothalamus dysfunction (the body's 'biological clock')",
+    "Dilation of the carotid artery/cavernous sinus",
+    "Trigeminal nerve activation"
+  ],
+  "risk_factors": [
+    "Gender (more common in men)",
+    "Age (typically starts in the 20s or 30
+
