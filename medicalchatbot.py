@@ -954,5 +954,5 @@ medical_db = {
     "No known prevention",
     "Early intervention for respiratory support",
     "Genetic counseling for families with history"
-
-
+]
+}
