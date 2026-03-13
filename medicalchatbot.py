@@ -880,4 +880,42 @@ medical_db = {
     "Smoking cessation"
   ]
 }
+"myasthenia_gravis": {
+  "description": "Myasthenia gravis is a chronic autoimmune neuromuscular disorder characterized by fluctuating weakness of the voluntary muscle groups.",
+  "symptoms": [
+    "Ptosis (drooping of one or both eyelids)",
+    "Diplopia (blurred or double vision)",
+    "Change in facial expression (a 'snarling' smile)",
+    "Dysphagia (difficulty swallowing or chewing)",
+    "Shortness of breath",
+    "Muscle weakness that worsens with activity and improves with rest"
+  ],
+  "causes": [
+    "Antibodies blocking or destroying nicotinic acetylcholine receptors",
+    "Thymus gland abnormalities (tumors or hyperplasia)",
+    "Genetic factors (rarely)"
+  ],
+  "risk_factors": [
+    "Gender (more common in women under 40 and men over 60)",
+    "History of other autoimmune diseases",
+    "Thymic tumors"
+  ],
+  "diagnosis": [
+    "Ice pack test (cold improves eyelid drooping)",
+    "Edrophonium (Tensilon) test",
+    "Blood test for Acetylcholine Receptor (AChR) antibodies",
+    "Repetitive nerve stimulation (EMG)"
+  ],
+  "remedies": [
+    "Cholinesterase inhibitors (e.g., pyridostigmine)",
+    "Corticosteroids and immunosuppressants",
+    "Thymectomy (surgical removal of the thymus gland)",
+    "Plasmapheresis or IVIG for 'crises'"
+  ],
+  "prevention": [
+    "Avoiding triggers (stress, extreme heat, certain medications)",
+    "Managing respiratory infections promptly",
+    "Regular monitoring of thymus health"
+  ]
+}
 
