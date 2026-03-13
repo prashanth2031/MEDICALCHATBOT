@@ -1034,3 +1034,39 @@ medical_db = {
     "Early lifestyle interventions for cognitive health"
   ]
 }
+"narcolepsy": {
+  "description": "Narcolepsy is a chronic neurological disorder that affects the brain's ability to control sleep-wake cycles, characterized by excessive daytime sleepiness and sudden bouts of sleep.",
+  "symptoms": [
+    "Excessive Daytime Sleepiness (EDS)",
+    "Cataplexy (sudden loss of muscle tone triggered by emotion)",
+    "Sleep paralysis (temporary inability to move or speak while falling asleep or waking)",
+    "Hypnagogic hallucinations (vivid, often scary dreams while awake)",
+    "Fragmented nighttime sleep"
+  ],
+  "causes": [
+    "Loss of orexin (hypocretin)-producing neurons in the hypothalamus",
+    "Autoimmune attack on orexin neurons (often triggered by infection)",
+    "Genetic predisposition (HLA-DQB1*06:02 gene)"
+  ],
+  "risk_factors": [
+    "Age (typically starts between 10 and 30 years old)",
+    "Family history",
+    "Recent history of certain infections (e.g., H1N1 flu)"
+  ],
+  "diagnosis": [
+    "Polysomnography (overnight sleep study)",
+    "Multiple Sleep Latency Test (MSLT - measuring how fast one falls asleep)",
+    "Cerebrospinal fluid analysis (checking for low orexin levels)"
+  ],
+  "remedies": [
+    "Stimulants (e.g., Modafinil)",
+    "Sodium Oxybate (to improve nighttime sleep and reduce cataplexy)",
+    "Orexin receptor agonists (new for 2026)",
+    "Scheduled short naps and strict sleep hygiene"
+  ],
+  "prevention": [
+    "No known prevention",
+    "Early detection to prevent accidents (driving, machinery)",
+    "Managing triggers for cataplexy (intense emotions)"
+  ]
+}
