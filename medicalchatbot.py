@@ -1070,3 +1070,45 @@ medical_db = {
     "Managing triggers for cataplexy (intense emotions)"
   ]
 }
+"epilepsy": {
+  "description": "Epilepsy is a central nervous system (neurological) disorder in which brain activity becomes abnormal, causing seizures or periods of unusual behavior, sensations, and sometimes loss of awareness.",
+  "symptoms": [
+    "Temporary confusion",
+    "A staring spell (absence seizure)",
+    "Uncontrollable jerking movements of the arms and legs",
+    "Loss of consciousness or awareness",
+    "Psychic symptoms such as fear, anxiety, or deja vu (aura)"
+  ],
+  "causes": [
+    "Genetic influence",
+    "Head trauma (TBI)",
+    "Brain abnormalities (tumors, vascular malformations)",
+    "Infectious diseases (meningitis, AIDS, viral encephalitis)",
+    "Prenatal injury or developmental disorders"
+  ],
+  "risk_factors": [
+    "Age (most common in children and older adults)",
+    "Family history",
+    "Stroke and other vascular diseases",
+    "Dementia",
+    "History of childhood febrile seizures"
+  ],
+  "diagnosis": [
+    "Electroencephalogram (EEG) to record brain wave patterns",
+    "High-resolution MRI or CT to look for structural lesions",
+    "Functional MRI (fMRI) or PET scans",
+    "Neurological exam to test behavior and motor abilities"
+  ],
+  "remedies": [
+    "Anti-epileptic drugs (AEDs)",
+    "Vagus Nerve Stimulation (VNS)",
+    "Ketogenic diet (primarily for treatment-resistant children)",
+    "Responsive Neurostimulation (RNS) or surgery"
+  ],
+  "prevention": [
+    "Preventing head injuries (helmets/seatbelts)",
+    "Proper prenatal care to reduce birth-related trauma",
+    "Managing high blood pressure and infections",
+    "Avoiding seizure triggers like sleep deprivation or alcohol"
+  ]
+}
