@@ -956,3 +956,45 @@ medical_db = {
     "Genetic counseling for families with history"
 ]
 }
+"parkinsons_disease": {
+  "description": "Parkinson's disease is a progressive disorder of the central nervous system that affects movement, often including tremors, caused by the loss of dopamine-producing neurons.",
+  "symptoms": [
+    "Tremor at rest (often 'pill-rolling' of the hand)",
+    "Bradykinesia (extreme slowness of movement)",
+    "Muscle rigidity or stiffness",
+    "Postural instability (impaired balance and coordination)",
+    "Micrographia (handwriting becoming very small)",
+    "Masked face (reduced facial expression)"
+  ],
+  "causes": [
+    "Death of neurons in the substantia nigra",
+    "Accumulation of Lewy bodies (alpha-synuclein protein clumps)",
+    "Genetic mutations (e.g., LRRK2, PINK1)",
+    "Environmental triggers (pesticides, heavy metals)"
+  ],
+  "risk_factors": [
+    "Age (typically begins around age 60 or older)",
+    "Heredity",
+    "Gender (men are more likely to develop it)",
+    "Exposure to toxins"
+  ],
+  "diagnosis": [
+    "Clinical neurological exam (assessment of 'TRAP' symptoms)",
+    "DaTscan (imaging to visualize dopamine transporters)",
+    "Levodopa challenge (seeing if symptoms improve with medication)",
+    "MRI (to rule out other brain disorders)"
+  ],
+  "remedies": [
+    "Levodopa/Carbidopa (the 'gold standard' for dopamine replacement)",
+    "Dopamine agonists",
+    "MAO-B inhibitors",
+    "Deep Brain Stimulation (DBS) surgery",
+    "Physical and speech therapy"
+  ],
+  "prevention": [
+    "Regular aerobic exercise",
+    "Dietary antioxidants",
+    "Avoiding known neurotoxins",
+    "Caffeine consumption (statistically associated with lower risk)"
+  ]
+}
