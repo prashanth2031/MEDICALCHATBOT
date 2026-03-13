@@ -918,4 +918,41 @@ medical_db = {
     "Regular monitoring of thymus health"
   ]
 }
+"amyotrophic_lateral_sclerosis": {
+  "description": "ALS is a progressive neurodegenerative disease that affects nerve cells in the brain and spinal cord, specifically those that control voluntary muscle movement.",
+  "symptoms": [
+    "Fasciculations (muscle twitching) in the arm, leg, shoulder, or tongue",
+    "Muscle cramps and tight/stiff muscles (spasticity)",
+    "Muscle weakness affecting an arm, a leg, neck, or diaphragm",
+    "Slurred and nasal speech (dysarthria)",
+    "Difficulty chewing or swallowing (dysphagia)"
+  ],
+  "causes": [
+    "Degeneration and death of upper and lower motor neurons",
+    "Genetic mutations (e.g., SOD1, C9orf72) in 5-10% of cases",
+    "Protein mishandling and oxidative stress within nerve cells"
+  ],
+  "risk_factors": [
+    "Age (most common between 40 and 70)",
+    "Gender (slightly more common in men)",
+    "Genetics (family history)",
+    "Environmental factors (e.g., military service is a statistical risk factor)"
+  ],
+  "diagnosis": [
+    "Electromyography (EMG) to detect electrical activity in muscles",
+    "Nerve Conduction Study (NCS)",
+    "MRI (to rule out spinal cord tumors or herniated disks)",
+    "Blood and urine tests to rule out heavy metal poisoning"
+  ],
+  "remedies": [
+    "Riluzole (blocks glutamate to slow progression)",
+    "Edaravone (antioxidant to slow decline in daily functioning)",
+    "Tofersen (specifically for SOD1 genetic variants)",
+    "Noninvasive ventilation (BiPAP) and feeding tubes"
+  ],
+  "prevention": [
+    "No known prevention",
+    "Early intervention for respiratory support",
+    "Genetic counseling for families with history"
+
 
