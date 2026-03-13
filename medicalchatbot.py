@@ -998,3 +998,39 @@ medical_db = {
     "Caffeine consumption (statistically associated with lower risk)"
   ]
 }
+"huntingtons_disease": {
+  "description": "Huntington's disease is a rare, inherited disease that causes the progressive breakdown (degeneration) of nerve cells in the brain, primarily affecting movement, cognition, and psychiatric health.",
+  "symptoms": [
+    "Chorea (involuntary, jerky 'dancing' movements)",
+    "Dystonia (muscle rigidity or contractures)",
+    "Impaired gait, posture, and balance",
+    "Difficulty with speech or swallowing",
+    "Cognitive decline (difficulty organizing or focusing)",
+    "Psychiatric symptoms (depression, irritability, or OCD)"
+  ],
+  "causes": [
+    "Genetic mutation in the HTT gene",
+    "Excessive 'CAG' repeats in the DNA sequence",
+    "Degeneration of the striatum (part of the basal ganglia)"
+  ],
+  "risk_factors": [
+    "Heredity (Autosomal dominant: 50% chance of passing it to children)",
+    "Family history"
+  ],
+  "diagnosis": [
+    "Genetic testing (counting CAG repeats)",
+    "MRI or CT (to see shrinkage/atrophy in the brain's striatum)",
+    "Neurological and psychiatric evaluations"
+  ],
+  "remedies": [
+    "Tetrabenazine or Deutetrabenazine (to reduce chorea)",
+    "Antipsychotic medications",
+    "Psychotherapy and speech therapy",
+    "Occupational therapy"
+  ],
+  "prevention": [
+    "No biological prevention",
+    "Genetic counseling and pre-implantation genetic diagnosis (PGD)",
+    "Early lifestyle interventions for cognitive health"
+  ]
+}
