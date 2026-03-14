@@ -1223,4 +1223,44 @@ medical_db = {
     "Avoiding known sensory triggers (loud noises or physical startles)"
   ]
 }
+"small_fiber_neuropathy": {
+  "description": "Small fiber neuropathy is a condition where the small, unmyelinated or thinly myelinated nerve fibers are damaged, leading to sensory and autonomic symptoms.",
+  "symptoms": [
+    "Intense burning or 'searing' pain in the hands and feet",
+    "Pins and needles (paresthesia)",
+    "Electric shock-like bursts",
+    "Autonomic issues (dizziness when standing, abnormal sweating)",
+    "Hypersensitivity (allodynia)—even socks or bedsheets can hurt"
+  ],
+  "causes": [
+    "Diabetes or pre-diabetes (the most common cause)",
+    "Vitamin B12 deficiency",
+    "Autoimmune conditions (e.g., Sjögren’s syndrome, Celiac disease)",
+    "Genetic mutations (SCN9A or SCN10A sodium channel genes)"
+  ],
+  "risk_factors": [
+    "Metabolic syndrome",
+    "Chronic alcohol consumption",
+    "Chemotherapy history",
+    "Older age"
+  ],
+  "diagnosis": [
+    "Skin punch biopsy (measuring Intraepidermal Nerve Fiber Density)",
+    "QSART (test to measure sweat response)",
+    "Skin wrinkling test",
+    "Genetic testing for sodium channel mutations"
+  ],
+  "remedies": [
+    "Neuropathic pain meds (Gabapentin, Duloxetine)",
+    "Topical treatments (Capsaicin or Lidocaine patches)",
+    "Managing the underlying cause (e.g., blood sugar control)",
+    "IVIG (if an autoimmune cause is found)"
+  ],
+  "prevention": [
+    "Tight blood sugar management",
+    "Maintaining healthy Vitamin B12 and B6 levels",
+    "Avoiding neurotoxins like excessive alcohol",
+    "Early screening for metabolic disorders"
+  ]
+}
 
