@@ -1187,4 +1187,40 @@ medical_db = {
     "Genetic counseling"
   ]
 }
+"stiff_person_syndrome": {
+  "description": "Stiff Person Syndrome (SPS) is a rare autoimmune neurological disorder characterized by persistent muscle stiffness and painful episodes of violent muscle spasms.",
+  "symptoms": [
+    "Progressive stiffness in the trunk and limbs",
+    "Hunched-over or 'board-like' posture",
+    "Painful muscle spasms triggered by sudden noise, touch, or emotional stress",
+    "Fear of open spaces (due to fear of triggers causing a fall)",
+    "Difficulty walking or moving freely"
+  ],
+  "causes": [
+    "Autoimmune attack on the GAD (glutamic acid decarboxylase) enzyme",
+    "Severe deficiency of GABA (the brain's primary inhibitory 'calm down' neurotransmitter)",
+    "Paraneoplastic syndrome (rarely associated with certain cancers)"
+  ],
+  "risk_factors": [
+    "Gender (more common in women)",
+    "Middle age (typically appearing between 30 and 60)",
+    "Co-existing autoimmune conditions (Type 1 diabetes, thyroiditis, vitiligo)"
+  ],
+  "diagnosis": [
+    "Blood test for GAD antibodies (present in ~60-80% of cases)",
+    "Electromyography (EMG) showing continuous motor unit activity",
+    "Lumbar puncture to check for GAD antibodies in spinal fluid"
+  ],
+  "remedies": [
+    "High-dose Benzodiazepines (to boost GABA activity)",
+    "IVIG (Intravenous Immunoglobulin) to dampen the immune attack",
+    "Muscle relaxants (e.g., Baclofen)",
+    "Plasmapheresis (plasma exchange)"
+  ],
+  "prevention": [
+    "No known prevention",
+    "Managing autoimmune health",
+    "Avoiding known sensory triggers (loud noises or physical startles)"
+  ]
+}
 
