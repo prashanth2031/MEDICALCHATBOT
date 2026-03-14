@@ -1112,3 +1112,40 @@ medical_db = {
     "Avoiding seizure triggers like sleep deprivation or alcohol"
   ]
 }
+"tourette_syndrome": {
+  "description": "Tourette Syndrome (TS) is a neurological disorder characterized by repetitive, involuntary movements and vocalizations called tics.",
+  "symptoms": [
+    "Simple motor tics (eye blinking, facial grimacing, shoulder shrugging)",
+    "Complex motor tics (hopping, twisting, or repeating observed movements)",
+    "Simple vocal tics (throat clearing, sniffing, grunting)",
+    "Complex vocal tics (repeating words/phrases, or coprolalia—rare involuntary swearing)",
+    "Premonitory urge (an uncomfortable 'itch' or tension before the tic)"
+  ],
+  "causes": [
+    "Dysfunction in the basal ganglia, frontal lobes, and cortex",
+    "Imbalance in neurotransmitters (dopamine and serotonin)",
+    "Genetic mutations and inheritance patterns"
+  ],
+  "risk_factors": [
+    "Gender (3-4 times more common in males)",
+    "Family history of tics or other neurological disorders",
+    "Prenatal or perinatal complications"
+  ],
+  "diagnosis": [
+    "Clinical evaluation (must have both motor and vocal tics for >1 year)",
+    "Observation of tic patterns",
+    "Ruling out other conditions (e.g., seizures or Huntington’s)"
+  ],
+  "remedies": [
+    "Comprehensive Behavioral Intervention for Tics (CBIT)",
+    "Dopamine-blocking medications",
+    "Alpha-adrenergic agonists (e.g., guanfacine)",
+    "Deep Brain Stimulation (DBS) for severe, refractory cases"
+  ],
+  "prevention": [
+    "No known prevention",
+    "Stress management (as stress significantly increases tic frequency)",
+    "Early behavioral therapy to manage urges"
+  ]
+}
+
