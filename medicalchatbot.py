@@ -1263,4 +1263,42 @@ medical_db = {
     "Early screening for metabolic disorders"
   ]
 }
+"essential_tremor": {
+  "description": "Essential tremor is a neurological disorder that causes involuntary and rhythmic shaking, primarily affecting the hands during voluntary movement.",
+  "symptoms": [
+    "Tremor that occurs during action (writing, eating, reaching)",
+    "Shaking that worsens with stress, caffeine, or temperature extremes",
+    "Nodding or 'shaking' of the head (yes-yes or no-no motion)",
+    "Quivering voice",
+    "Difficulty with fine motor tasks (threading a needle)"
+  ],
+  "causes": [
+    "Abnormal electrical communication in the cerebello-thalamo-cortical circuit",
+    "Genetic mutations (found in roughly 50% of cases)",
+    "Degeneration of Purkinje cells in the cerebellum (debated)"
+  ],
+  "risk_factors": [
+    "Age (more common in those over 40)",
+    "Genetics (Autosomal dominant inheritance)",
+    "Environmental toxins (under investigation)"
+  ],
+  "diagnosis": [
+    "Clinical observation (Action tremor vs. Rest tremor)",
+    "Archimedes Spiral test (drawing a spiral to see the tremor pattern)",
+    "DaTscan (to rule out Parkinson’s Disease)",
+    "Blood tests to rule out thyroid disease or caffeine toxicity"
+  ],
+  "remedies": [
+    "Beta-blockers (e.g., Propranolol)",
+    "Anti-seizure medications (e.g., Primidone)",
+    "Focused Ultrasound (HIFU) to 'burn' the tiny glitchy area",
+    "Deep Brain Stimulation (DBS)",
+    "Adaptive tools (weighted utensils)"
+  ],
+  "prevention": [
+    "No known prevention",
+    "Limiting caffeine and stimulants",
+    "Stress management techniques"
+  ]
+}
 
