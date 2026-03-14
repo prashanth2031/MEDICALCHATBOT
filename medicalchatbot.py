@@ -1148,4 +1148,39 @@ medical_db = {
     "Early behavioral therapy to manage urges"
   ]
 }
+"dystonia": {
+  "description": "Dystonia is a movement disorder in which your muscles contract involuntarily, causing repetitive or twisting movements or abnormal postures.",
+  "symptoms": [
+    "Involuntary muscle contractions that cause twisting",
+    "A dragging leg or cramping in the foot",
+    "Involuntary neck tilting (cervical dystonia)",
+    "Uncontrollable blinking (blepharospasm)",
+    "Speech difficulties or 'tightness' in the voice"
+  ],
+  "causes": [
+    "Basal ganglia dysfunction (the brain's movement processor)",
+    "Genetic mutations (e.g., DYT1 gene)",
+    "Secondary to trauma, stroke, or oxygen deprivation",
+    "Side effect of certain medications (tardive dystonia)"
+  ],
+  "risk_factors": [
+    "Family history",
+    "Repetitive tasks (e.g., 'Musician's Dystonia' or 'Writer's Cramp')",
+    "Exposure to neuroleptic/antipsychotic drugs",
+    "Wilson's disease (copper buildup)"
+  ],
+  "diagnosis": [
+    "Clinical observation of postures and movements",
+    "EMG (to see which muscles are firing together)",
+    "Genetic testing",
+    "MRI to rule out structural brain damage"
+  ],
+  "remedies": [
+    "Botulinum toxin (Botox) injections to 'silence' specific muscles",
+    "Anticholinergic medications",
+    "Physical and occupational therapy",
+    "Deep Brain Stimulation (DBS)"
+  ],
+  "prevention": [
+    "Early detection of medication side effects",
 
