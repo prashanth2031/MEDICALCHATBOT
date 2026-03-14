@@ -1183,4 +1183,8 @@ medical_db = {
   ],
   "prevention": [
     "Early detection of medication side effects",
+"Ergonomic adjustments for task-specific triggers",
+    "Genetic counseling"
+  ]
+}
 
