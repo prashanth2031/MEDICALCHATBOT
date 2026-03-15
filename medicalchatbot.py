@@ -1301,4 +1301,44 @@ medical_db = {
     "Stress management techniques"
   ]
 }
+"functional_neurological_disorder": {
+  "description": "FND is a condition where patients experience neurological symptoms such as limb weakness, tremors, or seizures, despite having no structural or organic damage to the nervous system.",
+  "symptoms": [
+    "Functional weakness or paralysis (often fluctuating)",
+    "Non-epileptic seizures (dissociative seizures)",
+    "Functional tremors or gait (walking) abnormalities",
+    "Chronic pain or sensory changes",
+    "Speech difficulties (whispering or stuttering)"
+  ],
+  "causes": [
+    "Maladaptive brain connectivity",
+    "Psychological or physical stressors (as a trigger)",
+    "History of previous neurological conditions",
+    "Functional 'miswiring' of the motor and sensory cortex"
+  ],
+  "risk_factors": [
+    "Gender (more common in women)",
+    "History of childhood trauma or intense stress",
+    "Presence of other neurological diseases (e.g., Epilepsy or MS)",
+    "Anxiety or depressive disorders"
+  ],
+  "diagnosis": [
+    "Clinical exam identifying 'Positive Signs' (e.g., Hoover's sign)",
+    "Video-EEG (to distinguish from epilepsy)",
+    "Physical therapy assessment of movement patterns",
+    "MRI/CT (specifically to rule out structural damage)"
+  ],
+  "remedies": [
+    "Specialized physical and occupational therapy",
+    "Cognitive Behavioral Therapy (CBT)",
+    "Education about the diagnosis (vital for recovery)",
+    "Transcranial Magnetic Stimulation (TMS)"
+  ],
+  "prevention": [
+    "Early stress intervention",
+    "Prompt physical therapy after a trigger event",
+    "Education to prevent symptom 'internalization'"
+  ]
+}
+
 
