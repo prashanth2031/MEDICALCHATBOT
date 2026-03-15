@@ -1340,5 +1340,43 @@ medical_db = {
     "Education to prevent symptom 'internalization'"
   ]
 }
+"tardive_dyskinesia": {
+  "description": "Tardive dyskinesia is a movement disorder characterized by involuntary, repetitive body movements, typically caused by long-term use of dopamine-antagonist medications.",
+  "symptoms": [
+    "Grimacing or puckering of the lips",
+    "Repeated tongue protrusion (the 'fly-catcher' tongue)",
+    "Rapid, involuntary eye blinking",
+    "Smacking of the lips or puffing of the cheeks",
+    "Finger-tapping or 'piano-playing' movements with the hands",
+    "Jerking movements of the torso or hips"
+  ],
+  "causes": [
+    "Upregulation of D2 dopamine receptors in the basal ganglia",
+    "Long-term use of antipsychotics or certain GI medications (e.g., metoclopramide)",
+    "Oxidative stress causing neuron damage"
+  ],
+  "risk_factors": [
+    "Duration of medication use (years vs. months)",
+    "Age (older adults are at higher risk)",
+    "Gender (statistically slightly more common in women)",
+    "Pre-existing mood disorders"
+  ],
+  "diagnosis": [
+    "AIMS (Abnormal Involuntary Movement Scale) exam",
+    "Observation of the 'piano-playing' hands or lip smacking",
+    "Ruling out Huntington's or Parkinson's through imaging"
+  ],
+  "remedies": [
+    "VMAT2 inhibitors (Valbenazine or Deutetrabenazine)",
+    "Adjusting or tapering the triggering medication",
+    "Vitamin E (as an antioxidant support)",
+    "Botox (for specific focal movements)"
+  ],
+  "prevention": [
+    "Using the lowest effective dose of dopamine-blocking meds",
+    "Regular AIMS screenings (every 6 months)",
+    "Switching to 'atypical' medications with lower TD risk"
+  ]
+}
 
 
