@@ -1378,5 +1378,79 @@ medical_db = {
     "Switching to 'atypical' medications with lower TD risk"
   ]
 }
+"brown_sequard_syndrome": {
+  "description": "Brown-Séquard Syndrome is a rare neurological condition caused by a lesion or hemisection (half-cut) of the spinal cord, resulting in asymmetrical sensory and motor loss.",
+  "symptoms": [
+    "Ipsilateral (same side) paralysis or weakness",
+    "Ipsilateral loss of vibration and 'position sense' (proprioception)",
+    "Contralateral (opposite side) loss of pain and temperature sensation",
+    "Hyperesthesia (extreme sensitivity) just above the level of the injury"
+  ],
+  "causes": [
+    "Traumatic injury (e.g., puncture wound or spinal fracture)",
+    "Spinal cord tumors",
+    "Ischemia (loss of blood flow to the spine)",
+    "Infectious or inflammatory diseases (e.g., Tuberculosis or MS)"
+  ],
+  "risk_factors": [
+    "High-impact trauma history",
+    "Spinal disc herniation",
+    "Cervical spondylosis (wear and tear of spinal discs)"
+  ],
+  "diagnosis": [
+    "Neurological sensory mapping (pin-prick vs. vibration tests)",
+    "MRI or CT Myelography to locate the spinal lesion",
+    "Somatosensory Evoked Potentials (SSEP)"
+  ],
+  "remedies": [
+    "High-dose corticosteroids (to reduce acute swelling)",
+    "Surgery (to remove tumors or stabilize fractures)",
+    "Intensive physical and occupational therapy",
+    "Management of secondary issues like bladder/bowel dysfunction"
+  ],
+  "prevention": [
+    "Safety equipment in high-risk environments",
+    "Early treatment of spinal infections",
+    "Proper management of severe disc herniations"
+  ]
+}
+"locked_in_syndrome": {
+  "description": "Locked-In Syndrome is a rare neurological disorder characterized by complete paralysis of voluntary muscles in all parts of the body except for those that control eye movement.",
+  "symptoms": [
+    "Inability to move limbs, trunk, or face",
+    "Loss of speech (aphonia)",
+    "Preserved consciousness and cognitive function",
+    "Preserved hearing and vision",
+    "Vertical eye movement and blinking (the only remaining motor control)"
+  ],
+  "causes": [
+    "Brainstem stroke (specifically the ventral pons)",
+    "Traumatic brain injury",
+    "Demyelinating diseases (e.g., severe GBS or MS)",
+    "Medication overdose or poisoning (rare)"
+  ],
+  "risk_factors": [
+    "High blood pressure or cardiovascular disease (stroke risk)",
+    "Clotting disorders",
+    "Severe head or neck trauma"
+  ],
+  "diagnosis": [
+    "MRI or CT to identify the brainstem lesion",
+    "EEG to confirm preserved brain activity (consciousness)",
+    "Evoked potential tests",
+    "Clinical assessment of eye-movement responses"
+  ],
+  "remedies": [
+    "Brain-Computer Interfaces (BCI) for communication",
+    "Eye-tracking assistive technology",
+    "Physical therapy (to prevent muscle contractures)",
+    "Supportive care (respiratory and nutritional support)"
+  ],
+  "prevention": [
+    "Stroke prevention (blood pressure and cholesterol control)",
+    "Prompt treatment of basilar artery thrombosis",
+    "Safety measures to prevent traumatic brain injury"
+  ]
+}
 
 
