@@ -667,6 +667,45 @@ medical_db = {
         "causes": ["Immune system dysfunction"],
         "remedies": ["Immunosuppressants"]
     },
+"capgras_delusion": {
+  "description": "Capgras Delusion is a psychiatric and neurological disorder in which a person holds a delusion that a friend, spouse, parent, or other close family member (or even a pet) has been replaced by an identical-looking impostor.",
+  "symptoms": [
+    "Firm belief that a loved one is a 'double' or impostor",
+    "Preserved ability to recognize faces (no face blindness)",
+    "Emotional disconnection during visual contact",
+    "Occasional 'logical' explanations for the replacement (e.g., 'The government did it')",
+    "Symptoms may resolve when the person is heard (voice) but not seen"
+  ],
+  "causes": [
+    "Disconnection between the Fusiform Face Area and the Amygdala (the emotional center)",
+    "Right hemisphere brain damage (specifically the temporal or frontal lobes)",
+    "Neurodegenerative diseases (e.g., Lewy Body Dementia, Alzheimer's)",
+    "Schizophrenia or severe brain injury"
+  ],
+  "risk_factors": [
+    "Traumatic brain injury (TBI)",
+    "History of psychotic disorders",
+    "Advanced age with neurodegeneration",
+    "Right-sided cerebral lesions"
+  ],
+  "diagnosis": [
+    "Neuropsychological testing",
+    "MRI to check for lesions in the right hemisphere",
+    "EEG to rule out seizure-related confusion",
+    "Skin Conductance Response (SCR) tests (checking for emotional arousal to faces)"
+  ],
+  "remedies": [
+    "Treating the underlying condition (e.g., dementia or psychosis meds)",
+    "Cognitive Behavioral Therapy (CBT) to challenge the delusion",
+    "Validation therapy (reducing conflict with the patient)",
+    "Using auditory-only communication (phone calls often bypass the glitch)"
+  ],
+  "prevention": [
+    "Managing vascular health to prevent stroke",
+    "Prompt treatment of psychiatric symptoms",
+    "Early screening for cognitive decline"
+  ]
+}
 "trigeminal_neuralgia": {
   "description": "Trigeminal neuralgia is a chronic pain condition affecting the trigeminal nerve, which carries sensation from your face to your brain.",
   "symptoms": [
