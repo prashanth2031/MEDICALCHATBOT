@@ -1340,6 +1340,42 @@ medical_db = {
     "Education to prevent symptom 'internalization'"
   ]
 }
+"fatal_familial_insomnia": {
+  "description": "FFI is an extremely rare and fatal genetic degenerative brain disorder characterized by an inability to sleep that progressively worsens.",
+  "symptoms": [
+    "Progressive, worsening insomnia",
+    "Panic attacks and paranoia",
+    "Phobias and hallucinations",
+    "Significant weight loss",
+    "Dementia and loss of motor control (ataxia)",
+    "Complete inability to sleep"
+  ],
+  "causes": [
+    "Mutation in the PRNP gene (Prion protein)",
+    "Misfolding of proteins into prions that accumulate in the thalamus",
+    "Physical atrophy (shrinking) of the thalamus"
+  ],
+  "risk_factors": [
+    "Genetics (Autosomal dominant inheritance)",
+    "Extremely rare sporadic cases (sFFI)"
+  ],
+  "diagnosis": [
+    "Genetic testing for the PRNP mutation",
+    "Polysomnography (sleep study showing zero REM/Slow-wave sleep)",
+    "PET scan showing reduced metabolism in the thalamus",
+    "Cerebrospinal fluid analysis (checking for 14-3-3 proteins)"
+  ],
+  "remedies": [
+    "No known cure (currently 100% fatal)",
+    "Symptom management (sedatives usually fail)",
+    "Palliative care",
+    "Experimental gene-silencing therapies (Antisense Oligonucleotides)"
+  ],
+  "prevention": [
+    "Genetic counseling for affected families",
+    "In-vitro fertilization with genetic screening (PGD)"
+  ]
+}
 "tardive_dyskinesia": {
   "description": "Tardive dyskinesia is a movement disorder characterized by involuntary, repetitive body movements, typically caused by long-term use of dopamine-antagonist medications.",
   "symptoms": [
