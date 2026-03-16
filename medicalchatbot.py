@@ -839,6 +839,42 @@ medical_db = {
     "Vaccination (the risk from the flu itself is higher than the vaccine risk)"
   ]
 }
+"prosopagnosia": {
+  "description": "Prosopagnosia is a neurological disorder characterized by the inability to recognize faces, despite intact vision and intellectual functioning.",
+  "symptoms": [
+    "Inability to recognize familiar people (even family or oneself in a mirror)",
+    "Reliance on non-facial cues (hair, gait, voice, or clothing) to identify others",
+    "Difficulty following movie plots with many characters",
+    "Social anxiety due to the fear of not acknowledging acquaintances"
+  ],
+  "causes": [
+    "Damage to the fusiform gyrus (specifically the Fusiform Face Area)",
+    "Congenital/Developmental (present from birth without brain injury)",
+    "Acquired through stroke, traumatic brain injury, or neurodegeneration"
+  ],
+  "risk_factors": [
+    "Genetics (in developmental cases)",
+    "History of stroke in the right temporal lobe",
+    "Certain neurodevelopmental conditions (e.g., Autism spectrum)"
+  ],
+  "diagnosis": [
+    "Benton Facial Recognition Test (BFRT)",
+    "Cambridge Face Memory Test (CFMT)",
+    "fMRI to observe activity in the Fusiform Face Area (FFA)",
+    "Neurological exams to rule out general vision loss"
+  ],
+  "remedies": [
+    "Compensatory strategy training (focusing on voice/clothing)",
+    "Contextual association (remembering people by where they usually are)",
+    "Social skill training to manage 'blind' interactions",
+    "No current 'cure' for developmental cases"
+  ],
+  "prevention": [
+    "Stroke prevention (vascular health)",
+    "Protective headgear to avoid TBI",
+    "Early intervention in children to develop coping mechanisms"
+  ]
+}
 "multiple_sclerosis": {
   "description": "Multiple Sclerosis (MS) is a chronic disease where the immune system attacks the protective myelin sheath in the Central Nervous System (CNS), causing communication problems between the brain and the rest of the body.",
   "symptoms": [
