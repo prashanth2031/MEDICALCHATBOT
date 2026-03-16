@@ -706,6 +706,46 @@ medical_db = {
     "Early screening for cognitive decline"
   ]
 }
+"cotard_delusion": {
+  "description": "Cotard's Delusion is a rare neuropsychiatric condition in which the affected person holds the delusional belief that they are dead, do not exist, or have lost their blood or internal organs.",
+  "symptoms": [
+    "Nihilistic delusions (belief that nothing exists, including themselves)",
+    "Belief that they are decaying or smell of death",
+    "Self-starvation (because 'dead people don't need to eat')",
+    "Insensitivity to pain",
+    "Severe depression and withdrawal",
+    "Belief in immortality (paradoxically, because they 'already died')"
+  ],
+  "causes": [
+    "Severe disconnection between the sensory processing areas and the emotional amygdala",
+    "Atrophy or lesions in the right parietal lobe",
+    "Severe depression or psychotic disorders",
+    "Adverse reactions to certain medications (e.g., Acyclovir in patients with renal failure)"
+  ],
+  "risk_factors": [
+    "History of severe clinical depression",
+    "Bipolar disorder or schizophrenia",
+    "Brain injury or tumor in the right hemisphere",
+    "Elderly age (though it can occur in young people)"
+  ],
+  "diagnosis": [
+    "Clinical psychiatric interview",
+    "Neurological imaging (MRI/PET) to look for frontal-parietal atrophy",
+    "Blood tests to check for metabolic causes (kidney function)",
+    "Rule-out of general delirium"
+  ],
+  "remedies": [
+    "Electroconvulsive Therapy (ECT) - often the most effective treatment",
+    "Antidepressants and antipsychotics",
+    "Psychotherapy (once the patient is stabilized)",
+    "Hydration and nutritional support (feeding tubes if necessary)"
+  ],
+  "prevention": [
+    "Early intervention for severe depression",
+    "Careful monitoring of antiviral medication doses",
+    "Comprehensive care for traumatic brain injury recovery"
+  ]
+}
 "trigeminal_neuralgia": {
   "description": "Trigeminal neuralgia is a chronic pain condition affecting the trigeminal nerve, which carries sensation from your face to your brain.",
   "symptoms": [
