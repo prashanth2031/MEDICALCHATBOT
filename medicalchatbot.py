@@ -90,6 +90,48 @@ medical_db = {
   "causes": ["Environmental factors"],
   "remedies": ["Therapy"]
 },
+"alice_in_wonderland_syndrome": {
+  "description": "AIWS is a rare neurological condition characterized by distorted sensory perception, particularly regarding the size and distance of objects or one's own body parts.",
+  "symptoms": [
+    "Micropsia (objects appearing smaller than they are)",
+    "Macropsia (objects appearing larger than they are)",
+    "Teleopsia (objects appearing further away than they are)",
+    "Pelopsia (objects appearing closer than they are)",
+    "Time distortion (time moving too fast or too slow)",
+    "Zoopsia (hallucinations of swarming animals)",
+    "Altered sense of touch or sound (sounds feeling 'loud' or 'staccato')"
+  ],
+  "causes": [
+    "Migraines (the most common cause in adults)",
+    "Epstein-Barr Virus / Mononucleosis (common cause in children)",
+    "Epilepsy (specifically temporal lobe seizures)",
+    "Brain tumors or lesions in the parietal lobe",
+    "Psychoactive drug use"
+  ],
+  "risk_factors": [
+    "Childhood (most cases resolve by adulthood)",
+    "History of migraine with aura",
+    "Infectious diseases in the family",
+    "Underlying seizure disorders"
+  ],
+  "diagnosis": [
+    "Detailed clinical history and symptom mapping",
+    "MRI or CT to rule out structural brain damage",
+    "EEG to check for seizure activity",
+    "Blood tests to screen for Epstein-Barr Virus (EBV)"
+  ],
+  "remedies": [
+    "Treating the underlying cause (e.g., migraine prophylaxis)",
+    "Rest and sensory deprivation during an episode",
+    "Reassurance (as the symptoms can be terrifying but are usually benign)",
+    "Anti-epileptic drugs (if seizure-related)"
+  ],
+  "prevention": [
+    "Avoiding migraine triggers (stress, diet, sleep loss)",
+    "Proper management of viral infections",
+    "Routine neurological follow-ups for seizure patients"
+  ]
+}
 
 "dissociative_identity_disorder": {
   "description": "Dissociative identity disorder involves multiple personality states.",
