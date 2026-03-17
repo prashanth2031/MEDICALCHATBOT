@@ -48,6 +48,44 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"alien_hand_syndrome": {
+  "description": "Alien Hand Syndrome is a rare neurological disorder in which one hand functions involuntarily, with the victim feeling as though it is operated by an external force.",
+  "symptoms": [
+    "Involuntary but purposeful movement (e.g., reaching for an object, buttoning/unbuttoning clothes)",
+    "Intermanual conflict (one hand undoing what the other is doing)",
+    "Feeling of 'estrangement' from the limb (it doesn't feel like it belongs to the person)",
+    "The hand may 'clasp' or 'grasp' objects and refuse to let go"
+  ],
+  "causes": [
+    "Damage to the corpus callosum (the bridge between brain hemispheres)",
+    "Stroke affecting the medial frontal lobe or parietal lobe",
+    "Neurodegenerative diseases (e.g., Corticobasal Degeneration)",
+    "Post-surgical complications (following a commissurotomy)"
+  ],
+  "risk_factors": [
+    "History of stroke or cerebrovascular disease",
+    "Aneurysm or brain tumor",
+    "Surgery involving the brain's midline",
+    "Advanced neurodegenerative conditions"
+  ],
+  "diagnosis": [
+    "Neurological observation of 'purposeful' involuntary movements",
+    "MRI to identify lesions in the corpus callosum or frontal lobes",
+    "Rule-out of movement disorders like Chorea or Dystonia",
+    "Functional connectivity studies"
+  ],
+  "remedies": [
+    "Bilateral task training (giving the 'alien' hand something to hold)",
+    "Sensory muffling (wearing an oven mitt to reduce the hand's input)",
+    "Cognitive behavioral strategies to 'distract' the rogue circuit",
+    "Botox or Clonazepam (to reduce muscle spasms)"
+  ],
+  "prevention": [
+    "Vascular health management to prevent stroke",
+    "Minimally invasive neurosurgical techniques",
+    "Early detection of neurodegenerative symptoms"
+  ]
+}
 
 "narcissistic_personality_disorder": {
   "description": "Narcissistic personality disorder involves inflated self-importance.",
