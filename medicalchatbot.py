@@ -1034,6 +1034,41 @@ medical_db = {
     "Early intervention in children to develop coping mechanisms"
   ]
 }
+"synesthesia": {
+  "description": "Synesthesia is a neurological trait where the stimulation of one sensory or cognitive pathway leads to involuntary experiences in a second sensory or cognitive pathway.",
+  "symptoms": [
+    "Involuntary 'blended' sensations (e.g., seeing blue when hearing a C-sharp)",
+    "Consistent associations (the letter 'A' is always red, forever)",
+    "Spatial sequences (seeing months or numbers arranged in physical space)",
+    "Lexical-gustatory sensations (certain words trigger specific tastes)",
+    "Enhanced memory for associated items (using color to remember names)"
+  ],
+  "causes": [
+    "Increased cross-talk between neighboring brain regions (e.g., V4 for color and the grapheme area)",
+    "Failure of 'neural pruning' during early development",
+    "Genetic predisposition (often runs in families)",
+    "Temporary induction via certain psychoactive substances"
+  ],
+  "risk_factors": [
+    "Genetics (highly heritable)",
+    "Left-handedness (statistically higher correlation)",
+    "Creative professions (more common in artists, musicians, and writers)"
+  ],
+  "diagnosis": [
+    "Consistency testing (testing associations months apart)",
+    "fMRI showing multi-modal activation (e.g., visual cortex lighting up for sounds)",
+    "The Synesthesia Battery (standardized online testing)"
+  ],
+  "remedies": [
+    "No 'cure' needed (it is usually considered a neutral or positive trait)",
+    "Coping strategies if certain associations are overwhelming (e.g., loud 'yellow' noises)",
+    "Mindfulness to manage sensory overload"
+  ],
+  "prevention": [
+    "None (it is a structural/developmental trait)"
+  ]
+}
+
 "multiple_sclerosis": {
   "description": "Multiple Sclerosis (MS) is a chronic disease where the immune system attacks the protective myelin sheath in the Central Nervous System (CNS), causing communication problems between the brain and the rest of the body.",
   "symptoms": [
