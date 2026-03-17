@@ -110,6 +110,42 @@ medical_db = {
   "causes": ["Genetic factors"],
   "remedies": ["Therapy"]
 },
+"savant_syndrome": {
+  "description": "Savant syndrome is a condition where persons with significant mental disabilities, including autistic disorder, have a 'prodigious island of genius' that stands in marked contrast to their overall disability.",
+  "symptoms": [
+    "Hyper-calculia (lightning-fast mental math)",
+    "Hyperthymesia or photographic memory",
+    "Instant musical virtuosity (playing a complex piece after one hearing)",
+    "Exceptional artistic ability without formal training",
+    "Absolute pitch or perfect calendar counting"
+  ],
+  "causes": [
+    "Compensatory right-brain growth due to left-brain injury or dysfunction",
+    "Hyper-systemizing (extreme attention to detail and patterns)",
+    "Acquired Savantism (emerging after a traumatic brain injury or stroke)",
+    "Genetic factors linked to neurodevelopmental conditions"
+  ],
+  "risk_factors": [
+    "Autism Spectrum Disorder (approx. 10% of autistic people exhibit savant skills)",
+    "History of early childhood left-hemisphere injury",
+    "Gender (statistically more common in males)"
+  ],
+  "diagnosis": [
+    "Standardized IQ and cognitive testing",
+    "Specialized talent assessments",
+    "fMRI to observe 'over-activation' in specific lobes (e.g., parietal or occipital)",
+    "MRI to check for left-hemisphere anomalies"
+  ],
+  "remedies": [
+    "None (the skills are usually nurtured and preserved)",
+    "Therapy to improve general life skills and social communication",
+    "Educational programs tailored to the specific talent"
+  ],
+  "prevention": [
+    "N/A (it is a structural/developmental trait)"
+  ]
+}
+
 
 "avoidant_personality_disorder": {
   "description": "Avoidant personality disorder involves social inhibition.",
