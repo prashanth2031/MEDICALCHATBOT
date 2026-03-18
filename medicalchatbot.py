@@ -206,6 +206,46 @@ medical_db = {
     "Routine neurological follow-ups for seizure patients"
   ]
 }
+"foreign_accent_syndrome": {
+  "description": "FAS is a rare speech disorder that causes a person to speak their native language with an accent that sounds 'foreign' to listeners, despite the person having never lived in that region.",
+  "symptoms": [
+    "Changes in vowel length and pitch",
+    "Errors in syllable stress (stressing the wrong part of a word)",
+    "Inserting 'uh' or extra vowels between consonants",
+    "Voicing errors (e.g., saying 'p' as 'b')",
+    "Slowed, rhythmic speech patterns"
+  ],
+  "causes": [
+    "Stroke (usually in the dominant hemisphere's speech centers)",
+    "Traumatic Brain Injury (TBI)",
+    "Brain tumors or lesions",
+    "Severe psychological distress (Functional FAS)",
+    "Multiple Sclerosis (MS) flare-ups"
+  ],
+  "risk_factors": [
+    "Vascular health issues (stroke risk)",
+    "Head trauma history",
+    "Underlying neurological conditions in the motor cortex",
+    "Certain psychiatric conditions"
+  ],
+  "diagnosis": [
+    "MRI or CT to locate brain damage in Broca's area or the cerebellum",
+    "Detailed speech and language assessment by a SLP",
+    "Psychiatric evaluation to rule out functional causes",
+    "Acoustic analysis of speech patterns"
+  ],
+  "remedies": [
+    "Speech-Language Pathology (SLP) to retrain vocal muscle control",
+    "Counseling to deal with the social impact/identity crisis",
+    "Targeting the underlying cause (e.g., stroke rehabilitation)",
+    "Techniques to mimic the original accent's rhythm"
+  ],
+  "prevention": [
+    "Standard stroke prevention (BP management)",
+    "Head protection in high-risk activities",
+    "Early neurological intervention following head injuries"
+  ]
+}
 
 "dissociative_identity_disorder": {
   "description": "Dissociative identity disorder involves multiple personality states.",
