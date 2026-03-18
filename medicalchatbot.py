@@ -241,6 +241,45 @@ medical_db = {
     "Careful monitoring of neuro-active prescriptions"
   ]
 }
+"anton_babinski_syndrome": {
+  "description": "Anton-Babinski Syndrome is a rare symptom of brain damage in the occipital lobe where patients who are cortically blind affirm, despite clear evidence, that they can see.",
+  "symptoms": [
+    "Visual anosognosia (complete denial of blindness)",
+    "Confabulation (inventing visual details of the environment)",
+    "Walking into objects/walls while claiming to see them",
+    "Inappropriate affect (acting unconcerned about their frequent collisions)",
+    "Providing excuses for 'missed' visual cues (e.g., 'The light is just too dim')"
+  ],
+  "causes": [
+    "Bilateral damage to the primary visual cortex (V1)",
+    "Ischemic stroke in the Posterior Cerebral Artery (PCA) territory",
+    "Traumatic brain injury (TBI) to the back of the head",
+    "Rare cases of hypertensive encephalopathy or leukoencephalopathy"
+  ],
+  "risk_factors": [
+    "Hypertension (leading to bilateral PCA strokes)",
+    "Cardiac arrhythmias (embolic risk)",
+    "Vascular dementia",
+    "Advanced age with cardiovascular complications"
+  ],
+  "diagnosis": [
+    "Neurological testing of the 'menace reflex' (no blink when threatened)",
+    "MRI/CT showing bilateral occipital lobe infarcts",
+    "Preserved pupillary light reflexes (the eyes work, but the brain doesn't)",
+    "Observation of blatant denial during visual field testing"
+  ],
+  "remedies": [
+    "Treatment of the underlying stroke or injury",
+    "Safety interventions (preventing falls/collisions)",
+    "Gentle reality orientation (though often resisted)",
+    "Rehabilitation to improve awareness of the deficit"
+  ],
+  "prevention": [
+    "Aggressive management of blood pressure",
+    "Stroke prevention protocols",
+    "Prompt treatment of TBI"
+  ]
+}
 
 "alice_in_wonderland_syndrome": {
   "description": "AIWS is a rare neurological condition characterized by distorted sensory perception, particularly regarding the size and distance of objects or one's own body parts.",
