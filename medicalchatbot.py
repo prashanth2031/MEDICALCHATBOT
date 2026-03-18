@@ -202,6 +202,46 @@ medical_db = {
   "causes": ["Environmental factors"],
   "remedies": ["Therapy"]
 },
+"akinetopsia": {
+  "description": "Akinetopsia is a rare neuropsychological disorder in which a patient cannot perceive motion in their visual field, despite being able to see stationary objects clearly.",
+  "symptoms": [
+    "Seeing moving objects as a series of 'frozen' snapshots",
+    "Difficulty pouring liquids (the liquid appears frozen, then suddenly overflows)",
+    "Difficulty following conversations (facial expressions and mouth movements 'jump' from one state to another)",
+    "Feeling overwhelmed in busy environments (cars or people 'teleport' from place to place)",
+    "Inability to track the trajectory of a moving ball or vehicle"
+  ],
+  "causes": [
+    "Lesions or damage to the V5/MT area of the visual cortex",
+    "Traumatic brain injury (TBI)",
+    "Stroke (specifically in the posterior visual pathways)",
+    "Side effects of certain medications (e.g., high doses of nefazodone)",
+    "Severe Alzheimer's disease"
+  ],
+  "risk_factors": [
+    "Bilateral damage to the temporo-parietal-occipital junction",
+    "History of posterior cortical atrophy",
+    "Exposure to specific neurotoxins"
+  ],
+  "diagnosis": [
+    "Computerized motion perception tests",
+    "fMRI to check for lack of activation in Area V5 during motion stimuli",
+    "Goldmann perimetry to rule out general field loss",
+    "Neurological mapping of the 'Dorsal Stream'"
+  ],
+  "remedies": [
+    "Compensatory strategies (relying on sound to judge speed)",
+    "Developing 'static' cues (judging distance by how large an object appears)",
+    "Adjusting medication (if drug-induced)",
+    "Tinted glasses (to reduce visual noise in some cases)"
+  ],
+  "prevention": [
+    "Vascular health to prevent stroke",
+    "Protective headgear",
+    "Careful monitoring of neuro-active prescriptions"
+  ]
+}
+
 "alice_in_wonderland_syndrome": {
   "description": "AIWS is a rare neurological condition characterized by distorted sensory perception, particularly regarding the size and distance of objects or one's own body parts.",
   "symptoms": [
