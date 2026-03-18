@@ -145,6 +145,44 @@ medical_db = {
     "N/A (it is a structural/developmental trait)"
   ]
 }
+"hemispatial_neglect": {
+  "description": "A neuropsychological condition where, after damage to one hemisphere of the brain is sustained, a deficit in attention to and awareness of one side of the field of vision is observed.",
+  "symptoms": [
+    "Ignoring food on the left side of a plate",
+    "Shaving or applying makeup to only one side of the face",
+    "Reading only the right-hand side of a page",
+    "Walking into obstacles on the left side",
+    "Anosognosia (unawareness that a deficit even exists)"
+  ],
+  "causes": [
+    "Stroke (most commonly in the right posterior parietal cortex)",
+    "Traumatic Brain Injury (TBI)",
+    "Brain tumors",
+    "Neurodegenerative diseases (e.g., Posterior Cortical Atrophy)"
+  ],
+  "risk_factors": [
+    "Hypertension and cardiovascular disease (stroke risk)",
+    "Age (higher risk of stroke/degeneration)",
+    "Severe head trauma"
+  ],
+  "diagnosis": [
+    "Clock Drawing Test (patient crowds all numbers onto the right side)",
+    "Line Bisection Test (patient marks the 'middle' far to the right)",
+    "Cancellation tasks (crossing out all targets on a sheet of paper)",
+    "MRI/CT to identify the parietal lesion"
+  ],
+  "remedies": [
+    "Prism Adaptation Therapy (using glasses to shift the visual field)",
+    "Visual Scanning Training (consciously forcing the 'pointer' to the left)",
+    "Limb Activation Therapy (moving the neglected limb to trigger the brain)",
+    "Virtual Reality (VR) rehabilitation"
+  ],
+  "prevention": [
+    "Vascular health management (BP, cholesterol)",
+    "Safety gear to prevent TBI",
+    "Early neurological assessment after any stroke-like symptoms"
+  ]
+}
 
 
 "avoidant_personality_disorder": {
