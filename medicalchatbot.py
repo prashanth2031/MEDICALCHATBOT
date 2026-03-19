@@ -202,6 +202,45 @@ medical_db = {
   "causes": ["Environmental factors"],
   "remedies": ["Therapy"]
 },
+"color_agnosia": {
+  "description": "Color agnosia is a rare neurological disorder where a person can perceive colors but cannot recognize or name them, nor can they associate colors with specific objects (e.g., knowing that a 'banana' is 'yellow').",
+  "symptoms": [
+    "Ability to pass a color blindness test (Ishihara plates) perfectly",
+    "Inability to name a color when shown a sample",
+    "Difficulty grouping objects by color",
+    "Loss of 'color knowledge' (e.g., not knowing that grass is green)",
+    "Correct perception of 'shade' and 'brightness' without the 'identity' of the hue"
+  ],
+  "causes": [
+    "Lesions in the left occipito-temporal region (specifically the lingual and fusiform gyri)",
+    "Stroke affecting the posterior cerebral artery",
+    "Carbon monoxide poisoning",
+    "Neurodegenerative diseases like Alzheimer's"
+  ],
+  "risk_factors": [
+    "Vascular disease (stroke risk)",
+    "Exposure to neurotoxins",
+    "Advanced age-related cognitive decline"
+  ],
+  "diagnosis": [
+    "Ishihara Color Test (to rule out retinal color blindness)",
+    "Color-Object Association tests (e.g., 'What color is a fire truck?')",
+    "fMRI to observe activity in Area V4",
+    "Color sorting and matching tasks"
+  ],
+  "remedies": [
+    "Compensatory labeling (using text tags on clothing)",
+    "Using digital color-identifiers",
+    "Rehabilitation focused on associative memory",
+    "Treating the underlying vascular or toxic cause"
+  ],
+  "prevention": [
+    "Standard stroke prevention (BP and cholesterol management)",
+    "Safety protocols for carbon monoxide (detectors)",
+    "Maintaining cardiovascular health"
+  ]
+}
+
 "akinetopsia": {
   "description": "Akinetopsia is a rare neuropsychological disorder in which a patient cannot perceive motion in their visual field, despite being able to see stationary objects clearly.",
   "symptoms": [
