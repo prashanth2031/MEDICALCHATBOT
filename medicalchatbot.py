@@ -86,6 +86,45 @@ medical_db = {
     "Early detection of neurodegenerative symptoms"
   ]
 }
+"transient_global_amnesia": {
+  "description": "TGA is a sudden, temporary episode of memory loss that can't be attributed to a common neurological condition, such as epilepsy or stroke.",
+  "symptoms": [
+    "Sudden onset of anterograde amnesia (inability to form new memories)",
+    "Repetitive questioning (e.g., asking 'How did we get here?' every 2 minutes)",
+    "Preserved self-identity (you know exactly who you are and recognize family)",
+    "Lack of other neurological deficits (no paralysis, no slurred speech)",
+    "Retrograde amnesia for the hours or days immediately preceding the event"
+  ],
+  "causes": [
+    "Temporary dysfunction of the CA1 neurons in the hippocampus",
+    "Triggers: Physical exertion, extreme emotional stress, cold water immersion",
+    "The Valsalva maneuver (straining, which may cause venous congestion)",
+    "Migraine-related vascular changes"
+  ],
+  "risk_factors": [
+    "Age (most common in people over 50)",
+    "History of migraines",
+    "Psychological stressors",
+    "Strenuous physical activity"
+  ],
+  "diagnosis": [
+    "Clinical diagnosis based on the 'Hodge and Warlow' criteria",
+    "DWI MRI (often shows a 'punctate' lesion in the hippocampus 24-48 hours later)",
+    "EEG to rule out 'Transient Epileptic Amnesia'",
+    "Blood tests to rule out metabolic or toxic causes"
+  ],
+  "remedies": [
+    "No specific treatment required (resolves spontaneously within 24 hours)",
+    "Observation to ensure it is not a TIA (Transient Ischemic Attack)",
+    "Patient and family reassurance (the 'looping' behavior is terrifying to watch)",
+    "Rest and hydration"
+  ],
+  "prevention": [
+    "Avoiding known triggers if the condition is recurrent (though recurrence is rare)",
+    "Managing vascular health"
+  ]
+}
+
 
 "narcissistic_personality_disorder": {
   "description": "Narcissistic personality disorder involves inflated self-importance.",
