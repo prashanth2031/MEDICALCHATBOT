@@ -86,6 +86,46 @@ medical_db = {
     "Early detection of neurodegenerative symptoms"
   ]
 }
+"exploding_head_syndrome": {
+  "description": "EHS is a type of sensory parasomnia in which a person hears a loud, imaginary noise or experiences an explosive feeling in their head while falling asleep or waking up.",
+  "symptoms": [
+    "Hearing a sudden 'explosion,' 'gunshot,' or 'thunderclap' inside the head",
+    "Painless but terrifying auditory hallucination",
+    "Occasional flash of light (photopsia) accompanying the noise",
+    "Sudden muscle twitch (myoclonic jerk) or surge of adrenaline",
+    "Intense tachycardia (racing heart) upon waking"
+  ],
+  "causes": [
+    "Delayed 'shut-down' of the Reticular Formation in the brainstem",
+    "Temporary surge of activity in the auditory neurons as the brain enters sleep",
+    "Minor seizures in the temporal lobe",
+    "Ear structure malfunctions (e.g., sudden movement of parts of the middle ear)"
+  ],
+  "risk_factors": [
+    "High levels of stress and anxiety",
+    "Sleep deprivation (insomnia or irregular schedules)",
+    "History of sleep paralysis",
+    "Common in women over 50, though it can affect any age/gender"
+  ],
+  "diagnosis": [
+    "Clinical history (usually sufficient for diagnosis)",
+    "Polysomnogram (sleep study) to rule out apnea or seizures",
+    "Neurological exam to ensure no structural brain damage",
+    "Evaluating stress levels and sleep hygiene"
+  ],
+  "remedies": [
+    "Stress management and relaxation techniques",
+    "Improving sleep hygiene (consistent wake/sleep times)",
+    "Tricyclic antidepressants (e.g., Clomipramine) in severe cases",
+    "Reassurance (knowing it's not a stroke or tumor reduces the fear-loop)"
+  ],
+  "prevention": [
+    "Regular sleep patterns",
+    "Reducing caffeine intake before bed",
+    "Managing underlying anxiety disorders"
+  ]
+}
+
 "visual_snow_syndrome": {
   "description": "Visual Snow Syndrome is a chronic neurological disorder characterized by a continuous visual disturbance that occupies the entire visual field, appearing like 'static' or 'snow'.",
   "symptoms": [
