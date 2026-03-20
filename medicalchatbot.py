@@ -126,6 +126,43 @@ medical_db = {
     "Protecting against right-hemisphere brain trauma"
   ]
 }
+"charles_bonnet_syndrome": {
+  "description": "CBS is a condition where people with significant vision loss experience vivid, complex visual hallucinations, despite having no psychiatric illness.",
+  "symptoms": [
+    "Vivid hallucinations (e.g., people, animals, landscapes, or patterns)",
+    "Lilliputian hallucinations (seeing people or objects as much smaller than life)",
+    "Hallucinations that appear suddenly and last for minutes to hours",
+    "Full awareness that the images aren't real (insight is preserved)",
+    "Absence of other sensory hallucinations (no voices, just images)"
+  ],
+  "causes": [
+    "Deafferentation (loss of sensory input) to the visual cortex",
+    "Hyper-excitability of visual neurons in the absence of external signals",
+    "Spontaneous firing of 'cached' visual patterns in the ventral stream",
+    "Severe vision loss (macular degeneration, glaucoma, or cataracts)"
+  ],
+  "risk_factors": [
+    "Advanced age (correlated with vision loss)",
+    "Social isolation (decreased overall sensory input)",
+    "Sudden drop in visual acuity"
+  ],
+  "diagnosis": [
+    "Ophthalmological exam to confirm vision loss",
+    "Psychiatric evaluation to rule out schizophrenia or dementia",
+    "MRI to rule out tumors or strokes in the visual pathway",
+    "Clinical interview confirming the patient has 'insight' into the hallucinations"
+  ],
+  "remedies": [
+    "Improving vision where possible (e.g., cataract surgery)",
+    "Blinking or moving the eyes to 'reset' the visual buffer",
+    "Increasing ambient lighting to stimulate surviving neurons",
+    "Reassurance (the 'Fear-Reduction' patch: knowing you aren't 'going crazy')"
+  ],
+  "prevention": [
+    "Regular eye checkups to slow the progression of vision loss",
+    "Early treatment of retinal diseases"
+  ]
+}
 
 "exploding_head_syndrome": {
   "description": "EHS is a type of sensory parasomnia in which a person hears a loud, imaginary noise or experiences an explosive feeling in their head while falling asleep or waking up.",
