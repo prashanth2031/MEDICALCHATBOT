@@ -86,6 +86,47 @@ medical_db = {
     "Early detection of neurodegenerative symptoms"
   ]
 }
+"fregoli_delusion": {
+  "description": "Fregoli Delusion is a rare neuropsychiatric disorder in which a person holds a delusional belief that different people are in fact a single person who changes appearance or is in disguise.",
+  "symptoms": [
+    "Hyper-familiarity with strangers (believing a stranger is a known person)",
+    "Delusional belief in disguises or shapeshifting",
+    "Paranoia or feeling of being 'stalked' by a single entity",
+    "Inability to distinguish unique identities despite distinct physical features",
+    "Associated deficits in executive function and memory"
+  ],
+  "causes": [
+    "Over-activation of the nodes linking faces to memories",
+    "Bilateral damage or dysfunction in the right hemisphere (frontal/temporal)",
+    "Dopaminergic system hyperactivity",
+    "Neurodegenerative diseases (e.g., Lewy Body Dementia)",
+    "Complication of Schizophrenia or Bipolar disorder"
+  ],
+  "risk_factors": [
+    "History of traumatic brain injury (TBI)",
+    "Treatment with Levodopa (dopamine agonists)",
+    "Existing psychotic or affective disorders",
+    "Seizure disorders in the temporal lobe"
+  ],
+  "diagnosis": [
+    "Neuropsychological evaluation for 'associative' face processing",
+    "MRI to check for right-hemisphere lesions",
+    "Psychiatric assessment for delusional consistency",
+    "Observation of 'identification' errors in controlled tests"
+  ],
+  "remedies": [
+    "Antipsychotic medications (to reduce dopaminergic firing)",
+    "Anticonvulsants if seizure-related",
+    "Cognitive Behavioral Therapy (CBT) to challenge the 'disguise' logic",
+    "Treating the underlying neurodegenerative cause"
+  ],
+  "prevention": [
+    "Early intervention in psychotic episodes",
+    "Monitoring dopamine levels in Parkinson's treatment",
+    "Protecting against right-hemisphere brain trauma"
+  ]
+}
+
 "exploding_head_syndrome": {
   "description": "EHS is a type of sensory parasomnia in which a person hears a loud, imaginary noise or experiences an explosive feeling in their head while falling asleep or waking up.",
   "symptoms": [
