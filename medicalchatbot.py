@@ -343,6 +343,42 @@ medical_db = {
     "Early neurological assessment after any stroke-like symptoms"
   ]
 }
+"mirror_touch_synesthesia": {
+  "description": "MTS is a rare neurological condition where individuals experience a physical sensation of touch on their own body when they see another person being touched.",
+  "symptoms": [
+    "Feeling a touch on the same or opposite side of your body as the person seen being touched",
+    "Experiencing physical 'echoes' of others' pain (synesthetic pain)",
+    "Feeling the 'pressure' of textures or movements seen on screen or in person",
+    "Extreme emotional exhaustion (emotional contagion)",
+    "Inability to watch 'slapstick' comedy or horror due to physical discomfort"
+  ],
+  "causes": [
+    "Hyper-excitability of the mirror neuron system",
+    "Structural differences in the somatosensory cortex (V1/V2)",
+    "Lack of 'self-other' distinction in the temporoparietal junction (TPJ)",
+    "Potential developmental variations in neural pruning"
+  ],
+  "risk_factors": [
+    "Presence of other forms of synesthesia (e.g., color-grapheme)",
+    "High scores on standardized empathy scales",
+    "Left-handedness (statistically higher correlation)"
+  ],
+  "diagnosis": [
+    "Synesthetic Masking Task (testing if real touch and 'seen' touch interfere)",
+    "fMRI to observe activation in the somatosensory cortex while watching videos of touch",
+    "Self-reported consistency over time",
+    "The Interpersonal Reactivity Index (IRI)"
+  ],
+  "remedies": [
+    "Sensory shielding (avoiding crowded places or intense media)",
+    "Cognitive-behavioral techniques to strengthen the 'self-other' boundary",
+    "Focusing on one's own physical sensations to 'ground' the system",
+    "Mindfulness-based stress reduction (MBSR)"
+  ],
+  "prevention": [
+    "N/A (it is a structural trait)"
+  ]
+}
 
 
 "avoidant_personality_disorder": {
