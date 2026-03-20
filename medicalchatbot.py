@@ -224,6 +224,46 @@ medical_db = {
   "causes": ["Genetic and environmental factors"],
   "remedies": ["Psychotherapy"]
 },
+"kluver_bucy_syndrome": {
+  "description": "Klüver-Bucy is a rare behavioral impairment characterized by inappropriate sexual behaviors, an urge to put objects in the mouth, and a complete loss of fear and anger response.",
+  "symptoms": [
+    "Placidity (complete loss of fear/anger, even toward predators or fire)",
+    "Hyper-orality (compulsion to examine everything with the mouth)",
+    "Hyper-metamorphosis (irresistible impulse to touch/notice every object)",
+    "Hyper-sexuality (inappropriate or indiscriminate sexual advances)",
+    "Visual Agnosia (difficulty recognizing objects, though sight is fine)",
+    "Altered dietary habits (eating non-food items)"
+  ],
+  "causes": [
+    "Bilateral damage to the anterior temporal lobes/Amygdala",
+    "Herpes Simplex Encephalitis (the most common medical cause)",
+    "Pick's Disease (Frontotemporal Dementia)",
+    "Severe Traumatic Brain Injury (TBI)",
+    "Post-surgical complications from temporal lobectomy"
+  ],
+  "risk_factors": [
+    "Infections of the central nervous system",
+    "Advanced neurodegenerative diseases",
+    "Stroke affecting the temporal region"
+  ],
+  "diagnosis": [
+    "Observation of the 'triad' (hyper-orality, hyper-sexuality, placidity)",
+    "MRI/CT showing bilateral temporal lobe lesions",
+    "Cerebrospinal fluid (CSF) analysis for viral infections",
+    "Neuropsychological behavioral mapping"
+  ],
+  "remedies": [
+    "Antiviral medication (if caused by encephalitis)",
+    "Mood stabilizers (e.g., Carbamazepine) to manage behavior",
+    "SSRIs to reduce hyper-sexual impulses",
+    "Structured, high-supervision environments for safety"
+  ],
+  "prevention": [
+    "Prompt treatment of viral fevers and neurological symptoms",
+    "Protective gear for head injury prevention",
+    "Early screening for cognitive/behavioral shifts in the elderly"
+  ]
+}
 
 "schizoid_personality_disorder": {
   "description": "Schizoid personality disorder involves detachment from social relationships.",
