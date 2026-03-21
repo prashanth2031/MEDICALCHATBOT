@@ -126,6 +126,43 @@ medical_db = {
     "Protecting against right-hemisphere brain trauma"
   ]
 }
+"hyperthymesia_hsam": {
+  "description": "HSAM is a rare condition where an individual possesses an extraordinary ability to recall specific details of their daily life and past events with near-perfect accuracy from a very young age.",
+  "symptoms": [
+    "Vivid, detailed recall of almost every day of their life",
+    "Ability to link dates with specific days of the week instantly",
+    "Obsessive-like retrieval of past memories",
+    "Strong emotional 're-living' of past events upon recall",
+    "Inability to 'forget' mundane or negative experiences"
+  ],
+  "causes": [
+    "Structural differences in the Temporal Lobe and Caudate Nucleus",
+    "Hyper-connectivity between the hippocampus and the prefrontal cortex",
+    "Enhanced 'memory consolidation' during sleep",
+    "Possible obsessive-compulsive (OCD) spectrum tendencies for mental rehearsal"
+  ],
+  "risk_factors": [
+    "Genetic predisposition (though extremely rare, only ~60 cases documented)",
+    "Neurodevelopmental variations in the memory-indexing architecture",
+    "Propensity for rumination"
+  ],
+  "diagnosis": [
+    "Public Events Quiz (testing recall of news from specific dates)",
+    "Personal Fact Verification (checking diary entries/family records)",
+    "MRI to observe enlargement of the parahippocampal gyrus",
+    "Neuropsychological testing for 'Superior Memory' markers"
+  ],
+  "remedies": [
+    "N/A (it is a trait, not a disease)",
+    "CBT to manage the 'emotional weight' of negative memories",
+    "Focusing techniques to 'dampen' the automatic retrieval of the past",
+    "Mindfulness to stay present and avoid 'looping' in 1998"
+  ],
+  "prevention": [
+    "N/A"
+  ]
+}
+
 "charles_bonnet_syndrome": {
   "description": "CBS is a condition where people with significant vision loss experience vivid, complex visual hallucinations, despite having no psychiatric illness.",
   "symptoms": [
