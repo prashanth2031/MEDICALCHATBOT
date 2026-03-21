@@ -48,6 +48,46 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"prosopometamorphopsia": {
+  "description": "A rare visual perception disorder where faces appear distorted. Unlike Prosopagnosia, the patient can often still identify the person, but the 'rendering' of their features is grotesque.",
+  "symptoms": [
+    "Hemi-prosopometamorphopsia (distortion on only one side of a face)",
+    "Features appearing to 'melt,' 'stretch,' or 'vibrate'",
+    "Eyes or mouths appearing vastly oversized or out of place",
+    "Faces taking on animalistic or 'demon-like' qualities",
+    "Preserved recognition (knowing it's your spouse, even if they look like a monster)"
+  ],
+  "causes": [
+    "Lesions or strokes in the Splenium of the Corpus Callosum",
+    "Dysfunction in the right Fusiform Face Area (FFA)",
+    "Migraine auras affecting the visual processing pathway",
+    "Epilepsy or localized brain tumors",
+    "Post-traumatic brain injury (TBI)"
+  ],
+  "risk_factors": [
+    "Vascular disease affecting the posterior brain",
+    "Chronic migraines",
+    "History of seizures",
+    "Toxicity from certain substances or medications"
+  ],
+  "diagnosis": [
+    "The 'Face-Distortion Task' (drawing what they see)",
+    "fMRI to identify hyper-activity or lesions in the occipito-temporal cortex",
+    "Ophthalmological exams (to confirm the eyes are fine; it's a 'processor' issue)",
+    "Neurological mapping of the 'Face Processing Network'"
+  ],
+  "remedies": [
+    "Treating the underlying cause (e.g., anti-seizure meds or migraine preventatives)",
+    "Prism glasses to shift the visual field (for hemi-distortions)",
+    "Reassurance and education to manage the fear of 'losing one's mind'",
+    "Digital 'Face-Correction' filters in AR (experimental)"
+  ],
+  "prevention": [
+    "Blood pressure management to prevent occipital stroke",
+    "Prompt medical attention for sudden visual changes"
+  ]
+}
+
 "alien_hand_syndrome": {
   "description": "Alien Hand Syndrome is a rare neurological disorder in which one hand functions involuntarily, with the victim feeling as though it is operated by an external force.",
   "symptoms": [
