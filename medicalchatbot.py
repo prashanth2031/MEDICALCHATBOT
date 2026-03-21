@@ -48,6 +48,46 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"alice_in_wonderland_syndrome": {
+  "description": "AIWS (Todd’s Syndrome) is a disorienting neuropsychological condition that affects perception, causing objects and body parts to appear larger (macropsia), smaller (micropsia), or distorted in shape.",
+  "symptoms": [
+    "Micropsia (objects appearing smaller than they are)",
+    "Macropsia (objects appearing much larger than they are)",
+    "Pelopsia (objects appearing closer than they are)",
+    "Teleopsia (objects appearing further away than they are)",
+    "Distorted body image (feeling like your hand is 10 feet long)",
+    "Time distortion (time moving in slow motion or 'fast-forward')"
+  ],
+  "causes": [
+    "Migraines (the most common trigger in adults)",
+    "Epstein-Barr Virus (EBV) or other viral infections (common in children)",
+    "Temporal lobe epilepsy",
+    "Lesions in the posterior parietal cortex (spatial mapping hub)",
+    "Psychoactive substance use"
+  ],
+  "risk_factors": [
+    "Childhood (symptoms often disappear after puberty)",
+    "History of complex migraines",
+    "Family history of AIWS or epilepsy"
+  ],
+  "diagnosis": [
+    "MRI to rule out structural brain abnormalities",
+    "EEG to detect seizure activity during an episode",
+    "Blood tests to check for viral infections like EBV",
+    "Visual and perceptual testing batteries"
+  ],
+  "remedies": [
+    "Managing the underlying trigger (e.g., migraine medication)",
+    "Rest and sensory deprivation during an episode",
+    "Reassurance (especially for children who find the distortions terrifying)",
+    "Wait-and-see approach (as many cases are self-limiting)"
+  ],
+  "prevention": [
+    "Avoiding migraine triggers (stress, diet, sleep loss)",
+    "Effective treatment of childhood viral infections"
+  ]
+}
+
 "prosopometamorphopsia": {
   "description": "A rare visual perception disorder where faces appear distorted. Unlike Prosopagnosia, the patient can often still identify the person, but the 'rendering' of their features is grotesque.",
   "symptoms": [
