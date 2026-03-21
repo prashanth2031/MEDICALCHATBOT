@@ -244,6 +244,48 @@ medical_db = {
     "Protecting against head injury"
   ]
 }
+"cotards_delusion": {
+  "description": "A rare neuropsychiatric condition where a person holds the delusional belief that they are dead, dying, putrefying, or have lost their blood or internal organs.",
+  "symptoms": [
+    "Absolute negation of existence ('I don't exist')",
+    "Belief that one is a walking corpse or a ghost",
+    "Insensitivity to pain (analgesia)",
+    "Severe depression and social withdrawal",
+    "Refusal to eat (because 'dead people don't need food')",
+    "Delusions of immortality (ironically, because you can't 'die' if you're already dead)"
+  ],
+  "causes": [
+    "Disconnected circuitry between the fusiform face area and the amygdala",
+    "Atrophy or dysfunction in the Insular Cortex (the 'interoception' hub)",
+    "Severe depression or psychotic disorders",
+    "Complication of neurological injuries (stroke, tumor, or TBI)",
+    "Adverse reaction to certain medications (e.g., Acyclovir in renal failure)"
+  ],
+  "risk_factors": [
+    "Advanced age with underlying brain atrophy",
+    "Severe mood disorders (Major Depressive Disorder with psychosis)",
+    "Schizophrenia",
+    "Right-hemisphere lesions"
+  ],
+  "diagnosis": [
+    "Psychiatric evaluation based on the 'Walking Corpse' criteria",
+    "MRI to check for lesions in the frontoparietal or insular regions",
+    "Metabolic screening to rule out drug-induced psychosis",
+    "Insight assessment (patients typically have zero insight into the delusion)"
+  ],
+  "remedies": [
+    "Electroconvulsive Therapy (ECT) - remarkably effective for 'rebooting' the system",
+    "Antipsychotic and antidepressant combinations",
+    "Treating the underlying neurological injury",
+    "Psychotherapy (once the acute 'dead' phase is managed)"
+  ],
+  "prevention": [
+    "Early intervention in severe depression",
+    "Monitoring renal function during antiviral treatments",
+    "Managing vascular health to prevent right-hemisphere strokes"
+  ]
+}
+
 
 "transient_global_amnesia": {
   "description": "TGA is a sudden, temporary episode of memory loss that can't be attributed to a common neurological condition, such as epilepsy or stroke.",
