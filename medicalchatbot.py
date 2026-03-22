@@ -122,6 +122,44 @@ medical_db = {
     "N/A"
   ]
 }
+"misophonia": {
+  "description": "Misophonia is a condition in which specific sounds, known as 'triggers,' evoke strong negative emotional or physiological responses that most people would find negligible.",
+  "symptoms": [
+    "Immediate, intense anger, irritation, or disgust toward a sound",
+    "Physical fight-or-flight response (sweating, increased heart rate, muscle tension)",
+    "Extreme urge to flee the area or stop the sound source",
+    "Hyper-focus on the trigger once it starts (the 'Tracking' glitch)",
+    "Anticipatory anxiety (worrying about encountering a trigger sound)"
+  ],
+  "causes": [
+    "Hyper-connectivity between the Auditory Cortex and the Anterior Insular Cortex (AIC)",
+    "Abnormal 'salience' processing (deciding what is important vs. background noise)",
+    "Over-activation of the Limbic System (the emotional CPU)",
+    "Conditioned neural pathways from past negative experiences"
+  ],
+  "risk_factors": [
+    "Family history of sound sensitivity",
+    "Co-occurrence with OCD or anxiety disorders",
+    "Onset typically during late childhood or early adolescence"
+  ],
+  "diagnosis": [
+    "Misophonia Questionnaire (MQ) or Amsterdam Misophonia Scale (A-MISO-S)",
+    "fMRI to observe AIC activity during trigger exposure",
+    "Audiological testing to rule out Hyperacusis (physical pain from loud sounds)",
+    "Psychological screening for comorbid conditions"
+  ],
+  "remedies": [
+    "Sound masking (white noise, brown noise, or pink noise)",
+    "Noise-canceling headphones to 'shield' the input",
+    "Counter-conditioning (pairing a trigger sound with a pleasant stimulus)",
+    "Tinnitus Retraining Therapy (TRT) modified for Misophonia"
+  ],
+  "prevention": [
+    "Early exposure to diverse auditory environments",
+    "Stress management and autonomic nervous system regulation"
+  ]
+}
+
 
 "foreign_accent_syndrome": {
   "description": "FAS is a rare speech disorder that causes a person to speak their native language with an accent that sounds 'foreign' to listeners, resulting from damage to the speech-production centers of the brain.",
