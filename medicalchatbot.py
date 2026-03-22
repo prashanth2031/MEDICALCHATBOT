@@ -86,6 +86,44 @@ medical_db = {
     "Protecting the head from trauma if bone thinning is known"
   ]
 }
+"foreign_accent_syndrome": {
+  "description": "FAS is a rare speech disorder that causes a person to speak their native language with an accent that sounds 'foreign' to listeners, resulting from damage to the speech-production centers of the brain.",
+  "symptoms": [
+    "Altered vowel duration (lengthening or shortening sounds)",
+    "Changes in pitch and intonation (melody of speech)",
+    "Errors in 'voicing' (e.g., saying 'p' instead of 'b')",
+    "Insertion of extra vowels between consonants",
+    "Preserved vocabulary and grammar (it is not a loss of language knowledge)"
+  ],
+  "causes": [
+    "Stroke (most common, usually in the left hemisphere)",
+    "Traumatic Brain Injury (TBI)",
+    "Brain tumors or MS lesions in the motor cortex",
+    "Psychogenic factors (rare cases triggered by severe trauma)"
+  ],
+  "risk_factors": [
+    "High blood pressure or cardiovascular issues (stroke risk)",
+    "High-impact sports or occupations (TBI risk)",
+    "History of neurological conditions"
+  ],
+  "diagnosis": [
+    "Speech-language pathology assessment",
+    "MRI/CT to locate lesions in the pre-central gyrus or Broca's area",
+    "Spectrographic analysis of speech patterns",
+    "Psychiatric screening to rule out functional disorders"
+  ],
+  "remedies": [
+    "Speech therapy to 're-tune' the prosody engine",
+    "Counseling to deal with the 'Identity Crisis' of sounding like a stranger",
+    "Techniques to mimic the original native accent through repetitive drills",
+    "Targeted neuro-rehabilitation"
+  ],
+  "prevention": [
+    "Standard stroke prevention protocols",
+    "Helmet use and head protection",
+    "Management of chronic neurological health"
+  ]
+}
 
 "alice_in_wonderland_syndrome": {
   "description": "AIWS (Todd’s Syndrome) is a disorienting neuropsychological condition that affects perception, causing objects and body parts to appear larger (macropsia), smaller (micropsia), or distorted in shape.",
