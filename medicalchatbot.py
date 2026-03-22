@@ -48,6 +48,45 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"superior_canal_dehiscence": {
+  "description": "SCDS is a medical condition of the inner ear that leads to various balance and auditory symptoms, most notably the ability to hear internal bodily sounds with abnormal clarity.",
+  "symptoms": [
+    "Autophony (hearing your own voice, breathing, or heartbeat loudly)",
+    "Hearing your eyes move (a 'scratching' or 'swishing' sound)",
+    "Tullio phenomenon (vertigo triggered by loud noises)",
+    "Hennebert sign (vertigo triggered by pressure changes in the ear)",
+    "Hearing your own footsteps 'thumping' in your head",
+    "Pulsatile tinnitus (rhythmic whistling or booming synchronous with the pulse)"
+  ],
+  "causes": [
+    "A hole or thinning in the temporal bone (superior semicircular canal)",
+    "Congenital developmental abnormality (failure of the bone to thicken)",
+    "Head trauma causing a pre-existing thin bone to break",
+    "Chronic pressure from the brain against the skull base"
+  ],
+  "risk_factors": [
+    "Genetic predisposition to thin cranial bones",
+    "History of head injury",
+    "Increased intracranial pressure"
+  ],
+  "diagnosis": [
+    "High-resolution CT scan of the temporal bone",
+    "Vestibular Evoked Myogenic Potentials (VEMP) testing",
+    "Audiometry (showing a 'gap' between air and bone conduction)",
+    "Clinical 'Eye Movement' test (observing nystagmus triggered by sound)"
+  ],
+  "remedies": [
+    "Surgical 'plugging' or resurfacing of the dehiscence",
+    "Avoidance of triggers (loud noises, pressure changes)",
+    "Pressure equalization (PE) tubes in the eardrum",
+    "Vestibular rehabilitation therapy"
+  ],
+  "prevention": [
+    "N/A (largely structural/congenital)",
+    "Protecting the head from trauma if bone thinning is known"
+  ]
+}
+
 "alice_in_wonderland_syndrome": {
   "description": "AIWS (Todd’s Syndrome) is a disorienting neuropsychological condition that affects perception, causing objects and body parts to appear larger (macropsia), smaller (micropsia), or distorted in shape.",
   "symptoms": [
