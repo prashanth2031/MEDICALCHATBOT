@@ -86,6 +86,43 @@ medical_db = {
     "Protecting the head from trauma if bone thinning is known"
   ]
 }
+"aphantasia": {
+  "description": "Aphantasia is the inability to voluntarily create mental images in the 'mind's eye.' It is a variation in human experience rather than a disability, affecting the 'internal visualization' module.",
+  "symptoms": [
+    "Inability to 'see' images when closing the eyes and imagining",
+    "Conceptual recall instead of visual recall (knowing a car has 4 wheels without 'seeing' it)",
+    "Difficulty with 'visual memory' tasks (e.g., describing a crime suspect's face)",
+    "Often accompanied by 'SDAM' (Severely Deficient Autobiographical Memory)",
+    "Dreaming can still be visual (showing the 'display' works, but the 'user command' is broken)"
+  ],
+  "causes": [
+    "Hypo-connectivity between the Frontal Cortex and the Visual Cortex",
+    "Failure of the 'top-down' feedback loop required for visualization",
+    "Structural differences in the Precuneus and Medial Prefrontal Cortex",
+    "Can be congenital (from birth) or acquired via brain injury"
+  ],
+  "risk_factors": [
+    "Genetic predisposition (often runs in families)",
+    "Often correlates with high performance in STEM or logic-based fields",
+    "Potential links to certain neurodivergent traits"
+  ],
+  "diagnosis": [
+    "Vividness of Visual Imagery Questionnaire (VVIQ)",
+    "Pupillary Response Test (pupils normally contract when imagining light; in Aphantasiacs, they don't)",
+    "fMRI showing lack of activation in the visual cortex during 'imagination' tasks",
+    "Binocular Rivalry tests"
+  ],
+  "remedies": [
+    "N/A (not considered a disorder requiring a 'cure')",
+    "Utilization of 'Semantic' memory strategies",
+    "Using external visual aids (sketches, mood boards, or 3D models)",
+    "Focusing on other senses (audio/tactile) for creative work"
+  ],
+  "prevention": [
+    "N/A"
+  ]
+}
+
 "foreign_accent_syndrome": {
   "description": "FAS is a rare speech disorder that causes a person to speak their native language with an accent that sounds 'foreign' to listeners, resulting from damage to the speech-production centers of the brain.",
   "symptoms": [
