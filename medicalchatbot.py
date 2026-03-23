@@ -86,6 +86,45 @@ medical_db = {
     "Protecting the head from trauma if bone thinning is known"
   ]
 }
+"musical_ear_syndrome": {
+  "description": "A condition where individuals with hearing loss experience non-psychiatric musical hallucinations. The brain 'fills in' the silence with complex, repetitive music.",
+  "symptoms": [
+    "Hearing music that isn't there (often described as 'radio playing in the next room')",
+    "Hallucinations are typically repetitive (loops of 15-30 seconds)",
+    "Music is often familiar (childhood songs, hymns, or classic pop)",
+    "Awareness that the music is 'internal' (preserved insight)",
+    "Hallucinations often stop when real external sound is introduced"
+  ],
+  "causes": [
+    "Sensory deprivation (deafferentation) of the auditory cortex",
+    "Hypersensitivity of auditory neurons in the temporal lobe",
+    "Spontaneous firing of 'memory-linked' audio circuits",
+    "Age-related hearing loss or severe tinnitus"
+  ],
+  "risk_factors": [
+    "Living in a very quiet environment",
+    "Advanced age with untreated hearing loss",
+    "Use of certain ototoxic medications",
+    "Social isolation"
+  ],
+  "diagnosis": [
+    "Audiometry to confirm degree of hearing loss",
+    "Psychiatric screening to rule out Schizophrenia (which features 'voices' rather than 'music')",
+    "MRI/CT to rule out temporal lobe tumors or seizures",
+    "The 'Insight Test' (confirming the patient knows the music isn't real)"
+  ],
+  "remedies": [
+    "Hearing aids (the 'Audio Driver Update' to restore external signals)",
+    "White noise machines to give the brain 'dummy data' to process",
+    "Cognitive-behavioral techniques to 'ignore' the background task",
+    "Reviewing and adjusting medications"
+  ],
+  "prevention": [
+    "Early treatment of hearing loss with hearing aids or cochlear implants",
+    "Maintaining a rich 'audio environment' (radio, TV, or social interaction)"
+  ]
+}
+
 "anton_babinski_syndrome": {
   "description": "A form of anosognosia (lack of insight) where patients who are cortically blind insist that they can see, often providing detailed but false descriptions of their visual environment.",
   "symptoms": [
