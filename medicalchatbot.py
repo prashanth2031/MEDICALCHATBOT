@@ -86,6 +86,44 @@ medical_db = {
     "Protecting the head from trauma if bone thinning is known"
   ]
 }
+"anton_babinski_syndrome": {
+  "description": "A form of anosognosia (lack of insight) where patients who are cortically blind insist that they can see, often providing detailed but false descriptions of their visual environment.",
+  "symptoms": [
+    "Visual Anosognosia (denial of blindness)",
+    "Confabulation (inventing visual details to fill the 'darkness')",
+    "Walking into objects while claiming to see them",
+    "Extreme defensiveness or logical 'patches' when confronted with evidence of blindness",
+    "Complete cortical blindness (loss of light perception)"
+  ],
+  "causes": [
+    "Bilateral damage to the Occipital Lobes (Primary Visual Cortex)",
+    "Disconnection between the visual area and the language/logic centers",
+    "Stroke involving the posterior cerebral arteries",
+    "Traumatic brain injury (TBI) affecting the back of the head"
+  ],
+  "risk_factors": [
+    "Major vascular events (strokes)",
+    "Severe hypertensive crisis",
+    "Bilateral occipital tumors"
+  ],
+  "diagnosis": [
+    "Visual field testing (patient fails but claims success)",
+    "MRI/CT showing bilateral occipital lesions",
+    "The 'Finger-Counting' Test (patient guesses numbers with total confidence)",
+    "Neurological assessment for Anosognosia"
+  ],
+  "remedies": [
+    "Treating the underlying cause (e.g., managing stroke or pressure)",
+    "Neuro-rehabilitation to slowly 'introduce' the reality of blindness",
+    "Safety monitoring (since patients believe they can drive or walk unassisted)",
+    "Occupational therapy for the blind"
+  ],
+  "prevention": [
+    "Vascular health management",
+    "Protective gear to avoid posterior brain trauma"
+  ]
+}
+
 "riddoch_phenomenon": {
   "description": "A rare type of visual impairment often caused by lesions in the primary visual cortex (V1). The patient is blind to static objects but can perceive objects in motion.",
   "symptoms": [
