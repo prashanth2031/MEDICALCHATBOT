@@ -86,6 +86,44 @@ medical_db = {
     "Protecting the head from trauma if bone thinning is known"
   ]
 }
+"riddoch_phenomenon": {
+  "description": "A rare type of visual impairment often caused by lesions in the primary visual cortex (V1). The patient is blind to static objects but can perceive objects in motion.",
+  "symptoms": [
+    "Statosegnosia (inability to see static objects)",
+    "Perception of 'flashes' or 'shadows' only when an object moves",
+    "Inability to describe the color or shape of the moving object",
+    "Navigational ability in crowded areas (as long as people are moving)",
+    "The 'Ghosting' effect (seeing a trail but no object)"
+  ],
+  "causes": [
+    "Damage to the Primary Visual Cortex (V1/Brodmann Area 17)",
+    "Post-stroke recovery of the V5/MT area (the motion processor)",
+    "Traumatic brain injury (TBI) to the occipital lobe",
+    "Tumors affecting the early visual pathway"
+  ],
+  "risk_factors": [
+    "Occipital lobe stroke",
+    "Surgical complications in the posterior brain",
+    "Severe head trauma"
+  ],
+  "diagnosis": [
+    "Static vs. Kinetic Perimetry (mapping what the patient sees while still vs. moving)",
+    "fMRI to check for activity in area V5/MT without activity in V1",
+    "Neurological testing for 'Blindsight' capabilities",
+    "Ophthalmological exams to confirm the eyes are functioning normally"
+  ],
+  "remedies": [
+    "Visual rehabilitation (training the brain to use motion to 'map' surroundings)",
+    "Compensatory strategies (manually moving the head to 'activate' the scene)",
+    "Occupational therapy for navigating 'static' environments",
+    "Prism lenses in some specific stroke recovery cases"
+  ],
+  "prevention": [
+    "Stroke prevention (blood pressure and cholesterol management)",
+    "Head protection in high-risk environments"
+  ]
+}
+
 "aphantasia": {
   "description": "Aphantasia is the inability to voluntarily create mental images in the 'mind's eye.' It is a variation in human experience rather than a disability, affecting the 'internal visualization' module.",
   "symptoms": [
