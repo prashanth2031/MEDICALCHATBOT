@@ -86,6 +86,47 @@ medical_db = {
     "Protecting the head from trauma if bone thinning is known"
   ]
 }
+"exploding_head_syndrome": {
+  "description": "A sensory sleep disorder where an individual hears a loud, imagined noise or experiences an explosive feeling in the head when falling asleep or waking up.",
+  "symptoms": [
+    "Hearing a sudden, deafening noise (explosion, thunder, or shout)",
+    "Seeing a flash of light simultaneously with the noise (in 10% of cases)",
+    "Intense but brief feeling of fear or panic",
+    "No physical pain (despite the 'exploding' sensation)",
+    "Elevated heart rate and sweating immediately after the event"
+  ],
+  "causes": [
+    "Delayed 'shut down' of the Reticular Formation in the brainstem",
+    "A sudden burst of neural activity in the Auditory Cortex",
+    "Stress and high levels of anxiety",
+    "Side effects of withdrawing from certain medications (e.g., SSRIs)",
+    "Minor temporal lobe seizures (rarely)"
+  ],
+  "risk_factors": [
+    "Sleep deprivation",
+    "High stress environments",
+    "Female gender (statistically higher reporting)",
+    "History of sleep paralysis or other parasomnias"
+  ],
+  "diagnosis": [
+    "Sleep study (Polysomnography) to rule out apnea or seizures",
+    "Patient history (reporting the distinct 'auditory bang' signature)",
+    "Neurological exam to ensure no underlying vascular issues",
+    "Exclusion of external noise sources"
+  ],
+  "remedies": [
+    "Stress management and relaxation techniques",
+    "Improving sleep hygiene to prevent system fatigue",
+    "Clomipramine or calcium channel blockers in severe cases",
+    "Reassurance (knowing it’s a harmless glitch reduces the 'Fear Spike')"
+  ],
+  "prevention": [
+    "Maintaining a consistent sleep schedule",
+    "Reducing caffeine intake in the afternoon",
+    "Managing daytime anxiety levels"
+  ]
+}
+
 "musical_ear_syndrome": {
   "description": "A condition where individuals with hearing loss experience non-psychiatric musical hallucinations. The brain 'fills in' the silence with complex, repetitive music.",
   "symptoms": [
