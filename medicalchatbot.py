@@ -160,6 +160,45 @@ medical_db = {
     "N/A"
   ]
 }
+"phantom_limb_syndrome": {
+  "description": "The vivid perception that an amputated or missing limb is still attached to the body and moving appropriately with other body parts.",
+  "symptoms": [
+    "Sensations of touch, pressure, or temperature in the missing limb",
+    "Phantom pain (stabbing, burning, or 'clenched' sensations)",
+    "The feeling that the limb is 'telescoping' (getting shorter over time)",
+    "Involuntary 'movement' of the ghost limb",
+    "Phantogeusia (phantom tastes) or other sensory equivalents in rare cases"
+  ],
+  "causes": [
+    "Maladaptive neuroplasticity in the somatosensory cortex",
+    "Cortical Remapping (neighboring brain areas 'taking over' the empty slot)",
+    "Persistent signaling from damaged nerve endings (neuromas) at the stump",
+    "The 'Body Schema' module in the parietal lobe failing to update"
+  ],
+  "risk_factors": [
+    "Pre-amputation pain in the limb",
+    "Traumatic vs. planned amputation",
+    "Psychological stress during recovery"
+  ],
+  "diagnosis": [
+    "Clinical history and physical examination",
+    "Exclusion of 'Stump Pain' (which is physical, not neurological)",
+    "fMRI to observe activity in the 'vacant' cortical mapping area",
+    "Patient reporting of the 'position' of the non-existent limb"
+  ],
+  "remedies": [
+    "Mirror Box Therapy (using visual 'spoofing' to trick the brain)",
+    "TENS (Transcutaneous Electrical Nerve Stimulation)",
+    "Targeted Muscle Reinnervation (TMR) surgery",
+    "Graded Motor Imagery and mental visualization",
+    "Pharmacological management (e.g., gabapentin for nerve signals)"
+  ],
+  "prevention": [
+    "Aggressive pain management before and during the amputation procedure",
+    "Early use of prosthetic 'feedback' devices"
+  ]
+}
+
 
 "anton_babinski_syndrome": {
   "description": "A form of anosognosia (lack of insight) where patients who are cortically blind insist that they can see, often providing detailed but false descriptions of their visual environment.",
