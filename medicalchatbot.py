@@ -86,6 +86,47 @@ medical_db = {
     "Protecting the head from trauma if bone thinning is known"
   ]
 }
+"visual_snow_syndrome": {
+  "description": "Visual Snow Syndrome is a chronic neurological disorder characterized by a continuous visual disturbance that occupies the entire visual field, appearing like 'static' or 'snow'.",
+  "symptoms": [
+    "Continuous, dynamic, tiny dots (static) across the visual field",
+    "Palinopsia (trailing afterimages or 'ghosting' of moving objects)",
+    "Enhanced entoptic phenomena (seeing floaters, 'blue field' sparks, or pulses with heartbeats)",
+    "Photophobia (severe light sensitivity)",
+    "Nyctalopia (impaired night vision/static becoming overwhelming in the dark)",
+    "Tinnitus (ringing in the ears, often co-occurring)"
+  ],
+  "causes": [
+    "Hyper-metabolism/Hyper-excitability in the Lingual Gyrus",
+    "Thalamocortical dysrhythmia (a mismatch in 'clock speed' between brain centers)",
+    "Poor 'gating' or filtering of sensory information in the brainstem",
+    "Often triggered or exacerbated by migraines or high stress"
+  ],
+  "risk_factors": [
+    "History of migraines (with or without aura)",
+    "Anxiety and depression (comorbidities, not causes)",
+    "Certain medications (hallucinogen persisting perception disorder or HPPD)",
+    "Concussion or mild TBI"
+  ],
+  "diagnosis": [
+    "Clinical diagnosis based on the ICHD-3 criteria",
+    "Ophthalmological exam to rule out eye/retinal issues (eyes are usually healthy)",
+    "PET scan to observe glucose metabolism in the lingual gyrus",
+    "EEG to detect thalamocortical dysrhythmia"
+  ],
+  "remedies": [
+    "Lamotrigine (anti-seizure medication to 'quiet' the visual cortex)",
+    "FL-41 tinted lenses (to manage photophobia)",
+    "Visual Snow Protocol (VSP) - specialized neuro-optometric rehabilitation",
+    "Stress management and mindfulness to reduce 'focus' on the static"
+  ],
+  "prevention": [
+    "Migraine management",
+    "Avoiding illicit hallucinogenic substances (to prevent HPPD)",
+    "Protecting against head injury"
+  ]
+}
+
 "exploding_head_syndrome": {
   "description": "A sensory sleep disorder where an individual hears a loud, imagined noise or experiences an explosive feeling in the head when falling asleep or waking up.",
   "symptoms": [
