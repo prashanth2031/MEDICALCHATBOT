@@ -280,6 +280,43 @@ medical_db = {
     "Early use of prosthetic 'feedback' devices"
   ]
 }
+"reduplicative_paramnesia": {
+  "description": "A delusional belief that a place or location has been duplicated, exists in two locations simultaneously, or has been relocated.",
+  "symptoms": [
+    "Insisting a current location is a 'duplicate' of a familiar one",
+    "Believing one is in two places at the same time",
+    "Confabulating reasons for why a building has 'moved'",
+    "Orientation to person and time is often intact, but orientation to place is 'split'",
+    "High level of certainty in the delusion, despite geographical evidence"
+  ],
+  "causes": [
+    "Bilateral Frontal Lobe damage (impaired monitoring and integration)",
+    "Right Hemisphere lesions (specifically the Parietal/Occipital areas responsible for spatial mapping)",
+    "Stroke or Traumatic Brain Injury (TBI)",
+    "Disconnection between the 'Spatial Map' and the 'Familiarity' centers"
+  ],
+  "risk_factors": [
+    "Severe right-hemisphere stroke",
+    "Advanced neurodegenerative disease",
+    "History of complex head trauma"
+  ],
+  "diagnosis": [
+    "Neurological exam focusing on spatial orientation",
+    "MRI/CT to identify frontal and right-parietal lesions",
+    "Neuropsychological testing for executive function and monitoring",
+    "Clock-drawing or map-reconstruction tasks"
+  ],
+  "remedies": [
+    "Treating the underlying brain injury or inflammation",
+    "Cognitive rehabilitation to 're-anchor' spatial logic",
+    "Environmental cues (GPS, photos, clear signage)",
+    "Antipsychotic medication if the delusion causes extreme distress"
+  ],
+  "prevention": [
+    "Vascular health management to prevent strokes",
+    "Standard safety protocols to avoid TBI"
+  ]
+}
 
 
 "anton_babinski_syndrome": {
