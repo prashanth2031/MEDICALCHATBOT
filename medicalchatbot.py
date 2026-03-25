@@ -431,6 +431,43 @@ medical_db = {
     "N/A"
   ]
 }
+"mirror_speech_synesthesia": {
+  "description": "A form of synesthesia where auditory perception of speech sounds triggers involuntary tactile sensations in the listener's own vocal tract or body.",
+  "symptoms": [
+    "Feeling the 'shape' of words in the mouth while someone else speaks",
+    "Physical sensations of vocal cord vibration when hearing deep voices",
+    "Involuntary tongue or lip movements mimicking the speaker (sub-vocalization)",
+    "Tactile 'weight' or 'texture' associated with specific phonemes (e.g., 'K' feels sharp, 'M' feels soft)",
+    "Sensory overload in loud or multi-speaker environments"
+  ],
+  "causes": [
+    "Hyper-connectivity between the Auditory Cortex and the Motor/Somatosensory regions",
+    "Over-activation of the Mirror Neuron System (MNS)",
+    "Structural 'leakage' between Broca's area (speech production) and the sensory strip",
+    "Failure of the 'Self vs. Other' inhibitory signal in the parietal lobe"
+  ],
+  "risk_factors": [
+    "High levels of empathy (correlated with mirror-neuron density)",
+    "Presence of other forms of synesthesia (e.g., Grapheme-Color)",
+    "Genetic predisposition to neuroplasticity"
+  ],
+  "diagnosis": [
+    "Consistency testing (feeling the same sensation for the same word over time)",
+    "fMRI showing co-activation of the motor cortex during passive listening",
+    "EMG (Electromyography) of the jaw and tongue muscles during auditory tasks",
+    "Subjective reporting of 'tactile speech' since early childhood"
+  ],
+  "remedies": [
+    "N/A (often viewed as a 'Hyper-Empathy' trait)",
+    "Selective attention training to decouple the audio-tactile link",
+    "Using earplugs or noise-canceling headphones to reduce haptic 'noise'",
+    "Mindfulness to manage the 'physicality' of conversation"
+  ],
+  "prevention": [
+    "N/A"
+  ]
+}
+
 "misophonia": {
   "description": "Misophonia is a condition in which specific sounds, known as 'triggers,' evoke strong negative emotional or physiological responses that most people would find negligible.",
   "symptoms": [
