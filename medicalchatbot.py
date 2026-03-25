@@ -167,6 +167,47 @@ medical_db = {
     "Managing daytime anxiety levels"
   ]
 }
+"sensed_presence_effect": {
+  "description": "A phenomenon where an individual in an extreme or isolated environment feels the distinct presence of another person, despite being alone.",
+  "symptoms": [
+    "Feeling a 'shadowy' presence just outside the field of vision",
+    "Hearing internal 'advice' or 'commands' attributed to the presence",
+    "Sensations of being watched or followed",
+    "Emotional comfort or a sudden 'second wind' triggered by the presence",
+    "Physical manifestations (e.g., feeling a hand on the shoulder)"
+  ],
+  "causes": [
+    "Conflict in the Temporoparietal Junction (TPJ) (Self-Location Logic)",
+    "Severe oxygen deprivation (Hypoxia) affecting the Parietal Lobe",
+    "Monotony and sensory deprivation (the 'Ganzfeld' effect)",
+    "Extreme physical exhaustion and cold (hypothermia)",
+    "Amygdala-driven 'Survival Projection' (Limbic defense mechanism)"
+  ],
+  "risk_factors": [
+    "Solo exploration in extreme environments (mountaineering, polar treks)",
+    "Sleep deprivation over 48+ hours",
+    "High-altitude exposure ($>5000\text{m}$)",
+    "Bereavement or intense grief"
+  ],
+  "diagnosis": [
+    "Subjective reporting of 'The Third Man' during extreme events",
+    "Post-event psychological debriefing",
+    "EEG/fMRI (in lab settings using sensory deprivation)",
+    "Exclusion of psychiatric disorders like Schizophrenia"
+  ],
+  "remedies": [
+    "Restoring oxygen and glucose levels",
+    "Social reintegration (returning to 'Single-Player' status)",
+    "Sleep and temperature regulation",
+    "Cognitive-behavioral therapy for processing the event"
+  ],
+  "prevention": [
+    "Avoiding solo missions in extreme conditions",
+    "Adequate hydration and supplemental oxygen",
+    "Regular 'Social Pings' (radio check-ins) to satisfy the social module"
+  ]
+}
+
 
 "musical_ear_syndrome": {
   "description": "A condition where individuals with hearing loss experience non-psychiatric musical hallucinations. The brain 'fills in' the silence with complex, repetitive music.",
