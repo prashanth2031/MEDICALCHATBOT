@@ -86,6 +86,44 @@ medical_db = {
     "Protecting the head from trauma if bone thinning is known"
   ]
 }
+"prosopometamorphopsia": {
+  "description": "A visual perception disorder where facial features appear distorted in shape, size, location, or color. It is a highly specific failure of the face-processing circuitry.",
+  "symptoms": [
+    "Drooping, stretching, or 'melting' of facial features",
+    "Hemi-PMO (distortions appearing on only one side of the face)",
+    "Features appearing 'too small' (micro-prosopia) or 'too large' (macro-prosopia)",
+    "Perceiving faces as 'demonic' or animal-like (pithecoid)",
+    "Intact recognition (the patient knows who the person is, despite the distortion)"
+  ],
+  "causes": [
+    "Lesions in the Splenium of the Corpus Callosum",
+    "Damage to the Fusiform Face Area (FFA) or Occipital Face Area (OFA)",
+    "Temporal lobe seizures",
+    "Migraine auras affecting the visual processing pathway",
+    "Post-stroke ischemia in the posterior cerebral artery"
+  ],
+  "risk_factors": [
+    "Traumatic brain injury (TBI) to the back of the head",
+    "Chronic migraines with complex auras",
+    "Vascular disease affecting the occipital lobe"
+  ],
+  "diagnosis": [
+    "The 'Face-Sketch' test (the patient draws what they see)",
+    "fMRI to identify specific 'leaky' nodes in the face-processing network",
+    "Neurological screening to rule out psychiatric psychosis",
+    "Visual field perimetry"
+  ],
+  "remedies": [
+    "Treating the underlying cause (e.g., anti-seizure or migraine meds)",
+    "Prism lenses to shift the visual field in Hemi-PMO cases",
+    "Desensitization therapy",
+    "Wait-and-see (some post-stroke cases resolve as the brain 're-patches' the circuit)"
+  ],
+  "prevention": [
+    "Standard stroke and TBI prevention protocols"
+  ]
+}
+
 "ganzfeld_effect": {
   "description": "A phenomenon of perception caused by exposure to an unstructured, uniform stimulation field, leading to 'brain-generated' hallucinations and altered states of consciousness.",
   "symptoms": [
