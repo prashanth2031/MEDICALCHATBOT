@@ -86,6 +86,42 @@ medical_db = {
     "Protecting the head from trauma if bone thinning is known"
   ]
 }
+"ganzfeld_effect": {
+  "description": "A phenomenon of perception caused by exposure to an unstructured, uniform stimulation field, leading to 'brain-generated' hallucinations and altered states of consciousness.",
+  "symptoms": [
+    "Seeing vivid colors and complex geometric shapes in a 'blank' field",
+    "Auditory hallucinations (voices, music, or environmental sounds)",
+    "Distortion of time perception (feeling like hours passed in minutes)",
+    "Feeling of 'floating' or loss of body awareness",
+    "A sense of 'blanking out' or temporary blindness (the 'Black-Out' glitch)"
+  ],
+  "causes": [
+    "Sensory deprivation or 'un-patterned' stimulation",
+    "Increased neural gain in the thalamo-cortical loops",
+    "Spontaneous firing of neurons in the visual and auditory cortex",
+    "The brain's inherent 'horror vacui' (fear of the void) driving it to create data"
+  ],
+  "risk_factors": [
+    "Prolonged exposure to white-out conditions (e.g., arctic blizzards)",
+    "Intentional use of Ganzfeld goggles (halved ping-pong balls)",
+    "Deep-sea diving in murky, featureless water"
+  ],
+  "diagnosis": [
+    "Subjective reporting during controlled sensory experiments",
+    "EEG showing increased Alpha and Theta wave activity",
+    "Monitoring of 'Neural Noise' levels during isolation",
+    "Exclusion of pharmacological hallucinations"
+  ],
+  "remedies": [
+    "Introducing structured sensory input (movement, high-contrast light, varied sound)",
+    "Physical movement to re-engage the proprioceptive system",
+    "Ending the exposure to the uniform field"
+  ],
+  "prevention": [
+    "Visual and auditory 'anchoring' in uniform environments (e.g., wearing colored goggles in snow)"
+  ]
+}
+
 "visual_snow_syndrome": {
   "description": "Visual Snow Syndrome is a chronic neurological disorder characterized by a continuous visual disturbance that occupies the entire visual field, appearing like 'static' or 'snow'.",
   "symptoms": [
