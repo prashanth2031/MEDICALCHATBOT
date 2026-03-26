@@ -123,6 +123,44 @@ medical_db = {
     "Standard stroke and TBI prevention protocols"
   ]
 }
+"palinacousis": {
+  "description": "A rare auditory illusion where a sound is heard repeatedly after the original stimulus has ceased. It is a paroxysmal phenomenon of auditory persistence.",
+  "symptoms": [
+    "Hearing the exact replay of a previous sound (e.g., a conversation heard earlier)",
+    "Sounds can be 'stuck' for seconds or recur hours later",
+    "Preserved insight (the user knows the sound is a 'replay')",
+    "Often localized to one ear (if the lesion is one-sided)",
+    "Not to be confused with 'earworms' (which are mental); these sound physically real"
+  ],
+  "causes": [
+    "Lesions in the Superior Temporal Gyrus (the primary audio hub)",
+    "Temporal lobe seizures (ictal or post-ictal states)",
+    "Neoplasms (tumors) in the non-dominant hemisphere",
+    "Side effects of specific medications (e.g., trazodone or nefazodone)",
+    "Migraine auras affecting the auditory cortex"
+  ],
+  "risk_factors": [
+    "History of temporal lobe epilepsy",
+    "Recent head trauma to the side of the skull",
+    "Vascular issues in the posterior cerebral circulation"
+  ],
+  "diagnosis": [
+    "EEG to detect 'spike and wave' patterns in the temporal lobe",
+    "MRI to check for structural anomalies in the auditory cortex",
+    "Audiometry to rule out peripheral ear issues",
+    "Neurological history to distinguish from psychiatric 'voices'"
+  ],
+  "remedies": [
+    "Treating the underlying cause (e.g., anti-epileptic drugs)",
+    "Reviewing and adjusting pharmaceutical 'drivers'",
+    "Surgical intervention for localized tumors",
+    "Cognitive 'masking' (listening to new sounds to clear the buffer)"
+  ],
+  "prevention": [
+    "Managing seizure disorders",
+    "Standard neurological safety protocols"
+  ]
+}
 
 "ganzfeld_effect": {
   "description": "A phenomenon of perception caused by exposure to an unstructured, uniform stimulation field, leading to 'brain-generated' hallucinations and altered states of consciousness.",
