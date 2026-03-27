@@ -86,6 +86,44 @@ medical_db = {
     "Protecting the head from trauma if bone thinning is known"
   ]
 }
+"anton_babinski_syndrome": {
+  "description": "A rare condition in which patients who are cortically blind (due to brain damage) deny their blindness and attempt to behave as if they can see.",
+  "symptoms": [
+    "Total blindness (lack of light perception)",
+    "Anosognosia (complete lack of insight into the deficit)",
+    "Confabulation (inventing detailed descriptions of the surroundings)",
+    "Bumping into objects while insisting they 'just didn't see them'",
+    "Aggressive defense of their 'vision' when challenged"
+  ],
+  "causes": [
+    "Bilateral lesions in the Occipital Lobe (the primary visual cortex)",
+    "Disconnection between the visual processing area and the 'Self-Monitoring' center",
+    "Ischemic stroke in the posterior cerebral arteries",
+    "Traumatic Brain Injury (TBI) to the back of the head"
+  ],
+  "risk_factors": [
+    "High blood pressure and vascular disease",
+    "Advanced age (increased stroke risk)",
+    "Severe head trauma"
+  ],
+  "diagnosis": [
+    "Visual field testing (patient fails all light/motion tests)",
+    "MRI/CT showing bilateral damage to the primary visual cortex (V1)",
+    "The 'Fingers Test' (patient guesses wildly while claiming to see them)",
+    "Neurological assessment of the frontal lobe (monitoring function)"
+  ],
+  "remedies": [
+    "Treating the underlying stroke or inflammation",
+    "Occupational therapy for safety and navigation",
+    "Neuropsychological counseling to address the anosognosia",
+    "Time (the 'denial' flag occasionally resets as the brain heals)"
+  ],
+  "prevention": [
+    "Aggressive management of cardiovascular health",
+    "Use of protective headgear in high-risk environments"
+  ]
+}
+
 "cotards_delusion": {
   "description": "A rare neuropsychiatric syndrome in which a person holds the delusional belief that they are dead, non-existent, or putrefying.",
   "symptoms": [
