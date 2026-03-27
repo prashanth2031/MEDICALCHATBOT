@@ -123,6 +123,46 @@ medical_db = {
     "Standard stroke and TBI prevention protocols"
   ]
 }
+"aiws_temporal_variant": {
+  "description": "A neurological condition where the perception of time is distorted, causing external events to appear significantly faster (Tachysensia) or slower than they actually are.",
+  "symptoms": [
+    "Tachysensia: Everything feels 'sped up' (people talking fast, movements jerky)",
+    "Protracted Duration: Time feels 'stretched' (seconds feel like minutes)",
+    "Accompanying sense of urgency or 'rushing' in the mind",
+    "Distorted perception of sound (voices sounding high-pitched or frantic)",
+    "Transience: Episodes typically last 5 to 20 minutes"
+  ],
+  "causes": [
+    "Abnormal electrical activity in the Parietal-Temporal-Occipital (PTO) junction",
+    "Migraine auras (the most common 'software trigger')",
+    "Temporal Lobe Epilepsy (localized 'clock' seizures)",
+    "Infection with the Epstein-Barr virus (common in pediatric cases)",
+    "Dysregulation of the Suprachiasmatic Nucleus (the hardware master clock)"
+  ],
+  "risk_factors": [
+    "Childhood (often outgrown by adolescence)",
+    "Family history of migraines",
+    "High fever or viral infections",
+    "Acute stress or sensory overload"
+  ],
+  "diagnosis": [
+    "EEG to rule out subclinical seizure activity",
+    "MRI to check for lesions in the PTO junction",
+    "Migraine diary to track correlations with headache phases",
+    "Neuropsychological evaluation of time-estimation abilities"
+  ],
+  "remedies": [
+    "Treating the underlying migraine or infection",
+    "Dark, quiet environments to reduce 'input noise'",
+    "Grounding techniques (focusing on rhythmic breathing)",
+    "Reassurance (the 'Insight' that the clock will reset itself)"
+  ],
+  "prevention": [
+    "Managing migraine triggers (sleep, diet, hydration)",
+    "Reducing screen time during 'high-risk' periods"
+  ]
+}
+
 "palinacousis": {
   "description": "A rare auditory illusion where a sound is heard repeatedly after the original stimulus has ceased. It is a paroxysmal phenomenon of auditory persistence.",
   "symptoms": [
