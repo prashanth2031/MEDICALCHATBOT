@@ -86,6 +86,46 @@ medical_db = {
     "Protecting the head from trauma if bone thinning is known"
   ]
 }
+"cotards_delusion": {
+  "description": "A rare neuropsychiatric syndrome in which a person holds the delusional belief that they are dead, non-existent, or putrefying.",
+  "symptoms": [
+    "Nihilistic delusions (belief that the world or self does not exist)",
+    "Insensitivity to pain (since a 'corpse' cannot feel pain)",
+    "Refusal to eat or drink (logic: 'Dead people don't need fuel')",
+    "Walking 'corpse' behavior (social withdrawal and stagnation)",
+    "Severe depression and anxiety regarding their 'state of decay'",
+    "Belief in immortality (logic: 'I cannot die if I am already dead')"
+  ],
+  "causes": [
+    "Severe disconnection between the Fusiform Face Area and the Amygdala",
+    "Damage to the Right Temporoparietal Junction (rTPJ)",
+    "Atrophy in the Insular Cortex (the 'Interoception' hub)",
+    "Adverse reaction to Acyclovir (in patients with renal failure)",
+    "Severe clinical depression or schizophrenia"
+  ],
+  "risk_factors": [
+    "Advanced age and neurodegenerative conditions",
+    "Bipolar disorder or severe clinical depression",
+    "Post-traumatic brain injury affecting the right hemisphere"
+  ],
+  "diagnosis": [
+    "Clinical psychiatric interview and history",
+    "MRI to identify atrophy in the frontoparietal and insular regions",
+    "Metabolic screening (checking for Acyclovir toxicity or kidney issues)",
+    "The 'Nihilistic Belief' assessment scale"
+  ],
+  "remedies": [
+    "Electroconvulsive Therapy (ECT) — often the 'Hard Reset' that works",
+    "Antipsychotic and antidepressant medication",
+    "Intravenous fluids and nutrition (to override the 'Dead' logic)",
+    "Cognitive Behavioral Therapy (CBT) for delusional restructuring"
+  ],
+  "prevention": [
+    "Early intervention for severe depressive episodes",
+    "Careful monitoring of antiviral dosages in kidney patients"
+  ]
+}
+
 "prosopometamorphopsia": {
   "description": "A visual perception disorder where facial features appear distorted in shape, size, location, or color. It is a highly specific failure of the face-processing circuitry.",
   "symptoms": [
