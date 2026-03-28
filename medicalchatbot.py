@@ -163,6 +163,42 @@ medical_db = {
     "Careful monitoring of antiviral dosages in kidney patients"
   ]
 }
+"mirrored_self_misidentification": {
+  "description": "A delusional misidentification syndrome where an individual is unable to recognize their own reflection in a mirror, treating it as a separate person.",
+  "symptoms": [
+    "Talking to the reflection as if it were another person",
+    "Feeling 'followed' or watched by the person in the mirror",
+    "Intact recognition of other people in the mirror (e.g., recognizing a spouse standing behind them)",
+    "Attempts to cover or remove mirrors to 'hide' from the stranger",
+    "Logic loops: 'He looks like me and moves like me, but he isn't me'"
+  ],
+  "causes": [
+    "Right Hemisphere damage (specifically the Right Frontal and Parietal lobes)",
+    "Disconnection between the visual 'Face' processing and 'Self-Referential' logic",
+    "Impaired 'Mirror Neuron' integration",
+    "Advanced Alzheimer’s or dementia (system-level resource depletion)"
+  ],
+  "risk_factors": [
+    "History of right-sided stroke",
+    "Neurodegenerative diseases",
+    "Severe atrophy in the prefrontal cortex"
+  ],
+  "diagnosis": [
+    "The 'Mirror Test' (observing interactions with a reflection)",
+    "CT/MRI to locate right-hemisphere lesions",
+    "Neuropsychological testing for 'Self-Monitoring' and 'Belief Evaluation'",
+    "Assessment of mirror-concept (can they explain how a mirror works?)"
+  ],
+  "remedies": [
+    "Covering mirrors to reduce 'Visual Interrupts'",
+    "Antipsychotic medication to dampen the delusional logic",
+    "Consistent environmental cues (labels, photos of the 'Self' at different ages)",
+    "Validation therapy (reducing the distress of the 'Stranger')"
+  ],
+  "prevention": [
+    "Management of vascular health to prevent right-hemisphere ischemia"
+  ]
+}
 
 "prosopometamorphopsia": {
   "description": "A visual perception disorder where facial features appear distorted in shape, size, location, or color. It is a highly specific failure of the face-processing circuitry.",
