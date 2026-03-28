@@ -48,6 +48,45 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"foreign_accent_syndrome": {
+  "description": "A speech disorder where changes in the timing, intonation, and tongue placement cause a speaker to sound as though they have a foreign accent.",
+  "symptoms": [
+    "Vowel elongation or distortion (e.g., 'cup' sounding like 'koop')",
+    "Inappropriate voicing of consonants ('p' sounding like 'b')",
+    "Insertion of extra vowels between consonant clusters",
+    "Altered pitch and rhythm (Staccato speech)",
+    "The patient sounds like a 'non-native' speaker of their own language"
+  ],
+  "causes": [
+    "Damage to the Left Premotor Cortex (Broca’s Area)",
+    "Lesions in the Basal Ganglia or Cerebellum (the timing hardware)",
+    "Stroke or TBI affecting the 'Speech Motor' planning",
+    "Psychogenic triggers (rare, associated with severe trauma)",
+    "Multiple Sclerosis (MS) lesions"
+  ],
+  "risk_factors": [
+    "Vascular disease in the left hemisphere",
+    "History of complex migraines affecting speech",
+    "High-impact head trauma"
+  ],
+  "diagnosis": [
+    "Acoustic analysis of speech patterns (Pitch/Duration mapping)",
+    "MRI to identify lesions in the motor speech planning centers",
+    "Evaluation by a Speech-Language Pathologist (SLP)",
+    "Exclusion of Aphasia (the ability to find words is usually intact)"
+  ],
+  "remedies": [
+    "Speech therapy to 're-map' native phonetic targets",
+    "Cognitive-behavioral therapy to manage the 'Identity Crisis'",
+    "Imitation therapy (mimicking native speakers)",
+    "Treating the underlying vascular or neurological cause"
+  ],
+  "prevention": [
+    "Standard cardiovascular health to prevent stroke",
+    "Head protection to avoid TBI"
+  ]
+}
+
 "object_capgras_syndrome": {
   "description": "A delusional misidentification where a patient believes that familiar inanimate objects have been replaced by identical replicas or 'fake' versions.",
   "symptoms": [
