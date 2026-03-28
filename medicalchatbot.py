@@ -48,6 +48,44 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"object_capgras_syndrome": {
+  "description": "A delusional misidentification where a patient believes that familiar inanimate objects have been replaced by identical replicas or 'fake' versions.",
+  "symptoms": [
+    "Emotional detachment from high-value personal assets (home, wedding ring)",
+    "Insisting a replacement is 'too perfect' or 'missing the soul' of the original",
+    "Hoarding the 'fakes' while searching for the 'originals'",
+    "Treating the object with suspicion or hostility",
+    "Intact visual recognition (the 'checksum' of the object's appearance is correct)"
+  ],
+  "causes": [
+    "Disconnection between the Ventral Visual Stream and the Autonomic Nervous System",
+    "Damage to the Perirhinal Cortex (responsible for object-familiarity)",
+    "Right-hemisphere lesions affecting 'Global Integration'",
+    "Post-stroke ischemia in the posterior cerebral arteries",
+    "Severe neurodegeneration (Dementia with Lewy Bodies)"
+  ],
+  "risk_factors": [
+    "Traumatic Brain Injury (TBI) to the right parietal/temporal regions",
+    "History of complex psychiatric disorders",
+    "Advanced age with vascular complications"
+  ],
+  "diagnosis": [
+    "Neuropsychological testing for 'Object-Affect' (how does the object feel?)",
+    "MRI to check for lesions in the right-sided visual-emotional pathways",
+    "Skin Conductance Response (SCR) testing to see if familiar objects trigger a 'warmth' signal",
+    "Clinical interview focusing on 'Object-Identity' logic"
+  ],
+  "remedies": [
+    "Treating the underlying neurological injury",
+    "Validation therapy (avoiding direct confrontation of the 'replica' theory)",
+    "Environmental 'tagging' (adding unique, non-visual markers to items)",
+    "Antipsychotic medication to stabilize the belief-monitoring system"
+  ],
+  "prevention": [
+    "Standard cardiovascular and neuroprotective health protocols"
+  ]
+}
+
 "superior_canal_dehiscence": {
   "description": "SCDS is a medical condition of the inner ear that leads to various balance and auditory symptoms, most notably the ability to hear internal bodily sounds with abnormal clarity.",
   "symptoms": [
