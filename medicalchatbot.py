@@ -86,6 +86,46 @@ medical_db = {
     "Early cognitive training in emotional regulation"
   ]
 }
+"phantom_limb_syndrome": {
+  "description": "The sensation that an amputated or missing limb is still attached to the body and is moving appropriately with other body parts.",
+  "symptoms": [
+    "Vivid sensation of the limb's presence (length, weight, and volume)",
+    "Phantom pain (cramping, burning, or shooting sensations)",
+    "Telescoping (feeling that the phantom limb is shrinking over time)",
+    "Kinesthetic sensations (feeling the 'ghost' hand grasp an object)",
+    "Triggering of the phantom by touching other body parts (e.g., the face)"
+  ],
+  "causes": [
+    "Cortical Remapping in the Somatosensory Cortex",
+    "Persistence of the 'Neuromatrix' (the hardcoded body map)",
+    "Spontaneous firing from the dorsal horn of the spinal cord",
+    "Peripheral nerve irritation at the site of amputation (neuromas)",
+    "Mismatch between motor commands and sensory feedback"
+  ],
+  "risk_factors": [
+    "Pre-amputation pain (the brain 'saves' the pain state)",
+    "Upper limb amputations (more common than lower limb)",
+    "Sudden traumatic loss of a limb"
+  ],
+  "diagnosis": [
+    "Clinical history and subjective reporting",
+    "fMRI showing activity in the 'vacant' cortical regions",
+    "Physical mapping of 'Referred Sensation' zones",
+    "Exclusion of localized stump pain"
+  ],
+  "remedies": [
+    "Mirror Box Therapy (Visual feedback to 'reset' the brain)",
+    "TENS (Transcutaneous Electrical Nerve Stimulation)",
+    "Targeted Muscle Reinnervation (TMR)",
+    "Graded Motor Imagery (GMI)",
+    "Neuromodulation (Spinal cord stimulators)"
+  ],
+  "prevention": [
+    "Aggressive pain management before elective surgeries",
+    "Immediate post-operative sensory feedback training"
+  ]
+}
+
 "reduplicative_paramnesia": {
   "description": "A delusional belief that a place or location has been duplicated, exists in two places at once, or has been relocated to another site.",
   "symptoms": [
