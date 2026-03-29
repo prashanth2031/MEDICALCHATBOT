@@ -86,6 +86,45 @@ medical_db = {
     "Early cognitive training in emotional regulation"
   ]
 }
+"amnestic_misidentification": {
+  "description": "A rare syndrome where a patient, due to memory loss, misidentifies their current chronological age and environment, believing they are living in a previous period of their life.",
+  "symptoms": [
+    "Chronological Displacement (believing it is 10, 20, or 40 years ago)",
+    "Misidentifying family members (e.g., mistaking a son for a brother or a spouse for a parent)",
+    "Looking in the mirror and not recognizing the 'older' reflection (Reflection Disconnect)",
+    "Attempting to perform 'outdated' routines (e.g., trying to go to a job they retired from decades ago)",
+    "Confabulation to explain 'modern' technology (e.g., 'This smartphone is a fancy calculator')"
+  ],
+  "causes": [
+    "Severe Retrograde and Anterograde Amnesia",
+    "Bilateral Hippocampal damage (the Indexing service)",
+    "Frontal Lobe atrophy (the 'Reality Monitor')",
+    "Wernicke-Korsakoff Syndrome (often Thiamine deficiency related)",
+    "Advanced Alzheimer’s or Post-Traumatic Brain Injury"
+  ],
+  "risk_factors": [
+    "Chronic alcoholism (B1 deficiency)",
+    "Severe head trauma affecting the temporal lobes",
+    "Neurodegenerative diseases affecting memory retrieval"
+  ],
+  "diagnosis": [
+    "The 'Orientation to Time' test (Standard MMSE)",
+    "MRI showing significant hippocampal or thalamic volume loss",
+    "Family interviews to establish the 'Target Era' of the delusion",
+    "PET scans to detect 'Cold Zones' in the prefrontal cortex"
+  ],
+  "remedies": [
+    "Validation Therapy (entering the patient's 'Time Zone' to reduce distress)",
+    "Environmental 'Cueing' (photos, music, and items from the current era)",
+    "High-dose Thiamine (if Korsakoff-related)",
+    "Structured routine to 'anchor' the user to the present"
+  ],
+  "prevention": [
+    "Managing nutritional health (B vitamins)",
+    "Preventing repetitive TBI"
+  ]
+}
+
 "phantom_limb_syndrome": {
   "description": "The sensation that an amputated or missing limb is still attached to the body and is moving appropriately with other body parts.",
   "symptoms": [
