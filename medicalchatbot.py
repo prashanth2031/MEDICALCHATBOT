@@ -86,6 +86,43 @@ medical_db = {
     "Early cognitive training in emotional regulation"
   ]
 }
+"reduplicative_paramnesia": {
+  "description": "A delusional belief that a place or location has been duplicated, exists in two places at once, or has been relocated to another site.",
+  "symptoms": [
+    "Insisting the current room is an 'identical copy' of the original",
+    "Believing the hospital has been 'shipped' or moved to their hometown",
+    "Identifying familiar landmarks but claiming they belong to a 'second version' of the city",
+    "Confabulation to explain the discrepancy (e.g., 'They built a replica of my house here')",
+    "Intact recognition of people and objects (only the 'Location Tag' is corrupted)"
+  ],
+  "causes": [
+    "Damage to the Right Cerebral Hemisphere (Spatial Processing)",
+    "Bilateral Frontal Lobe lesions (Executive Monitoring failure)",
+    "Disconnection between the Hippocampus (Spatial Memory) and the Frontal Cortex",
+    "Post-stroke ischemia or Traumatic Brain Injury (TBI)",
+    "Severe encephalopathy or neurodegeneration"
+  ],
+  "risk_factors": [
+    "Right-hemisphere stroke affecting the parietal or temporal lobes",
+    "Dementia or Alzheimer's-related atrophy",
+    "Acute brain swelling or inflammation"
+  ],
+  "diagnosis": [
+    "The 'Location Mapping' test (asking the patient to explain their current coordinates)",
+    "MRI/CT to identify right-hemisphere and frontal lesions",
+    "Neuropsychological assessment of spatial orientation",
+    "Exclusion of generalized delirium"
+  ],
+  "remedies": [
+    "Orientation therapy (using external GPS/Maps to challenge the delusion)",
+    "Managing the underlying neurological injury (stroke recovery, anti-inflammatories)",
+    "Environmental 'Anchoring' (fixed, unmoving markers of reality)",
+    "Antipsychotic medication to reduce delusional rigidity"
+  ],
+  "prevention": [
+    "Standard neuro-protective health and stroke prevention"
+  ]
+}
 
 "foreign_accent_syndrome": {
   "description": "A speech disorder where changes in the timing, intonation, and tongue placement cause a speaker to sound as though they have a foreign accent.",
