@@ -48,6 +48,45 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"hyper_empathy_syndrome": {
+  "description": "A condition characterized by an intense, uncontrollable, and physically overwhelming emotional response to the perceived emotions of others.",
+  "symptoms": [
+    "Involuntary 'emotional mirroring' (feeling sad/angry/anxious because someone nearby is)",
+    "Physical symptoms triggered by others' distress (nausea, tremors, or rapid heart rate)",
+    "Inability to 'turn off' the social input feed",
+    "Extreme social fatigue and 'compassion burnout'",
+    "Difficulty making objective decisions when others are present",
+    "Feeling 'haunted' by the emotions of fictional characters or strangers"
+  ],
+  "causes": [
+    "Hyper-excitability of the Mirror Neuron System (MNS)",
+    "Increased gray matter volume in the Anterior Insular Cortex",
+    "Loss of inhibitory control in the Right Inferior Frontal Gyrus",
+    "Post-surgical complications (e.g., following a temporal lobectomy)",
+    "Genetic conditions such as Williams Syndrome"
+  ],
+  "risk_factors": [
+    "Neuroplasticity-related changes after right-hemisphere trauma",
+    "Pre-existing high-sensitivity traits",
+    "Specific neurotransmitter imbalances (Oxytocin/Vasopressin receptor density)"
+  ],
+  "diagnosis": [
+    "Interpersonal Reactivity Index (IRI) assessment",
+    "fMRI showing hyper-activation in the Insula and Cingulate Cortex during empathy tasks",
+    "Physiological monitoring (GSR/Heart Rate) while observing others in distress",
+    "Exclusion of Borderline Personality Disorder (BPD) and typical anxiety"
+  ],
+  "remedies": [
+    "Cognitive-Behavioral Therapy (CBT) to build 'Affective Boundaries'",
+    "Oxytocin modulators (experimental)",
+    "Mindfulness training to 'tag' emotions as 'External Data'",
+    "Social isolation/controlled exposure to prevent system overload"
+  ],
+  "prevention": [
+    "Early cognitive training in emotional regulation"
+  ]
+}
+
 "foreign_accent_syndrome": {
   "description": "A speech disorder where changes in the timing, intonation, and tongue placement cause a speaker to sound as though they have a foreign accent.",
   "symptoms": [
