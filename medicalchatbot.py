@@ -124,6 +124,42 @@ medical_db = {
     "Preventing repetitive TBI"
   ]
 }
+"apotemnophilia_biid": {
+  "description": "A rare condition where an individual possesses an overwhelming desire to amputate one or more healthy limbs or to become disabled.",
+  "symptoms": [
+    "Feeling of 'incompleteness' while the limb is attached",
+    "Intense envy of people who are actual amputees",
+    "Pretending behavior (using crutches or wheelchairs to simulate the desired state)",
+    "Specific 'Mapping': The user can point to the exact line where they feel the limb should end",
+    "Relief/Euphoria: The 'glitch' often resolves instantly once the limb is removed"
+  ],
+  "causes": [
+    "Failure of the Right Parietal Lobe to integrate the limb into the Body Schema",
+    "Structural anomalies in the Superior Parietal Lobule",
+    "Reduced cortical thickness in the Primary Somatosensory Cortex (S1) for that limb",
+    "Developmental 'Hard-Coding' error in the neural representation of the self"
+  ],
+  "risk_factors": [
+    "Early childhood exposure to amputees (acting as a 'Template' for the error)",
+    "Co-occurring Obsessive-Compulsive traits",
+    "Right-hemisphere developmental variations"
+  ],
+  "diagnosis": [
+    "Skin Conductance Response (SCR) mapping (the 'unwanted' limb shows high arousal/stress)",
+    "fMRI showing a 'Silent Zone' in the parietal lobe when the limb is touched",
+    "Psychiatric evaluation to distinguish from Body Dysmorphic Disorder (BDD)",
+    "Exclusion of psychosis or secondary gain"
+  ],
+  "remedies": [
+    "Cognitive Behavioral Therapy (focusing on distress management)",
+    "Antidepressants (SSRIs) to reduce the obsessive 'Uninstall' loop",
+    "Mirror therapy (experimental, attempting to 're-mount' the limb)",
+    "Ethical debate regarding 'Elective Amputation' as a functional cure"
+  ],
+  "prevention": [
+    "Currently unknown (likely a deep-seated developmental neuro-architecture error)"
+  ]
+}
 
 "phantom_limb_syndrome": {
   "description": "The sensation that an amputated or missing limb is still attached to the body and is moving appropriately with other body parts.",
