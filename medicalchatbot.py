@@ -158,6 +158,43 @@ medical_db = {
     "No known prevention for congenital cases; sensory management is key"
   ]
 }
+"ekbom_syndrome": {
+  "description": "A form of psychosis where individuals hold a firm, false belief that they are infested with parasites, insects, or bugs.",
+  "symptoms": [
+    "Formication: The sensation of 'crawling' or 'biting' on the skin",
+    "The 'Matchbox Sign': Bringing small containers of lint, skin flakes, or debris as 'proof' of the bugs",
+    "Self-mutilation: Scratching or cutting the skin to 'extract' the parasites",
+    "Hyper-vigilance: Constantly cleaning the environment or using pesticides",
+    "Intact Logic: The user is often rational in every other domain except the infestation"
+  ],
+  "causes": [
+    "Dopamine dysregulation in the Striatum (the 'Filtering' hub)",
+    "Micro-lesions in the Basal Ganglia or Parietal Lobe",
+    "Systemic toxicity (e.g., Cocaine or Methamphetamine 'coke bugs')",
+    "Vitamin B12 deficiency or chronic kidney failure (Metabolic 'Noise')",
+    "Reduced activity in the Prefrontal 'Reality-Checking' cortex"
+  ],
+  "risk_factors": [
+    "Advanced age (more common in post-menopausal women)",
+    "Chronic stimulant abuse",
+    "History of social isolation or tactile hypersensitivity"
+  ],
+  "diagnosis": [
+    "Dermatological exam to rule out actual scabies or mites",
+    "Blood panels for metabolic imbalances (liver/kidney function)",
+    "Psychiatric evaluation for 'Monothematic' delusional disorder",
+    "Observation of the 'Matchbox Sign'"
+  ],
+  "remedies": [
+    "Low-dose Antipsychotics (e.g., Risperidone) to 'mute' the dopamine noise",
+    "Antihistamines to reduce the physical 'itch' signal",
+    "Empathy-based therapy (acknowledging the distress without validating the bugs)",
+    "Treating the underlying metabolic or toxic cause"
+  ],
+  "prevention": [
+    "Management of neurotransmitter health and avoiding neurotoxic substances"
+  ]
+}
 
 "amnestic_misidentification": {
   "description": "A rare syndrome where a patient, due to memory loss, misidentifies their current chronological age and environment, believing they are living in a previous period of their life.",
