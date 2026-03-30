@@ -122,6 +122,42 @@ medical_db = {
     "Early boundary-training for highly sensitive individuals"
   ]
 }
+"mirror_touch_synesthesia": {
+  "description": "A condition where individuals experience the same sensation of touch that they see another person experiencing.",
+  "symptoms": [
+    "Tactile mirroring: Seeing a touch on someone’s left cheek causes a sensation on the user’s right (mirror) or left (anatomical) cheek",
+    "Physical 'Echoes': Feeling the texture of objects someone else is holding",
+    "Hyper-sensitivity to social touch (feeling 'smothered' in crowds)",
+    "Strong emotional resonance with the person being touched",
+    "Inability to 'ignore' the physical presence of others in the visual field"
+  ],
+  "causes": [
+    "Over-activation of the Primary Somatosensory Cortex (S1 and S2)",
+    "Reduced gray matter volume in the Right Temporoparietal Junction (rTPJ)",
+    "Hyper-connectivity between the Visual (MT/V5) and Tactile systems",
+    "Failure of the 'Inhibitory Gate' that usually suppresses vicarious touch"
+  ],
+  "risk_factors": [
+    "Congenital (born with the cross-wiring)",
+    "Acquired (secondary to limb loss or right-hemisphere stroke)",
+    "High scores in emotional contagion tests"
+  ],
+  "diagnosis": [
+    "The 'Visual-Tactile Interference' task (testing if observed touch slows down reaction to real touch)",
+    "fMRI showing S1/S2 firing during passive observation of touch",
+    "Self-report mapping of 'Mirror' vs 'Anatomical' orientation",
+    "Exclusion of tactile hallucinations or purely psychological empathy"
+  ],
+  "remedies": [
+    "Visual avoidance (looking away from intense tactile interactions)",
+    "Focusing on 'Self-Touch' (pinching one's own arm to 're-anchor' the sensor)",
+    "Cognitive 'Boundary Strengthening' exercises",
+    "Wearing heavy or textured clothing to provide a 'Constant Baseline' of real touch"
+  ],
+  "prevention": [
+    "No known prevention for congenital cases; sensory management is key"
+  ]
+}
 
 "amnestic_misidentification": {
   "description": "A rare syndrome where a patient, due to memory loss, misidentifies their current chronological age and environment, believing they are living in a previous period of their life.",
