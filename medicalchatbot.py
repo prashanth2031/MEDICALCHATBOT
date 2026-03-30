@@ -86,6 +86,43 @@ medical_db = {
     "Early cognitive training in emotional regulation"
   ]
 }
+"mirror_pain_synesthesia": {
+  "description": "A rare condition where an individual experiences the same sensation of pain that they see another person experiencing.",
+  "symptoms": [
+    "Localized pain: Seeing someone stub a toe causes a sharp pain in the user's own toe",
+    "Physical flinching or autonomic responses (sweating, increased heart rate) to others' injuries",
+    "High-fidelity mapping: The sensation matches the location and intensity of the observed pain",
+    "Sensory 'Overload' in crowded or high-action environments",
+    "Preserved 'Insight': The user knows they aren't actually injured, yet the 'Pain Driver' fires anyway"
+  ],
+  "causes": [
+    "Hyper-activation of the Anterior Cingulate Cortex (ACC) and Anterior Insula",
+    "Excessive connectivity between the Visual Cortex and the Somatosensory Homunculus",
+    "Inadequate 'Self-Other' inhibition in the Right Temporoparietal Junction (rTPJ)",
+    "Neuroplastic changes following limb loss (common in amputees observing others)"
+  ],
+  "risk_factors": [
+    "High scores in 'Trait Empathy' metrics",
+    "Pre-existing synesthetic traits (e.g., Grapheme-Color synesthesia)",
+    "History of vicarious trauma"
+  ],
+  "diagnosis": [
+    "fMRI observation: Measuring ACC activation while viewing 'Pain Stimuli' videos",
+    "Sensory mapping: Correlating observed touch/pain with subjective reporting",
+    "Psychological screening for 'Sensory Processing Sensitivity' (SPS)",
+    "Exclusion of conversion disorders or psychosomatic illness"
+  ],
+  "remedies": [
+    "Visual 'Gating' (looking away from injury triggers)",
+    "Cognitive 'Decoupling': Consciously tagging the data as 'External'",
+    "Mindfulness to strengthen the 'Self' boundary in the rTPJ",
+    "Safe-environment design (avoiding violent media/crowds during flares)"
+  ],
+  "prevention": [
+    "Early boundary-training for highly sensitive individuals"
+  ]
+}
+
 "amnestic_misidentification": {
   "description": "A rare syndrome where a patient, due to memory loss, misidentifies their current chronological age and environment, believing they are living in a previous period of their life.",
   "symptoms": [
