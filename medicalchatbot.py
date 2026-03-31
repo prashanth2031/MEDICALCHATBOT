@@ -86,6 +86,43 @@ medical_db = {
     "Early cognitive training in emotional regulation"
   ]
 }
+"hyper_reflexivity_loop": {
+  "description": "A state where tacit, automatic mental and physical processes become the object of explicit, conscious awareness, leading to a sense of alienation from the self.",
+  "symptoms": [
+    "Loss of 'Spontaneity': Simple actions like walking or smiling require manual calculation",
+    "Infinite Regress: Thinking about 'the fact that I am thinking about thinking'",
+    "Self-Alienation: The body feels like a 'machine' or an 'object' being operated by a stranger",
+    "Spatial/Temporal Distention: Seconds feel like hours as every micro-process is audited",
+    "Semantic Satiation: Words and concepts lose meaning because they are analyzed too deeply"
+  ],
+  "causes": [
+    "Dysfunction in the Prefrontal-Thalamic-Cerebellar circuit",
+    "Over-activation of the Medial Prefrontal Cortex (mPFC)",
+    "Failure of the 'Gating' mechanism that keeps background tasks out of conscious RAM",
+    "Neuroplastic shift where 'Tacit' knowledge is forced into 'Explicit' memory banks"
+  ],
+  "risk_factors": [
+    "Schizotypal personality traits",
+    "Intense philosophical or existential preoccupation",
+    "Severe sleep deprivation or chronic 'System Stress'"
+  ],
+  "diagnosis": [
+    "Self-Experience Lifespan Assessment (EASE)",
+    "fMRI showing hyper-metabolism in the 'Self-Referential' default mode network",
+    "Clinical observation of 'Manual' social behaviors",
+    "Exclusion of standard anxiety or depersonalization"
+  ],
+  "remedies": [
+    "Absorption Therapy: Engaging in high-bandwidth 'External' tasks (sports, music)",
+    "Cognitive 'De-Focusing' techniques",
+    "Dopamine modulators to reset the 'Saliency' filter",
+    "Grounding exercises to 'Re-Mount' the self into the physical environment"
+  ],
+  "prevention": [
+    "Maintaining a healthy balance between introspection and outward-facing activity"
+  ]
+}
+
 "mirror_pain_synesthesia": {
   "description": "A rare condition where an individual experiences the same sensation of pain that they see another person experiencing.",
   "symptoms": [
