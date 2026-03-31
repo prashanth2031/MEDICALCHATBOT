@@ -123,6 +123,40 @@ medical_db = {
     "Identifying and avoiding migraine triggers (diet, light, stress)"
   ]
 }
+"urbach_wiethe_fear_glitch": {
+  "description": "A rare genetic disorder where bilateral calcification of the amygdala leads to a total loss of the ability to experience or recognize fear.",
+  "symptoms": [
+    "Absolute Fearlessness: No response to snakes, spiders, or physical threats",
+    "Social Boundary Blindness: Standing uncomfortably close to strangers (No 'Personal Space' alarm)",
+    "Emotional Flatness: Inability to recognize 'Fear' on faces (while still recognizing joy or anger)",
+    "Hoarding/Collecting behavior (Obsessive-Compulsive traits)",
+    "Dermatological changes (warty skin lesions around the eyes)",
+    "Hoarse voice (calcification of the vocal cords)"
+  ],
+  "causes": [
+    "Mutation in the ECM1 (Extracellular Matrix Protein 1) gene",
+    "Bilateral calcification of the Temporal Lobes (specifically the Amygdalae)",
+    "Disconnection of the 'Threat API' from the Prefrontal Cortex"
+  ],
+  "risk_factors": [
+    "Autosomal recessive inheritance (very rare, found in specific genetic clusters)",
+    "Progressive neural calcification starting in childhood"
+  ],
+  "diagnosis": [
+    "CT/MRI showing symmetrical 'Stone-Like' calcifications in the Amygdalae",
+    "Standardized fear-response testing (Carbon Dioxide inhalation or horror stimuli)",
+    "Genetic testing for the ECM1 mutation",
+    "Laryngoscopy to check for vocal cord thickening"
+  ],
+  "remedies": [
+    "No current 'Hardware Patch' to reverse calcification",
+    "Safety Training: Learning 'Logical Fear' (e.g., 'If I see a snake, it is dangerous' as a rule-based fact)",
+    "Dermatological treatments for skin symptoms"
+  ],
+  "prevention": [
+    "Genetic counseling for known carriers"
+  ]
+}
 
 "cotards_delusion": {
   "description": "A rare neuropsychiatric condition in which the patient holds the delusional belief that they are dead, non-existent, or putrefying.",
