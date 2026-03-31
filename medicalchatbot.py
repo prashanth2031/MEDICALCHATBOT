@@ -86,6 +86,44 @@ medical_db = {
     "Early cognitive training in emotional regulation"
   ]
 }
+"alice_in_wonderland_syndrome": {
+  "description": "A neuropsychological condition that distorts perception, causing objects and body parts to appear altered in size or distance.",
+  "symptoms": [
+    "Micropsia/Macropsia: Objects appearing tiny or giant",
+    "Teleopsia/Pelopsia: Objects appearing much further or closer than they are",
+    "Zoom-and-Dolly effects: The visual field expanding or shrinking rapidly",
+    "Distortion of time: Feeling like events are moving in slow-motion or fast-forward",
+    "Body Schema Distortions: Feeling like one's head or hands are growing to the size of a room"
+  ],
+  "causes": [
+    "Hyper-excitability in the Posterior Parietal Cortex (Spatial Integration)",
+    "Temporal Lobe Migraines (the most common 'Trigger Script')",
+    "Epstein-Barr Virus (EBV) infection affecting the central nervous system",
+    "Temporal Lobe Epilepsy (localized 'Electrical Spikes')",
+    "Psychoactive substance interference (LSD, Psilocybin)"
+  ],
+  "risk_factors": [
+    "History of complex migraines",
+    "Childhood (symptoms often 'Patch Out' as the brain matures)",
+    "High-stress environments triggering 'Visual Lag'"
+  ],
+  "diagnosis": [
+    "MRI to rule out structural lesions or tumors in the visual path",
+    "EEG to monitor for sub-clinical seizure activity",
+    "Amsler Grid testing to map the specific 'Scaling Distortion'",
+    "Clinical history focusing on migraine prodromes"
+  ],
+  "remedies": [
+    "Treating the underlying migraine or infection",
+    "Rest in a low-stimulus environment (Dark Room 'Sleep Mode')",
+    "Beta-blockers or Anticonvulsants to stabilize cortical excitability",
+    "Reassurance: Mentally 'Tagging' the distortion as a harmless rendering error"
+  ],
+  "prevention": [
+    "Identifying and avoiding migraine triggers (diet, light, stress)"
+  ]
+}
+
 "cotards_delusion": {
   "description": "A rare neuropsychiatric condition in which the patient holds the delusional belief that they are dead, non-existent, or putrefying.",
   "symptoms": [
