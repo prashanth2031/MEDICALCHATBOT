@@ -86,6 +86,44 @@ medical_db = {
     "Early cognitive training in emotional regulation"
   ]
 }
+"cotards_delusion": {
+  "description": "A rare neuropsychiatric condition in which the patient holds the delusional belief that they are dead, non-existent, or putrefying.",
+  "symptoms": [
+    "Denial of self-existence ('I don't exist', 'I have no heart')",
+    "Sensations of rotting or foul odors (olfactory hallucinations of decay)",
+    "Analgesia (insensitivity to pain, as 'dead things can't feel')",
+    "Chronic suicidal ideation or self-harm to 'prove' the lack of life",
+    "Social withdrawal and cessation of eating (starvation due to 'no stomach')"
+  ],
+  "causes": [
+    "Total disconnection between the Fusiform Face Area and the Amygdala",
+    "Severe atrophy in the Temporoparietal and Frontal lobes",
+    "Right-hemisphere lesions leading to 'Alienation' of the entire body",
+    "Extreme metabolic depression in the Prefrontal Cortex",
+    "Post-ictal states in severe epilepsy"
+  ],
+  "risk_factors": [
+    "Severe clinical depression with psychotic features",
+    "Schizophrenia or Bipolar Disorder",
+    "Traumatic brain injury or advanced neurodegeneration"
+  ],
+  "diagnosis": [
+    "Clinical interview and mental status exam (MSE)",
+    "PET/SPECT scans showing 'Silent Zones' in the parietal/frontal cortex",
+    "Exclusion of Capgras or other misidentification syndromes",
+    "Neurological screening for underlying stroke or tumor"
+  ],
+  "remedies": [
+    "Electroconvulsive Therapy (ECT) - often considered the 'System Hard Reset'",
+    "Antipsychotic and Antidepressant pharmaceutical stack",
+    "Intensive nutrition and hydration support",
+    "Psychotherapy focusing on 'Embodied Presence' and sensory grounding"
+  ],
+  "prevention": [
+    "Aggressive treatment of severe mood disorders and psychotic symptoms"
+  ]
+}
+
 "hyper_reflexivity_loop": {
   "description": "A state where tacit, automatic mental and physical processes become the object of explicit, conscious awareness, leading to a sense of alienation from the self.",
   "symptoms": [
