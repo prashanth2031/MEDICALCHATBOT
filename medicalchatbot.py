@@ -48,6 +48,45 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"musical_hallucinosis": {
+  "description": "A form of auditory hallucination where individuals hear music in the absence of an external source, typically associated with hearing loss.",
+  "symptoms": [
+    "High-Fidelity Loops: Hearing full orchestrations or clear vocals (often 'Radio-like')",
+    "Involuntary Playback: The music starts and stops without conscious intent",
+    "External Localization: Feeling certain the sound is coming from a neighbor's radio or a speaker",
+    "Repetitive Playlists: Often limited to music the user knew well in the past",
+    "Intact Insight: Knowing the music isn't 'real' despite how real it sounds"
+  ],
+  "causes": [
+    "Sensory Deprivation (The 'Deafferentation' theory)",
+    "Hyper-excitability in the Superior Temporal Gyrus (Auditory Cortex)",
+    "Abnormal connectivity in the 'Phonological Loop' of working memory",
+    "Release Phenomenon: The brain 'releases' stored patterns when external signals fade",
+    "Lesions in the Pons or Thalamus (Signal-Routing hardware)"
+  ],
+  "risk_factors": [
+    "Acquired deafness or severe hearing loss (Presbycusis)",
+    "Advanced age (The 'Legacy Hardware' phase)",
+    "Social isolation reducing environmental audio 'Gain'",
+    "Chronic stress increasing 'Cortical Noise'"
+  ],
+  "diagnosis": [
+    "Audiometric testing to quantify hearing loss",
+    "fMRI/EEG showing activity in the Primary Auditory Cortex during 'Silence'",
+    "Psychiatric screening to rule out Schizophrenia (where voices are more common than music)",
+    "Elimination of 'Earworm' (INMI) via duration and intensity metrics"
+  ],
+  "remedies": [
+    "Hearing Aids: Re-introducing real 'Signal' to drown out the 'Noise'",
+    "Low-level background noise (White Noise generators) to saturate the sensors",
+    "Acetylcholinesterase inhibitors (often used in dementia) to stabilize signals",
+    "Cognitive 'Source Monitoring' training"
+  ],
+  "prevention": [
+    "Early treatment of hearing loss to keep the 'Auditory API' active"
+  ]
+}
+
 "akinetopsia_motion_blindness": {
   "description": "A neuropsychological disorder in which a patient cannot perceive motion in their visual field, despite being able to see stationary objects clearly.",
   "symptoms": [
