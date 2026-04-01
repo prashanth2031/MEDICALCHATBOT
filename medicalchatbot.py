@@ -86,6 +86,42 @@ medical_db = {
     "Monitoring neurotoxicity in complex medication stacks"
   ]
 }
+"fregoli_delusion_aliasing": {
+  "description": "A rare disorder in which a person holds a delusional belief that different people are actually a single person who changes appearance or is in disguise.",
+  "symptoms": [
+    "Identity Aliasing: Seeing the same 'Target Person' in every crowd",
+    "Hyper-familiarity: Feeling an intense sense of 'knowing' a complete stranger",
+    "Paranoia: Belief that the 'Target' is stalking them via various 'Skins'",
+    "Recall of false interactions with strangers based on the 'Target's' history",
+    "High autonomic arousal (anxiety) during social navigation"
+  ],
+  "causes": [
+    "Hyper-connectivity between the Fusiform Face Area (FFA) and the Perirhinal Cortex",
+    "Dopaminergic over-activity in the Right Temporoparietal Junction (rTPJ)",
+    "Failure of the 'Novelty Filter': The brain tags new faces as 'Already Known'",
+    "Lesions in the Right Frontal or Left Temporo-parietal regions"
+  ],
+  "risk_factors": [
+    "Treatment with Levodopa (dopamine agonists)",
+    "Traumatic Brain Injury (TBI) affecting the right hemisphere",
+    "Schizophrenia or other psychotic-spectrum conditions"
+  ],
+  "diagnosis": [
+    "Facial Recognition tasks (testing for 'False Positives')",
+    "Skin Conductance Response (SCR) to monitor 'Recognition Spikes' for strangers",
+    "MRI to check for right-hemisphere atrophy",
+    "Psychiatric evaluation for 'Monothematic' delusions"
+  ],
+  "remedies": [
+    "Antipsychotic medication (Dopamine antagonists) to lower the 'Recognition Gain'",
+    "Cognitive Behavioral Therapy (CBT) to challenge the 'Logic of Disguise'",
+    "Anticonvulsants to stabilize temporal lobe activity",
+    "Environmental management (reducing exposure to high-density crowds)"
+  ],
+  "prevention": [
+    "Monitoring dopamine levels in patients treated for Parkinson's disease"
+  ]
+}
 
 "stendhal_syndrome": {
   "description": "A psychosomatic condition involving rapid heartbeat, dizziness, fainting, confusion and even hallucinations when an individual is exposed to objects or phenomena of great beauty.",
