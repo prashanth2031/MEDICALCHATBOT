@@ -48,6 +48,43 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"stendhal_syndrome": {
+  "description": "A psychosomatic condition involving rapid heartbeat, dizziness, fainting, confusion and even hallucinations when an individual is exposed to objects or phenomena of great beauty.",
+  "symptoms": [
+    "Acute Tachycardia (racing heart) upon entering museums or historic sites",
+    "Dissociative episodes (feeling 'unplugged' from reality)",
+    "Temporary Vision Loss or 'Grey-out' due to sensory overload",
+    "Paranoia or Euphoria (system-wide emotional instability)",
+    "Physical collapse (Fainting/Syncope)"
+  ],
+  "causes": [
+    "Hyper-activation of the Ventral Striatum (the 'Reward Engine')",
+    "Dysfunction in the Autonomic Nervous System's 'Gain Control'",
+    "Over-stimulation of the Medial Prefrontal Cortex (mPFC) during aesthetic judgment",
+    "Cross-talk between the Limbic System and the Vestibular (Balance) system"
+  ],
+  "risk_factors": [
+    "Highly sensitive or 'Imaginative' personality types",
+    "Travel to high-density aesthetic zones (e.g., Florence, Italy)",
+    "Pre-existing travel fatigue or 'System Exhaustion'"
+  ],
+  "diagnosis": [
+    "Observation of physiological spikes in specific environments",
+    "Clinical history of aesthetic sensitivity",
+    "Exclusion of standard panic attacks or heatstroke",
+    "The 'Florence Test' (measuring heart rate variability near masterpieces)"
+  ],
+  "remedies": [
+    "Sensory Deprivation: Closing eyes and leaving the environment",
+    "Hydration and 'Grounding' (Physical contact with non-aesthetic surfaces)",
+    "Benzodiazepines (in extreme cases) to lower the 'Emotional Gain'",
+    "Aesthetic Pacing: Limiting museum time to 'Standard Bandwidth' levels"
+  ],
+  "prevention": [
+    "Gradual exposure to high-stimulus environments"
+  ]
+}
+
 "hyper_empathy_syndrome": {
   "description": "A condition characterized by an intense, uncontrollable, and physically overwhelming emotional response to the perceived emotions of others.",
   "symptoms": [
