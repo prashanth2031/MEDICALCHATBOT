@@ -48,6 +48,45 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"akinetopsia_motion_blindness": {
+  "description": "A neuropsychological disorder in which a patient cannot perceive motion in their visual field, despite being able to see stationary objects clearly.",
+  "symptoms": [
+    "Strobe-Light Effect: The world appears as a succession of freeze-frames",
+    "Trailing/After-images (Palinopsia) following moving objects",
+    "Difficulty with 'Fluid Dynamics': Inability to see liquid being poured (it looks like a frozen glacier)",
+    "Social Lag: Missing facial micro-expressions, making conversations feel 'jumpy'",
+    "Navigational Hazard: Cars 'jump' from the distance to right in front of the user"
+  ],
+  "causes": [
+    "Bilateral damage to the Middle Temporal (MT/V5) area of the visual cortex",
+    "High-dose exposure to certain antidepressants or antiepileptics",
+    "Persistent Aura without Infarction (in severe migraineurs)",
+    "Neurodegeneration (Alzheimer's variant: Posterior Cortical Atrophy)",
+    "Traumatic Brain Injury (TBI) localized to the posterior-lateral regions"
+  ],
+  "risk_factors": [
+    "Ischemic stroke in the temporal-occipital junction",
+    "Specific drug toxicities affecting visual temporal integration",
+    "Rare genetic predispositions to cortical 'Motion-Blindness'"
+  ],
+  "diagnosis": [
+    "The 'Random Dot Kinematogram' (RDK) test (Detecting signal in noise)",
+    "fMRI while viewing moving vs. static stimuli",
+    "Visual Evoked Potentials (VEP) to measure latency in the V5 pathway",
+    "Perimetry testing to map the 'Static' vs 'Dynamic' visual fields"
+  ],
+  "remedies": [
+    "Compensatory Strategies: Using sound cues (echolocation-lite) to track movement",
+    "Pharmacological Adjustment (if drug-induced)",
+    "Yellow-tinted lenses (to increase contrast and reduce 'Trail' noise)",
+    "Vestibular training to use 'Balance' sensors to guess motion"
+  ],
+  "prevention": [
+    "Protection against repetitive TBI",
+    "Monitoring neurotoxicity in complex medication stacks"
+  ]
+}
+
 "stendhal_syndrome": {
   "description": "A psychosomatic condition involving rapid heartbeat, dizziness, fainting, confusion and even hallucinations when an individual is exposed to objects or phenomena of great beauty.",
   "symptoms": [
