@@ -84,6 +84,43 @@ medical_db = {
     "Management of vascular health to prevent bilateral strokes"
   ]
 }
+"deja_vecu_loop": {
+  "description": "A pathological form of déjà vu where the sensation of 'having lived through' the present is persistent, intense, and often involves 'recollecting' the future.",
+  "symptoms": [
+    "Recollective Confabulation: Claiming to 'remember' current events as they happen",
+    "Anosognosia: The user may stop watching news or reading because they 'already know the plot'",
+    "Temporal Displacement: A feeling that the present is actually a playback of a 10-year-old log",
+    "Loss of Spontaneity: Life feels like a scripted movie where the user has already seen the ending",
+    "Secondary Delusions: Developing 'Time Travel' or 'Reincarnation' theories to explain the glitch"
+  ],
+  "causes": [
+    "Hyper-active 'Familiarity' signaling in the Parahippocampal Gyrus",
+    "Partial Seizures in the Temporal Lobe (Temporal Lobe Epilepsy)",
+    "Frontal-Temporal Disconnection: The 'Logic Auditor' cannot verify the 'Memory' tag",
+    "Neurodegeneration (Dementia with Lewy Bodies or Alzheimer's variant)",
+    "Dopaminergic surges affecting the 'Salience' of the present moment"
+  ],
+  "risk_factors": [
+    "Chronic Temporal Lobe Epilepsy",
+    "Advanced age with memory-circuit atrophy",
+    "Severe sleep deprivation causing 'Sync Lag' in the hippocampus"
+  ],
+  "diagnosis": [
+    "EEG to detect sub-clinical 'Temporal Spikes'",
+    "Memory-Source monitoring tasks (Asking 'Where exactly did you learn this?')",
+    "MRI to check for volume loss in the parahippocampal regions",
+    "The 'News Forecast' test: Asking the user to predict a random headline"
+  ],
+  "remedies": [
+    "Anticonvulsants (e.g., Carbamazepine) to stabilize the temporal 'Read/Write' heads",
+    "Dopamine antagonists to reduce the 'Sense of Significance'",
+    "Cognitive 'Discrepancy' training: Forcing the brain to notice small differences in the 'script'",
+    "Environmental 'Novelty' saturation"
+  ],
+  "prevention": [
+    "Management of seizure activity and neurological maintenance"
+  ]
+}
 
 "musical_hallucinosis": {
   "description": "A form of auditory hallucination where individuals hear music in the absence of an external source, typically associated with hearing loss.",
