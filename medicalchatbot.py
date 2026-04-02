@@ -121,6 +121,43 @@ medical_db = {
     "Management of seizure activity and neurological maintenance"
   ]
 }
+"wernickes_aphasia": {
+  "description": "A type of aphasia in which an individual is unable to understand language in its written or spoken form, while producing fluent but meaningless speech.",
+  "symptoms": [
+    "Fluent Nonsense: Speaking at a normal rate with correct syntax but zero meaning",
+    "Logorrhea: A 'Press of Speech' (excessive talking that is hard to interrupt)",
+    "Neologisms: Inventing entirely new, non-existent words (e.g., 'The flurben is garking')",
+    "Anosognosia: Lack of awareness that their own speech is unintelligible",
+    "Reading/Writing Failure: Severe impairment in decoding or encoding written symbols"
+  ],
+  "causes": [
+    "Lesion in the Posterior Superior Temporal Gyrus (Wernicke’s Area)",
+    "Ischemic stroke in the Inferior Division of the Left Middle Cerebral Artery",
+    "Traumatic Brain Injury (TBI) to the left temporal-parietal junction",
+    "Neurodegeneration (Primary Progressive Aphasia)"
+  ],
+  "risk_factors": [
+    "Atrial fibrillation (increasing stroke risk)",
+    "Hypertension leading to vascular compromise in the language centers",
+    "Advanced age affecting cortical plasticity"
+  ],
+  "diagnosis": [
+    "The 'Cookie Theft' description task (Testing for semantic relevance)",
+    "Naming tasks and word-matching comprehension tests",
+    "MRI/CT to localize the infarct in the Left Temporal Lobe",
+    "Western Aphasia Battery (WAB) for standardized scoring"
+  ],
+  "remedies": [
+    "Speech-Language Pathology (SLP) focusing on 'Contextual Grounding'",
+    "Visual Action Therapy (using gestures as a backup 'Protocol')",
+    "Social-Pragmatic therapy to help the user recognize 'Listener Confusion' cues",
+    "Pharmacotherapy (e.g., Piracetam) to support cortical recovery (experimental)"
+  ],
+  "prevention": [
+    "Vascular health maintenance and early stroke intervention"
+  ]
+}
+
 "prosopometamorphopsia_pmo": {
   "description": "A visual perception disorder characterized by distorted perceptions of faces, where features appear altered in shape, size, or position.",
   "symptoms": [
