@@ -48,6 +48,43 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"anton_babinski_syndrome": {
+  "description": "A rare symptom of brain damage occurring in the occipital lobe where those who are blind deny their blindness.",
+  "symptoms": [
+    "Anosognosia: Total lack of awareness of a deficit (denying blindness)",
+    "Confabulation: Inventing detailed visual descriptions of the environment to 'prove' sight",
+    "Collision Denial: Blaming furniture or low lighting for walking into walls",
+    "Persistent Visual Hallucinations (Charles Bonnet-style) that the user accepts as reality",
+    "Aggressive defense of the 'Vision' status when challenged"
+  ],
+  "causes": [
+    "Bilateral Occipital Lobe damage (often via stroke or TBI)",
+    "Disconnection between the Visual Cortex and the 'Reality-Monitoring' circuits in the Frontal Lobe",
+    "Damage to the Association Cortex that integrates sensory 'Health Reports'",
+    "Failure of the 'Error-Detection' loop in the Parietal Lobe"
+  ],
+  "risk_factors": [
+    "Ischemic stroke in the Posterior Cerebral Artery (PCA)",
+    "Severe head trauma affecting the back of the skull",
+    "Advanced neurodegeneration affecting global cognitive monitoring"
+  ],
+  "diagnosis": [
+    "The 'Flashlight Test' (Asking the user to count fingers while blind)",
+    "MRI/CT scans showing bilateral occipital infarction",
+    "Neurological testing for 'Source Monitoring' failures",
+    "Observation of 'Visual Confabulation' under stress"
+  ],
+  "remedies": [
+    "None to restore sight if the hardware is destroyed",
+    "Occupational Therapy for 'Compensatory Safety'",
+    "Antipsychotics (rarely) to reduce the intensity of confabulations",
+    "Gentle Reality-Testing (helping the brain 'Accept' the NULL signal)"
+  ],
+  "prevention": [
+    "Management of vascular health to prevent bilateral strokes"
+  ]
+}
+
 "musical_hallucinosis": {
   "description": "A form of auditory hallucination where individuals hear music in the absence of an external source, typically associated with hearing loss.",
   "symptoms": [
