@@ -121,6 +121,43 @@ medical_db = {
     "Management of seizure activity and neurological maintenance"
   ]
 }
+"prosopometamorphopsia_pmo": {
+  "description": "A visual perception disorder characterized by distorted perceptions of faces, where features appear altered in shape, size, or position.",
+  "symptoms": [
+    "Hemi-PMO: Distortions appearing only on one side of a face",
+    "Feature Migration: Eyes drifting toward ears, or mouths moving to the forehead",
+    "Texture Warping: Skin appearing to 'melt', 'scaly', or 'metallic'",
+    "Hyper-Vividness: Facial features appearing unnaturally sharp or 'demonic'",
+    "Persistence: The distortion remains as long as the user looks at the face"
+  ],
+  "causes": [
+    "Lesions in the Splenium of the Corpus Callosum",
+    "Hyper-excitability in the Fusiform Face Area (FFA)",
+    "Damage to the Lingual or Fusiform gyri (Visual Processing Units)",
+    "Temporal Lobe Migraines (transient 'Software Spikes')",
+    "Asymmetry in the 'Face-Patch' communication bus"
+  ],
+  "risk_factors": [
+    "Posterior cerebral artery stroke",
+    "Traumatic brain injury to the occipital-temporal junction",
+    "Specific pharmacological reactions affecting visual integration"
+  ],
+  "diagnosis": [
+    "The 'Face-Morphing' test (asking the user to adjust a digital face to match their distortion)",
+    "fMRI to identify 'hot spots' of hyper-activity in the FFA",
+    "Neurological mapping of the Splenium",
+    "Exclusion of purely psychiatric hallucinations"
+  ],
+  "remedies": [
+    "Prism Lenses to shift the visual field away from the 'Distortion Zone'",
+    "Color Filters (e.g., green or red tints can sometimes 'Mute' the shader error)",
+    "Treating the underlying migraine or seizure activity",
+    "Neuroplastic Adaptation (the 'Logic Auditor' eventually learns to ignore the warp)"
+  ],
+  "prevention": [
+    "Protecting visual processing centers from vascular incidents"
+  ]
+}
 
 "musical_hallucinosis": {
   "description": "A form of auditory hallucination where individuals hear music in the absence of an external source, typically associated with hearing loss.",
