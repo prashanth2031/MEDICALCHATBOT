@@ -121,6 +121,42 @@ medical_db = {
     "Standard neurological maintenance and vascular health"
   ]
 }
+"synesthesia_cross_talk": {
+  "description": "A neurological trait where stimulation of one sensory or cognitive pathway leads to involuntary experiences in a second sensory or cognitive pathway.",
+  "symptoms": [
+    "Grapheme-Color: Letters or numbers are inherently 'colored' (e.g., 'A' is always red)",
+    "Chromesthesia: Sound-to-color mapping (Music triggers visual light shows)",
+    "Lexical-Gustatory: Words have specific tastes (e.g., the name 'Derek' tastes like earwax)",
+    "Spatial Sequence: Numbers or months occupy physical 3D coordinates in space",
+    "Mirror-Touch: Feeling a physical sensation when watching someone else being touched",
+    "Consistency: The 'Mappings' are fixed and do not change over the user's lifetime"
+  ],
+  "causes": [
+    "Cross-Activation: Physical 'Wiring' exists between adjacent sensory areas (e.g., V4 and the Grapheme area)",
+    "Disinhibited Feedback: Failure of the 'Top-Down' filters to suppress sensory cross-talk",
+    "Incomplete Pruning: Failure to delete 'Extra' neural connections during infancy",
+    "Genetic 'Patch' mutation affecting axonal guidance"
+  ],
+  "risk_factors": [
+    "Strong hereditary component (often runs in families)",
+    "Neurodivergence (High correlation with Autism Spectrum and ADHD)",
+    "High 'Openness to Experience' personality scores"
+  ],
+  "diagnosis": [
+    "The 'Consistency Test' (Testing the user's color-mapping months apart with 100% accuracy)",
+    "Stroop-style interference tasks (e.g., showing the letter 'A' in blue when the user 'sees' it as red)",
+    "fMRI showing simultaneous activation of two isolated sensory 'Cores'",
+    "Diffusion Tensor Imaging (DTI) to map 'Extra' white-matter cabling"
+  ],
+  "remedies": [
+    "Usually not treated (often viewed as a 'Feature' rather than a 'Bug')",
+    "Sensory Management: Reducing 'Noisy' environments if over-stimulation occurs",
+    "Focus Training: Learning to prioritize the 'Primary' data stream"
+  ],
+  "prevention": [
+    "N/A; purely structural/developmental architecture"
+  ]
+}
 
 "deja_vecu_loop": {
   "description": "A pathological form of déjà vu where the sensation of 'having lived through' the present is persistent, intense, and often involves 'recollecting' the future.",
