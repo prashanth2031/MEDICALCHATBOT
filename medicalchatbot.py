@@ -121,6 +121,43 @@ medical_db = {
     "Standard neurological maintenance and vascular health"
   ]
 }
+"acalculia_alu_failure": {
+  "description": "An acquired impairment in which patients have difficulty performing mathematical tasks, often following brain injury to the parietal lobe.",
+  "symptoms": [
+    "Anarithmetia: Loss of the basic 'Addition/Subtraction' logic (The ALU is offline)",
+    "Asemantic Acalculia: Inability to understand the 'Magnitude' of numbers (Is 10 bigger than 2?)",
+    "Spatial Acalculia: Misaligning numbers in columns (A 'Formatting' or 'Buffer' error)",
+    "Operator Confusion: Mistaking a '+' for a 'x'",
+    "Number-Reading/Writing Errors: Transposing 12 into 21 or failing to recognize symbols"
+  ],
+  "causes": [
+    "Lesions in the Left Angular Gyrus or the Intraparietal Sulcus (IPS)",
+    "Gerstmann's Syndrome: A specific quartet of glitches (Acalculia, Agraphia, Finger Agnosia, Left-Right Disorientation)",
+    "Stroke in the Left Posterior Parietal Artery",
+    "Tumors or TBI affecting the 'Symbolic Mapping' centers"
+  ],
+  "risk_factors": [
+    "Vascular incidents in the dominant hemisphere",
+    "Advanced neurodegeneration (often an early signal in Alzheimer's)",
+    "Intracranial pressure affecting the parietal 'Calculation Hub'"
+  ],
+  "diagnosis": [
+    "Simple Arithmetic Screening (Single-digit addition/subtraction)",
+    "Magnitude Comparison Tests (e.g., 'Which is larger, a dog or a cat?')",
+    "MRI/CT to identify 'Infarct Zones' in the IPS",
+    "Testing for 'Gerstmann's Quartet' to see if the error is localized or global"
+  ],
+  "remedies": [
+    "Compensatory Technology: Outsourcing calculation to external 'Processors' (Calculators)",
+    "Drill-based Re-mapping: Attempting to build new 'Look-up Tables' in the brain",
+    "Visual/Tactile Math: Using physical beads or fingers to ground abstract symbols in 'Hardware'",
+    "Speech-Language Therapy if the math error is linked to a 'Language' glitch"
+  ],
+  "prevention": [
+    "Standard neurological maintenance and hypertension control"
+  ]
+}
+
 "synesthesia_cross_talk": {
   "description": "A neurological trait where stimulation of one sensory or cognitive pathway leads to involuntary experiences in a second sensory or cognitive pathway.",
   "symptoms": [
