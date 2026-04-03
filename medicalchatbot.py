@@ -84,6 +84,43 @@ medical_db = {
     "Management of vascular health to prevent bilateral strokes"
   ]
 }
+"autotopagnosia_addressing_error": {
+  "description": "A form of agnosia characterized by an inability to localize and orient different parts of the body, either on oneself or on others.",
+  "symptoms": [
+    "Localization Failure: Pointing to the wrong body part when prompted (e.g., pointing to the knee when asked for the elbow)",
+    "Spatial Contiguity Error: Touching a part *near* the target because the 'Coordinate' is fuzzy",
+    "Functional preserved, Spatial lost: Knowing what a hand *does* but not exactly where it *is* in the schema",
+    "Body-Part Name Confusion: A 'Symbolic Link' error between the word and the limb",
+    "Mirror Disorientation: Inability to map the 'Reflected' body onto the 'Actual' body"
+  ],
+  "causes": [
+    "Lesions in the Left Posterior Parietal Lobe (The 'Body-Map' Server)",
+    "Damage to the Somatosensory Association Cortex",
+    "Tumors or strokes affecting the 'Egocentric Coordinate' generators",
+    "Generalized neurodegeneration (e.g., Pick's Disease)"
+  ],
+  "risk_factors": [
+    "Ischemic stroke in the left hemisphere",
+    "Severe traumatic brain injury to the parietal region",
+    "Neurosurgical complications involving the spatial-processing centers"
+  ],
+  "diagnosis": [
+    "The 'Point-to-Command' Test (Asking the user to identify 20 body parts)",
+    "The 'Contingency Test' (Can the user point to parts on a doll but not themselves?)",
+    "MRI to identify 'Dead Sectors' in the Left Parietal Lobe",
+    "Exclusion of Aphasia (ensuring they actually understand the word 'nose')"
+  ],
+  "remedies": [
+    "Tactile Reinforcement: Using vibration or pressure to 'Re-ping' the body part",
+    "Visual Anchoring: Looking in a mirror to 'Manually' map the coordinates",
+    "Occupational Therapy: Re-building the 'Body-Address Table' through repetitive touch",
+    "Compensatory verbal cues (e.g., 'The part you use for smelling')"
+  ],
+  "prevention": [
+    "Standard stroke prevention and neurological health maintenance"
+  ]
+}
+
 "apraxia_motor_program_error": {
   "description": "A neurological disorder characterized by the inability to perform learned, purposeful movements despite having the physical ability and desire to do so.",
   "symptoms": [
