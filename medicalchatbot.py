@@ -190,6 +190,42 @@ medical_db = {
     "N/A; built-in video-processing architecture"
   ]
 }
+"reduplicative_paramnesia": {
+  "description": "A delusional belief that a place or location has been duplicated, exists in two locations simultaneously, or has been relocated.",
+  "symptoms": [
+    "Location Doubling: Believing there are two identical versions of the same city or house",
+    "Chimeric Locations: Believing a hospital is actually a 'disguised' version of their office",
+    "Spatial Displacement: Insisting that a building has 'moved' hundreds of miles overnight",
+    "Intact Logic (mostly): The user can navigate the room perfectly but misidentifies the 'Global Coordinates'",
+    "Resistance to Evidence: Dismissing maps or GPS data as 'fakes' or 'corrupted logs'"
+  ],
+  "causes": [
+    "Bilateral Frontal Lobe damage (The 'Reality Monitor' is offline)",
+    "Right Hemisphere lesions affecting spatial 'Global Context'",
+    "Disconnection between the Hippocampus (Memory) and the Frontal Cortex (Audit)",
+    "Traumatic Brain Injury (TBI) affecting the 'Orientation Registry'"
+  ],
+  "risk_factors": [
+    "Severe stroke in the right frontal-parietal region",
+    "Advanced Alzheimer’s (where the 'Current Location' buffer is unstable)",
+    "Encephalitis affecting the limbic system"
+  ],
+  "diagnosis": [
+    "The 'Coordinate Verification' test (Asking the user to explain how they traveled to the current 'displaced' location)",
+    "Neuropsychological testing for 'Source Monitoring' failures",
+    "MRI to identify lesions in the Right Executive Center",
+    "Clock-drawing and spatial layout tasks"
+  ],
+  "remedies": [
+    "Reality Orientation Therapy (ROT): Constant, gentle re-syncing with current data",
+    "Environment Stabilization: Minimizing changes to the 'Physical UI' to prevent confusion",
+    "Antipsychotics (rarely) if the delusion causes severe distress",
+    "Cognitive 'Check-Sum' routines: Helping the brain manually verify location markers"
+  ],
+  "prevention": [
+    "Vascular health maintenance to protect the 'Reality-Monitoring' hardware"
+  ]
+}
 
 "autotopagnosia_addressing_error": {
   "description": "A form of agnosia characterized by an inability to localize and orient different parts of the body, either on oneself or on others.",
