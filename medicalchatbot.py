@@ -121,6 +121,42 @@ medical_db = {
     "Lifelong spatial puzzles and navigation without GPS to maintain 'Grid Cell' health"
   ]
 }
+"exploding_head_syndrome_ehs": {
+  "description": "A benign parasomnia where the subject experiences loud imagined noises or a sense of explosion in the head when transitioning to or from sleep.",
+  "symptoms": [
+    "Auditory Shock: Perceiving a 'Bomb blast', 'Cymbal crash', or 'Loud Shout'",
+    "Visual Flash: A simultaneous 'White-out' or strobe effect behind the eyelids",
+    "Tachycardia: A massive spike in heart rate following the 'Impact'",
+    "Adrenaline Surge: A 'Fight-or-Flight' response triggered by a non-existent threat",
+    "Myoclonic Jerk: Often accompanied by a sudden muscle twitch (#77)"
+  ],
+  "causes": [
+    "Reticular Activating System (RAS) Lag: Failure to inhibit sensory neurons during the sleep-state handover",
+    "Temporal Lobe Seizure (Minor/Transient): A localized electrical storm",
+    "Middle Ear Component: Sudden movement of the Eustachian tube or Tensor Tympani muscle",
+    "Calcium Channel Dysfunction: Excessive neurotransmitter release during the 'Sleep Gate' phase"
+  ],
+  "risk_factors": [
+    "High Stress & Anxiety (Increasing 'Baseline Voltage')",
+    "Chronic Sleep Deprivation (Forcing the brain into 'Glitchy' transitions)",
+    "Abrupt withdrawal from benzodiazepines or SSRIs",
+    "History of sleep paralysis or night terrors"
+  ],
+  "diagnosis": [
+    "Polysomnography (PSG) to rule out sleep apnea or seizures",
+    "EEG during sleep-onset to capture the 'Spike' profile",
+    "Clinical interview to differentiate from psychiatric hallucinations"
+  ],
+  "remedies": [
+    "Sleep Hygiene Optimization (Stabilizing the 'Handover Protocol')",
+    "Clomipramine or Calcium Channel Blockers (to dampen the 'Discharge')",
+    "Stress Reduction (Lowering the system's 'Idle Noise')",
+    "Education: The 'No-Harm' Patch (Knowing it isn't a stroke reduces the panic loop)"
+  ],
+  "prevention": [
+    "Maintaining a consistent 'Sleep/Wake' schedule to train the RAS"
+  ]
+}
 
 "autotopagnosia_addressing_error": {
   "description": "A form of agnosia characterized by an inability to localize and orient different parts of the body, either on oneself or on others.",
