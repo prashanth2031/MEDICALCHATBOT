@@ -84,6 +84,44 @@ medical_db = {
     "Management of vascular health to prevent bilateral strokes"
   ]
 }
+"topographical_disorientation": {
+  "description": "An inability to orient oneself in the environment, navigate through space, or recognize landmarks, despite intact vision and memory.",
+  "symptoms": [
+    "Egocentric Disorientation: Inability to represent the location of objects with respect to the self",
+    "Heading Disorientation: Losing the 'Sense of Direction' (The internal compass is spinning)",
+    "Landmark Agnosia: Seeing a familiar building but failing to recognize it as a 'Node' in the map",
+    "Pathfinding Loop: Walking in circles because the 'Exit' logic is corrupted",
+    "Mental Map Erasure: Inability to visualize the layout of one's own house"
+  ],
+  "causes": [
+    "Lesions in the Right Posterior Cingulate Cortex or the Parahippocampal Gyrus",
+    "Damage to the 'Grid Cells' and 'Place Cells' in the Hippocampal formation",
+    "Stroke in the Posterior Cerebral Artery (PCA) territory",
+    "Neurodegeneration (Alzheimer’s or Posterior Cortical Atrophy)",
+    "Developmental Topographical Disorientation (A 'Factory Setting' glitch)"
+  ],
+  "risk_factors": [
+    "Traumatic Brain Injury (TBI) to the parietal-occipital junction",
+    "Vascular dementia affecting the spatial-memory bus",
+    "Chronic high-stress cortisol levels damaging the hippocampus"
+  ],
+  "diagnosis": [
+    "The 'Map Drawing' Task (Asking the user to sketch a familiar route)",
+    "Virtual Reality Navigation tests (Observing 'Lost' behavior in a digital maze)",
+    "MRI to check for atrophy in the Parahippocampal Place Area (PPA)",
+    "The 'Orientation-by-Landmark' test"
+  ],
+  "remedies": [
+    "Cognitive Mapping training: Building 'If-Then' logic for navigation (e.g., 'If I see the red door, turn left')",
+    "External GPS reliance: Outsourcing the 'Pathfinding Engine' to a smartphone",
+    "Visual Cues: High-contrast stickers or 'Breadcrumbs' in the physical environment",
+    "Vestibular-Visual Integration therapy"
+  ],
+  "prevention": [
+    "Lifelong spatial puzzles and navigation without GPS to maintain 'Grid Cell' health"
+  ]
+}
+
 "autotopagnosia_addressing_error": {
   "description": "A form of agnosia characterized by an inability to localize and orient different parts of the body, either on oneself or on others.",
   "symptoms": [
