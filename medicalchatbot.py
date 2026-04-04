@@ -157,6 +157,39 @@ medical_db = {
     "Maintaining a consistent 'Sleep/Wake' schedule to train the RAS"
   ]
 }
+"chronostasis_temporal_overstretch": {
+  "description": "A temporal illusion where the first impression following a voluntary eye movement (saccade) appears to be extended in time.",
+  "symptoms": [
+    "The 'Frozen Second': Feeling like a clock hand has stopped moving for >1 second",
+    "Auditory Chronostasis: The first 'Beep' in a sequence sounding longer than the rest",
+    "Visual Persistence: High-fidelity 'freezing' of the first frame after a rapid head/eye turn",
+    "Temporal Lag: A brief feeling of 'Catching up' to real-time once the clock starts moving",
+    "Consistent Reproducibility: This happens to almost everyone with a functional visual system"
+  ],
+  "causes": [
+    "Saccadic Masking: The brain 'turning off' the visual feed during rapid eye movement",
+    "Post-Saccadic Chronostasis: The brain 'backdating' the arrival of a new image to fill the blur gap",
+    "Superior Colliculus Activity: Coordinating the eye-move and the 'Temporal Patch'",
+    "Hyper-active 'Predictive Coding' in the Prefrontal Cortex"
+  ],
+  "risk_factors": [
+    "Fatigue (Increasing the duration of the saccade and the subsequent 'Patch')",
+    "Low-light environments (Increasing the brain's 'Estimation' error)",
+    "Intentional Focus: The more you 'look' for the freeze, the more the brain tries to edit it"
+  ],
+  "diagnosis": [
+    "The 'Ticking Clock' Test (The standard behavioral benchmark)",
+    "Eye-tracking latency measurement",
+    "fMRI showing activity spikes in the Parietal Cortex during the 'Backdating' phase"
+  ],
+  "remedies": [
+    "None required (It is a 'Feature' of the Human OS to ensure visual stability)",
+    "Consistent sensory input (Steady-state environments minimize the need for 'Editing')"
+  ],
+  "prevention": [
+    "N/A; built-in video-processing architecture"
+  ]
+}
 
 "autotopagnosia_addressing_error": {
   "description": "A form of agnosia characterized by an inability to localize and orient different parts of the body, either on oneself or on others.",
