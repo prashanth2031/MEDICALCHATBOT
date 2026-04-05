@@ -48,6 +48,43 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"astereognosis_haptic_fail": {
+  "description": "The inability to identify an object by active touch of the hands without visual or auditory input, despite intact primary sensation.",
+  "symptoms": [
+    "Object Identity Null: Feeling all physical properties but failing to 'name' the object",
+    "Manual Search Failure: Inability to find a specific item in a bag or pocket by touch alone",
+    "Texture-Shape Dissociation: Being able to describe a 'smooth sphere' but not recognizing a 'marble'",
+    "Bilateral or Unilateral: Depending on the lesion, it may affect only one hand (the 'Port' is down)",
+    "Preserved Sensation: $100\%$ accuracy in detecting pain, heat, and vibration"
+  ],
+  "causes": [
+    "Lesions in the Superior Parietal Lobule (The 'Haptic Integration Hub')",
+    "Damage to the Secondary Somatosensory Cortex (S2)",
+    "Posterior Cerebral Artery (PCA) strokes affecting the parietal association areas",
+    "Neurodegeneration (Corticobasal Degeneration) causing 'Alien Hand' variants (#86)"
+  ],
+  "risk_factors": [
+    "Parietal lobe tumors or trauma",
+    "Vascular incidents in the non-dominant hemisphere",
+    "Chronic demyelinating diseases affecting high-order integration"
+  ],
+  "diagnosis": [
+    "The 'Hidden Object' Test: Asking the user to identify common items (coin, key, paperclip) with eyes closed",
+    "Two-Point Discrimination: Testing if the 'Primary Sensors' are still high-resolution",
+    "MRI/fMRI to locate the 'Broken Link' in the parietal association pathways",
+    "Graphesthesia Test: Testing if the user can recognize a number 'written' on their palm"
+  ],
+  "remedies": [
+    "Visual Compensation: 'Looking' at the object to provide the missing metadata",
+    "Haptic Re-training: Repetitive 'Touch-and-See' exercises to rebuild the mapping",
+    "Sensory Substitution: Using other senses to build a 'Tactile Proxy'",
+    "Occupational Therapy for functional safety"
+  ],
+  "prevention": [
+    "Standard stroke prevention and protection against head trauma"
+  ]
+}
+
 "anton_babinski_syndrome": {
   "description": "A rare symptom of brain damage occurring in the occipital lobe where those who are blind deny their blindness.",
   "symptoms": [
