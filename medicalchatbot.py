@@ -48,6 +48,44 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"apraxia_motor_program_error": {
+  "description": "A neurological disorder characterized by the inability to perform learned, purposeful movements despite having the physical ability and desire to do so.",
+  "symptoms": [
+    "Ideomotor Failure: Inability to mimic gestures (e.g., 'Wave goodbye') on command",
+    "Ideational Error: Losing the 'Object Logic' (e.g., trying to use a toothbrush as a spoon)",
+    "Sequence Corruption: Performing steps of a task in the wrong order (e.g., putting shoes on before socks)",
+    "Clumsy Tool Handling: Holding a hammer by the wrong end despite knowing what it is",
+    "Verbal Apraxia: The 'Speech Hardware' is fine, but the 'Articulatory Script' is lost"
+  ],
+  "causes": [
+    "Lesions in the Left Posterior Parietal Cortex (The 'Procedural Database')",
+    "Damage to the Premotor Cortex (The 'Command Assembler')",
+    "Stroke in the Middle Cerebral Artery (MCA) territory",
+    "Neurodegenerative diseases like Corticobasal Degeneration (CBD)",
+    "Corpus Callosum disconnection (preventing the 'Admin' from sending scripts to the right hand)"
+  ],
+  "risk_factors": [
+    "History of left-hemisphere stroke",
+    "Head trauma involving the parietal or frontal lobes",
+    "Progressive cognitive decline affecting 'Action Knowledge'"
+  ],
+  "diagnosis": [
+    "Pantomime tasks (e.g., 'Show me how you would use a saw')",
+    "Imitation of meaningless gestures (testing 'Real-Time Encoding')",
+    "Multi-step assembly tests (e.g., folding a letter and placing it in an envelope)",
+    "MRI/CT to identify 'Null Zones' in the motor planning network"
+  ],
+  "remedies": [
+    "Occupational Therapy (OT) using 'Errorless Learning' to rebuild scripts",
+    "Sensory Cueing: Using rhythmic beats or visual prompts to bypass the missing library",
+    "Gestural Training: Re-associating physical movements with semantic meaning",
+    "Augmentative and Alternative Communication (AAC) for verbal variants"
+  ],
+  "prevention": [
+    "Standard neurological maintenance and vascular health"
+  ]
+}
+
 "astereognosis_haptic_fail": {
   "description": "The inability to identify an object by active touch of the hands without visual or auditory input, despite intact primary sensation.",
   "symptoms": [
