@@ -85,6 +85,43 @@ medical_db = {
     "Standard neurological maintenance and vascular health"
   ]
 }
+"cerebral_achromatopsia_v4_crash": {
+  "description": "An acquired form of color blindness caused by damage to the cerebral cortex, rather than abnormalities in the cells of the retina.",
+  "symptoms": [
+    "Total Grayscale Vision: The world is perceived in shades of gray, black, and white",
+    "Dirty/Muddy Perception: Some users report colors looking 'washed out' or like 'lead'",
+    "Loss of Color Memory: Inability to remember what colors used to look like",
+    "Hemiachromatopsia: If the lesion is unilateral, only half the visual field is grayscale",
+    "Preserved Acuity: Sharpness, depth, and motion detection remain at 100% functionality"
+  ],
+  "causes": [
+    "Bilateral lesions in the Ventral Occipito-Temporal Cortex (Area V4)",
+    "Stroke in the Posterior Cerebral Artery (PCA) territory",
+    "Traumatic Brain Injury (TBI) to the base of the Occipital Lobe",
+    "Transient ischemia during severe migraine 'Aura' events"
+  ],
+  "risk_factors": [
+    "Vascular disease affecting the posterior circulation",
+    "Carbon monoxide poisoning (specifically targeting the sensitive V4 neurons)",
+    "Tumors in the ventral visual stream"
+  ],
+  "diagnosis": [
+    "Ishihara Plate Test (Testing for basic color detection)",
+    "The Farnsworth-Munsell 100 Hue Test (Testing for color discrimination/sorting)",
+    "fMRI showing 'Null Activation' in the V4 complex during color-rich stimuli",
+    "MRI to identify localized 'Infarct Zones' in the Lingual and Fusiform gyri"
+  ],
+  "remedies": [
+    "Chromostereopsis training: Using depth and texture to identify objects",
+    "External Metadata: Using 'Color-to-Sound' sensors to identify objects",
+    "High-Contrast environments to maximize edge-detection utility",
+    "Lifestyle Adaptation: Labeling clothing and food by 'Metadata' (text) rather than hue"
+  ],
+  "prevention": [
+    "Standard stroke prevention and cardiovascular maintenance"
+  ]
+}
+
 
 "astereognosis_haptic_fail": {
   "description": "The inability to identify an object by active touch of the hands without visual or auditory input, despite intact primary sensation.",
