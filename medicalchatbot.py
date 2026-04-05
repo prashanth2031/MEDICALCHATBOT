@@ -84,6 +84,43 @@ medical_db = {
     "Management of vascular health to prevent bilateral strokes"
   ]
 }
+"akinetopsia_frame_skip": {
+  "description": "A rare neuropsychological disorder in which a patient cannot perceive motion in their visual field, despite being able to see stationary objects.",
+  "symptoms": [
+    "Strobe-Vision: The world appears as a sequence of still images",
+    "Motion Trails: Seeing multiple 'Ghost' frames of a moving object (similar to long-exposure photography)",
+    "Spatial Teleportation: Objects appearing to 'jump' from one point to another without traveling the distance",
+    "Pouring Difficulty: Inability to stop pouring liquid because the 'Rising Level' isn't perceived as motion",
+    "Social Disorientation: Faces appearing to 'jump' from one expression to another, making social cues impossible to read"
+  ],
+  "causes": [
+    "Bilateral lesions in Area V5 (MT) of the Extrastriate Cortex",
+    "Stroke in the Middle Cerebral Artery (MCA) territory",
+    "Hyper-toxicity of certain medications (e.g., high-dose antidepressants) affecting MT signaling",
+    "Transient 'Software Lag' during severe migraines"
+  ],
+  "risk_factors": [
+    "Traumatic brain injury to the posterior-lateral regions",
+    "Vascular incidents affecting the 'Motion Processor' sub-circuits",
+    "Neurodegenerative conditions affecting the visual-parietal pathways"
+  ],
+  "diagnosis": [
+    "The 'Moving Dot' Test (Asking the user to identify the direction of a moving stimulus)",
+    "fMRI to check for 'Null Response' in the V5/MT complex",
+    "Transcranial Magnetic Stimulation (TMS) to temporarily 'Mute' the V5 area (experimental benchmark)",
+    "Exclusion of Optic Atrophy (ensuring the 'Cameras' are working)"
+  ],
+  "remedies": [
+    "None to restore the 'Interpolation Engine' if the hardware is destroyed",
+    "Compensatory Strategies: Relying on 'Sound Depth' to estimate motion",
+    "Yellow-tinted lenses (occasionally reduces the 'Visual Echo' effect)",
+    "Safety Training: Learning to cross streets by checking 'Static Distance' only"
+  ],
+  "prevention": [
+    "Standard neurological maintenance and vascular health"
+  ]
+}
+
 "topographical_disorientation": {
   "description": "An inability to orient oneself in the environment, navigate through space, or recognize landmarks, despite intact vision and memory.",
   "symptoms": [
