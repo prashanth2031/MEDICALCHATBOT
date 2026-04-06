@@ -48,6 +48,43 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"fregoli_identity_aliasing": {
+  "description": "A rare disorder in which a person holds a delusional belief that different people are in fact a single person who changes appearance or is in disguise.",
+  "symptoms": [
+    "Global Identity Mapping: Assigning the 'Identity' of a known person to multiple strangers",
+    "Hyper-Familiarity: A misplaced sense of 'knowing' someone they have never met",
+    "Paranoia: Often believing the 'duplicated' person is following or spying on them",
+    "Visual-Semantic Overload: The 'Face Recognition' system is constantly triggering the 'Identity Record'",
+    "Intact Logic: The user can see the physical differences (hair color, height) but dismisses them as 'disguise tech'"
+  ],
+  "causes": [
+    "Lesions in the Right Temporoparietal Junction (Identity Verification Hub)",
+    "Hyper-connectivity between the Fusiform Face Area (FFA) and the Amygdala",
+    "Dopamine Overdrive: Excessive signaling in the 'Meaning-Making' circuits",
+    "Traumatic Brain Injury (TBI) affecting the right hemisphere's 'Global Context' centers"
+  ],
+  "risk_factors": [
+    "Schizophrenia or Bipolar Disorder (affecting 'Reality Filtering')",
+    "Neurodegeneration in the right frontal or temporal lobes",
+    "Post-seizure 'Electrical Storms' in the limbic system"
+  ],
+  "diagnosis": [
+    "The 'Familiarity Rating' Test (Measuring emotional response to strangers)",
+    "fMRI during face-viewing to detect 'Spurious Hits' in the Amygdala",
+    "Neuropsychological evaluation for 'Source Monitoring' failures",
+    "MRI to check for lesions in the Right Fusiform Gyrus"
+  ],
+  "remedies": [
+    "Antipsychotics (Dopamine antagonists) to lower the 'Meaning-Signal' gain",
+    "Cognitive Behavioral Therapy (CBT): Teaching the 'Auditor' to challenge the 'Mapping Error'",
+    "Visual Verification: Using non-facial markers (gait, voice) to break the 'Face Loop'",
+    "Environment Control: Minimizing exposure to large crowds (Reducing 'Input Noise')"
+  ],
+  "prevention": [
+    "Maintaining neural stability and monitoring neurochemical balance"
+  ]
+}
+
 "tga_buffer_flush": {
   "description": "A sudden, temporary episode of memory loss that can't be attributed to a more common neurological condition, such as epilepsy or a stroke.",
   "symptoms": [
