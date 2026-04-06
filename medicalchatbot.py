@@ -84,6 +84,41 @@ medical_db = {
     "Avoiding sudden, extreme physiological shocks if the 'Vascular Bus' is unstable"
   ]
 }
+"visual_agnosia_inference_error": {
+  "description": "An impairment in recognition of visually presented objects, not due to a deficit in vision, language, or memory.",
+  "symptoms": [
+    "Apperceptive Agnosia: Failure in 'Preprocessing' (Inability to perceive the structure or shape of an object)",
+    "Associative Agnosia: Failure in 'Database Query' (Perceiving the shape but failing to link it to its meaning)",
+    "Object-to-Label Mismatch: Correctly tracing the outline of a 'spoon' but guessing it's a 'paddle'",
+    "Sensory Substitution: Instant recognition if the user touches the object (using the Haptic Driver)",
+    "Prosopagnosia (#1): A specialized sub-class targeting the 'Face' recognition library"
+  ],
+  "causes": [
+    "Lesions in the Occipito-Temporal Border (The 'Lateral Occipital Complex')",
+    "Carbon Monoxide Poisoning (targeting the high-metabolic recognition neurons)",
+    "Stroke in the Posterior Cerebral Artery (PCA)",
+    "Hypoxic-Ischemic Encephalopathy (System-wide power dip)"
+  ],
+  "risk_factors": [
+    "Bilateral damage to the ventral visual stream",
+    "Post-surgical complications in the temporal-occipital junction",
+    "Severe head trauma affecting the 'Feature Integration' hubs"
+  ],
+  "diagnosis": [
+    "The 'Object Drawing' Test (Can they copy a picture of an anchor without knowing what it is?)",
+    "Overlapping Figures Test (Can they separate multiple objects in one image?)",
+    "fMRI to monitor the 'Inference Engine' during image categorization",
+    "Visual-to-Semantic matching tasks"
+  ],
+  "remedies": [
+    "Multi-Modal Tagging: Using touch or sound to 're-identify' the world",
+    "Environmental Simplification: Using high-contrast, 'Unique-Key' labels on household items",
+    "Contextual Inference training: Using surrounding data (e.g., 'If it's on the stove, it's a pot')"
+  ],
+  "prevention": [
+    "Neurological protection and standard vascular health"
+  ]
+}
 
 "apraxia_motor_program_error": {
   "description": "A neurological disorder characterized by the inability to perform learned, purposeful movements despite having the physical ability and desire to do so.",
