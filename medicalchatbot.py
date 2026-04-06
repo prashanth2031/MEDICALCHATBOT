@@ -84,6 +84,41 @@ medical_db = {
     "Maintaining neural stability and monitoring neurochemical balance"
   ]
 }
+"bppv_imu_contamination": {
+  "description": "A common vestibular disorder caused by displaced calcium carbonate crystals in the inner ear, resulting in brief episodes of intense vertigo.",
+  "symptoms": [
+    "Rotational Vertigo: Feeling like the room is 'spinning' at high RPM",
+    "Positional Trigger: Symptoms only occur when changing head orientation (e.g., rolling over in bed)",
+    "Nystagmus: The 'Eye Flicker'—the brain tries to track the 'phantom' motion by jerking the eyes",
+    "Nausea/Emesis: The 'Motion Sickness' script triggers because the sensor data is internally inconsistent",
+    "Postural Instability: A temporary loss of the 'Gravity Vector'"
+  ],
+  "causes": [
+    "Otoconia Displacement: Calcium crystals (the 'Hardware Weights') falling into the semicircular canals",
+    "Head Trauma: A physical shock that 'shakes' the sensors loose",
+    "Age-related Degradation: Weakening of the 'Glue' (gelatinous membrane) holding the crystals in place",
+    "Inner ear infections or long-term bed rest"
+  ],
+  "risk_factors": [
+    "High-impact sports or accidents",
+    "Osteoporosis (affecting crystal density)",
+    "Genetic predisposition to vestibular instability"
+  ],
+  "diagnosis": [
+    "The Dix-Hallpike Maneuver: A 'Stress Test' designed to trigger the glitch and observe eye movement",
+    "Videonystagmography (VNG): Recording the 'Eye-Flicker' logs to identify which 'Channel' is contaminated",
+    "Exclusion of Central Vertigo (ensuring the 'Processor' isn't the problem, just the 'Sensor')"
+  ],
+  "remedies": [
+    "The Epley Maneuver: A sequence of 'Hardware Tilts' designed to use gravity to wash the crystals back into place",
+    "Vestibular Rehabilitation: 'Re-calibrating' the brain to ignore the noise from the broken sensor",
+    "Hydration and electrolyte management"
+  ],
+  "prevention": [
+    "Head protection during high-velocity activities",
+    "Maintaining Vitamin D and Calcium levels to keep the 'Weights' stable"
+  ]
+}
 
 "tga_buffer_flush": {
   "description": "A sudden, temporary episode of memory loss that can't be attributed to a more common neurological condition, such as epilepsy or a stroke.",
