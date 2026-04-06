@@ -48,6 +48,43 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"tga_buffer_flush": {
+  "description": "A sudden, temporary episode of memory loss that can't be attributed to a more common neurological condition, such as epilepsy or a stroke.",
+  "symptoms": [
+    "Anterograde Amnesia: Total inability to form new memories during the attack",
+    "Repetitive Querying: Asking 'Where am I?' or 'What happened?' every 60 seconds",
+    "Preserved Identity: The user knows their name, profession, and family members",
+    "Preserved Complex Skills: Ability to drive, cook, or code during the episode",
+    "Retrograde Window: Brief loss of memories from the few hours preceding the glitch",
+    "Duration: Typically resolves within 6 to 24 hours (The 'System Reboot')"
+  ],
+  "causes": [
+    "Temporary Ischemia (Low power) in the CA1 region of the Hippocampus",
+    "Venous Congestion: A 'Backflow' of blood causing a temporary pressure spike",
+    "Triggers: Sudden immersion in cold/hot water, extreme physical exertion, or high-stress 'Emotional Spikes'",
+    "Glutamate Storm: Over-excitation of the memory-encoding circuits"
+  ],
+  "risk_factors": [
+    "History of Migraines (The 'Vascular Stability' bug)",
+    "Age > 50 (System hardware wear and tear)",
+    "Recent Valsalva maneuvers (Sudden internal pressure changes)"
+  ],
+  "diagnosis": [
+    "The 'Persistent Loop' observation (The hallmark behavioral log)",
+    "High-resolution MRI (DWI) showing 'Punctate Spots' in the Hippocampus",
+    "EEG to rule out 'Seizure-based' data corruption",
+    "Exclusion of 'Alcohol-induced' buffer wipes (Blackouts)"
+  ],
+  "remedies": [
+    "Time: The system usually performs a self-healing 'Reboot' within 24 hours",
+    "Monitoring: Ensuring no concurrent 'Hardware' failure (Stroke)",
+    "Reassurance: Providing a 'Status Report' to the user to lower anxiety levels"
+  ],
+  "prevention": [
+    "Avoiding sudden, extreme physiological shocks if the 'Vascular Bus' is unstable"
+  ]
+}
+
 "apraxia_motor_program_error": {
   "description": "A neurological disorder characterized by the inability to perform learned, purposeful movements despite having the physical ability and desire to do so.",
   "symptoms": [
