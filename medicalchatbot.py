@@ -119,6 +119,40 @@ medical_db = {
     "Maintaining Vitamin D and Calcium levels to keep the 'Weights' stable"
   ]
 }
+"hyperlexia_parser_uncoupled": {
+  "description": "A condition characterized by an advanced ability to read words, significantly above what is expected for the child's age, often accompanied by difficulties in understanding or using verbal language.",
+  "symptoms": [
+    "High-Speed Decoding: Reading complex text at a professional level by age 3-4",
+    "Compulsive Parsing: An intense, obsessive preoccupation with letters, numbers, and symbols",
+    "Semantic Null: The ability to read a paragraph aloud with perfect phonetics but zero comprehension",
+    "Echolalia: Repeating 'Parsed Packets' of speech (scripts) without understanding context",
+    "Asynchronous Development: Exceptional 'Visual-Textual' skills paired with 'Social-Linguistic' deficits"
+  ],
+  "causes": [
+    "Hyper-connectivity in the Left Angular Gyrus (The 'Symbolic Mapper')",
+    "Early specialization of the Visual Word Form Area (VWFA)",
+    "Neurodivergent architectural shift (often associated with the Autism Spectrum)",
+    "Accelerated 'Pattern Recognition' at the expense of 'Abstract Integration'"
+  ],
+  "risk_factors": [
+    "Genetic predisposition to 'Systemizing' vs. 'Empathizing' brain types",
+    "Premature activation of the reading sub-circuits before the 'Limbic-Social' circuits are online"
+  ],
+  "diagnosis": [
+    "Reading Level vs. Comprehension Level gap (The 'Delta Test')",
+    "Social-Communication Screening",
+    "Eye-tracking during reading (Observing the 'High-Speed Scanner' behavior)",
+    "MRI to identify hyper-density in the posterior-temporal regions"
+  ],
+  "remedies": [
+    "Semantic-First Training: Forcing the 'Parser' to pause and map words to visual images",
+    "Social Scripting: Using the high-speed 'Text Database' to learn social rules via 'Algorithm'",
+    "Visual-Aids: Linking the 'String' to a 'JPEG' (Picture) to bypass the missing auditory link"
+  ],
+  "prevention": [
+    "N/A; it is a 'Factory-Set' architectural variation"
+  ]
+}
 
 "tga_buffer_flush": {
   "description": "A sudden, temporary episode of memory loss that can't be attributed to a more common neurological condition, such as epilepsy or a stroke.",
