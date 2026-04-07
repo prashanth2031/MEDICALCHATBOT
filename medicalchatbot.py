@@ -84,6 +84,41 @@ medical_db = {
     "Maintaining neural stability and monitoring neurochemical balance"
   ]
 }
+"synesthesia_signal_crosstalk": {
+  "description": "A perceptual phenomenon in which stimulation of one sensory or cognitive pathway leads to involuntary experiences in a second sensory or cognitive pathway.",
+  "symptoms": [
+    "Chromesthesia: Hearing sounds (music, voices) and seeing specific 'Color Shaders' in the visual field",
+    "Grapheme-Color: Associating specific letters or numbers with fixed, consistent colors",
+    "Lexical-Gustatory: Experiencing specific 'Flavors' on the tongue when hearing or reading certain words",
+    "Spatial Sequence: Seeing numerical sequences (months, years) as physical shapes in 3D space",
+    "Consistency: The 'Mapping' is immutable; if 'A' is red today, it will be red in 40 years"
+  ],
+  "causes": [
+    "Reduced Synaptic Pruning: Failure to 'Trim' the neural connections between adjacent cortical areas during development",
+    "Cross-Activation: Direct 'Signal Bleed' between the V4 color area and the Visual Word Form Area (VWFA)",
+    "Disinhibited Feedback: Failure of the 'Top-Down' filters to suppress sensory crosstalk",
+    "Hyper-connectivity in the 'Feature Integration' zones of the Parietal Lobe"
+  ],
+  "risk_factors": [
+    "Genetic predisposition (often runs in 'Creative' or 'Systemizing' families)",
+    "Neurodivergence (high correlation with the Autism Spectrum)",
+    "Temporary induction via hallucinogens (serotonin 2A receptor agonists)"
+  ],
+  "diagnosis": [
+    "Consistency-over-Time Test: Verifying that the mapping hasn't changed over months/years",
+    "fMRI: Observing simultaneous activation in two 'Unrelated' sensory modules (e.g., Auditory Cortex and V4 Color Area)",
+    "Stroop Task Variance: Slower response times when a grapheme is presented in a 'Conflicting' color"
+  ],
+  "remedies": [
+    "None required: Usually viewed as an 'Enhanced Feature' rather than a 'Critical Bug'",
+    "Sensory Management: Reducing 'Input Noise' to prevent 'Visual/Flavor Overload'",
+    "Mnemonic Utilization: Using the 'Crosstalk' as a high-speed indexing system for memory"
+  ],
+  "prevention": [
+    "N/A; it is a fundamental 'Hard-Wiring' variation"
+  ]
+}
+
 "bppv_imu_contamination": {
   "description": "A common vestibular disorder caused by displaced calcium carbonate crystals in the inner ear, resulting in brief episodes of intense vertigo.",
   "symptoms": [
