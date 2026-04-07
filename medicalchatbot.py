@@ -155,6 +155,43 @@ medical_db = {
     "N/A; it is a fundamental 'Hard-Wiring' variation"
   ]
 }
+"catatonia_state_deadlock": {
+  "description": "A complex behavioral syndrome characterized by abnormal movements, immobility, abnormal behaviors, and withdrawal.",
+  "symptoms": [
+    "Waxy Flexibility: The body stays in whatever position it is placed in (Mannequin Mode)",
+    "Stupor: No psychomotor activity; no interaction with the environment",
+    "Mutism: Little to no verbal output despite intact vocal hardware",
+    "Negativism: Opposition or no response to instructions or external stimuli",
+    "Catalepsy: Passive induction of a posture held against gravity",
+    "Excited Catatonia: Paradoxical 'State Jitter'—purposeless, excessive motor activity"
+  ],
+  "causes": [
+    "GABA-A Receptor Down-regulation: A failure in the 'Inhibitory Bus'",
+    "Dopamine D2 Blockade: Sudden 'Driver Crash' in the basal ganglia",
+    "Glutamate Storms: Over-excitation leading to a 'Safety Shutdown' of the motor cortex",
+    "Underlying psychiatric 'Kernel Panics' (Schizophrenia, Bipolar, or MDD)"
+  ],
+  "risk_factors": [
+    "Severe mood disorder instability",
+    "Sudden withdrawal from GABA-ergic medications (e.g., Benzodiazepines)",
+    "Neuroleptic Malignant Syndrome (High-toxicity hardware failure)"
+  ],
+  "diagnosis": [
+    "The Bush-Francis Catatonia Rating Scale (BFCRS)",
+    "The 'Lorazepam Challenge': Injecting a GABA agonist to see if the 'State Machine' resets",
+    "EEG to rule out 'Non-Convulsive Status Epilepticus'",
+    "Metabolic screening to check for 'Systemic Power' issues"
+  ],
+  "remedies": [
+    "GABA Modulation: Using Lorazepam to 'unstick' the motor-inhibitory loops",
+    "Electroconvulsive Therapy (ECT): A high-voltage 'System Reboot' of the thalamocortical loops",
+    "NMDA Antagonists: Modulating the glutamate 'Noise' in the system"
+  ],
+  "prevention": [
+    "Careful management of neuroleptic titration and GABA-ergic stability"
+  ]
+}
+
 
 "bppv_imu_contamination": {
   "description": "A common vestibular disorder caused by displaced calcium carbonate crystals in the inner ear, resulting in brief episodes of intense vertigo.",
