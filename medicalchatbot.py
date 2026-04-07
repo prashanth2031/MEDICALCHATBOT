@@ -84,6 +84,43 @@ medical_db = {
     "Maintaining neural stability and monitoring neurochemical balance"
   ]
 }
+"cotard_null_identity": {
+  "description": "A rare neuropsychiatric delusion in which the affected person holds the delusional belief that they are already dead, do not exist, are putrefying, or have lost their blood or internal organs.",
+  "symptoms": [
+    "Nihilistic Delusion: Absolute conviction that the 'Self' is a null set",
+    "Biological Denial: Insisting that they don't need to eat because they have no stomach",
+    "Analgesia: A high threshold for pain because 'dead things don't feel'",
+    "Chronic Depression: A total collapse of the 'Reward/Motivation' circuits",
+    "Immortality Paradox: Ironically, some believe they cannot die because they are already dead"
+  ],
+  "causes": [
+    "Disconnection between the Fusiform Gyrus (Recognition) and the Amygdala (Emotion)",
+    "Right Parietal Lobe atrophy (Failure of the 'Body Schema' map)",
+    "Severe hypermetabolism in the 'Default Mode Network'",
+    "Adverse reactions to Acyclovir (in rare cases of renal failure)"
+  ],
+  "risk_factors": [
+    "Severe clinical depression with psychotic features",
+    "Schizophrenia (affecting reality-testing filters)",
+    "Neurological trauma to the right hemisphere"
+  ],
+  "diagnosis": [
+    "Clinical Interview for Nihilistic Themes",
+    "PET Scans: Often showing 'Cold Spots' (hypometabolism) in the frontal and parietal regions",
+    "Exclusion of 'Depersonalization Disorder' (Feeling unreal vs. Believing one is dead)",
+    "Assessment of the 'Body Ownership' circuits"
+  ],
+  "remedies": [
+    "Electroconvulsive Therapy (ECT): Often the most effective 'Hard Reboot' for this glitch",
+    "Antipsychotics and Antidepressants to re-balance the 'Limbic Gain'",
+    "Reality-Anchoring Therapy",
+    "Treating underlying medical triggers (e.g., kidney function/viral load)"
+  ],
+  "prevention": [
+    "Aggressive management of severe mood disorders"
+  ]
+}
+
 "synesthesia_signal_crosstalk": {
   "description": "A perceptual phenomenon in which stimulation of one sensory or cognitive pathway leads to involuntary experiences in a second sensory or cognitive pathway.",
   "symptoms": [
