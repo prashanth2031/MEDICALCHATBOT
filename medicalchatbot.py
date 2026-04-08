@@ -48,6 +48,43 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"dissociative_fugue_profile_migration": {
+  "description": "A rare dissociative disorder characterized by reversible amnesia for personal identity, including the memories, personality, and other identifying characteristics of individuality.",
+  "symptoms": [
+    "Identity Nullification: Sudden loss of the 'Primary Key' (Name, Family, History)",
+    "Unauthorized Travel: Unexpected journey away from the 'Home Directory' (Home/Work)",
+    "Profile Substitution: Adoption of a new identity (often more outgoing or simple)",
+    "Preserved Procedural Memory: Retaining 'System Skills' like driving, speaking, or coding",
+    "Post-Episode Recovery: Sudden 'Re-authentication' of the old profile, often followed by amnesia of the 'Fugue Partition'"
+  ],
+  "causes": [
+    "Severe Stress-Induced Disconnection: A 'Safety Shutdown' of the Hippocampal-Prefrontal bus",
+    "Extreme Emotional Trauma: Overloading the 'Identity Controller' until it crashes",
+    "Inhibited Retrieval: The frontal lobe actively 'Write-Protects' the old memory sectors",
+    "Neurological Instability: Related to temporal lobe activity or limbic system spikes"
+  ],
+  "risk_factors": [
+    "Exposure to severe trauma (natural disasters, war, personal loss)",
+    "Pre-existing dissociative tendencies",
+    "Extreme internal conflict regarding the current 'User Role'"
+  ],
+  "diagnosis": [
+    "The 'Missing Person' Audit: Identifying the gap between physical location and identity",
+    "Psychiatric Evaluation: Differentiating from 'Malingering' or 'Dementia'",
+    "Brain Imaging: Often showing decreased metabolic activity in the prefrontal and temporal regions",
+    "Hypnosis or Amobarbital Interviews: Attempting to 'Mount' the hidden identity partition"
+  ],
+  "remedies": [
+    "Psychotherapy: Safely 'Re-mounting' the old identity data",
+    "Environment Stabilization: Providing a 'Safe Boot' environment to lower stress",
+    "Clinical Integration: Merging the 'Fugue' memories with the 'Primary' profile",
+    "Stress-management 'Patching' to prevent future crashes"
+  ],
+  "prevention": [
+    "Trauma-informed care and early intervention for 'Identity Overload'"
+  ]
+}
+
 "fregoli_identity_aliasing": {
   "description": "A rare disorder in which a person holds a delusional belief that different people are in fact a single person who changes appearance or is in disguise.",
   "symptoms": [
