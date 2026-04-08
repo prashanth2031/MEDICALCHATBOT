@@ -48,6 +48,43 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"akinetopsia_frame_rate_crash": {
+  "description": "A neuropsychological disorder in which a patient cannot perceive motion in their visual field, despite being able to see stationary objects without issue.",
+  "symptoms": [
+    "Stroboscopic Vision: Moving objects appear as a series of frozen snapshots",
+    "Motion Trails: Seeing multiple 'Residual Frames' of an object as it moves",
+    "Disappearing Objects: A car may be far away in one frame and suddenly right in front of the user in the next",
+    "Inability to Track Flow: Extreme difficulty pouring liquids (the 'Water' looks like a frozen glacier)",
+    "Social Lag: Difficulty reading facial expressions because the subtle motion of muscles is 'skipped'"
+  ],
+  "causes": [
+    "Bilateral lesions in the V5/MT (Middle Temporal) complex",
+    "Stroke in the Posterior Cerebral Artery (PCA) or Middle Cerebral Artery (MCA) territories",
+    "Traumatic Brain Injury (TBI) to the lateral-posterior cortex",
+    "Transient induction via high-dose antidepressant toxicity or certain seizures"
+  ],
+  "risk_factors": [
+    "Neurodegenerative diseases affecting the dorsal stream",
+    "Vascular instability in the visual processing hubs",
+    "Severe poisoning (e.g., carbon monoxide) targeting high-metabolic motion neurons"
+  ],
+  "diagnosis": [
+    "The 'Moving Dot' Test: Identifying thresholds for direction and speed",
+    "fMRI: Measuring 'Zero Activation' in the V5 area during motion stimuli",
+    "Visual Evoked Potentials (VEP) to check signal timing",
+    "Perimetric testing to rule out simple 'Blind Spots' (Scotomas)"
+  ],
+  "remedies": [
+    "Rhythm-Based Navigation: Using sound or 'Ticks' to estimate speed",
+    "Visual Pacing: Moving the head slowly to 'Force-Refresh' the static frames",
+    "Safety Protocols: Avoiding high-velocity environments (crossing busy streets)",
+    "Pharmacological Adjustment: If the glitch is induced by chemical toxicity"
+  ],
+  "prevention": [
+    "Standard cardiovascular maintenance and head protection"
+  ]
+}
+
 "mpi_network_entropy": {
   "description": "The rapid spread of illness signs and symptoms affecting members of a cohesive group, originating from a nervous system disturbance involving no corresponding organic etiology.",
   "symptoms": [
