@@ -48,6 +48,41 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"mpi_network_entropy": {
+  "description": "The rapid spread of illness signs and symptoms affecting members of a cohesive group, originating from a nervous system disturbance involving no corresponding organic etiology.",
+  "symptoms": [
+    "Rapid Onset: Symptoms spread through a group in minutes or hours",
+    "Mimicry: Twitching, fainting, dizziness, or respiratory 'Jitter' that looks like a virus",
+    "Node Clustering: Spread usually occurs in closed environments (schools, offices, factories)",
+    "Phantom Triggers: Often attributed to a 'Smell' or 'Toxin' that sensors cannot detect",
+    "Recovery: Symptoms usually vanish once the 'Nodes' are isolated from the network"
+  ],
+  "causes": [
+    "Mirror Neuron Hyper-activation: The 'Mirror Driver' executing observed code",
+    "High Network Latency/Stress: Excessive background 'System Load' in the group",
+    "Shared Belief Systems: A common 'Security Protocol' that makes nodes vulnerable to the same rumor",
+    "Prefrontal 'Filter' Failure: The inability to distinguish between 'External Observation' and 'Internal State'"
+  ],
+  "risk_factors": [
+    "Cohesive social groups with high levels of mutual observation",
+    "Recent shared trauma or high-stress 'Compute cycles'",
+    "Digital Hyper-connectivity (Social-media induced 'Virtual MPI')"
+  ],
+  "diagnosis": [
+    "Cluster Analysis: Identifying that the symptoms don't follow biological 'Infection' paths",
+    "Environmental Audit: Ruling out actual hardware toxins (CO2, gas leaks)",
+    "Observation of 'Spread Dynamics': Does it spread faster when people are watching?"
+  ],
+  "remedies": [
+    "Network Segmentation: Separating the 'Nodes' to stop the propagation",
+    "System Reassurance: Providing a 'Clear' status report to lower anxiety gain",
+    "Filter Training: Strengthening the 'Logical Auditor' to ignore false peer-signals"
+  ],
+  "prevention": [
+    "Maintaining low-stress 'Network Environments' and transparent communication"
+  ]
+}
+
 "dissociative_fugue_profile_migration": {
   "description": "A rare dissociative disorder characterized by reversible amnesia for personal identity, including the memories, personality, and other identifying characteristics of individuality.",
   "symptoms": [
