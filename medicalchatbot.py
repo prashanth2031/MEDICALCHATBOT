@@ -120,6 +120,44 @@ medical_db = {
     "Maintaining stable sleep cycles and hydration to prevent 'Aura' events"
   ]
 }
+"tinnitus_gain_feedback_loop": {
+  "description": "The perception of noise or ringing in the ears when no external sound is present, caused by maladaptive neural plasticity in the auditory pathway.",
+  "symptoms": [
+    "Phantom Tones: Persistent ringing, buzzing, roaring, or clicking in the 'Audio Feed'",
+    "Hyperacusis: Sensitivity to normal sounds (The 'Gain' is set too high for everyone)",
+    "Frequency Selective: Often matches the specific frequency 'Bin' where hearing loss occurred",
+    "Psychological Load: Increased 'CPU' usage leads to anxiety, fatigue, and loss of focus",
+    "Reactive Tinnitus: The 'Phantom Signal' gets louder in response to external noise"
+  ],
+  "causes": [
+    "Cochlear Hardware Damage: Loss of hair cells (The 'Sensors') due to noise or age",
+    "Central Gain Increase: The Auditory Cortex 'cranking the volume' to find a missing signal",
+    "Somatosensory Crosstalk: Nerve signals from the jaw (TMJ) or neck 'leaking' into the audio bus",
+    "Limbic Integration: The 'Emotional Processor' tagging the phantom noise as a 'Threat'"
+  ],
+  "risk_factors": [
+    "Exposure to high-decibel 'Data Spikes' (Loud music, machinery)",
+    "Ototoxic medications that 'Corrupt' the inner ear sensors",
+    "High systemic stress levels that lower the 'Noise Floor' of the brain"
+  ],
+  "diagnosis": [
+    "Audiometry: Identifying the 'Frequency Gap' where the sensor is broken",
+    "Tinnitus Pitch Matching: Identifying the exact 'Tone' of the glitch",
+    "Tympanometry: Checking the physical 'Hardware' of the middle ear",
+    "fMRI: Observing hyper-activity in the Auditory Cortex and Thalamus"
+  ],
+  "remedies": [
+    "Sound Masking: Providing 'External White Noise' to satisfy the Gain Control",
+    "Tinnitus Retraining Therapy (TRT): Teaching the 'Logical Auditor' to ignore the signal",
+    "Notched Music Therapy: Listening to audio with the 'Glitch Frequency' filtered out",
+    "Cognitive Behavioral Therapy (CBT): Desensitizing the Limbic System to the 'Alarm' signal"
+  ],
+  "prevention": [
+    "Using 'Hardware Firewalls' (Earplugs) in high-noise environments",
+    "Avoiding 'System Overclocking' (Extreme stress and lack of sleep)"
+  ]
+}
+
 
 "akinetopsia_frame_rate_crash": {
   "description": "A neuropsychological disorder in which a patient cannot perceive motion in their visual field, despite being able to see stationary objects without issue.",
