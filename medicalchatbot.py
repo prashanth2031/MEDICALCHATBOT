@@ -84,6 +84,42 @@ medical_db = {
     "Minimizing surgical trauma to the corpus callosum and medial frontal lobes"
   ]
 }
+"aiws_viewport_scaling_error": {
+  "description": "A disorienting neurological condition that affects human perception, causing objects or body parts to appear larger, smaller, closer, or further away than they actually are.",
+  "symptoms": [
+    "Micropsia: Objects appear unnaturally small (The 'Zoom Out' glitch)",
+    "Macropsia: Objects appear unnaturally large (The 'Zoom In' glitch)",
+    "Pelopsia: Objects appear closer than they are (The 'Depth Buffer' error)",
+    "Teleopsia: Objects appear much further away (The 'Field of View' error)",
+    "Metamorphopsia: Linear lines appear wavy or distorted",
+    "Time Distortion: The 'Clock Speed' feels altered (Time seems to move too fast or too slow)"
+  ],
+  "causes": [
+    "Migraine Aura: The most common trigger; an electrical wave 'resetting' the visual cortex",
+    "Epstein-Barr Virus (EBV): Systemic infection affecting the central nervous system",
+    "Temporal Lobe Epilepsy: Electrical 'Jitter' in the spatial-processing circuits",
+    "Parietal Lobe Lesions: Damage to the 'Spatial Mapping' hardware"
+  ],
+  "risk_factors": [
+    "Family history of migraines",
+    "Childhood development (often resolves as the 'Hardware' matures)",
+    "High-stress environments affecting sensory integration"
+  ],
+  "diagnosis": [
+    "The Amsler Grid Test: Identifying 'Coordinate Distortion'",
+    "EEG: Checking for 'Signal Noise' (epileptic activity)",
+    "MRI: Ruling out structural damage to the Parietal-Occipital junction",
+    "Clinical History: Tracking the 'Scaling Episodes' relative to migraines"
+  ],
+  "remedies": [
+    "Trigger Management: Identifying and patching migraine or seizure triggers",
+    "Rest and Sensory Deprivation: Turning off the 'Video Feed' to allow the system to recalibrate",
+    "Pharmacological Stability: Anti-convulsants or migraine-preventative patches"
+  ],
+  "prevention": [
+    "Maintaining stable sleep cycles and hydration to prevent 'Aura' events"
+  ]
+}
 
 "akinetopsia_frame_rate_crash": {
   "description": "A neuropsychological disorder in which a patient cannot perceive motion in their visual field, despite being able to see stationary objects without issue.",
