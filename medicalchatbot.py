@@ -48,6 +48,43 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"alien_hand_command_override": {
+  "description": "A rare neurological disorder in which one hand functions involuntarily, with the victim feeling as though the hand is not part of their body and has a mind of its own.",
+  "symptoms": [
+    "Autonomous Motor Execution: The hand performs complex tasks (e.g., reaching for a cookie while the user is on a diet)",
+    "Inter-manual Conflict: The 'Alien' hand actively works against the 'Primary' hand (e.g., one hand zips up a jacket while the other unzips it)",
+    "Loss of Agency: The user perceives the hand as an external entity or 'stranger'",
+    "Reflexive Grasping: The hand 'captures' objects and refuses to let go (Grasp Reflex)",
+    "Intact Sensation: The user can feel the hand moving but cannot issue a 'Stop' command"
+  ],
+  "causes": [
+    "Corpus Callosotomy: Disconnection of the 'Communication Bridge' between hemispheres",
+    "Lesions in the Supplementary Motor Area (SMA): The hub for planning 'Internal' actions",
+    "Anterior Cerebral Artery (ACA) Stroke: Starving the medial frontal lobes of power",
+    "Neurodegenerative conditions (e.g., Creutzfeldt-Jakob or Corticobasal Degeneration)"
+  ],
+  "risk_factors": [
+    "Brain surgery (specifically 'Split-brain' procedures)",
+    "Vascular damage to the medial frontal cortex",
+    "Tumors or trauma affecting the 'Inhibitory' motor loops"
+  ],
+  "diagnosis": [
+    "Clinical Observation: Documenting 'Goal-Directed' vs. 'Random' movement",
+    "MRI/CT: Identifying lesions in the Corpus Callosum or SMA",
+    "Neuropsychological testing for 'Sense of Agency' thresholds",
+    "EEG: Monitoring motor-readiness potentials (Bereitschaftspotential)"
+  ],
+  "remedies": [
+    "Occupational Therapy: 'Task-specific' training to re-integrate the hand",
+    "Sensory Distraction: Giving the 'Alien' hand an object to hold (The 'Fidget' patch)",
+    "Visual Feedback: Using mirrors to 're-map' the hand to the self",
+    "Physical Restraint: Using oven mitts or sleeves to limit the hand's 'Attack Surface'"
+  ],
+  "prevention": [
+    "Minimizing surgical trauma to the corpus callosum and medial frontal lobes"
+  ]
+}
+
 "akinetopsia_frame_rate_crash": {
   "description": "A neuropsychological disorder in which a patient cannot perceive motion in their visual field, despite being able to see stationary objects without issue.",
   "symptoms": [
