@@ -84,6 +84,41 @@ medical_db = {
     "Minimizing surgical trauma to the corpus callosum and medial frontal lobes"
   ]
 }
+"cmmd_broadcast_override": {
+  "description": "A condition in which intentional movements of one side of the body are accompanied by involuntary mirror movements of the other side.",
+  "symptoms": [
+    "Symmetric Mimicry: Wiggling left toes causes the right toes to wiggle identically",
+    "Bilateral Deadlock: Difficulty with tasks requiring manual coordination (e.g., playing piano or typing)",
+    "Muscle Fatigue: Double the 'Energy Consumption' for simple unilateral tasks",
+    "Preserved Sensation: The 'Input' is fine, but the 'Output' is duplicated",
+    "Logic Consistency: Mirroring is most prominent in distal muscles (fingers and toes)"
+  ],
+  "causes": [
+    "DCC & RAD51 Gene Mutations: Errors in the 'Wiring Instructions' for the nervous system",
+    "Failure of Decussation: Motor fibers fail to cross correctly in the Medulla (The 'Router' error)",
+    "Incomplete Corpus Callosum Inhibition: The 'Inter-Hemispheric Bridge' fails to suppress the mirror signal",
+    "Ipsilateral Tract Persistence: The brain maintains 'Wrong-Way' connections to the same side"
+  ],
+  "risk_factors": [
+    "Genetic inheritance (Autosomal Dominant patterns)",
+    "Early developmental 'Routing' failures in the corticospinal tract"
+  ],
+  "diagnosis": [
+    "Electromyography (EMG): Detecting simultaneous 'Firing' in homologous muscles",
+    "Transcranial Magnetic Stimulation (TMS): Observing bilateral 'Motor Evoked Potentials' from a single-side stimulus",
+    "Genetic Sequencing: Looking for the 'RAD51' or 'DCC' patch errors",
+    "Physical Coordination Audit"
+  ],
+  "remedies": [
+    "Task Adaptation: Using tools that don't require independent hand movements",
+    "Occupational Therapy: Developing 'Workarounds' for bilateral execution",
+    "No 'Software Patch' currently exists for the hardware re-routing"
+  ],
+  "prevention": [
+    "N/A; this is a 'Hard-Coded' architectural variation"
+  ]
+}
+
 "semantic_satiation_pointer_break": {
   "description": "A psychological phenomenon in which repetition causes a word or phrase to temporarily lose meaning for the listener, who then perceives the speech as meaningless sounds.",
   "symptoms": [
