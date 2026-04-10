@@ -84,6 +84,40 @@ medical_db = {
     "Minimizing surgical trauma to the corpus callosum and medial frontal lobes"
   ]
 }
+"semantic_satiation_pointer_break": {
+  "description": "A psychological phenomenon in which repetition causes a word or phrase to temporarily lose meaning for the listener, who then perceives the speech as meaningless sounds.",
+  "symptoms": [
+    "Meaning Decay: The rapid 'Erosion' of the link between a word and its definition",
+    "Phonetic Alienation: The word begins to sound like an 'unrecognized' sound sequence",
+    "Visual Fragmentation: If reading, the letters stop forming a 'concept' and become just 'shapes'",
+    "The 'Jamais Vu' Effect: Feeling that a common word is suddenly 'New' or 'Incorrect'",
+    "Rapid Recovery: The 'Pointer' re-establishes as soon as the repetition stops (Cache Refresh)"
+  ],
+  "causes": [
+    "Reactive Inhibition: Specific neurons in the temporal lobe 'fire and tire' from rapid repetition",
+    "Neural Adaptation: The brain's 'Delta-Detection' system stops reporting the word as 'Information' because it's too static",
+    "Linguistic Saturation: Overloading the 'Signifier-Signified' bus"
+  ],
+  "risk_factors": [
+    "High-speed proofreading or data entry",
+    "Intense vocal rehearsal",
+    "Neurodivergent focus patterns (Hyper-focus on specific strings)"
+  ],
+  "diagnosis": [
+    "The 'Repetition Threshold' Test: Measuring how many cycles it takes for meaning to drop to zero",
+    "Interference Tasks: Seeing if the 'Satiated' word still triggers related concepts",
+    "Functional MRI: Showing decreased activity in the Left Inferior Prefrontal Cortex during satiation"
+  ],
+  "remedies": [
+    "System Pause: Ceasing the repetition for 10-30 seconds",
+    "Context Switching: Using the word in a completely different sentence/context",
+    "Synonym Injection: Swapping the 'String' for an alternative to bypass the fatigued circuit"
+  ],
+  "prevention": [
+    "Varied linguistic input to keep the 'Semantic Mapping' hardware fresh"
+  ]
+}
+
 "aiws_viewport_scaling_error": {
   "description": "A disorienting neurological condition that affects human perception, causing objects or body parts to appear larger, smaller, closer, or further away than they actually are.",
   "symptoms": [
