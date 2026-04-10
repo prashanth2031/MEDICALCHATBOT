@@ -118,6 +118,42 @@ medical_db = {
     "N/A; this is a 'Hard-Coded' architectural variation"
   ]
 }
+"stendhal_aesthetic_overflow": {
+  "description": "A psychosomatic disorder that causes rapid heartbeat, dizziness, fainting, confusion and even hallucinations when an individual is exposed to objects or phenomena of great personal significance or beauty.",
+  "symptoms": [
+    "Tachycardia: Sudden heart rate spike (System Overclocking)",
+    "Syncope: Fainting or 'Power Cycling' due to autonomic overload",
+    "Dissociative States: Feeling 'detached' from the hardware as the data stream peaks",
+    "Euphoria/Panic Paradox: Simultaneous high-pleasure and high-threat signals",
+    "Short-term Amnesia: Gaps in the 'Event Log' during the peak intensity of the experience"
+  ],
+  "causes": [
+    "Limbic Hyper-activation: The 'Emotional Processor' cannot handle the packet density",
+    "Thalamic Filtering Failure: The 'Signal Firewall' fails to suppress high-intensity beauty",
+    "Vagus Nerve Over-stimulation: Leading to a sudden drop in blood pressure",
+    "Cultural Priming: A 'Pre-loaded' expectation that increases the vulnerability of the node"
+  ],
+  "risk_factors": [
+    "Sensitive 'Artistic' temperaments (High openness to experience)",
+    "Travelers visiting high-density historical/artistic hubs (e.g., Florence, Paris)",
+    "Underlying exhaustion or low 'System Battery' during the encounter"
+  ],
+  "diagnosis": [
+    "Heart Rate Variability (HRV) Monitoring: Detecting sudden autonomic instability",
+    "Clinical Interview: Identifying the 'Triggering Object' (e.g., a specific fresco or statue)",
+    "Exclusion of 'Panic Disorder' (Which lacks the specific aesthetic trigger)",
+    "Observation of recovery once the 'Visual Feed' is terminated"
+  ],
+  "remedies": [
+    "Signal Isolation: Removing the user from the high-density environment",
+    "Anxiolytics: Using chemical 'Dampeners' to lower the gain on the limbic system",
+    "Grounding Exercises: Forcing the brain to process 'Low-Density' data (e.g., counting floor tiles)",
+    "Hydration and Glucose: Restoring 'Hardware Stability'"
+  ],
+  "prevention": [
+    "Pacing: Limiting 'Museum Cycles' to prevent data-stream saturation"
+  ]
+}
 
 "semantic_satiation_pointer_break": {
   "description": "A psychological phenomenon in which repetition causes a word or phrase to temporarily lose meaning for the listener, who then perceives the speech as meaningless sounds.",
