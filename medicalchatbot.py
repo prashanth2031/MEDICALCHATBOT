@@ -48,6 +48,43 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"palinopsia_buffer_persistence": {
+  "description": "The persistence or recurrence of a visual image after the stimulus has been removed.",
+  "symptoms": [
+    "Trailing: Moving objects leave a 'Motion Blur' or discrete 'Ghosting' path behind them",
+    "Illusory Palinopsia: Images remain in the field of view for minutes or hours (The 'Burn-in' glitch)",
+    "Light Streaking: Light sources leave long 'Smears' across the visual UI",
+    "Categorical Recall: Seeing a pattern (like a grid) on one object and having it 'Leaking' onto every other object",
+    "Decreased Contrast: The 'Ghost Images' can wash out real-time data"
+  ],
+  "causes": [
+    "Toxicity: Specifically from SSRIs, Trazodone, or Topiramate (Software-induced lag)",
+    "Migraine Aura: Temporary 'Circuit Jitter' in the occipital-parietal pathway",
+    "Parietal Lobe Lesions: Damage to the 'Temporal Smoothing' hardware",
+    "Tumors or Metabolic Shifts: Altering the 'Refresh Rate' of visual neurons"
+  ],
+  "risk_factors": [
+    "Long-term use of specific psychiatric medications",
+    "History of complex migraines",
+    "Head trauma affecting the dorsal visual stream"
+  ],
+  "diagnosis": [
+    "Visual Field Testing: Identifying if the persistence is localized or global",
+    "Neuroimaging: Checking for 'Hot Spots' of activity in the visual cortex after the stimulus is gone",
+    "Drug Screen: Auditing for 'Chemical Interference' in the neurotransmitter bus",
+    "Differentiating from 'Hallucinations' (The user knows the image isn't really there)"
+  ],
+  "remedies": [
+    "Medication Titration: Removing the 'Overtaxing' chemical patches",
+    "Calcium Channel Blockers: To stabilize the 'Firing Threshold' of visual neurons",
+    "Tinted Lenses: Reducing the 'Input Intensity' to lower the load on the buffer",
+    "Time: Many cases are transient 'System Glitches' that self-resolve"
+  ],
+  "prevention": [
+    "Monitoring 'System Load' when introducing new neurological medications"
+  ]
+}
+
 "alien_hand_command_override": {
   "description": "A rare neurological disorder in which one hand functions involuntarily, with the victim feeling as though the hand is not part of their body and has a mind of its own.",
   "symptoms": [
