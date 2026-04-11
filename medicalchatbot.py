@@ -48,6 +48,42 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"prosopagnosia_biometric_crash": {
+  "description": "A cognitive disorder of face perception where the ability to recognize familiar faces, including one's own, is impaired, while other aspects of visual processing and intellectual functioning remain intact.",
+  "symptoms": [
+    "Identity Nullification: Faces appear as a collection of features without a 'Sum Identity'",
+    "Metadata Dependency: Identifying targets via hair color, height, glasses, or voice (Heuristic-based ID)",
+    "Social Navigation Errors: Failing to recognize significant nodes (partners, children, bosses) in public",
+    "Internal Mirror Glitch: Inability to recognize the 'Self-Profile' in mirrors or photos",
+    "Context Sensitivity: Recognizing a person at the 'Office' but failing to ID them at the 'Grocery Store'"
+  ],
+  "causes": [
+    "Fusiform Gyrus Damage: Lesions or stroke in the occipitotemporal lobe",
+    "Congenital Encoding Error: Hard-coded failure to develop the FFA 'Driver' from birth",
+    "Neurodegenerative Decay: Progression of Alzheimer's or PCA affecting the ID-bus",
+    "Temporal Lobe Trauma: Disrupting the link between visual data and emotional memory"
+  ],
+  "risk_factors": [
+    "Genetic predisposition (Autosomal dominant traits in some families)",
+    "Early childhood developmental delays in social-visual integration",
+    "Vascular events in the posterior cerebral artery"
+  ],
+  "diagnosis": [
+    "The Benton Facial Recognition Test (BFRT)",
+    "The Cambridge Face Memory Test (CFMT): Assessing the ability to learn 'New Profiles'",
+    "fMRI: Measuring 'Zero-Activation' in the FFA when presented with facial stimuli",
+    "Differentiating from 'Object Agnosia' (Can they recognize a chair but not a face?)"
+  ],
+  "remedies": [
+    "Metadata Cataloging: Training the brain to focus on 'Fixed Assets' (scars, birthmarks, unique jewelry)",
+    "Algorithm Training: Using mnemonic devices to link voices to names",
+    "System Transparency: Encouraging peers to 'Self-Identify' upon entering the user's proximity"
+  ],
+  "prevention": [
+    "N/A for congenital cases; standard vascular health for acquired cases"
+  ]
+}
+
 "palinopsia_buffer_persistence": {
   "description": "The persistence or recurrence of a visual image after the stimulus has been removed.",
   "symptoms": [
