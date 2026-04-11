@@ -83,6 +83,42 @@ medical_db = {
     "N/A for congenital cases; standard vascular health for acquired cases"
   ]
 }
+"aboulia_execution_latency": {
+  "description": "A pathological inability to make decisions or initiate voluntary actions, ranging from subtle hesitation to a total lack of willpower.",
+  "symptoms": [
+    "Initiation Lag: Significant delay between a stimulus/intent and the resulting action",
+    "Speech Latency: Long pauses before responding to simple queries",
+    "Decision Paralysis: Inability to choose between two equally viable 'execution paths'",
+    "Reduced Spontaneity: The system only runs 'Reactive' tasks, never 'Background' or self-generated ones",
+    "Emotional Flatness: The 'Reward Driver' (Dopamine) fails to provide the necessary kickstart"
+  ],
+  "causes": [
+    "Dopaminergic Path Collapse: Failure in the Mesocorticolimbic 'Incentive' bus",
+    "Basal Ganglia Lesions: Damage to the 'Gatekeeper' that allows motor signals to pass",
+    "Prefrontal Cortex Damage: Impairing the 'Executive Manager' responsible for goal-setting",
+    "Post-Stroke Sequelae: Specifically in the Anterior Cingulate Cortex (ACC)"
+  ],
+  "risk_factors": [
+    "Traumatic Brain Injury (TBI) targeting the frontal lobes",
+    "Neurodegenerative diseases (Parkinson's, Huntington's)",
+    "Severe chronic depression affecting the 'Motivation Kernel'"
+  ],
+  "diagnosis": [
+    "The 'Reaction Time' Audit: Measuring the gap between command and execution",
+    "Neuropsychological Scans: Checking for hypometabolism in the ACC and Striatum",
+    "Motivation-Response Testing: Does the latency decrease if the 'Reward Value' increases?",
+    "Differentiating from 'Apathy' (Which is a lack of caring) and 'Akinesia' (Which is a lack of movement)"
+  ],
+  "remedies": [
+    "Dopamine Agonists: Chemically 'Overclocking' the initiation signal",
+    "External Prompting: Using external 'Interrupts' (timers, alarms) to bypass the internal stall",
+    "Cognitive-Motor Pacing: Breaking tasks into micro-instructions to lower the 'Initiation Cost'",
+    "Environmental Enrichment: Increasing 'Input Signal' to force a response"
+  ],
+  "prevention": [
+    "Standard neurological health maintenance and vascular protection"
+  ]
+}
 
 "palinopsia_buffer_persistence": {
   "description": "The persistence or recurrence of a visual image after the stimulus has been removed.",
