@@ -119,7 +119,42 @@ medical_db = {
     "Standard neurological health maintenance and vascular protection"
   ]
 }
-
+"abilene_network_consensus_glitch": {
+  "description": "A paradox in which a group of people collectively decide on a course of action that is counter to the preferences of many or all of the individuals in the group.",
+  "symptoms": [
+    "False Unanimity: The 'Network' reports 100% agreement despite 0% individual buy-in",
+    "Mismanaged Agreement: The failure to communicate private 'Data Exceptions' to the group",
+    "Post-Execution Blame: After the task fails, nodes reveal their original 'Dissent Logs'",
+    "Social Friction Avoidance: Prioritizing 'Connection Stability' over 'Data Accuracy'",
+    "The 'Road to Abilene' Effect: Committing resources to a 'Null Goal' that no one requested"
+  ],
+  "causes": [
+    "Pluralistic Ignorance: Nodes incorrectly 'predict' the state of other nodes",
+    "Inhibitory Signal Failure: Fear of being marked as a 'Bad Node' (social exclusion)",
+    "Action Anxiety: The 'Processing Overhead' of speaking up feels higher than the cost of a bad decision",
+    "Negative Fantasy: Modeling catastrophic 'System Crashes' that wouldn't actually occur"
+  ],
+  "risk_factors": [
+    "High-cohesion groups with low 'Conflict Tolerance'",
+    "Hierarchical networks where the 'Root Node' is perceived as rigid",
+    "Time-critical environments where 'Signal Validation' is skipped for speed"
+  ],
+  "diagnosis": [
+    "The 'Private vs. Public' Audit: Comparing individual logs against the 'Group Output'",
+    "Communication Latency Analysis: Checking if dissenting signals were 'Dropped' or 'Filtered'",
+    "Post-Action Retrospectives: Identifying the point of 'Logic Divergence'",
+    "Byzantine Fault Testing: Checking if a single node's false signal corrupted the whole cluster"
+  ],
+  "remedies": [
+    "Anonymous Voting: Removing the 'Social Overhead' from the data transmission",
+    "Devil’s Advocate Protocol: Forcing a 'Dissent Signal' to test network stability",
+    "Psychological Safety Patches: Lowering the 'Cost' of reporting a Data Exception",
+    "Check-and-Balance Verification: Asking 'Does anyone actually want to do this?'"
+  ],
+  "prevention": [
+    "Encouraging 'Red-Teaming' and diverse signal inputs to prevent echo-chamber loops"
+  ]
+}
 "palinopsia_buffer_persistence": {
   "description": "The persistence or recurrence of a visual image after the stimulus has been removed.",
   "symptoms": [
