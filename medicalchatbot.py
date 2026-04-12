@@ -227,6 +227,76 @@ medical_db = {
     "N/A; this is a 'Hard-Coded' architectural variation"
   ]
 }
+"confabulation_database_autofill": {
+  "description": "The production of fabricated, distorted, or misinterpreted memories about oneself or the world, without the conscious intention to deceive.",
+  "symptoms": [
+    "Hallucinated Records: Creating entire events that never occurred to fill a gap in the logs",
+    "Temporal Misplacement: Taking a real data point from 10 years ago and 'pasting' it into today’s record",
+    "Lack of Error Detection: The user is $100\%$ certain the fabricated data is valid",
+    "Provoked vs. Spontaneous: Can be triggered by a query (search) or occur as a background process",
+    "Narrative Smoothing: The fabricated data is logically consistent with the user’s 'Current State'"
+  ],
+  "causes": [
+    "Prefrontal Cortex (PFC) Failure: The 'Editor' or 'Validation Script' is offline",
+    "Korsakoff’s Syndrome: Thiamine deficiency leading to severe database 'bit-rot'",
+    "Anterior Communicating Artery (ACoA) Aneurysm: Damaging the 'Memory Indexing' hardware",
+    "Dementia/Alzheimer's: General degradation of the 'Storage Clusters'"
+  ],
+  "risk_factors": [
+    "Severe chronic alcohol consumption (Vitamin B1 depletion)",
+    "Traumatic Brain Injury affecting the orbital-frontal circuits",
+    "Advanced age-related memory degradation"
+  ],
+  "diagnosis": [
+    "Source Monitoring Tests: Checking if the user can identify 'Where' a data point came from",
+    "The 'D-E-S' Task: Identifying false recognition of 'lure' words in a list",
+    "Neuroimaging: Observing low activity in the ventromedial prefrontal cortex (vmPFC)",
+    "Collateral History: Checking the user's 'Output' against a 'Known Good' witness"
+  ],
+  "remedies": [
+    "External Logging: Using 'Journaling' and 'Checklists' as a secondary hard drive",
+    "Reality Orientation: Providing constant 'Sync Signals' (Clocks, Calendars, GPS)",
+    "Memory Training: Strengthening the 'Source-Monitoring' filter through practice",
+    "Nutritional Patching: Thiamine (B1) replacement to stop the hardware rot"
+  ],
+  "prevention": [
+    "Adequate nutrition and protection against high-impact 'Hardware' damage"
+  ]
+}
+"synesthesia_bus_crosstalk": {
+  "description": "A neurological condition in which information meant to stimulate one of the senses stimulates several of them, creating a blended sensory experience.",
+  "symptoms": [
+    "Chromesthesia: Sound-to-color mapping (e.g., a C-sharp looks like neon violet)",
+    "Grapheme-Color: Alphanumeric characters are perceived as inherently colored",
+    "Lexical-Gustatory: Specific words trigger physical taste sensations (e.g., the word 'Logic' tastes like copper)",
+    "Spatial Sequence: Numerical sequences or months appear as physical points in 3D space",
+    "Mirror-Touch: Feeling the same physical sensation as another person (The 'Proxy-Input' glitch)"
+  ],
+  "causes": [
+    "Hyper-connectivity: Failure of the 'Pruning Script' during early development, leaving too many neural bridges",
+    "Cross-Activation: The 'Signal Firewall' between adjacent brain regions (like the V4 color area and the grapheme area) is porous",
+    "Disinhibited Feedback: Higher-level cortical regions sending 'top-down' signals back to the wrong sensory entry point",
+    "Transient Induction: Can be temporarily triggered by hallucinogenic 'Software Overwrites' or high-intensity meditation"
+  ],
+  "risk_factors": [
+    "Genetic inheritance (Common in creative or 'High-Bandwidth' lineages)",
+    "Neurodevelopmental variations where 'Signal Isolation' wasn't prioritized"
+  ],
+  "diagnosis": [
+    "Consistency Testing: Checking if the mapping (e.g., 'A' = Red) remains identical over years",
+    "Stroop-Style Interference Tests: Measuring 'Processing Lag' when the 'Real' color conflicts with the 'Synesthetic' color",
+    "DTI (Diffusion Tensor Imaging): Identifying 'High-Density Cabling' between sensory hubs",
+    "fMRI: Observing simultaneous activation of multiple sensory cortices from a single input"
+  ],
+  "remedies": [
+    "N/A; usually categorized as a 'Feature' rather than a 'Bug'",
+    "Sensory Management: Reducing 'Input Noise' to prevent cognitive fatigue",
+    "Focus Training: Learning to ignore the 'Phantom Channels' during high-load tasks"
+  ],
+  "prevention": [
+    "N/A; this is a 'Hard-Coded' architectural deviation"
+  ]
+}
 "stendhal_aesthetic_overflow": {
   "description": "A psychosomatic disorder that causes rapid heartbeat, dizziness, fainting, confusion and even hallucinations when an individual is exposed to objects or phenomena of great personal significance or beauty.",
   "symptoms": [
@@ -261,6 +331,41 @@ medical_db = {
   ],
   "prevention": [
     "Pacing: Limiting 'Museum Cycles' to prevent data-stream saturation"
+  ]
+}
+"cotards_profile_nullification": {
+  "description": "A rare neuropsychiatric delusion in which the affected person holds the delusional belief that they are already dead, do not exist, are putrefying, or have lost their blood or internal organs.",
+  "symptoms": [
+    "Existential Negation: The core belief that the self has been 'Deleted' from reality",
+    "Hypochondriacal Delusions: Claims that the stomach is missing or the heart has stopped",
+    "Analgesia: A high threshold for physical pain (The system ignores 'Hardware Damage' alerts)",
+    "Social Withdrawal: Disconnection from the 'Network' (Why interact if I don't exist?)",
+    "Immortal Delusions: Paradoxically believing they cannot die because they are already dead"
+  ],
+  "causes": [
+    "Amygdala-Sensory Disconnect: The emotional 'Validation Script' fails to fire for any internal stimuli",
+    "Right Parietal Lobe Lesions: Disrupting the 'Spatial Self-Map'",
+    "Severe Depression/Psychosis: A complete 'Logic-Level' shutdown of the reward and existence circuits",
+    "Adverse Drug Reactions: Specifically linked to Acyclovir in patients with renal failure"
+  ],
+  "risk_factors": [
+    "Schizophrenia or Bipolar Disorder",
+    "Neurological trauma affecting the 'Identity-Emotion' pathway",
+    "Severe metabolic imbalances affecting cortical 'Awareness' thresholds"
+  ],
+  "diagnosis": [
+    "Clinical Interview: Identifying the 'Null-State' logic",
+    "fMRI: Observing zero activity in the 'Self-Reference' nodes during introspection",
+    "Metabolic Panel: Checking for 'System Toxins' that might be corrupting the logic",
+    "Differentiating from 'Capgras Delusion' (Where others are fakes, here the *Self* is the fake)"
+  ],
+  "remedies": [
+    "Electroconvulsive Therapy (ECT): A 'Hard Reset' of the brain's electrical state",
+    "Antipsychotic/Antidepressant Patches: Stabilizing the 'Neurotransmitter Bus'",
+    "Reality Validation Therapy: Attempting to 'Re-sync' sensory input with emotional value"
+  ],
+  "prevention": [
+    "Early intervention in severe mood disorders to prevent 'Existential Logic Collapse'"
   ]
 }
 
