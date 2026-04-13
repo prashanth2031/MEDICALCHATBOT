@@ -81,6 +81,42 @@ medical_db = {
     "N/A; often considered a 'Critical Survival Patch' rather than a harmful bug"
   ]
 }
+"aiws_scaling_driver_failure": {
+  "description": "A neuropsychological condition that causes a distortion in perception; people may experience distortions in visual perception such as objects appearing smaller or larger or closer or further away than they actually are.",
+  "symptoms": [
+    "Micropsia: Objects appear like tiny 'Assets' in a high-res world",
+    "Macropsia: Ordinary items appear as 'Giant-Sized' entities",
+    "Pelopsia: Objects seem to 'Zoom In' and crowd the user's field of view",
+    "Body Schema Distortion: Feeling as though a limb is growing or shrinking (The 'Local Scale' glitch)",
+    "Time Dilation: A feeling that time is moving at $0.5x$ or $2.0x$ speed"
+  ],
+  "causes": [
+    "Migraine Aura: Electrical 'Jitter' in the posterior parietal cortex",
+    "Epstein-Barr Virus (EBV): System-wide inflammation affecting the visual-spatial bus",
+    "Temporal Lobe Epilepsy: Spontaneous 'Signal Spikes' in the scaling regions",
+    "Psychoactive Overlays: Chemicals that inhibit the 'Spatial Calibration' drivers"
+  ],
+  "risk_factors": [
+    "Common in children (The 'System' is still calibrating its spatial drivers)",
+    "History of complex migraines",
+    "Recent viral infections affecting the CNS"
+  ],
+  "diagnosis": [
+    "Amsler Grid Test: Checking for visual 'Warpage'",
+    "Clinical Interview: Identifying the 'Alice' symptoms (e.g., 'The room feels like a dollhouse')",
+    "EEG: Monitoring for 'Seizure Activity' during a scaling event",
+    "MRI: Ruling out structural 'Hardware' damage in the parietal lobe"
+  ],
+  "remedies": [
+    "Trigger Avoidance: Identifying 'Signal Noise' (lights, sounds) that trips the scaling error",
+    "Rest: Allowing the 'Parietal Buffer' to clear",
+    "Time: Most childhood cases self-resolve as the 'Drivers' stabilize with age"
+  ],
+  "prevention": [
+    "Managing migraine triggers and monitoring neurological 'Uptime'"
+  ]
+}
+
 
 "paradoxical_undressing_inversion": {
   "description": "A phenomenon in which victims of severe hypothermia remove their clothing, despite extreme cold, due to a perceived sensation of intense heat.",
