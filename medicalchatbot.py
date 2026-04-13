@@ -48,6 +48,41 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"paradoxical_undressing_inversion": {
+  "description": "A phenomenon in which victims of severe hypothermia remove their clothing, despite extreme cold, due to a perceived sensation of intense heat.",
+  "symptoms": [
+    "Sensor Inversion: The 'Cold' signal is interpreted as 'Heat' (Variable Bit Flip)",
+    "Inappropriate Stripping: Systematically removing 'Protective Layers' in sub-zero environments",
+    "Terminal Burrowing: Following undressing, the user often attempts to 'Hide' or 'Cache' themselves in small spaces (The 'Hibernation' script)",
+    "Executive Logic Collapse: Total inability to perceive the 'External Environment' accurately",
+    "Autonomic Surge: A sudden, final release of 'Emergency Energy' through peripheral blood vessels"
+  ],
+  "causes": [
+    "Hypothalamic Failure: The 'Thermostat Kernel' crashes due to low power (Low Temperature)",
+    "Vasomotor Paralysis: The muscles controlling blood vessels 'Relax', causing a sudden flush of warm blood to cold skin sensors",
+    "Signal Saturation: The 'Cold' sensors are so over-stimulated they cross-talk with 'Heat' neurons",
+    "Hypoxic Logic: Lack of oxygen to the 'Prefrontal Cortex' prevents error-correction"
+  ],
+  "risk_factors": [
+    "Exposure to extreme cold without 'Active Heating' hardware",
+    "Exhaustion (System Battery at 1%)",
+    "Alcohol consumption (Which causes 'Fake Vasodilation' and speeds up the crash)"
+  ],
+  "diagnosis": [
+    "Post-Mortem Analysis: Finding clothing scattered far from the body in a freezing zone",
+    "Body Temperature Logs: Core temp usually below 30°C (86°F)",
+    "Exclusion of 'Trauma': Ensuring the undressing wasn't caused by physical interference"
+  ],
+  "remedies": [
+    "Active Rewarming: External hardware (blankets, heaters) to restore the 'Hypothalamic Kernel'",
+    "IV Fluid Injection: Restoring 'Liquid Cooling' and electrolyte balance",
+    "Emergency Shelter: Bypassing the 'Terminal Burrowing' script to provide proper insulation"
+  ],
+  "prevention": [
+    "Layered Redundancy: Using clothing that requires high 'Manual Dexterity' to remove"
+  ]
+}
+
 "prosopagnosia_biometric_crash": {
   "description": "A cognitive disorder of face perception where the ability to recognize familiar faces, including one's own, is impaired, while other aspects of visual processing and intellectual functioning remain intact.",
   "symptoms": [
