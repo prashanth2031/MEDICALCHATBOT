@@ -48,6 +48,40 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"third_man_process_injection": {
+  "description": "A perceived presence or 'unseen companion' that appears during life-threatening situations to provide comfort or guidance.",
+  "symptoms": [
+    "Presence Hallucination: The distinct feeling that another 'User' is standing just out of the field of view",
+    "Auditory Guidance: Hearing a voice providing 'Low-Latency' instructions for survival",
+    "Social Buffering: A sudden drop in 'Panic Levels' due to the perceived 'Group State'",
+    "Task Delegation: The user may attempt to 'share' resources (food/water) with the phantom",
+    "Persistence: The entity usually 'Disconnects' the moment the user reaches a 'Safe Zone'"
+  ],
+  "causes": [
+    "Temporoparietal Junction (TPJ) Glitch: The 'Self-vs-Other' boundary breaks down under high stress",
+    "Monotony-Induced Sensory Deprivation: The brain 'Autofills' a social partner to prevent system-wide apathy",
+    "Right Parietal Lobe Overload: A failure in 'Spatial Mapping' projects the user's own 'Internal Monologue' into external space",
+    "Evolutionary Survival Script: A hard-coded 'Coping Mechanism' to prevent the user from 'Giving Up'"
+  ],
+  "risk_factors": [
+    "Extreme isolation (Solo expeditions)",
+    "High-altitude cerebral edema (HACE) affecting 'Cognitive Clarity'",
+    "Severe sleep deprivation and caloric deficit"
+  ],
+  "diagnosis": [
+    "Post-Incidental Debrief: Identifying a consistent 'Companion Narrative' in solo survivors",
+    "Neurological Audit: Checking for 'Hyper-active' patches in the social-processing circuits",
+    "Exclusion of 'Schizophrenia' (The 'Third Man' is typically helpful and non-recurring)"
+  ],
+  "remedies": [
+    "Recovery of 'Homeostatic Balance': Rest, warmth, and nutrition usually 'Close the Session'",
+    "Social Re-integration: Re-connecting to 'Real' network nodes"
+  ],
+  "prevention": [
+    "N/A; often considered a 'Critical Survival Patch' rather than a harmful bug"
+  ]
+}
+
 "paradoxical_undressing_inversion": {
   "description": "A phenomenon in which victims of severe hypothermia remove their clothing, despite extreme cold, due to a perceived sensation of intense heat.",
   "symptoms": [
