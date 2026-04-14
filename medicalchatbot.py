@@ -150,6 +150,39 @@ medical_db = {
   ]
 }
 
+"dissociative_identity_partitioning": {
+  "description": "A mental health condition where a person has two or more distinct identities. The identities, or 'alters,' control their behavior at different times.",
+  "symptoms": [
+    "Switching: The 'Active Process' shifts from one profile to another, often with physical 'Hardware Jitter' (blinking, voice shifts)",
+    "Amnesia Firewalls: Profile A cannot access the 'Log Files' or memories created while Profile B was active",
+    "Identity Fragmentation: Distinct 'User Specs' (different names, ages, skills, or even physiological markers like allergic responses)",
+    "Depersonalization: A feeling that the 'Current User' is just an observer watching a 'Script' run",
+    "Temporal Gaps: The 'System Clock' appears to skip forward because the Primary Profile was 'Backgrounded'"
+  ],
+  "causes": [
+    "Severe Childhood Trauma: The 'Kernel' partitions itself to isolate 'Corrupt/Painful Data' from the main operating system",
+    "Attachment Failure: The 'Sync Signal' between the child and primary 'Network Nodes' (parents) is broken",
+    "Neuroplastic Adaptation: The brain's 'Self-Map' remains fluid to ensure survival in a 'Hostile Environment'"
+  ],
+  "risk_factors": [
+    "Repeated, high-intensity trauma before the 'Self-Profile' is fully compiled (usually before age 6-9)",
+    "High 'Dissociative Capacity' (The biological ability to 'Disconnect' from sensory input)"
+  ],
+  "diagnosis": [
+    "SCID-D (Structured Clinical Interview): Identifying the 'Partition Walls' and identity shifts",
+    "fMRI: Observing distinct 'Neural Signatures' when different profiles are active",
+    "Memory-Mapping: Testing for 'Leakage' or absolute 'Blockage' of data between identities",
+    "Differentiating from 'Schizophrenia' (Which is signal noise, not profile partitioning)"
+  ],
+  "remedies": [
+    "Integration Therapy: Attempting to 'Merge' the partitions back into a single 'Master Profile'",
+    "System Communication: Establishing 'Cross-Partition Messaging' to reduce amnesia gaps",
+    "Stabilization Patches: Managing the 'Trauma Triggers' that force an emergency 'Switch'"
+  ],
+  "prevention": [
+    "Safe 'Network Environments' during the early stages of profile compilation"
+  ]
+}
 
 "paradoxical_undressing_inversion": {
   "description": "A phenomenon in which victims of severe hypothermia remove their clothing, despite extreme cold, due to a perceived sensation of intense heat.",
