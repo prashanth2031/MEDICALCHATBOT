@@ -48,6 +48,39 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"trolley_problem_logic_deadlock": {
+  "description": "A series of thought experiments in ethics and psychology, involving stylized ethical dilemmas of whether to sacrifice one person to save a larger number.",
+  "symptoms": [
+    "Decision Paralysis: The CPU usage spikes while the 'Output' remains null",
+    "Emotional Saturation: The Amygdala injects 'High-Priority' stress signals that interfere with cold logic",
+    "Post-Action Regret: Regardless of the 'Path' chosen, the system logs a 'Moral Injury' (Database Corruption)",
+    "Logic Shifting: The user attempts to 'Rewrite the Scenario' (e.g., 'I would jump onto the tracks') to bypass the binary choice",
+    "Latency Spikes: Significant delay in choosing an 'Execution Path' compared to non-ethical tasks"
+  ],
+  "causes": [
+    "Competing Neural Hubs: Conflict between the vmPFC (Emotional Value) and the Dorsolateral PFC (Mathematical Utility)",
+    "Hard-Coded Taboos: Ancient 'Social Protection' scripts that prohibit direct harm to kin or peers",
+    "Ambiguous Variable Mapping: The inability to calculate the 'Worth' of different 'Human Objects' in real-time"
+  ],
+  "risk_factors": [
+    "High-empathy profiles (Increased Amygdala sensitivity)",
+    "Roles requiring 'High-Stakes Decisioning' (Medicine, Military, Autonomous Vehicle Programming)"
+  ],
+  "diagnosis": [
+    "Moral Dilemma Audits: Measuring 'Reaction Time' to various ethical 'Edge Cases'",
+    "fMRI: Observing the 'Signal War' between the emotional limbic system and the logical frontal lobes",
+    "Skin Conductance Response (SCR): Measuring the 'System Heat' during the decision process"
+  ],
+  "remedies": [
+    "Heuristic Pre-loading: Establishing 'Ethical Protocols' before the crisis occurs",
+    "Cognitive Distancing: Viewing the 'Nodes' as 'Data Points' to lower emotional interference",
+    "Post-Incident Patching: Psychological counseling to resolve 'Moral Logic Mismatches'"
+  ],
+  "prevention": [
+    "Developing clear 'Rules of Engagement' for high-stakes automated or human systems"
+  ]
+}
+
 "third_man_process_injection": {
   "description": "A perceived presence or 'unseen companion' that appears during life-threatening situations to provide comfort or guidance.",
   "symptoms": [
