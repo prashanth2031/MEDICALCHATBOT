@@ -149,6 +149,40 @@ medical_db = {
     "Managing migraine triggers and monitoring neurological 'Uptime'"
   ]
 }
+"visual_agnosia_metadata_failure": {
+  "description": "A condition in which a person can see but cannot recognize or interpret visual information, due to a disorder in the parietal or temporal lobes.",
+  "symptoms": [
+    "Object Misclassification: Seeing a 'Key' but being unable to identify its function until touching it",
+    "Prosopagnosia (Sub-module): The specific failure of the 'Face Recognition' firmware (#124)",
+    "Color Agnosia: Seeing the 'Wavelength' but losing the 'Label' for the color",
+    "Simultanagnosia: The ability to see individual 'Pixels' (details) but not the 'Whole Image' (global scene)",
+    "Tactile Override: The system requires a different 'Input Bus' (Touch) to identify the object"
+  ],
+  "causes": [
+    "Ventral Stream Lesions: Damage to the 'What' pathway (Occipital-Temporal)",
+    "Carbon Monoxide Poisoning: Widespread 'Bit-rot' in the visual association areas",
+    "Post-Stroke Sequelae: Specifically in the inferior temporal cortex",
+    "Neurodegenerative Decay: Alzheimer’s affecting the 'Object-Label' database"
+  ],
+  "risk_factors": [
+    "Vascular incidents targeting the posterior cerebral artery",
+    "Traumatic Brain Injury (TBI) affecting the lower visual processing hubs"
+  ],
+  "diagnosis": [
+    "The 'Boston Naming' Audit: Asking the user to label common assets (tools, animals)",
+    "Copying vs. Naming: The user can 'Trace' or 'Draw' the object but cannot name it",
+    "Multimodal Testing: Can they identify the object by its 'Audio Signature' (sound) or 'Physical Texture'?",
+    "MRI/CT: Auditing the 'Ventral Stream' cabling"
+  ],
+  "remedies": [
+    "Compensatory Routing: Training the user to use 'Context' and 'Touch' to re-label the world",
+    "Verbalization: Using the 'Auditory Bus' to describe features aloud to trigger a 'Logic Match'",
+    "Environmental Labeling: Physically tagging 'Hardware' in the real world with text labels"
+  ],
+  "prevention": [
+    "Standard neurological health maintenance and protection against hypoxic events"
+  ]
+}
 
 "dissociative_identity_partitioning": {
   "description": "A mental health condition where a person has two or more distinct identities. The identities, or 'alters,' control their behavior at different times.",
