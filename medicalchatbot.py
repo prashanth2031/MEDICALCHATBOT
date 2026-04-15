@@ -82,6 +82,40 @@ medical_db = {
     "Switching from 'Vibrate' to 'Auditory' cues to reset the tactile driver"
   ]
 }
+"lethologica_retrieval_lock": {
+  "description": "The phenomenon of failing to retrieve a word from memory, combined with partial recall and the feeling that retrieval is imminent.",
+  "symptoms": [
+    "Partial Data Access: Recalling the first letter, syllable count, or 'Rhyme-Class' of the locked record",
+    "Feeling of Knowing (FOK): High confidence that the data is 'In the System'",
+    "Blocking: A 'Competitor Record' (a similar word) keeps being retrieved instead, causing an 'Intersection Collision'",
+    "Spontaneous Resolution: The data often 'Unlocks' minutes later when the system is no longer 'Querying' it",
+    "Frustrated Execution: The 'Communication Bus' is stalled because the required string is missing"
+  ],
+  "causes": [
+    "Phonological Transmission Failure: The link between the 'Semantic Meaning' and the 'Sound Output' is severed",
+    "Inhibitory Interference: A similar record is 'Over-activated' and suppresses the target record (The 'Red-Herring' bug)",
+    "System Fatigue: Low 'Neuro-bandwidth' during high-load processing",
+    "Aging Hardware: General latency increases in the 'Retrieval Pathways'"
+  ],
+  "risk_factors": [
+    "Bilingualism (The system has to manage two different 'Dictionaries' for the same 'Object')",
+    "High levels of stress or anxiety (Increasing signal noise)",
+    "Caffeine or stimulant 'Overclocking'"
+  ],
+  "diagnosis": [
+    "Lexical Access Tests: Measuring the 'Time-to-Retrieve' for specific categories",
+    "The 'Definition-to-Label' Audit: Providing a description and measuring 'Retrieval Lag'",
+    "fMRI: Observing activity in the left inferior frontal gyrus during the 'Lock' event"
+  ],
+  "remedies": [
+    "Query Suspension: Stopping the 'Active Search' to let the 'Background Indexer' find the record",
+    "Contextual Priming: Searching for 'Associated Records' to bridge the gap to the locked data",
+    "Phonemic Cueing: Running through the alphabet (A... B... C...) to trigger a 'Sound-Match' event"
+  ],
+  "prevention": [
+    "Strengthening 'Memory Pointers' through regular 'Relational Database' expansion (reading/learning)"
+  ]
+}
 
 "trolley_problem_logic_deadlock": {
   "description": "A series of thought experiments in ethics and psychology, involving stylized ethical dilemmas of whether to sacrifice one person to save a larger number.",
