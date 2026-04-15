@@ -116,6 +116,39 @@ medical_db = {
     "Strengthening 'Memory Pointers' through regular 'Relational Database' expansion (reading/learning)"
   ]
 }
+"semantic_satiation_depolarization": {
+  "description": "A psychological phenomenon in which repetition causes a word or phrase to temporarily lose meaning for the listener, who then perceives the speech as meaningless sounds.",
+  "symptoms": [
+    "Meaning Dissociation: The word remains 'Audible' but its 'Definition' is unreachable",
+    "Pattern Recognition Shift: Perceiving the word as a collection of 'Phonemes' or 'Graphemes' rather than a symbol",
+    "Orthographic Weirdness: If written, the word begins to 'Look' incorrectly spelled (The 'Visual Satiation' variant)",
+    "Rapid Recovery: The 'Meaning' usually re-syncs within seconds of stopping the repetition",
+    "Aura of Absurdity: A feeling that the structure of the language itself is arbitrary and fragile"
+  ],
+  "causes": [
+    "Reactive Inhibition: The specific neural circuit for that word's meaning enters a 'Refractory Period' from over-stimulation",
+    "Peripheral-to-Central Fatigue: The 'Bottom-Up' signal is so repetitive that 'Top-Down' semantic integration shuts off to save energy",
+    "Neural Adaptation: The brain's 'Novelty Filter' categorizes the repeating word as 'Static Noise' and filters out its significance"
+  ],
+  "risk_factors": [
+    "High-speed repetition (Low 'Latencies' between pulses)",
+    "Intense focus on the 'Physical Sound' rather than the 'Contextual Use'",
+    "Common in 'Proofreading' tasks where a single string is analyzed in isolation"
+  ],
+  "diagnosis": [
+    "The 'Repetition-to-Null' Test: Asking the user to repeat a word 30 times and measuring the 'Meaning Decay'",
+    "Semantic Priming Audit: Measuring if the satiated word still 'Primes' related concepts in the database",
+    "fMRI: Observing a drop in activity in the 'Left Inferior Prefrontal Cortex' while the 'Auditory Cortex' remains active"
+  ],
+  "remedies": [
+    "Context Switching: Using the word in a sentence to re-anchor the 'Semantic Pointer'",
+    "Input Pause: Ceasing the repetition to allow 'Ionic Rebalancing' in the synapses",
+    "Synonym Injection: Swapping the 'Token' for a different one with the same 'Value' to bypass the fatigued circuit"
+  ],
+  "prevention": [
+    "Varying vocabulary during high-frequency communication to avoid 'Circuit Burnout'"
+  ]
+}
 
 "trolley_problem_logic_deadlock": {
   "description": "A series of thought experiments in ethics and psychology, involving stylized ethical dilemmas of whether to sacrifice one person to save a larger number.",
