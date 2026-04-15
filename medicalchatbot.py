@@ -48,6 +48,41 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"phantom_vibration_interrupt_error": {
+  "description": "The perception that one's mobile phone is vibrating or ringing when it is not, often associated with habitual technology use.",
+  "symptoms": [
+    "False-Positive Interrupt: The brain sends a 'Check Your Phone' command based on zero external data",
+    "Tactile Hallucination: A vivid sensation of rhythmic micro-vibrations on the skin",
+    "Hyper-Vigilance: The 'System' is in a constant state of 'Waiting for Input'",
+    "The 'Ghost Signal': Checking the device and finding no 'Log Entries' or notifications",
+    "Contextual Triggering: Occurs more frequently when the 'User' is in high-stress or 'Low-Input' environments"
+  ],
+  "causes": [
+    "Signal Detection Theory Error: The 'Criterion' for a signal is set too low, prioritizing 'Sensitivity' over 'Specificity'",
+    "Cortical Re-mapping: The primary somatosensory cortex (S1) has 'Over-allocated' neurons to the phone’s typical storage location",
+    "Learned Anticipation: A 'Top-Down' expectation that 'hallucinates' the expected data to satisfy a craving",
+    "Muscle Fasciculation: Minor physiological jitter being 'Up-sampled' by a paranoid sensory processor"
+  ],
+  "risk_factors": [
+    "High smartphone usage (Heavy 'Network Load')",
+    "High scores in 'Neuroticism' or 'Anxiety' (Hyper-vigilant monitoring)",
+    "Occupational stress requiring constant 'Availability'"
+  ],
+  "diagnosis": [
+    "Clinical Interview: Self-reporting 'Ghost Alerts' more than once a week",
+    "Behavioral Audit: Tracking 'Device-Check' frequency relative to actual 'Incoming Packets'",
+    "Differentiating from 'Tinnitus' (The auditory version of this glitch)"
+  ],
+  "remedies": [
+    "Hardware Re-location: Moving the device to a different 'Port' (pocket) to break the mapping",
+    "Notification Pruning: Reducing the 'Signal-to-Noise' ratio by muting non-essential alerts",
+    "Digital Detox: 'Powering Down' the expectation loop for extended periods"
+  ],
+  "prevention": [
+    "Switching from 'Vibrate' to 'Auditory' cues to reset the tactile driver"
+  ]
+}
+
 "trolley_problem_logic_deadlock": {
   "description": "A series of thought experiments in ethics and psychology, involving stylized ethical dilemmas of whether to sacrifice one person to save a larger number.",
   "symptoms": [
