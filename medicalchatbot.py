@@ -48,6 +48,41 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"fregoli_recursive_identity_glitch": {
+  "description": "A rare disorder in which a person holds a delusional belief that different people are actually a single person who changes appearance or is in disguise.",
+  "symptoms": [
+    "Identity Overlap: Believing the waiter, the doctor, and a stranger are all 'The Same Person'",
+    "Hyper-Identification: The 'Face-Matching' threshold is so low it returns a 'True' for almost any input",
+    "Paranoid Logic: The 'User' develops a narrative that the entity is 'Stalking' them using different 'Skins'",
+    "Affective Overload: High emotional arousal upon seeing any 'Stranger' because they are mapped to a 'Known Entity'",
+    "Metadata Persistence: Even if the 'Physical Pixels' change, the 'Identity Tag' remains constant"
+  ],
+  "causes": [
+    "Dopaminergic Over-activity: 'Overclocking' the associative pathways between perception and memory",
+    "Right Hemisphere Lesions: Damage to the 'Identity Verification' nodes in the temporoparietal regions",
+    "Hyper-connectivity: An accidental 'Hard-Link' between the 'Face Processor' and a specific 'Memory Address'",
+    "Limbic System Overdrive: The 'Emotional Signature' of one person is triggered by everyone"
+  ],
+  "risk_factors": [
+    "History of traumatic brain injury (TBI) affecting the 'Right Frontal' nodes",
+    "Side effects of 'Levodopa' or other dopamine-altering patches",
+    "Comorbidity with 'Capgras Syndrome' (The inverse glitch: #124)"
+  ],
+  "diagnosis": [
+    "Identity Verification Audit: Asking the user to differentiate between 'Similar' and 'Distinct' profiles",
+    "fMRI: Observing hyper-metabolism in the Fusiform Face Area (FFA) and Parahippocampal Gyrus",
+    "Clinical Interview: Identifying the 'One-in-Many' delusional architecture"
+  ],
+  "remedies": [
+    "Antipsychotic Patches: Reducing the 'Dopamine Noise' to raise the 'Identification Threshold'",
+    "Cognitive Behavioral Debugging: Training the user to look for 'Logic Exceptions' (e.g., 'They can't be in two places at once')",
+    "Social-Scripting: Providing 'Safe-Nodes' to verify reality"
+  ],
+  "prevention": [
+    "Monitoring 'Dopamine Levels' during neuro-pharmacological treatments"
+  ]
+}
+
 "phantom_vibration_interrupt_error": {
   "description": "The perception that one's mobile phone is vibrating or ringing when it is not, often associated with habitual technology use.",
   "symptoms": [
