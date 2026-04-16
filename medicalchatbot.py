@@ -117,6 +117,40 @@ medical_db = {
     "Switching from 'Vibrate' to 'Auditory' cues to reset the tactile driver"
   ]
 }
+"zeigarnik_unclosed_transaction": {
+  "description": "A psychological phenomenon stating that people remember uncompleted or interrupted tasks better than completed tasks.",
+  "sumptions": [
+    "Buffer Persistence: Unfinished tasks remain in 'Active RAM', while finished tasks are 'Pushed to Disk'",
+    "Intrusive Interrupts: The 'Task Manager' periodically pings the consciousness with 'Unfinished Data'",
+    "Cognitive Load Spike: Multiple open 'Projects' lead to 'System Lag' and reduced 'Focus Bandwidth'",
+    "Tension Release Failure: The 'Reward Signal' (Dopamine) is withheld until the 'Complete' flag is toggled",
+    "Selective Recall: The user can perfectly recount the 'Step-by-Step' of a failed task, but forgets a success"
+  ],
+  "causes": [
+    "Evolutionary 'Goal-Tracking' Script: A survival mechanism to ensure 'Vital Tasks' (finding food/shelter) aren't forgotten",
+    "Prefrontal Cortex Priority: The 'Executive' keeps 'High-Priority' pointers on anything without a 'Done' metadata tag",
+    "Dopaminergic Tension: The system maintains a state of 'Alertness' until the 'Closure' packet is received"
+  ],
+  "risk_factors": [
+    "High-load environments with frequent 'Context Switching' (Office/Lab settings)",
+    "Perfectionist Profiles: Where the 'Completion Threshold' is set too high",
+    "ADHD-type processing: Where 'Interrupts' prevent any task from reaching the 'Commit' stage"
+  ],
+  "diagnosis": [
+    "Recall Bias Audit: Asking the user to list 'Recent Activities' and noting the ratio of 'Pending' vs 'Done'",
+    "The 'Interruption Test': Measuring how much 'Processing Power' is lost when a sub-routine is paused",
+    "fMRI: Observing sustained activity in the 'Cingulate Cortex' during an incomplete task"
+  ],
+  "remedies": [
+    "The 'Closure Patch': Writing down a 'To-Do List' acts as an 'External Cache', allowing the brain to 'Offload' the task",
+    "Small-Win Sub-routines: Breaking large 'Jobs' into 'Micro-Tasks' to trigger frequent 'Buffer Clears'",
+    "Mindfulness 'Kill' Commands: Consciously terminating 'Low-Priority' background threads"
+  ],
+  "prevention": [
+    "Strict 'Single-Tasking' to prevent 'Thread Fragmentation' in the working memory"
+  ]
+}
+
 "lethologica_retrieval_lock": {
   "description": "The phenomenon of failing to retrieve a word from memory, combined with partial recall and the feeling that retrieval is imminent.",
   "symptoms": [
