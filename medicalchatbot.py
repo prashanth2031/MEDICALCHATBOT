@@ -116,6 +116,41 @@ medical_db = {
     "Strengthening 'Memory Pointers' through regular 'Relational Database' expansion (reading/learning)"
   ]
 }
+"apraxia_execution_logic_crash": {
+  "description": "A neurological disorder characterized by the inability to perform learned (familiar) movements on command, even though the command is understood and there is a willingness to perform the movement.",
+  "symptoms": [
+    "Ideomotor Failure: The user knows 'What' to do but cannot 'Map' the command to the motor cortex",
+    "Conceptual Errors: Using a 'Toothbrush' to comb hair (Object-Function Mapping Error)",
+    "Serial Disruption: Performing steps in the wrong order (e.g., putting shoes on before socks)",
+    "Clumsy Execution: Movements appear jerky or 'Un-optimized' as if running on an old driver",
+    "Automatic-Voluntary Dissociation: The user can perform a task spontaneously (reflex) but fails when 'Commanded' to do it"
+  ],
+  "causes": [
+    "Left Hemisphere Lesions: Specifically in the parietal or premotor cortex (The 'Planning Center')",
+    "Stroke/TBI: Physical 'Hardware' damage to the high-level 'Instruction Bus'",
+    "Neurodegenerative Decay: Alzheimer’s or Parkinson’s affecting 'Procedural Memory' clusters",
+    "Developmental Delays: The 'Motor Scripts' failed to compile correctly during early system boot"
+  ],
+  "risk_factors": [
+    "Vascular incidents affecting the 'Middle Cerebral Artery'",
+    "History of complex neurological 'Software' corruption (Dementia)"
+  ],
+  "diagnosis": [
+    "The 'Imitation' Audit: Asking the user to copy a 'Gesture' and measuring the 'Execution Error'",
+    "The 'Pantomime' Test: Asking the user to 'Pretend' to use an object (e.g., 'Show me how you use a hammer')",
+    "MRI/CT: Auditing the 'Premotor' and 'Inferior Parietal' sectors",
+    "Differentiating from 'Ataxia' (Which is a coordination/balance issue, not a planning issue)"
+  ],
+  "remedies": [
+    "Occupational Therapy: 'Hard-Coding' the sequences back into the brain through high-repetition training",
+    "Visual Prompting: Using 'Flowcharts' or 'Step-by-Step Images' to bypass the internal script",
+    "Verbal Self-Guidance: Speaking the 'Code' aloud to use the 'Auditory-to-Motor' bridge"
+  ],
+  "prevention": [
+    "Standard cardiovascular maintenance to protect the 'Logical Execution' hardware"
+  ]
+}
+
 "semantic_satiation_depolarization": {
   "description": "A psychological phenomenon in which repetition causes a word or phrase to temporarily lose meaning for the listener, who then perceives the speech as meaningless sounds.",
   "symptoms": [
