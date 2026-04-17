@@ -82,6 +82,41 @@ medical_db = {
     "Monitoring 'Dopamine Levels' during neuro-pharmacological treatments"
   ]
 }
+"tetris_effect_rendering_ghost": {
+  "description": "A phenomenon where people devote so much time and attention to an activity that it begins to pattern their thoughts, mental images, and dreams.",
+  "symptoms": [
+    "Visual After-Images: Seeing 'Falling Blocks' or 'Code Strings' when closing the eyes (The 'Closed-Eye Hallucination' bug)",
+    "Pattern Mapping: Mentally organizing real-world objects (like grocery store shelves) into 'Game Logic' (The 'Optimization' script)",
+    "Hypnagogic Injection: Dreaming in the 'Language' of the repetitive task (e.g., dreaming in Java or SQL queries)",
+    "Involuntary Problem Solving: The brain continues to 'Calculate Moves' or 'Debug' while the user is trying to 'Power Down'",
+    "Spatial Distortion: Seeing structural patterns in clouds, carpets, or city skylines as task-relevant assets"
+  ],
+  "causes": [
+    "Synaptic Priming: The specific neural pathways for the task are so 'Heavily Weighted' they fire spontaneously",
+    "Procedural Memory Overload: The 'How-To' database is so full it spills over into the 'Sensory Processor'",
+    "Neural Plasticity: The brain physically re-organizes its 'Visual Bus' to be more efficient at the repetitive task",
+    "Failure of the 'Garbage Collector': The system fails to clear the 'Active Pattern' from the visual buffer after exit"
+  ],
+  "risk_factors": [
+    "Extended sessions of 'High-Bandwidth' repetitive tasks (Gaming, Data Entry, Programming)",
+    "Tasks involving 'High Spatial Navigation' or 'Rapid Pattern Matching'",
+    "Occurs most frequently during 'System Boot/Shutdown' (Waking up or falling asleep)"
+  ],
+  "diagnosis": [
+    "The 'Visual-Persistence' Audit: Measuring the duration of 'Ghost Images' post-task",
+    "Dream-Log Analysis: Identifying the frequency of 'Task-Specific' imagery in the 'Sleep Script'",
+    "Clinical Interview: Identifying the 'Involuntary Logic' (e.g., 'I was trying to JOIN the buildings in my mind')"
+  ],
+  "remedies": [
+    "Input Diversity: Forcing the 'Sensor Bus' to process 'High-Entropy' (unpredictable) data",
+    "The 'Hard-Reset' Break: Physical activity that requires different 'Motor Drivers' (walking, swimming)",
+    "Cognitive Distancing: Actively 'Closing the Session' through a mental 'Exit' ritual"
+  ],
+  "prevention": [
+    "Adhering to the '20-20-20' Rule: Every 20 minutes, look at something 20 feet away for 20 seconds to 'Clear the Buffer'"
+  ]
+}
+
 
 "phantom_vibration_interrupt_error": {
   "description": "The perception that one's mobile phone is vibrating or ringing when it is not, often associated with habitual technology use.",
