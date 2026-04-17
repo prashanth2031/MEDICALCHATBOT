@@ -48,6 +48,40 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"synesthesia_cross_modal_routing": {
+  "description": "A perceptual phenomenon in which stimulation of one sensory or cognitive pathway leads to involuntary, automatic experiences in a second sensory or cognitive pathway.",
+  "symptoms": [
+    "Chromesthesia: Audio-to-Visual crosstalk; hearing a 'C#' triggers a 'Blue' hex code overlay",
+    "Grapheme-Color Mapping: Alphanumeric characters are rendered with fixed 'Color Metadata' (e.g., 'A' is always Red)",
+    "Lexical-Gustatory Leakage: Certain 'Strings' (words) trigger specific 'Flavor Profiles' on the tongue",
+    "Spatial-Sequence Mapping: Numerical data is perceived as having a physical 'Coordinate' in 3D space",
+    "Consistency: The 'Mapping' is hard-coded and remains stable across the system's entire uptime"
+  ],
+  "causes": [
+    "Neural Crosstalk: High-density 'Cabling' (white matter) between adjacent sensory hubs (like the FFA and V4)",
+    "Disinhibited Feedback: A failure of the 'Top-Down' gatekeepers to suppress secondary sensory signals",
+    "Hyper-connectivity: The 'Pruning' phase of early development failed to remove 'Cross-Sensor' connections",
+    "Temporal Lobe Overdrive: Spontaneous activation spreading from one 'Partition' to another"
+  ],
+  "risk_factors": [
+    "Genetic Inheritance: A 'Firmware' trait often passed down through family trees",
+    "Neurological Plasticity: Often found in high-creativity nodes (artists, coders, musicians)",
+    "Temporary Activation: Can be induced via 'Psychoactive Patches' that lower inhibitory thresholds"
+  ],
+  "diagnosis": [
+    "Consistency Audit: Testing the user's 'Color-to-Sound' mapping at 6-month intervals to check for 'Metadata Drift'",
+    "The 'Stroop Test' Variation: Measuring 'Input Latency' when a letter's 'Physical Color' conflicts with its 'Synesthetic Color'",
+    "DTI (Diffusion Tensor Imaging): Mapping the 'Cabling' to find physical evidence of crosstalk"
+  ],
+  "remedies": [
+    "N/A: Typically viewed as an 'Enhanced Feature' rather than a 'Critical Bug'",
+    "Focus-Filtering: Training the executive to ignore the 'Secondary Output' during high-load tasks"
+  ],
+  "prevention": [
+    "N/A; usually an inherent 'Hardware Configuration'"
+  ]
+}
+
 "fregoli_recursive_identity_glitch": {
   "description": "A rare disorder in which a person holds a delusional belief that different people are actually a single person who changes appearance or is in disguise.",
   "symptoms": [
