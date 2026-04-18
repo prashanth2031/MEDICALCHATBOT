@@ -117,6 +117,40 @@ medical_db = {
     "Encouraging 'Red-Teaming' and diverse signal inputs to prevent echo-chamber loops"
   ]
 }
+"burnout_thermal_shutdown_protocol": {
+  "description": "A state of emotional, physical, and mental exhaustion caused by excessive and prolonged stress. It occurs when you feel overwhelmed, emotionally drained, and unable to meet constant demands.",
+  "symptoms": [
+    "Thermal Throttling: Severe drops in 'Processing Speed' and 'Output Quality'",
+    "Emotional Flatlining: The 'Limbic System' stops responding to 'Incentive Packets' (Dopamine resistance)",
+    "Depersonalization: Viewing 'User Tasks' and 'Colleagues' as 'Objectified Data' rather than entities",
+    "Sleep-Cycle Corruption: The 'Recovery Script' (REM) fails to clear 'Metabolic Waste' (Beta-amyloid)",
+    "Reduced Professional Efficacy: A feeling that no matter how many 'Threads' you run, you aren't making progress"
+  ],
+  "causes": [
+    "Unbounded Work-Load: Operating at 'Overclocked' speeds without a 'Sleep()' command",
+    "Role Ambiguity: A 'Logic Error' where the 'Success Criteria' for a task are undefined",
+    "Systemic Unfairness: A 'Reward-to-Effort' mismatch in the 'Social Kernel'",
+    "Chronic Cortisol Flooding: The 'Safety Driver' is stuck in 'Alert Mode' indefinitely"
+  ],
+  "risk_factors": [
+    "High-load environments (STEM, Medical, High-frequency trading)",
+    "Perfectionist 'User Profiles' with high 'Internal Pressure' variables",
+    "Lack of 'External Support Nodes' (Social isolation)"
+  ],
+  "diagnosis": [
+    "Maslach Burnout Inventory (MBI): Auditing the three 'System Metrics' (Exhaustion, Cynicism, Efficacy)",
+    "Cortisol Pinging: Measuring 'System Heat' via saliva or blood samples",
+    "fMRI: Observing 'Thinning' in the Prefrontal Cortex and 'Over-activity' in the Amygdala"
+  ],
+  "remedies": [
+    "The 'Hard Reboot': Extended 'System Downtime' (Vacation/Leave) to allow for hardware repair",
+    "Workload Refactoring: Re-allocating 'Tasks' to ensure the 'CPU Load' stays below $70\\%$",
+    "Boundary Implementation: Setting 'Hardware Firewalls' between 'Work' and 'Home' environments"
+  ],
+  "prevention": [
+    "Regular 'Load Balancing' and ensuring 'Recovery Cycles' are scheduled with high priority"
+  ]
+}
 
 "fregoli_recursive_identity_glitch": {
   "description": "A rare disorder in which a person holds a delusional belief that different people are actually a single person who changes appearance or is in disguise.",
