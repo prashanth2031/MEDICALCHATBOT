@@ -81,6 +81,41 @@ medical_db = {
     "N/A; usually an inherent 'Hardware Configuration'"
   ]
 }
+"the_yips_runtime_corruption": {
+  "description": "A sudden and unexplained loss of skills in experienced athletes or professionals. It involves involuntary tremors, jerks, or spasms during a specific movement.",
+  "symptoms": [
+    "Execution Jitter: Micro-spasms or 'Stutters' at the critical moment of a 'Commit'",
+    "Conscious Over-Ride: The user tries to 'Manually Debug' an automated process, causing it to freeze",
+    "Context-Specific Failure: The 'Script' works fine in 'Debug Mode' (practice) but crashes in 'Production' (the game/event)",
+    "Catastrophic Skill-Loss: A professional suddenly performing at the level of an 'Uninitialized Object' (beginner)",
+    "Proprioceptive Noise: A sudden feeling that the 'Hardware' (limb) is heavy or unfamiliar"
+  ],
+  "causes": [
+    "Focal Dystonia: A neurological 'Wiring Error' where muscles receive conflicting 'Fire' signals",
+    "Choking under Pressure: The 'Prefrontal Cortex' tries to 'Micromanage' a process that should be handled by the 'Automated Sub-systems'",
+    "Synaptic Over-Training: The 'Neural Pathway' for the skill becomes so 'Deep' it begins to attract 'Signal Noise'",
+    "Performance Anxiety: High 'System Stress' lowering the 'Signal-to-Noise Ratio' in the motor loop"
+  ],
+  "risk_factors": [
+    "High-repetition, high-precision roles (Athletes, Surgeons, Musicians, even high-speed Typists)",
+    "A 'Perfectionist' security policy that monitors every 'Frame' of execution",
+    "Aging hardware (Cumulative 'Bit-Rot' in the motor neurons)"
+  ],
+  "diagnosis": [
+    "The 'Automation' Audit: Observing if the movement is smoother when the user is 'Distracted' (Backgrounded)",
+    "Electromyography (EMG): Measuring 'Spurious Interrupts' in the muscle fibers",
+    "fMRI: Observing 'Over-activity' in the Prefrontal Cortex and 'Under-activity' in the Basal Ganglia during the task"
+  ],
+  "remedies": [
+    "Grip/Stance Refactoring: Changing the 'Variable Mapping' to force the brain to compile a 'New Script'",
+    "Mental 'Offloading': Using music or visualization to 'Distract' the manager, allowing the 'Sub-system' to run freely",
+    "Beta-Blocker Patches: Reducing 'System Jitter' by dampening the 'Adrenaline Signal'"
+  ],
+  "prevention": [
+    "Periodic 'Variety' training to prevent the 'Motor Script' from becoming too rigid"
+  ]
+}
+
 "abilene_network_consensus_glitch": {
   "description": "A paradox in which a group of people collectively decide on a course of action that is counter to the preferences of many or all of the individuals in the group.",
   "symptoms": [
