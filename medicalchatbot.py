@@ -116,6 +116,41 @@ medical_db = {
     "N/A; usually an inherent 'Hardware Configuration'"
   ]
 }
+"echolalia_reflection_loop": {
+  "description": "The unsolicited repetition of vocalizations made by another person. It is an automatic, non-voluntary 'Echo' of received audio data.",
+  "symptoms": [
+    "Immediate Echo: Repeating a 'String' immediately after it is received (Low-latency reflection)",
+    "Delayed Echo: Storing a 'String' in a 'Buffer' and 'Broadcasting' it hours or days later",
+    "Mitigated Echolalia: Echoing the 'Packet' but with minor 'Bit-Changes' (e.g., changing 'You' to 'I')",
+    "Prosody Mirroring: The 'Echoed Signal' retains the exact 'Frequency' and 'Tone' of the original source",
+    "Semantic Bypass: The 'User' repeats words even if they do not have the 'Library' to understand their meaning"
+  ],
+  "causes": [
+    "Inhibitory Logic Failure: The 'Frontal Lobe' fails to 'Mute' the mirror-neuron system",
+    "Arcuate Fasciculus Hyper-connectivity: A high-speed 'Direct Link' between the 'Input' (Wernicke's) and 'Output' (Broca's) hubs",
+    "Firmware Outage: Common in 'Beta-level' systems (children) or 'Corrupted' systems (Autism, Tourette's, Schizophrenia)",
+    "Mirror Neuron Overdrive: The system designed to 'Learn by Imitation' gets stuck in 'Always On' mode"
+  ],
+  "risk_factors": [
+    "Developmental 'Boot-up' phases (Toddlers)",
+    "Neurodivergent 'Hardware' configurations",
+    "Post-Stroke 'System Recovery' where 'Executive Control' is offline"
+  ],
+  "diagnosis": [
+    "The 'Ping-Back' Audit: Measuring the frequency and latency of 'Reflected Speech'",
+    "Social Scripting Test: Observing if the user can 'Interrupt' the echo with a 'Logical Response'",
+    "EEG: Checking for 'Spontaneous Firing' in the motor-speech centers immediately following audio input"
+  ],
+  "remedies": [
+    "Script-Fading: Training the system to 'Replace' the echo with a 'Functional Command'",
+    "Latency Training: Forcing a 'Wait()' command between 'Input' and 'Output' to allow the manager to intervene",
+    "Contextual Buffering: Teaching the user to 'Cache' the input rather than 'Broadcasting' it"
+  ],
+  "prevention": [
+    "N/A; usually a fundamental 'Routing' characteristic of the specific 'User Profile'"
+  ]
+}
+
 "the_yips_runtime_corruption": {
   "description": "A sudden and unexplained loss of skills in experienced athletes or professionals. It involves involuntary tremors, jerks, or spasms during a specific movement.",
   "symptoms": [
