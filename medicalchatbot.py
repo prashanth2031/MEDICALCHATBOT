@@ -82,6 +82,40 @@ medical_db = {
     "Maintaining stable 'Internal Environment' variables (sleep, hydration, and stress management)"
   ]
 }
+"misophonia_irq_priority_error": {
+  "description": "A disorder where specific sounds trigger emotional or physiological responses that some might perceive as unreasonable given the circumstance.",
+  "symptoms": [
+    "Trigger-Specific Alerts: Response is only active for specific 'Sound Signatures' (e.g., mouth sounds, clicking pens)",
+    "Instantaneous Rage: The system switches from 'Idle' to 'Full Combat Mode' in <100ms",
+    "Physical Heat: A spike in 'Hardware Temperature' and 'Heart Rate' upon receiving the trigger",
+    "Pattern Anticipation: The brain 'Polls' the environment looking for the sound even when it's not present",
+    "Impaired Social-Networking: Difficulty maintaining 'Node Connections' with people who emit the trigger sounds"
+  ],
+  "causes": [
+    "Hypersensitive Functional Connectivity: An 'Over-active Bus' between the auditory and limbic systems",
+    "Gating Failure: The 'Thalamic Filter' fails to suppress repetitive, predictable input",
+    "Limbic Overdrive: The brain's 'Threat Detector' is miscalibrated to detect 'Predators' in 'Chewing Noises'",
+    "Conditioned Response: A 'Hard-Linked' association between a sound and a 'Negative State' (Dissonance)"
+  ],
+  "risk_factors": [
+    "Genetic Propensity: Often found in 'User Profiles' with high OCD or anxiety scores",
+    "Sensitive Hardware: Generally high-fidelity auditory processing",
+    "Environmental Stress: Low 'System Stability' increases the sensitivity to interrupts"
+  ],
+  "diagnosis": [
+    "The 'Trigger-Response' Audit: Measuring 'Skin Conductance' and 'Heart Rate' in response to specific audio clips",
+    "MRI/fMRI: Observing hyper-metabolism in the Insular Cortex during sound input",
+    "The 'Amsterdam Misophonia Scale': A subjective 'Log Audit' of the user's emotional reactions"
+  ],
+  "remedies": [
+    "Audio Masking: Using 'White Noise' or 'Brown Noise' to raise the 'Ambient Noise Floor' and hide the trigger",
+    "Cognitive Counter-Conditioning: Attempting to 'Re-map' the trigger to a 'Neutral' or 'Positive' record",
+    "Hardware Isolation: Using 'Active Noise Canceling' (ANC) to physically block the input packets"
+  ],
+  "prevention": [
+    "Managing 'General Stress Levels' to keep the 'Limbic Threshold' high"
+  ]
+}
 
 "synesthesia_cross_modal_routing": {
   "description": "A perceptual phenomenon in which stimulation of one sensory or cognitive pathway leads to involuntary, automatic experiences in a second sensory or cognitive pathway.",
