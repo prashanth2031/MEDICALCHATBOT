@@ -48,6 +48,41 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"aiws_coordinate_scaling_error": {
+  "description": "A neuropsychological condition that causes a distortion in perception, where objects and body parts are perceived as being different sizes or at different distances.",
+  "symptoms": [
+    "Micropsia: The 'Zoom Out' glitch; objects appear much smaller than their physical metadata suggests",
+    "Macropsia: The 'Zoom In' glitch; objects (or the user's hands) appear disproportionately large",
+    "Pelopsia: A 'Z-axis' error where objects appear closer than they are",
+    "Teleopsia: A 'Z-axis' error where objects appear to recede into the distance",
+    "Time Distortion: The 'System Clock' feels altered; events seem to move in fast-forward or extreme slow-motion"
+  ],
+  "causes": [
+    "Parietal Lobe Latency: A 'Processing Lag' in the region that integrates 'Visual Input' with 'Spatial Mapping'",
+    "Migraine Aura: Electrical 'Noise' (spreading depression) interfering with the primary visual cortex",
+    "Viral Infection (EBV): Systemic 'Malware' affecting the neurological 'Drivers'",
+    "Epileptic Disruption: Sudden 'Power Surges' in the temporal or parietal lobes"
+  ],
+  "risk_factors": [
+    "Pediatric Systems: More common in younger 'User Profiles' during early development",
+    "Chronic Migraines: Frequent 'Signal Interference' in the visual pathways",
+    "High-Stress States: 'System Instability' lowering the threshold for perceptual glitches"
+  ],
+  "diagnosis": [
+    "The 'Visual-Size' Audit: Asking the user to estimate dimensions of known 'Hardware' (e.g., their own hand)",
+    "MRI: Checking for 'Structural Anomalies' in the parietal-occipital junction",
+    "EEG: Monitoring for 'Signal Spikes' during a perceptual event"
+  ],
+  "remedies": [
+    "Downtime: Resting the 'Processors' usually allows the 'Coordinate System' to re-calibrate",
+    "Migraine Prophylaxis: Managing the 'Signal Noise' at the source",
+    "Reassurance Script: Reminding the 'Executive Manager' that the 'Sensor Data' is valid and only the 'Rendering' is flawed"
+  ],
+  "prevention": [
+    "Maintaining stable 'Internal Environment' variables (sleep, hydration, and stress management)"
+  ]
+}
+
 "synesthesia_cross_modal_routing": {
   "description": "A perceptual phenomenon in which stimulation of one sensory or cognitive pathway leads to involuntary, automatic experiences in a second sensory or cognitive pathway.",
   "symptoms": [
