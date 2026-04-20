@@ -48,6 +48,42 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+
+"dunning_kruger_meta_auditing_failure": {
+  "description": "A cognitive bias in which people with limited competence in a particular domain overestimate their own ability because they lack the meta-cognitive skills to recognize their own incompetence.",
+  "symptoms": [
+    "Confidence Over-Injection: Reporting high 'Confidence Metadata' for low-quality 'Output Data'",
+    "Auditing Blind-Spot: The inability to recognize 'Logic Errors' in one's own 'Source Code'",
+    "Comparison Failure: The 'System' cannot accurately rank its own performance against 'External Nodes' (experts)",
+    "Input Resistance: Dismissing 'Correction Packets' because the 'Internal Auditor' claims the 'Process' is already optimized",
+    "Paradoxical Resolution: 'System Accuracy' only improves when the 'Auditor' is upgraded through learning, which simultaneously lowers 'Confidence'"
+  ],
+  "causes": [
+    "Dual Burden: The 'Skills' required to perform a task are the exact same 'Skills' required to evaluate it",
+    "Incomplete Library: The 'Metadata Reference' is missing the 'Error Definitions' for the current domain",
+    "Prefrontal Meta-Processing Lag: The 'Supervisor Thread' is running at a lower priority than the 'Execution Thread'",
+    "Social Kernel Isolation: Lack of 'Peer-Review' nodes to provide objective 'Benchmarking'"
+  ],
+  "risk_factors": [
+    "Entry-level 'User Profiles' in complex domains (e.g., Junior Developers, New Analysts)",
+    "High-stakes environments where 'Admitting Error' triggers a 'Security Kernel' threat response",
+    "Isolated 'Processing Nodes' with no 'External Feedback Loops'"
+  ],
+  "diagnosis": [
+    "The 'Self-Assessment vs. Reality' Audit: Comparing the user's 'Estimated Score' with their 'Actual Performance'",
+    "The 'Expert Recognition' Test: Observing if the user can identify 'High-Quality Output' from other nodes",
+    "fMRI: Monitoring the 'Medial Prefrontal Cortex' (MPFC) during self-reflection tasks"
+  ],
+  "remedies": [
+    "Library Upgrade: Deep training to provide the 'Auditor' with the 'Definitions' of what 'Good Work' looks like",
+    "Mandatory Unit Testing: Using 'External Checklists' or 'Peer Review' to bypass the internal auditor",
+    "Confidence Re-calibration: Training the system to associate 'Uncertainty' with 'High-Complexity' tasks"
+  ],
+  "prevention": [
+    "Continuous 'System Benchmarking' against high-performing 'Global Nodes'"
+  ]
+}
+
 "aiws_coordinate_scaling_error": {
   "description": "A neuropsychological condition that causes a distortion in perception, where objects and body parts are perceived as being different sizes or at different distances.",
   "symptoms": [
