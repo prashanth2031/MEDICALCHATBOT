@@ -152,6 +152,40 @@ medical_db = {
     "Practicing 'Active Sourcing'—consciously 'Tagging' information at the moment of ingestion"
   ]
 }
+"cotard_null_existence_glitch": {
+  "description": "A rare neuropsychiatric delusion in which the patient holds the delusional belief that they are already dead, do not exist, are putrefying, or have lost their blood or internal organs.",
+  "symptoms": [
+    "Status Bit Failure: `system.isAlive` is hard-coded to `FALSE` despite active CPU cycles",
+    "Nihilistic Delusions: Belief that the 'User' or the 'Environment' has been deleted from reality",
+    "Somatoparaphrenia: Reporting that internal 'Hardware' (organs) has been removed or is 'Null'",
+    "Emotional Flatlining: Total absence of 'Limbic Response' to self-perception",
+    "System Neglect: Refusing 'Energy Input' (food) or 'Hardware Maintenance' (hygiene) because 'Dead' systems don't need them"
+  ],
+  "causes": [
+    "Disconnect Error: Severe decoupling between the Fusiform Gyrus (recognition) and the Amygdala (emotion)",
+    "Parietal/Prefrontal Cortex Lesions: Damage to the 'Self-Monitoring' and 'Spatial-Mapping' sectors",
+    "Severe Depressive 'Overload': The emotional system is so 'Throttled' it registers as 'Zero'",
+    "Adverse Drug Reaction: Certain 'Patches' (like Acyclovir) causing temporary 'Systemic Shutdown' signals"
+  ],
+  "risk_factors": [
+    "Co-morbidity with 'Schizophrenia' or 'Bipolar' kernel versions",
+    "History of severe 'System Trauma' (Brain injury)",
+    "Advanced age ('Legacy Hardware' degradation)"
+  ],
+  "diagnosis": [
+    "The 'Existence Audit': Clinical interviews to identify 'Nihilistic Logic' patterns",
+    "fMRI/PET: Identifying 'Hypometabolism' (low power) in the frontal and parietal lobes",
+    "Neurological Screen: Checking for 'Connectivity Failures' in the fusiform face area"
+  ],
+  "remedies": [
+    "Electroconvulsive Therapy (ECT): A 'Hard System Reset' to jumpstart the limbic/emotional bus",
+    "Pharmacological Patches: Antidepressants or Antipsychotics to re-stabilize the 'Status Signals'",
+    "Logic Therapy: Attempting to find 'Counter-Evidence' (though this often triggers the #149 Backfire Effect)"
+  ],
+  "prevention": [
+    "Early detection of 'Systemic Depression' to prevent the 'Emotional Signal' from hitting absolute zero"
+  ]
+}
 
 "misophonia_irq_priority_error": {
   "description": "A disorder where specific sounds trigger emotional or physiological responses that some might perceive as unreasonable given the circumstance.",
