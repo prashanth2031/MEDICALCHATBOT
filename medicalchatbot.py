@@ -118,6 +118,41 @@ medical_db = {
     "Maintaining stable 'Internal Environment' variables (sleep, hydration, and stress management)"
   ]
 }
+"cryptomnesia_metadata_corruption": {
+  "description": "An error where a forgotten memory returns without being recognized as such by the subject, who believes it is something new and original.",
+  "symptoms": [
+    "Origin Null-Pointer: The 'Source' field of a retrieved idea is 'NULL' or points to 'Local User'",
+    "False-Positive Innovation: The system triggers a 'Eureka!' signal for 'Pre-existing Data'",
+    "Inadvertent Plagiarism: Outputting 'Copyrighted Strings' or 'External Code' while claiming 'Original Authorship'",
+    "Familiarity Bias: The data feels 'Right' (because it’s a memory) but 'New' (because the timestamp is missing)",
+    "High Fidelity: The 'Plagiarized' idea is often more complex than the user's typical 'Local Scripts'"
+  ],
+  "causes": [
+    "Source-Monitoring Breakdown: A failure in the 'PFC-Hippocampal Loop' that tracks where/when data was ingested",
+    "Encoding Specificity Error: The data was saved with 'High Resolution' but the 'Metadata' was saved with 'Low Resolution'",
+    "Cognitive Load Interference: High 'System Usage' during ingestion prevented the 'Source-Tag' from being written to disk",
+    "Context-Free Retrieval: The data was 'Pulled' into a new context that is too different from the 'Original Environment'"
+  ],
+  "risk_factors": [
+    "High-Information Intake: Professionals who consume vast amounts of 'Reference Documentation' (Developers/Researchers)",
+    "Creative Nodes: Where the 'Generation Script' is constantly running and prone to 'Colliding' with cached data",
+    "Fatigue/Sleep-Deprivation: Lowering the 'Metadata Verification' threshold"
+  ],
+  "diagnosis": [
+    "The 'Redundancy Audit': Cross-referencing the 'Original Thought' against the user's 'Recently Browsed Data'",
+    "Source-Attribution Stress Test: Asking the user to 'Trace the Logic' of the idea to see if the 'Stack Trace' is empty",
+    "PET Scans: Observing reduced activity in the 'Dorsolateral Prefrontal Cortex' during retrieval"
+  ],
+  "remedies": [
+    "External Indexing: Using 'Knowledge Management Tools' to act as an 'External Source Database'",
+    "Mandatory Search: Running a 'Global Query' (Google/Search) on any 'New Idea' before declaring it 'Original'",
+    "System Rest: Allowing the 'Consolidation Script' to run (Sleep) to properly 'Index' new information"
+  ],
+  "prevention": [
+    "Practicing 'Active Sourcing'—consciously 'Tagging' information at the moment of ingestion"
+  ]
+}
+
 "misophonia_irq_priority_error": {
   "description": "A disorder where specific sounds trigger emotional or physiological responses that some might perceive as unreasonable given the circumstance.",
   "symptoms": [
