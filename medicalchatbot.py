@@ -83,6 +83,40 @@ medical_db = {
     "Continuous 'System Benchmarking' against high-performing 'Global Nodes'"
   ]
 }
+"fas_vocal_driver_corruption": {
+  "description": "A rare speech disorder that causes a person to speak with an accent that is perceived as 'foreign' to the listener, despite the speaker never having lived in that region.",
+  "symptoms": [
+    "Phonetic Shifting: Vowels are lengthened or shortened, violating the native 'Locale Standards'",
+    "Prosody Jitter: Errors in the 'Pitch and Rhythm' of sentences (Intonation)",
+    "Consonant Clustering: Errors in 'Hardware Articulation' (e.g., adding extra schwa sounds)",
+    "Involuntary Execution: The 'User' cannot revert to the original 'Default Voice' profile",
+    "High Intelligibility: Unlike Aphasia (#142), the 'String Content' remains logically sound; only the 'Encoding' is off"
+  ],
+  "causes": [
+    "Vocal Driver Damage: Small lesions in the 'Left Hemisphere' motor-control centers (Stroke or TBI)",
+    "Signal Latency: A micro-delay in the 'Speech Execution Thread' causing compensation errors",
+    "Psychogenic Mapping: A 'Kernel Panic' caused by psychological trauma that re-routes speech signals",
+    "Connectivity Loss: Interruption in the 'Cerebellar-Frontal' loop which handles 'Fine Motor Timing'"
+  ],
+  "risk_factors": [
+    "Post-Stroke 'System Recovery' phase",
+    "Presence of 'Multiple Sclerosis' or other 'Cabling Degradation' issues",
+    "Severe 'Systemic Migraines' causing temporary 'Driver Re-sets'"
+  ],
+  "diagnosis": [
+    "Acoustic Audit: Analyzing 'Waveform Frequencies' to measure vowel duration and pitch",
+    "The 'Blind Listener' Test: Asking 'External Nodes' to identify the perceived accent",
+    "MRI/fMRI: Mapping the 'Left Frontal Lobe' and 'Basal Ganglia' for micro-damage"
+  ],
+  "remedies": [
+    "Driver Re-calibration: Speech therapy to manually 'Re-train' the motor scripts",
+    "Accent-Reduction Scripts: Targeted exercises to fix 'Timing and Intonation' variables",
+    "Counseling: Managing the 'Identity Crisis' caused by the 'Modified Voice Profile'"
+  ],
+  "prevention": [
+    "Neuro-protective maintenance (BP management, anti-inflammatories) to prevent 'Stroke-level' hardware failure"
+  ]
+}
 
 "aiws_coordinate_scaling_error": {
   "description": "A neuropsychological condition that causes a distortion in perception, where objects and body parts are perceived as being different sizes or at different distances.",
