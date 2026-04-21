@@ -83,6 +83,41 @@ medical_db = {
     "Continuous 'System Benchmarking' against high-performing 'Global Nodes'"
   ]
 }
+"ehs_audio_spike_logic": {
+  "description": "A sensory phenomenon where a person hears a loud, imagined noise (like a bomb exploding) right as they are falling asleep or waking up.",
+  "symptoms": [
+    "High-Gain Peak: Hearing a 'Crash' or 'Explosion' that exists only in the 'Internal Buffer'",
+    "Flash-Buffer Sync: Occasional 'Visual Artifacts' (flashes of light) accompanying the sound",
+    "Adrenaline Inrush: A sudden 'System Alert' (Fight-or-Flight) triggered by the phantom noise",
+    "Transition Trigger: Exclusively occurs during 'State Changes' (Alpha-to-Theta wave transition)",
+    "Non-Destructive: Despite the 'Perceived Amplitude', no actual 'Hardware Damage' occurs to the eardrum"
+  ],
+  "causes": [
+    "Reticular Formation Latency: A delay in the 'Switch' that shuts down sensory processing",
+    "Calcium Channel Surge: A sudden 'Ionic Influx' in the auditory cortex neurons",
+    "Systemic Stress/Fatigue: 'Low Voltage' in the inhibitory circuits makes them prone to 'Spiking'",
+    "Hyper-Arousal: The 'Safety Driver' is too active, causing a 'Signal Bounce' during shutdown"
+  ],
+  "risk_factors": [
+    "High-load 'User Profiles' with chronic sleep deprivation",
+    "High-anxiety 'Kernel Configurations'",
+    "Abrupt 'Power-Cycles' (irregular sleep schedules)"
+  ],
+  "diagnosis": [
+    "The 'Polysomnography' Audit: Monitoring 'Brain-Wave Frequency' during the sleep-onset transition",
+    "Patient Log Audit: Differentiating the spike from 'External Network Noise'",
+    "Exclusionary Screen: Ensuring the 'Signal' isn't a symptom of 'Sleep Apnea' or 'Night Terrors'"
+  ],
+  "remedies": [
+    "Sleep-Cycle Optimization: Implementing a strict 'Schedule() routine' to stabilize transitions",
+    "Tricyclic 'Patches': Low-dose neurological stabilizers to dampen the 'Signal Gain'",
+    "Stress-Buffer Management: Lowering the 'Limbic System' load before initiating 'Shutdown'"
+  ],
+  "prevention": [
+    "Avoiding 'System Overclocking' (caffeine/stress) in the $4$-hour window before 'Sleep()'"
+  ]
+}
+
 "fas_vocal_driver_corruption": {
   "description": "A rare speech disorder that causes a person to speak with an accent that is perceived as 'foreign' to the listener, despite the speaker never having lived in that region.",
   "symptoms": [
