@@ -48,6 +48,40 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"zeigarnik_buffer_leak": {
+  "description": "A psychological phenomenon stating that people remember uncompleted or interrupted tasks better than completed tasks.",
+  "symptoms": [
+    "Intrusive Logic Loops: The 'Task' repeatedly 'Pops' to the top of the 'Processing Stack'",
+    "Memory Pressure: Higher 'Recall Accuracy' for incomplete data vs. completed records",
+    "System Anxiety: Increased 'Background CPU Usage' as the brain tries to 'Re-run' the unfinished script",
+    "Cognitive Itch: A persistent 'Interrupt Signal' that only clears upon 'Task Success'",
+    "Thread Contention: Difficulty starting 'New Projects' because the 'Buffer' is full of 'Stale Tasks'"
+  ],
+  "causes": [
+    "Interrupted Transaction: The 'Write-Ahead Log' (WAL) cannot be committed because the connection was lost",
+    "Open-Loop Feedback: The 'Result' of the action was never received by the 'Auditor'",
+    "High Salience: The 'User' assigned a 'Critical' priority to the task, making it 'Immutable' to the GC",
+    "Tension Accumulation: A 'Psychological State' that requires 'Resolution' to return to 'Baseline'"
+  ],
+  "risk_factors": [
+    "High-Complexity 'Workloads' (Software development, Project Management)",
+    "Environments with frequent 'Asynchronous Interrupts' (Notifications/Meetings)",
+    "Perfectionist 'User Profiles' with low 'Error Tolerance' settings"
+  ],
+  "diagnosis": [
+    "The 'Recall Audit': Testing if the user remembers 'Orders' from 10 minutes ago better if they were 'Cancelled' vs. 'Delivered'",
+    "Task Persistence Tracking: Measuring how long an 'Interrupted Script' stays in 'Active RAM'",
+    "Heart Rate Variability (HRV): Observing 'System Stress' levels while 'Open Tasks' remain in the queue"
+  ],
+  "remedies": [
+    "The 'Pseudo-Commit' (To-Do List): Moving the 'Task Metadata' to an 'External Database' to fool the GC into 'Flushing' the RAM",
+    "Micro-Completion: Breaking the 'Task' into smaller 'Chunks' that can be 'Successfully Closed'",
+    "Ritualistic Shutdown: A 'System Command' (like closing the laptop) that signals a 'Global Task Termination'"
+  ],
+  "prevention": [
+    "Practicing 'Single-Threaded Execution' and minimizing 'Context Switching'"
+  ]
+}
 
 "dunning_kruger_meta_auditing_failure": {
   "description": "A cognitive bias in which people with limited competence in a particular domain overestimate their own ability because they lack the meta-cognitive skills to recognize their own incompetence.",
