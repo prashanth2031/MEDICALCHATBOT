@@ -82,6 +82,41 @@ medical_db = {
     "Practicing 'Single-Threaded Execution' and minimizing 'Context Switching'"
   ]
 }
+"fregoli_identity_aliasing_error": {
+  "description": "A rare disorder in which a person holds a delusional belief that different people are, in fact, a single person who changes appearance or is in disguise.",
+  "symptoms": [
+    "Identity Pointer Collision: Mapping multiple 'External Nodes' to a single 'Internal Object'",
+    "Familiarity Over-Injection: An intense 'Feeling of Recognition' triggered by random 'Background Strings' (strangers)",
+    "Masquerade Logic: The belief that the 'Target Entity' is using 'Social Engineering' or 'Disguises' to remain undetected",
+    "Hyper-Vigilance: Constant 'Network Polling' of the environment to find the 'Target Node'",
+    "Paranoid Routing: The system interprets every 'Random Encounter' as a 'Deliberate Packet' from the same source"
+  ],
+  "causes": [
+    "Hyper-Connectivity Error: An over-active 'Bus' between the Fusiform Face Area and the Amygdala/Hippocampus",
+    "Logic Consistency Failure: The 'Executive Manager' prioritizes 'Emotional Familiarity' over 'Visual Evidence'",
+    "Working Memory Saturation: The 'Identity Cache' is 'Stuck' on one specific record, applying it to all incoming 'Visual Input'",
+    "Dopaminergic Surge: Excess 'Signal Noise' in the temporal lobes causing 'False-Positive' pattern matches"
+  ],
+  "risk_factors": [
+    "Treatment with 'Levodopa' or other 'Dopamine Agonists'",
+    "Traumatic Brain Injury in the 'Right Temporoparietal' region",
+    "Co-morbidity with 'Schizophrenia' or 'Organic Brain Syndrome' firmware versions"
+  ],
+  "diagnosis": [
+    "The 'Face-ID' Audit: Showing the user photos of strangers and measuring 'Recognition Latency'",
+    "fMRI: Identifying 'Hyper-metabolism' in the 'Right Parahippocampal Gyrus' during face processing",
+    "The 'Identity Consistency' Test: Asking the user to explain why the 'Target' is changing appearances"
+  ],
+  "remedies": [
+    "Antipsychotic Patches: Reducing 'Signal Gain' in the dopaminergic pathways",
+    "Anticonvulsant Stabilizers: Quieting 'Spurious Interrupts' in the temporal lobe",
+    "Cognitive De-fragmentation: Reality testing to point out 'Hardware Inconsistencies' in the target's disguises"
+  ],
+  "prevention": [
+    "Careful 'Calibration' of dopamine-based medications in sensitive 'User Profiles'"
+  ]
+}
+
 
 "dunning_kruger_meta_auditing_failure": {
   "description": "A cognitive bias in which people with limited competence in a particular domain overestimate their own ability because they lack the meta-cognitive skills to recognize their own incompetence.",
