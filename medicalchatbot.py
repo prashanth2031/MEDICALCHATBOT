@@ -48,6 +48,41 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"anton_babinski_display_desync": {
+  "description": "A rare symptom of brain damage occurring in the occipital lobe where those who are blind deny their blindness and insist they can see, often providing detailed but false descriptions of their surroundings.",
+  "symptoms": [
+    "Visual Anosognosia: A 'Status Check' failure where the system refuses to acknowledge its own 'Blind' state",
+    "Confabulated Video Feed: The 'Rendering Engine' generates fake imagery to fill the 'Input Void'",
+    "Collision Avoidance Failure: The 'User' walks into physical 'Objects' and blames 'Technical Glitches' (e.g., 'the lights are too dim')",
+    "Persistent UI: The 'Executive Layer' continues to 'Poll' the visual buffer as if it were valid",
+    "Reality-Input Rejection: Dismissing external 'Feedback' that confirms the 'I/O Failure'"
+  ],
+  "causes": [
+    "Bilateral Occipital Lobe Infarction: Total 'GPU Hardware Failure' due to stroke or trauma",
+    "Disconnect between Visual and Monitor Areas: The 'Processing Nodes' are dead, but the 'Reporting Nodes' are active",
+    "Prefrontal Feedback Loop: The 'Auditor' is blinded by 'Top-Down' expectations, ignoring 'Bottom-Up' data",
+    "Ischemic Event: A sudden 'Power Outage' in the posterior cerebral arteries"
+  ],
+  "risk_factors": [
+    "Severe 'Legacy Hardware' strokes (typically in older 'User Profiles')",
+    "Traumatic Brain Injury involving the 'Posterior Poles'",
+    "Acute 'Hypertensive Encephalopathy' (Systemic Power Surges)"
+  ],
+  "diagnosis": [
+    "The 'Visual-Field Audit': Asking the user to count fingers and observing the 'Error Handling' when they fail",
+    "MRI/CT: Confirming 'Hardware Destruction' in the primary visual cortex (V1)",
+    "The 'Obstacle Course' Test: Observing 'Hardware-Environment Collisions' despite 'User Confidence'"
+  ],
+  "remedies": [
+    "N/A: 'Hardware' is usually permanently offline; focus is on 'System Safety'",
+    "Cognitive Patching: Attempting to 'Force-Update' the user's 'Status Bit' through repetitive external feedback",
+    "Mobility Training: Teaching the 'Executive Manager' to use 'Alternative I/O' (Touch/Sound) despite the 'Visual Illusion'"
+  ],
+  "prevention": [
+    "Vascular Maintenance: Preventing 'Cabling Clogs' in the posterior cerebral network"
+  ]
+}
+
 "zeigarnik_buffer_leak": {
   "description": "A psychological phenomenon stating that people remember uncompleted or interrupted tasks better than completed tasks.",
   "symptoms": [
