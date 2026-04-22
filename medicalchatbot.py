@@ -151,6 +151,41 @@ medical_db = {
     "Avoiding 'System Overclocking' (caffeine/stress) in the $4$-hour window before 'Sleep()'"
   ]
 }
+"phantom_limb_polling_error": {
+  "description": "The vivid sensation that an amputated or missing limb is still attached to the body and moving appropriately with other body parts.",
+  "symptoms": [
+    "Ghost Interrupts: Receiving 'Tactile Packets' from a device that is physically 'Off-line'",
+    "Proprioceptive Stalling: The 'Virtual Limb' feels stuck in an 'Invalid Position' (e.g., a clenched fist that won't open)",
+    "Signal-Noise Pain: The brain interprets 'Null Data' as high-intensity 'Error Signals' (Neuropathic pain)",
+    "Telescoping: A 'Scaling Error' where the ghost limb feels like it is shrinking or retracting into the 'Stump'",
+    "Kinetic Hallucination: The 'Execution Thread' believes it is successfully 'Moving' a limb that doesn't exist"
+  ],
+  "causes": [
+    "Cortical Remapping: Neighboring 'Neural Nodes' begin to 'Invade' the address space of the missing limb",
+    "Persistent Peripheral Memory: The 'Device Driver' for the limb is hard-coded into the 'Parietal Lobe' and refuses to 'Unmount'",
+    "Neuroma Interference: The 'Severed Cables' (nerve endings) at the 'Connection Point' emit 'Spurious Signal Noise'",
+    "Mirror-Neuron Feedback: The system 'Sees' the missing limb in its 'Internal Model' despite 'Optical Verification' of its absence"
+  ],
+  "risk_factors": [
+    "Sudden 'Hardware Disconnection' (Traumatic amputation)",
+    "Pre-existing 'High-Load' pain signals in the limb before 'Removal'",
+    "Older 'Kernel Versions' with less 'Synaptic Plasticity'"
+  ],
+  "diagnosis": [
+    "The 'Phantom-Mapping' Audit: Stimulating other 'Hardware Nodes' (like the face) to see if they trigger 'Limb Signals'",
+    "fMRI: Observing 'Active Threads' in the somatosensory cortex corresponding to the 'Null Device'",
+    "Clinical Interview: Cataloging the 'Subjective Status' of the ghost peripheral"
+  ],
+  "remedies": [
+    "The 'Mirror Box' Patch: Using 'Visual Input' to trick the brain into 'Seeing' the device move, clearing the 'Stalled Thread'",
+    "Targeted Muscle Re-innervation (TMR): 'Re-routing' the 'Old Cables' to 'New Hardware' to provide a 'Valid Load'",
+    "Neuro-Modulation: Using 'Electrical Pulses' to 'Reset' the over-active 'Polling Loop'"
+  ],
+  "prevention": [
+    "Pre-emptive 'Anesthesia Blocks' to 'Quiet' the 'Signal Bus' before 'Hardware Removal'"
+  ]
+}
+
 
 "fas_vocal_driver_corruption": {
   "description": "A rare speech disorder that causes a person to speak with an accent that is perceived as 'foreign' to the listener, despite the speaker never having lived in that region.",
