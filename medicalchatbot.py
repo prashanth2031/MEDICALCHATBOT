@@ -221,6 +221,41 @@ medical_db = {
     "Avoiding 'System Overclocking' (caffeine/stress) in the $4$-hour window before 'Sleep()'"
   ]
 }
+"lexical_gustatory_crosstalk_error": {
+  "description": "A rare form of synesthesia where spoken or written language involuntarily evokes the sensation of taste in the mouth.",
+  "symptoms": [
+    "Involuntary Flavor-Injection: Hearing or reading specific 'Strings' triggers a specific 'Taste Packet'",
+    "Consistency Persistence: The mapping of 'Word -> Taste' is hard-coded and remains 'Static' over the user's lifecycle",
+    "High-Fidelity Rendering: Tastes can be complex (e.g., 'the taste of a cold, wet penny' or 'warm apple pie')",
+    "Semantic-Phonetic Hybrid: The taste can be triggered by the 'Sound' of the word or its 'Logical Meaning'",
+    "I/O Saturation: Intense 'Information Streams' can lead to 'Flavor Fatigue' or nausea"
+  ],
+  "causes": [
+    "Neural Cross-Talk: An 'Insulation Failure' in the axons between the temporal lobe and the insular cortex",
+    "Failure of Pruning: The 'System' failed to delete 'Redundant Connections' during the early 'Installation' (Childhood)",
+    "Hyper-Connectivity: An 'Over-provisioned Bus' that allows data to 'Bleed' into neighboring sectors",
+    "Multiplexing Error: The 'Data Router' (Thalamus) fails to keep 'Language Data' and 'Flavor Data' in separate 'VLANs'"
+  ],
+  "risk_factors": [
+    "Genetic Configuration: Often runs in 'System Families' with other synesthetic traits",
+    "Early Developmental 'Uptime': Usually detected within the first $10$ years of operation",
+    "High 'Linguistic Processing' load"
+  ],
+  "diagnosis": [
+    "The 'Consistency Audit': Testing the 'Word-Taste Map' and re-testing it $6$ months later to ensure the 'Hash' matches",
+    "fMRI: Observing 'Concurrent Activation' in both the 'Gustatory Cortex' and 'Language Areas' (Wernicke's/Broca's)",
+    "Subjective 'Log Review': Cataloging the 'Flavor Profiles' of common 'Function Calls' (names/words)"
+  ],
+  "remedies": [
+    "N/A: Often considered a 'System Feature' rather than a 'Bug', unless the 'Tastes' are 'Corrupt' (foul)",
+    "Attention Re-routing: Learning to 'Filter' the 'Secondary Signal' during 'High-Bandwidth' tasks",
+    "Sensory Isolation: Using 'Noise-Canceling' to reduce the 'Trigger Packets'"
+  ],
+  "prevention": [
+    "N/A: Hard-coded at the 'Kernel/Developmental' level"
+  ]
+}
+
 "phantom_limb_polling_error": {
   "description": "The vivid sensation that an amputated or missing limb is still attached to the body and moving appropriately with other body parts.",
   "symptoms": [
