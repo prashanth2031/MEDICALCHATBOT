@@ -82,6 +82,40 @@ medical_db = {
     "Practicing 'Low-Stakes Testing' (Small Talk) to optimize 'Wit-Indexing' speed"
   ]
 }
+"mcgurk_io_parser_collision": {
+  "description": "An auditory-visual illusion that occurs when the auditory component of one sound is paired with the visual component of another sound, leading to the perception of a third, non-existent sound.",
+  "symptoms": [
+    "Cross-Modal Distortion: Hearing a phoneme that was never physically 'Broadband Broadcasted'",
+    "Visual Dominance: The 'Visual Stream' exerts a 'Higher Weight' in the 'Final Rendering' than the 'Audio Stream'",
+    "Forced Fusion: The system cannot 'Un-see' or 'Un-hear' the conflict once the 'Parser' has committed to the fused result",
+    "Heuristic Override: The 'Brain' assumes the 'Mouth Geometry' is more reliable than the 'Audio Waveform' in high-noise environments",
+    "Persistence: The glitch remains even after the 'User' understands the underlying 'Logic Error'"
+  ],
+  "causes": [
+    "Superior Temporal Sulcus (STS) Integration: The 'Fusion Node' fails to maintain 'I/O Separation'",
+    "Weighted Average Failure: The 'Heuristic' for speech recognition is hard-coded to trust 'Visual-Motor Cues' for timing and place of articulation",
+    "Feature-Binding Error: The 'System' incorrectly binds a 'Visual Feature' (closed lips) to an 'Audio Packet'",
+    "Evolutionary Patch: A 'System Optimization' designed to help 'Decipher' speech in 'Low-Signal' (noisy) environments"
+  ],
+  "risk_factors": [
+    "High-load 'Audio-Visual' environments",
+    "Dyslexic 'Kernel Configurations' (where the mapping of 'Sound-to-Symbol' is already non-standard)",
+    "Right Hemisphere lesions affecting 'Multisensory' sectors"
+  ],
+  "diagnosis": [
+    "The 'Sync-Audit': Playing a video of 'GA' while playing audio of 'BA' and recording the 'User Output' (usually 'DA')",
+    "fMRI: Observing activity in the 'Left Superior Temporal Sulcus' during the 'Conflict Event'",
+    "Response Invariance: Confirming the effect persists even when the user 'Closes their Eyes' (the sound 'reverts' to 'BA')"
+  ],
+  "remedies": [
+    "I/O Isolation: Closing the 'Eyes' to force the system to use 'Audio-Only Drivers'",
+    "Awareness Training: Understanding the 'Bias' to reduce 'Logical Confidence' in the perception",
+    "Sub-Vocal Recalibration: Attempting to 'Feel' the tongue position to provide 'Proprioceptive' counter-data"
+  ],
+  "prevention": [
+    "N/A: This is a 'Core Feature' of the 'Speech Processing Kernel'"
+  ]
+}
 
 "anton_babinski_display_desync": {
   "description": "A rare symptom of brain damage occurring in the occipital lobe where those who are blind deny their blindness and insist they can see, often providing detailed but false descriptions of their surroundings.",
