@@ -48,6 +48,41 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"tachypsychia_clock_sync_error": {
+  "description": "A neurological distortion of time perception where time appears to slow down or speed up, typically during periods of high physical stress or trauma.",
+  "symptoms": [
+    "Temporal Dilation: Time feels 'Expanded', making seconds feel like minutes",
+    "High-Density Logging: Hyper-vivid recall of 'Environmental Artifacts' during the event",
+    "Auditory Muting: The 'Audio Driver' is often throttled to save 'CPU' for 'Visual Processing'",
+    "The 'Flashbulb' Effect: Permanent 'Write-Lock' on the data (vivid long-term persistence)",
+    "Post-Event Lag: A sense of 'Disconnection' as the system returns to 'Standard Clock Speed'"
+  ],
+  "causes": [
+    "Amygdala Overclock: The 'Emergency Sub-processor' takes control of the 'Sampling Rate'",
+    "Adrenaline Surge: A 'Global Voltage Spike' that increases 'Neural Firing Rates'",
+    "Sensory Buffer Overload: A massive influx of 'Raw Data' that hasn't been 'Compressed' yet",
+    "Survival Heuristic: A 'System Patch' designed to provide more 'Decision-Making Windows' per second"
+  ],
+  "risk_factors": [
+    "High-Kinetic 'System Events' (car accidents, falls)",
+    "Combat or 'Physical Defense' protocols",
+    "Extreme 'Sports' or 'High-Adrenaline' hobbies"
+  ],
+  "diagnosis": [
+    "The 'Temporal-Estimation' Audit: Testing the user's ability to count seconds during 'Simulated Stress'",
+    "Heart Rate Variability (HRV): Measuring the 'System Load' during the perceived dilation",
+    "Post-Event Recall Density: Comparing the 'Number of Data Points' recalled vs. the 'Actual Duration' of the event"
+  ],
+  "remedies": [
+    "Grounding Scripts: Techniques to 'Re-sync' the 'Internal Clock' with 'External NTP' (real-world time)",
+    "Controlled Breathing: Manual 'Voltage Regulation' to lower 'Adrenaline' levels",
+    "Debriefing: Helping the 'Executive Manager' process the 'High-Density Logs' into a 'Standard Narrative'"
+  ],
+  "prevention": [
+    "Training 'Predictive Models' (simulation training) to reduce the 'Novelty Spike' of the threat"
+  ]
+}
+
 "source_amnesia_metadata_drop": {
   "description": "The inability to remember where, when or how previously learned information has been acquired, while retaining the factual knowledge itself.",
   "symptoms": [
