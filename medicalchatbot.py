@@ -82,6 +82,40 @@ medical_db = {
     "Training 'Predictive Models' (simulation training) to reduce the 'Novelty Spike' of the threat"
   ]
 }
+"baader_meinhof_pattern_hijack": {
+  "description": "A cognitive bias where a person, after noticing something for the first time, has a tendency to notice it as happening with improbable frequency shortly after.",
+  "symptoms": [
+    "Selective Attention Spike: The 'Background Filter' is disabled for a specific 'Data String'",
+    "Confirmation Bias Loop: Each 'New Detection' reinforces the 'Importance Weight' of the string",
+    "Synchronicity Logic: The 'Executive Manager' incorrectly assumes a 'Network-Wide Increase' in the item's presence",
+    "Heuristic Failure: The brain ignores the 'Baseline Probability' in favor of 'Recent Successes'",
+    "Hyper-Awareness: A persistent 'Interrupt' whenever the 'Pattern' appears in the 'Peripheral Stream'"
+  ],
+  "causes": [
+    "Salience Tuning: The 'Novelty Detection' unit (Amygdala/Hippocampus) tags a new piece of data as 'Significant'",
+    "Search-Filter Update: The 'Reticular Activating System' (RAS) updates its 'Watchlist' to include the new pattern",
+    "Processing Efficiency: The brain 'Pre-loads' the pattern to make 'Future Identification' faster and cheaper",
+    "Probability Blindness: The failure to account for 'Hidden Variables' that were always present but never 'Indexed'"
+  ],
+  "risk_factors": [
+    "High-load 'Learning Environments' (students, researchers, developers)",
+    "Users with high 'Openness to Experience' parameters",
+    "Sudden 'Context Shifts' (moving to a new city, starting a new job)"
+  ],
+  "diagnosis": [
+    "The 'Baseline Audit': Comparing the 'Actual Frequency' of the item in the 'External Network' vs. the 'User's Perception'",
+    "The 'Attention Reset': Observing if the 'Illusion' fades once the 'Novelty Weight' is manually lowered",
+    "Cognitive Mapping: Tracking the 'First Encounter' to identify the 'Index Trigger'"
+  ],
+  "remedies": [
+    "Statistical Normalization: Reminding the 'Executive Manager' of the 'Law of Large Numbers'",
+    "Filter recalibration: Consciously 'De-prioritizing' the pattern to clear the 'Active Search'",
+    "Logic Verification: Checking 'Global Logs' (Search Engines/Databases) to confirm the 'Actual Frequency'"
+  ],
+  "prevention": [
+    "Maintaining 'Healthy Skepticism' regarding 'Pattern Significance' during 'Novelty Influxes'"
+  ]
+}
 
 "source_amnesia_metadata_drop": {
   "description": "The inability to remember where, when or how previously learned information has been acquired, while retaining the factual knowledge itself.",
