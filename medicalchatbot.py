@@ -48,6 +48,41 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"source_amnesia_metadata_drop": {
+  "description": "The inability to remember where, when or how previously learned information has been acquired, while retaining the factual knowledge itself.",
+  "symptoms": [
+    "Orphaned Fact Retrieval: The 'What' is valid, but the 'Source' attribute returns 'NULL'",
+    "Contextual Misattribution: Assigning the 'Data' to the wrong 'Originating Node' (e.g., 'I read it in a book' vs. 'my friend told me')",
+    "Truth-Value Decay: Difficulty verifying the 'Authenticity' of information because the 'Vetting Source' is gone",
+    "Separation of Systems: Intact 'Semantic Memory' (facts) paired with failing 'Episodic Memory' (experience)",
+    "Increased Vulnerability: Higher susceptibility to 'Misinformation Injection' as the system can't 'Audit' the source"
+  ],
+  "causes": [
+    "Prefrontal Cortex Latency: Dysfunction in the 'Metadata Manager' located in the frontal lobes",
+    "Disconnect Error: Failure in the 'Synchronization Bus' between the Hippocampus (content) and the PFC (context)",
+    "Systemic Aging: Gradual 'Data Degradation' in the 'Source-Monitoring' circuits",
+    "Psychological Overload: High-stress environments causing the system to 'Strip Metadata' to save 'Processing Bandwidth'"
+  ],
+  "risk_factors": [
+    "Chronic 'Sleep Deprivation' affecting 'Memory Consolidation' scripts",
+    "Advanced 'Hardware Versioning' (Elderly users)",
+    "History of 'Frontal Lobe' trauma or 'Connectivity Interruptions'"
+  ],
+  "diagnosis": [
+    "The 'Context Audit': Testing the user's ability to remember 'Trivia' while also identifying the 'Medium' through which they learned it",
+    "fMRI: Observing 'Hypometabolism' in the 'Prefrontal Areas' during retrieval tasks",
+    "The 'Source-Monitoring' Challenge: Providing fake 'News Packets' and checking 'Source Attribution' 24 hours later"
+  ],
+  "remedies": [
+    "External Metadata Logging: Using 'Journaling Scripts' to manually record the 'Source' of new data",
+    "Cognitive 'Check-Summing': Training the 'Executive Manager' to pause and 'Verify Source' before 'Committing to Heap'",
+    "Memory-Association Drills: Intentionally 'Binding' facts to 'Vivid Visual Contexts' to strengthen the link"
+  ],
+  "prevention": [
+    "Maintaining 'Dopaminergic Health' to ensure the 'Frontal Lobe Metadata Manager' remains online"
+  ]
+}
+
 "staircase_wit_latency_lag": {
   "description": "The predicament of thinking of the perfect reply, argument, or retort too late—typically after the person has already left the scene.",
   "symptoms": [
