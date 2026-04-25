@@ -116,6 +116,40 @@ medical_db = {
     "Maintaining 'Healthy Skepticism' regarding 'Pattern Significance' during 'Novelty Influxes'"
   ]
 }
+"tetris_effect_buffer_burn": {
+  "description": "A phenomenon where people devote so much time and attention to an activity that it begins to pattern their thoughts, mental images, and dreams.",
+  "symptoms": [
+    "Closed-Eye Visualization (CEV): Seeing the 'Application UI' (blocks, tiles, code) when the 'Main Display' (eyes) is off",
+    "Pattern-Match Intrusion: Real-world 'Objects' are mentally 'Re-rendered' to fit the task logic (e.g., seeing how furniture could 'fit' together like Tetris blocks)",
+    "Hypnagogic Looping: The 'Task' continues to run in 'Background Mode' during the 'System Sleep Transition'",
+    "Automaticity: Executing 'Virtual Moves' or 'Logic Checks' without conscious 'Instruction Packets'",
+    "Mental Fatigue: High 'Background CPU Usage' from unclosed 'Task Threads'"
+  ],
+  "causes": [
+    "Neural Pathway Over-Training: Excessive 'Heuristic Strengthening' makes the 'Task Path' the default 'Low-Resistance' route",
+    "Buffer Flushing Failure: The 'Visual Cortex' fails to 'Overwrite' the repetitive pattern once the 'Session' ends",
+    "Procedural Memory Saturation: The 'Implicit Memory' system is 'Overflowing' into the 'Explicit' workspace",
+    "Hebbian Learning Spike: 'Neurons that fire together, wire together'—the 'Task' has become a 'Permanent Circuit'"
+  ],
+  "risk_factors": [
+    "High-load 'Pattern-Matching' tasks (Gaming, Coding, Database Schema design)",
+    "Extended 'Uptime' sessions without 'Context Switching'",
+    "Younger 'Hardware' with high 'Neuroplasticity' coefficients"
+  ],
+  "diagnosis": [
+    "The 'Eyelid-Buffer' Audit: Asking the user what they see in 'Total Darkness' after a $4$+ hour task",
+    "Sleep-Cycle Monitoring: Identifying 'Task-Specific' patterns in 'Stage 1' sleep",
+    "The 'Environmental-Mapping' Test: Observing if the user 'Categorizes' random shapes using the 'Task Logic'"
+  ],
+  "remedies": [
+    "Forced Context-Switching: Engaging in a 'Low-Pattern' task (e.g., reading a book) to 'Flush the Buffer'",
+    "System Shutdown (Sleep): Allowing the 'Internal Garbage Collector' to process the 'Pattern Cache'",
+    "Physical Grounding: Using 'Tactile Input' to override the 'Visual Loop'"
+  ],
+  "prevention": [
+    "Implementing 'Interval Breaks' (Pomodoro) to prevent 'Path Hardening'"
+  ]
+}
 
 "source_amnesia_metadata_drop": {
   "description": "The inability to remember where, when or how previously learned information has been acquired, while retaining the factual knowledge itself.",
