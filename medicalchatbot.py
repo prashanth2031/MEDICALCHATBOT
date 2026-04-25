@@ -48,6 +48,41 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"mandela_distributed_sync_error": {
+  "description": "A phenomenon where a large group of people remember something differently from how it occurred, often attributed to false memories or collective misinterpretation.",
+  "symptoms": [
+    "Collective Hash Collision: Multiple 'Nodes' reporting the same 'Incorrect Value' for a historical 'Key'",
+    "Systemic Confabulation: The 'Logic Engine' fills 'Data Gaps' with the most 'Probable String' (e.g., 'Berenstain' becomes 'Berenstein')",
+    "Reality-Version Friction: Extreme 'Cognitive Dissonance' when 'Local Cache' contradicts 'Physical Hard-Drive' (official records)",
+    "Peer-to-Peer Propagation: The 'Error' spreads through 'Social Handshakes', overwriting 'Original Files' in other users",
+    "Source-Link Decay: Forgetting the 'Origin' of the corrupted packet while retaining 'High Confidence' in its accuracy"
+  ],
+  "causes": [
+    "Lossy Compression: The 'System' strips away 'Minor Bits' (spelling, colors) to save 'Storage Space'",
+    "Schema-Driven Reconstruction: The 'Parser' forces 'Data' to fit an 'Expected Template' (Semantic Priming)",
+    "Distributed Cache Poisoning: A single 'Corrupt Entry' in a 'High-Traffic Node' (Media/Internet) synchronizes with millions of 'Follower Nodes'",
+    "Social Proof Heuristic: If 'Nodes A, B, and C' report the same 'Data', 'Node D' updates its 'Record' to match for 'Network Consistency'"
+  ],
+  "risk_factors": [
+    "Exposure to 'High-Viral' social media streams",
+    "Time-elapsed 'Data Decay' (long intervals between 'Write' and 'Read' operations)",
+    "Cultural 'Commonalities' that create 'Global Bias' in 'Pattern Recognition'"
+  ],
+  "diagnosis": [
+    "The 'Canonical-Source' Audit: Comparing 'User Memories' against 'Primary Hardware Records' (Physical artifacts)",
+    "Distributed Memory Mapping: Identifying the 'Geographic or Social Cluster' where the 'Error' originated",
+    "The 'Recognition-vs-Recall' Test: Probing whether the 'User' can 'Generate' the error or just 'Confirm' it"
+  ],
+  "remedies": [
+    "Hard-Copy Verification: Forcing the 'Executive Manager' to view 'Original Source Files'",
+    "Critical 'Sync' Disabling: Training the 'System' to 'Question' collective 'Memory Packets' that lack 'Logical Proof'",
+    "Metadata Recovery: Attempting to find 'Ancillary Files' (old photos, receipts) that haven't been 'Synced' yet"
+  ],
+  "prevention": [
+    "Periodic 'Integrity Checks' of important 'Long-Term Records'"
+  ]
+}
+
 "tachypsychia_clock_sync_error": {
   "description": "A neurological distortion of time perception where time appears to slow down or speed up, typically during periods of high physical stress or trauma.",
   "symptoms": [
