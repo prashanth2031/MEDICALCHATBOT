@@ -48,6 +48,41 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"truman_show_staging_error": {
+  "description": "A type of delusion in which people believe that their lives are staged reality shows or that they are being watched on cameras.",
+  "symptoms": [
+    "Observer Effect: The belief that 'Environmental Variables' only change when the 'User' is looking",
+    "NPC Classification: Assigning 'Non-Player Character' status to all other 'Network Nodes' (friends, family, strangers)",
+    "Scripted Logic: Interpreting 'Random Packet Loss' or 'Coincidences' as 'Plot Points'",
+    "Break in the Sandbox: Searching for the 'Edges of the Map' or 'Production Equipment' in the physical world",
+    "Isolation Protocol: A total collapse of 'Authentic Peer-to-Peer Interaction' due to 'Simulation Suspicion'"
+  ],
+  "causes": [
+    "Medial Prefrontal Cortex (mPFC) Failure: The 'Reality-Testing' module stops distinguishing between 'Internal Intent' and 'External Event'",
+    "Hyper-Salience Loop: The 'Dopamine System' tags every 'Incoming Packet' as 'Critically Relevant' to the user",
+    "Integrative Agnosia: Failure to synthesize 'Social Cues' into a 'Coherent Reality' that exists independent of the self",
+    "Executive Over-Optimization: The brain attempts to find a 'Grand Unified Theory' for 'Random Noise'"
+  ],
+  "risk_factors": [
+    "High-load 'Virtual Environment' usage (heavy VR/sim immersion)",
+    "Genetic 'Kernel' predispositions for 'Reality-Monitoring' failure",
+    "Intense 'Social Surveillance' or 'Privacy Breach' trauma"
+  ],
+  "diagnosis": [
+    "The 'Independent Node' Audit: Testing if the user can acknowledge events happening outside their 'Sightline'",
+    "Neuroimaging: Identifying 'Hyper-metabolism' in the 'Right Posterior Parietal' areas associated with 'Self-Agency'",
+    "Reality-Check Protocols: Using 'Double-Blind' tests to prove 'Environmental Independence'"
+  ],
+  "remedies": [
+    "Antipsychotic Signal-Dampeners: Reducing the 'Salience' of 'Environmental Noise'",
+    "Cognitive De-obfuscation: Logical exercises to 'Re-verify' the autonomy of other 'Network Nodes'",
+    "Context Re-mapping: Shifting the 'User Perspective' from 'Target' to 'Participant'"
+  ],
+  "prevention": [
+    "Maintaining 'Diverse Social Inputs' to prevent 'Single-Source Bias' in reality construction"
+  ]
+}
+
 "mandela_distributed_sync_error": {
   "description": "A phenomenon where a large group of people remember something differently from how it occurred, often attributed to false memories or collective misinterpretation.",
   "symptoms": [
