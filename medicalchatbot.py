@@ -117,6 +117,40 @@ medical_db = {
     "Maintaining 'Diverse Social Inputs' to prevent 'Single-Source Bias' in reality construction"
   ]
 }
+"zeigarnik_uncommitted_transaction_error": {
+  "description": "The psychological phenomenon where people remember uncompleted or interrupted tasks better than completed ones.",
+  "symptoms": [
+    "Cognitive Tension: A persistent 'Background Process' that consumes 'CPU Cycles' until the 'Task' is finished",
+    "High-Priority Recall: Interrupted 'Data Packets' are indexed with higher 'Salience' than 'Closed Files'",
+    "Intrusive Thought Injection: The 'System' periodically 'Pings' the user with 'Reminders' of the incomplete state",
+    "Buffer Saturation: Multiple 'Open Tasks' lead to 'Mental Fragmentation' and 'Thread Exhaustion'",
+    "The 'Closure Reward' Delay: The 'Dopamine Pulse' (Success Signal) is withheld until the 'Transaction' is 'Committed'"
+  ],
+  "causes": [
+    "Task-State Persistence: The 'Prefrontal Cortex' fails to 'Release the Lock' on 'In-Progress Data'",
+    "Incomplete Gestalt: A 'Hard-Coded' drive for 'System Symmetry' that refuses to 'Garbage Collect' partial results",
+    "Attentional Gating: The 'Anterior Cingulate Cortex' keeps the 'Error Flag' raised until the 'Goal State' is achieved",
+    "Evolutionary Patch: A 'Safety Feature' designed to ensure 'High-Value Resources' (food, shelter) aren't forgotten mid-acquisition"
+  ],
+  "risk_factors": [
+    "Users with high 'Conscientiousness' or 'Perfectionist' parameters",
+    "Multi-tasking 'Kernel Configurations' with too many 'Active Threads'",
+    "High-load 'Development Environments' with frequent 'Context Switches'"
+  ],
+  "diagnosis": [
+    "The 'Interruption Audit': Testing 'Recall Fidelity' for a 'Task' stopped at 50% vs. one at 100%",
+    "fMRI: Observing sustained activity in the 'Prefrontal Cortex' during 'Wait States' for incomplete tasks",
+    "Latency Analysis: Measuring the time it takes for a 'User' to 'Stop Thinking' about a task after a 'Session Break'"
+  ],
+  "remedies": [
+    "Atomic Commit: Breaking tasks into 'Micro-Transactions' to achieve frequent 'System Closure'",
+    "The 'Brain Dump' Script: Writing down the 'Incomplete State' to 'External Storage' to 'Unlock' the brain's 'RAM'",
+    "Pseudo-Closure: Performing a 'Final Ritual' (checking off a list) to trigger the 'Garbage Collector'"
+  ],
+  "prevention": [
+    "Limiting 'Parallel Threading' (Single-tasking) to prevent 'State-Management' overload"
+  ]
+}
 
 "mandela_distributed_sync_error": {
   "description": "A phenomenon where a large group of people remember something differently from how it occurred, often attributed to false memories or collective misinterpretation.",
