@@ -48,6 +48,41 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"cocktail_party_filter_interrupt": {
+  "description": "The phenomenon of being able to focus one's auditory attention on a particular stimulus while filtering out a range of other stimuli, and the subsequent failure where 'high-priority' words trigger a total focus shift.",
+  "symptoms": [
+    "Selective Narrowcasting: The ability to isolate a 'Single Audio Stream' in a high-decibel environment",
+    "Identity-String Trigger: A 'Priority 0' interrupt occurs when the user's 'Name' or 'Key Interest' is detected in the noise",
+    "Filter Collapse: In high-stress or 'Low-Battery' states, the 'Signal-to-Noise Ratio' drops, leading to sensory overwhelm",
+    "Shadow-Packet Processing: The brain 'Buffers' background noise even when the user isn't 'Listening', allowing for 'Retroactive Parsing'",
+    "Spatial Tuning Failure: Difficulty 'Focusing' the 'Directional Antenna' (ears/attention) in complex acoustic environments"
+  ],
+  "causes": [
+    "Thalamic Gating: The 'System Gateway' fails to keep 'Suppressed Packets' from reaching the 'Processor'",
+    "Binaural Summation Error: A failure in the 'Logic' that compares 'Time-of-Arrival' between ears to localize sound",
+    "Top-Down Over-weighting: The 'Executive Layer' has set the 'Keyword Watchlist' (e.g., 'Fire!', 'Help!', your name) to be too sensitive",
+    "Dopaminergic Tuning: An 'Over-tuned' reward system that treats all 'Social Mentions' as 'High-Value Data'"
+  ],
+  "risk_factors": [
+    "Users with 'ADHD' kernel configurations (Hyper-sensitive 'Watchlists')",
+    "Environments with 'High Multi-Path Interference' (echoes, loud parties)",
+    "Auditory Processing Disorders where the 'Noise-Cancellation Driver' is buggy"
+  ],
+  "diagnosis": [
+    "The 'Dichotic Listening Test': Sending different 'Data Streams' to each ear and measuring 'Switching Latency'",
+    "Signal-to-Noise Ratio (SNR) Thresholding: Determining the 'Decibel Floor' at which the 'Filter' fails",
+    "fMRI: Observing 'Parietal Lobe' activation during 'Background Trigger' events"
+  ],
+  "remedies": [
+    "Haptic Grounding: Using 'Touch' to anchor the 'Main Thread' to the current speaker",
+    "Visual-Sync: Using 'Lip-Reading' (Visual Hardware) to assist the 'Audio Parser' (The McGurk Effect #166, used positively)",
+    "Digital Filtering: Using 'Noise-Canceling' hardware to pre-process the 'External Signal'"
+  ],
+  "prevention": [
+    "Reducing 'System Fatigue' to ensure the 'Attention Filter' has sufficient 'Voltage' to operate"
+  ]
+}
+
 "truman_show_staging_error": {
   "description": "A type of delusion in which people believe that their lives are staged reality shows or that they are being watched on cameras.",
   "symptoms": [
