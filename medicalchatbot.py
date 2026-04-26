@@ -393,6 +393,40 @@ medical_db = {
     "N/A: This is a 'Core Feature' of the 'Speech Processing Kernel'"
   ]
 }
+"phonological_loop_buffer_lock": {
+  "description": "The experience of an inability to dislodge a song or melody from one's mind, occurring when a musical fragment gets stuck in the short-term auditory buffer.",
+  "symptoms": [
+    "Infinite Recursion: The 'Audio String' plays continuously without a 'Stop' command",
+    "Sub-Vocal Mirroring: The 'Speech Hardware' (larynx/tongue) may show 'Micro-Activations' as the system 'Re-renders' the sound",
+    "Low-Signal Intrusion: The loop is most audible during 'Idle Time' (low external I/O)",
+    "Pattern Persistence: Even after 'Context Switching' (doing math or reading), the 'Daemon' remains active in the background",
+    "Fragmented Playback: Usually limited to a '10–30 second' buffer segment rather than the 'Full File'"
+  ],
+  "causes": [
+    "Circular Buffer Error: The 'Phonological Loop' fails to 'Flush' the cache, creating a 'Logic Feedback'",
+    "Hyper-Salience Trigger: The 'Audio Packet' contains a 'Hook' (rhythmic/melodic anomaly) that the 'Parser' over-indexes",
+    "Open Task Persistence: The brain treats the song as an 'Incomplete Pattern' (a variant of #174) and keeps it in 'RAM' to 'Solve' it",
+    "Audit-Path Hardening: Repetitive 'Neural Firing' makes the specific 'Audio Path' the 'Path of Least Resistance'"
+  ],
+  "risk_factors": [
+    "High 'Musical Literacy' (Better 'Audio-Drivers')",
+    "Obsessive-Compulsive 'Kernel' settings",
+    "Fatigue or 'System Stress' leading to poor 'Buffer Management'"
+  ],
+  "diagnosis": [
+    "The 'Hum-Along' Audit: Identifying the 'Start' and 'End' points of the loop to determine 'Buffer Size'",
+    "EEG Monitoring: Detecting rhythmic activity in the 'Primary Auditory Cortex' during 'Silent Playback'",
+    "Interference Testing: Checking if 'Non-Musical Verbal Tasks' can 'Overwrite' the buffer"
+  ],
+  "remedies": [
+    "Buffer Flushing: Engaging in a high-complexity 'Verbal Task' (anagrams or reading) to force a 'Cache Overwrite'",
+    "Complete Playback: Listening to the 'Full Song' to provide the 'EOF' (End of File) marker the brain is looking for",
+    "The 'Cure Song' Patch: Intentionally 'Loading' a different, 'Neutral Audio String' to replace the 'Infected' one"
+  ],
+  "prevention": [
+    "Avoiding 'Fragmented Exposure' (short clips) of 'High-Hook' audio files"
+  ]
+}
 
 "anton_babinski_display_desync": {
   "description": "A rare symptom of brain damage occurring in the occipital lobe where those who are blind deny their blindness and insist they can see, often providing detailed but false descriptions of their surroundings.",
