@@ -151,6 +151,41 @@ medical_db = {
     "Limiting 'Parallel Threading' (Single-tasking) to prevent 'State-Management' overload"
   ]
 }
+"lethologica_index_blocking_error": {
+  "description": "A state in which one cannot quite recall a familiar word but can recall peripheral information about it, such as its first letter or number of syllables.",
+  "symptoms": [
+    "Partial Record Access: Retrieval of 'Metadata' (syllable count, gender, first char) without the 'Data' itself",
+    "Phonological Blocking: A similar-sounding 'Garbage String' (Ugly Sister) repeatedly returns in the search results",
+    "High-Confidence Stalling: The 'System' reports a 'Match Found' but the 'I/O' is stuck in a 'Spinning Wait'",
+    "The 'Eureka' Interrupt: The 'Data' is often returned minutes later during an 'Idle State' when the 'Blocking Query' is terminated",
+    "Metacognitive Friction: The user is aware of the 'Record's Existence' but lacks 'Read Permissions'"
+  ],
+  "causes": [
+    "Transmission Deficit: Weak connection between the 'Semantic Node' (meaning) and 'Phonological Node' (sound)",
+    "Interference Theory: A 'High-Frequency' incorrect word is 'Blocking' the 'Lower-Frequency' correct target",
+    "Prefrontal Overload: Excessive 'Executive Force' causes 'Neural Noise' that masks the target signal",
+    "Synaptic Latency: Temporary 'Voltage Drops' in the 'Lexical Bus' due to fatigue or age"
+  ],
+  "risk_factors": [
+    "Bilingual 'Kernel' configurations (Cross-language 'Index Interference')",
+    "Systemic 'Sleep Deprivation' or 'Dehydration' (High Latency)",
+    "Hardware 'Versioning' (Age-related 'Retrieval Slowdown')"
+  ],
+  "diagnosis": [
+    "The 'Metadata Audit': Asking the user for the 'First Letter' or 'Rhyme' of the missing word",
+    "Response Latency Measurement: Timing the delay between 'Definition Input' and 'Word Output'",
+    "fMRI: Observing 'Increased Activity' in the 'Anterior Cingulate Cortex' indicating 'Error/Conflict Detection'"
+  ],
+  "remedies": [
+    "Process Termination: Intentionally 'Stop Thinking' about the word to clear the 'Blocking Lock'",
+    "Contextual Priming: Searching for 'Associated Records' to approach the 'Node' from a different 'Network Path'",
+    "Phonological Scanning: Cycling through the 'Alphabet' to trigger a 'Sound-Match Interrupt'"
+  ],
+  "prevention": [
+    "Maintaining 'High-Density Lexical Training' (reading/writing) to strengthen 'Index Links'"
+  ]
+}
+
 "rubber_hand_pointer_remap": {
   "description": "A multisensory illusion where the brain is tricked into adopting an external object as part of the body through synchronized visual and tactile stimulation.",
   "symptoms": [
