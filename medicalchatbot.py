@@ -48,6 +48,41 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"anton_babinski_driver_lock": {
+  "description": "A rare symptom of brain damage occurring in the occipital lobe where those who are image-blind deny that they are blind.",
+  "symptoms": [
+    "Total Denial of Failure: The 'System' refuses to acknowledge a 'Hardware Disconnect'",
+    "Synthetic Data Generation: The brain 'Confabulates' (auto-generates) visual descriptions to explain 'Null Input'",
+    "Object Collision Logic: The user 'Explains Away' collisions as 'Environmental Glitches' or 'Poor Lighting'",
+    "Status-Bit Override: The 'Self-Monitoring' module is 'Hard-Wired' to report 'Video OK' despite 'No Signal'",
+    "Cognitive Dissonance: High-intensity 'Logic Loops' used to justify the lack of 'Visual Fidelity'"
+  ],
+  "causes": [
+    "Occipital Lobe Damage: Total failure of the 'Primary Video Hardware' (V1 area)",
+    "Disconnection Syndrome: The 'Logic Layer' can't 'Read' the 'Hardware Error' from the 'Source'",
+    "Hyper-Active Imagery: The 'Visual Buffer' is flooded with 'Internally Generated' data from the 'Association Cortex'",
+    "System Monitoring Glitch: Damage to the 'Anterior Cingulate' or 'Parietal' areas responsible for 'Error Detection'"
+  ],
+  "risk_factors": [
+    "Ischemic Stroke in the 'Posterior Cerebral Artery' (Hardware power loss)",
+    "Severe 'Head Trauma' impacting the 'Visual Bus'",
+    "Specific 'Kernel' lesions in the 'Bilateral Occipital' regions"
+  ],
+  "diagnosis": [
+    "The 'Sight-Validation' Test: Asking the user to 'Identify an Object' (they will confidently guess incorrectly)",
+    "Neuroimaging (CT/MRI): Identifying 'Bilateral Lesions' in the 'Visual Cortex'",
+    "The 'Obstacle Navigation' Audit: Observing if the 'User' ignores 'Tactile Feedback' (bumping into walls) in favor of 'Visual Fantasy'"
+  ],
+  "remedies": [
+    "N/A: This is a 'Hardware-Level' failure often resistant to 'Software Patches'",
+    "Occupational Therapy: Attempting to 'Recalibrate' the 'Executive Layer' to 'Trust' other 'Sensory Drivers' (touch/sound)",
+    "Spontaneous Recovery: Rare 'System Reboots' where the 'Status Bit' eventually 'Resets' to 'Blind'"
+  ],
+  "prevention": [
+    "Managing 'System Voltage' (blood pressure) and 'Vascular Integrity' to prevent 'Hardware Failures'"
+  ]
+}
+
 "cocktail_party_filter_interrupt": {
   "description": "The phenomenon of being able to focus one's auditory attention on a particular stimulus while filtering out a range of other stimuli, and the subsequent failure where 'high-priority' words trigger a total focus shift.",
   "symptoms": [
