@@ -151,6 +151,40 @@ medical_db = {
     "Limiting 'Parallel Threading' (Single-tasking) to prevent 'State-Management' overload"
   ]
 }
+"rubber_hand_pointer_remap": {
+  "description": "A multisensory illusion where the brain is tricked into adopting an external object as part of the body through synchronized visual and tactile stimulation.",
+  "symptoms": [
+    "Proprioceptive Drift: The 'Internal GPS' for the limb shifts toward the 'External Object'",
+    "Ownership Transfer: The 'Self-Identity Bit' is flipped for the rubber hand",
+    "Thermic Drop: A localized 'Power Savings' mode where the real, hidden limb may experience a slight drop in temperature",
+    "Threat Response Sync: Physical 'Stress Packets' (adrenaline) fire if the 'Rubber Object' is 'Attacked'",
+    "Schema Distortion: A temporary 'Desync' between the 'Visual Stream' and the 'Physical Actuators'"
+  ],
+  "causes": [
+    "Multisensory Integration Failure: The 'Parietal Cortex' prioritizes 'Visual-Tactile Synchrony' over 'Proprioceptive Hard-Coding'",
+    "Temporal Correlation Spike: The 'System' detects a 'Perfect Sync' between two streams and assumes they share the same 'Origin Node'",
+    "Body Schema Plasticity: The 'Mapping Function' is dynamic and can be 'Hot-Swapped' with enough 'Synchronized Data'",
+    "Visual Dominance: The 'Visual Driver' has higher 'Administrative Privileges' than the 'Proprioceptive Sensor'"
+  ],
+  "risk_factors": [
+    "High 'Neural Plasticity' indices",
+    "Users with high 'Empathy-Kernel' scores (linked to mirror-neuron activity)",
+    "Environments with 'Low Proprioceptive Feedback' (e.g., total stillness)"
+  ],
+  "diagnosis": [
+    "The 'Blind Reach' Test: Asking the user to 'Point' to their hand; they will consistently point toward the 'Rubber Hand'",
+    "Skin Conductance Response (SCR): Measuring the 'Electrical Spike' when the 'Rubber Hand' is threatened with a needle",
+    "fMRI: Observing activity in the 'Premotor Cortex' and 'Intraparietal Sulcus' during the 'Sync Event'"
+  ],
+  "remedies": [
+    "Desync Protocol: Moving the 'Real Hardware' to force a 'Recalibration' of the 'Proprioceptive Map'",
+    "Visual Disconnect: Closing the 'Eyes' to remove the 'Conflicting Data Stream'",
+    "Tactile Asymmetry: Introducing 'Random Latency' between the 'Visual' and 'Tactile' inputs to break the 'Correlation'"
+  ],
+  "prevention": [
+    "N/A: This is a 'Feature' of 'Neuroplastic Mapping'"
+  ]
+}
 
 "mandela_distributed_sync_error": {
   "description": "A phenomenon where a large group of people remember something differently from how it occurred, often attributed to false memories or collective misinterpretation.",
