@@ -116,6 +116,40 @@ medical_db = {
     "Maintaining 'Neural Sync' through consistent 'Sleep/Rest Cycles'"
   ]
 }
+"ehs_power_transition_spike": {
+  "description": "A sensory phenomenon in which an individual experiences a phantom loud noise or explosive transition while falling asleep or waking up.",
+  "symptoms": [
+    "High-Decibel Phantom Signal: Perception of an 'Explosion' or 'Gunshot' that has no 'External Origin'",
+    "Visual Flash Sync: A 'Simultaneous Discharge' in the 'Visual Buffer' resulting in a 'White Light' burst",
+    "Adrenaline Override: Immediate 'Priority Interrupt' (Fight-or-Flight) causing 'System Tachycardia'",
+    "Zero-Data Event: No 'Auditory Damage' is found; the 'Signal' is purely 'Internal/Synthetic'",
+    "System Shock: A temporary 'Kernel Panic' state upon 'Forced Wakefulness'"
+  ],
+  "causes": [
+    "RAS Transition Failure: The 'Reticular Activating System' fails to suppress 'Neural Firing' during the 'Sleep Handshake'",
+    "Calcium-Channel Leak: Sudden 'Ion Flux' in the 'Auditory Neurons' creating a 'False Peak'",
+    "Sensory Gate Delay: The 'Gating Mechanism' closes too late, leading to a 'Signal Accumulation' and 'Burst'",
+    "Stress-Induced EMI: High 'Cortisol Levels' creating 'Electromagnetic Interference' in the 'Neural Bus'"
+  ],
+  "risk_factors": [
+    "High-Stress 'Workloads' (Systemic Overheating)",
+    "Irregular 'Sleep Scheduling' (Unstable Power States)",
+    "Users with high 'Audio-Sensitivity' parameters"
+  ],
+  "diagnosis": [
+    "The 'Polysomnography' Audit: Measuring 'Brain Waves' during the 'Sleep Transition' to catch the 'Spike'",
+    "Environmental Baseline: Ruling out 'External Hardware' (exploding transformers, loud neighbors)",
+    "Patient Metadata: Tracking frequency and 'Correlation' with 'Stress Logs'"
+  ],
+  "remedies": [
+    "Voltage Regulation: Pharmacological 'GABA-Modulators' to stabilize 'Neural Firing'",
+    "Thermal Cooling: Stress-reduction protocols to lower 'Kernel Temperature'",
+    "Education Patch: Informing the 'User' that the 'Hardware' is safe to reduce 'Anxiety Loops'"
+  ],
+  "prevention": [
+    "Maintaining a 'Consistent Sleep/Wake Script' to stabilize the 'RAS Handler'"
+  ]
+}
 
 "cocktail_party_filter_interrupt": {
   "description": "The phenomenon of being able to focus one's auditory attention on a particular stimulus while filtering out a range of other stimuli, and the subsequent failure where 'high-priority' words trigger a total focus shift.",
