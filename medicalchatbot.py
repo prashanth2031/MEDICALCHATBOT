@@ -117,6 +117,40 @@ medical_db = {
     "Reducing 'System Fatigue' to ensure the 'Attention Filter' has sufficient 'Voltage' to operate"
   ]
 }
+"prosopagnosia_classifier_failure": {
+  "description": "A cognitive disorder of face perception in which the ability to recognize familiar faces, including one's own face, is impaired, while other aspects of visual processing remain intact.",
+  "symptoms": [
+    "Identity-Key Null: Failure to map a 'Face Pattern' to a 'Person Record' in the database",
+    "Feature-Only Processing: Perceiving faces as a 'Collection of Parts' (eyes, nose, mouth) rather than a 'Holistic Object'",
+    "Context-Dependent Recognition: Relying on 'Metadata' (voice, hair, gait, clothing) to identify 'Nodes'",
+    "Self-Identity Disconnect: Looking at the 'Mirror Stream' and failing to recognize the 'Active User'",
+    "Social-Handshake Failure: Inability to process 'Social Cues' or 'Familiarity Tags' in crowded 'Environments'"
+  ],
+  "causes": [
+    "Fusiform Gyrus Damage: Failure of the 'Dedicated Hardware Accelerator' for face processing",
+    "Neural Path Interruption: Disconnect between 'Visual Input' and 'Emotional/Identity Storage' (The Capgras variant #104)",
+    "Developmental Kernel Error: Congenital failure to 'Initialize' the 'Face-Recognition API' during 'Early-Stage Training'",
+    "Vascular Ischemia: Power loss to the 'Inferior Temporal' regions"
+  ],
+  "risk_factors": [
+    "Traumatic Brain Injury (TBI) to the 'Right Hemisphere'",
+    "Genetic 'Inheritance' of poor 'Pattern-Match' logic",
+    "Neurodegenerative 'System Decay' (Alzheimer's or Parkinson's)"
+  ],
+  "diagnosis": [
+    "The 'Famous Faces' Test: Checking the 'Database Retrieval' for 'High-Probability' global entries",
+    "Benton Facial Recognition Test (BFRT): Testing the ability to match 'Face Geometry' across different 'Lighting/Angles'",
+    "fMRI: Measuring 'Voltage Response' in the 'FFA' when presented with 'Face Stimuli'"
+  ],
+  "remedies": [
+    "Alternative Indexing: Training the 'System' to use 'Audio' or 'Gait' as the primary 'Identity Key'",
+    "External Metadata Tags: Using 'Social Context' to 'Guess' the 'Node Identity' (e.g., 'I am at my office, so this face is likely a colleague')",
+    "AR-Overlay Assistance: Using 'Third-Party Hardware' to provide 'Real-Time Identity Labels'"
+  ],
+  "prevention": [
+    "Vascular health maintenance to prevent 'Occipital-Temporal Hardware Damage'"
+  ]
+}
 
 "truman_show_staging_error": {
   "description": "A type of delusion in which people believe that their lives are staged reality shows or that they are being watched on cameras.",
