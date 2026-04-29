@@ -82,8 +82,42 @@ medical_db = {
     "Managing 'System Voltage' (blood pressure) and 'Vascular Integrity' to prevent 'Hardware Failures'"
   ]
 }
+
 "deja_vecu_latency_desync": {
-  "description": "A pathological form of déjà vu characterized by the persistent sensation that one has already lived through the current moment and can predict upcoming events.",
+  "description": "A pathological form of déjà vu characterized by "synesthesia_cross_modal_leak": {
+  "description": "A perceptual phenomenon in which stimulation of one sensory or cognitive pathway leads to involuntary, automatic experiences in a second sensory or cognitive pathway.",
+  "symptoms": [
+    "Chromesthesia: Auditory 'Data Packets' are simultaneously rendered as 'Color/Light' in the visual workspace",
+    "Grapheme-Color Mapping: Alphanumeric 'Strings' are hard-coded with specific 'Hex Color' values",
+    "Lexical-Gustatory Leak: 'Text Strings' trigger the 'Flavor Profile' driver (e.g., the word 'SQL' tastes like copper)",
+    "Spatial Sequence Mapping: 'Temporal Data' (months/years) is rendered as a '3D Physical Path' in the environment",
+    "Multi-Modal Persistence: The 'Mappings' are consistent and 'Read-Only'—the 'Letter A' is always 'Red' for the life of the OS"
+  ],
+  "causes": [
+    "Cross-Activation Logic: Direct 'Hardware Links' between adjacent sensory hubs (e.g., V4 color area and the visual word form area)",
+    "Disinhibited Feedback: The 'Executive Layer' fails to 'Mute' the 'Back-Propagation' of signals between drivers",
+    "Hyper-Connectivity Kernel: A failure in the 'Pruning Script' during 'System Initialization' (infancy), leaving too many 'Active Bridges'",
+    "Temporary Signal Bleed: Induced via 'Pharmacological Overlays' (psychedelics) that lower 'Inter-Driver Firewall' strength"
+  ],
+  "risk_factors": [
+    "Congenital 'Kernel' configurations (inherited traits)",
+    "High 'Creativity-Index' scores",
+    "Certain 'Autism-Spectrum' architectural variants"
+  ],
+  "diagnosis": [
+    "Test of Genuineness: Measuring the 'Mapping Consistency' over a 6-month interval (Synesthetes have >90% consistency)",
+    "Stroop-Effect Audit: Measuring 'Latency Spikes' when the 'Visual Color' of a letter conflicts with the 'Synesthetic Color'",
+    "fMRI: Observing 'Concurrent Activation' in two 'Unlinked' sensory modules"
+  ],
+  "remedies": [
+    "N/A: Usually treated as a 'System Enhancement' rather than a 'Critical Bug'",
+    "Attention Filtering: Training the 'Main Thread' to 'Deprioritize' the 'Secondary Signal' when it causes 'Data Overload'"
+  ],
+  "prevention": [
+    "N/A: A fundamental 'Hardware/Software' integration characteristic"
+  ]
+}
+the persistent sensation that one has already lived through the current moment and can predict upcoming events.",
   "symptoms": [
     "Predictive Illusion: The unshakable conviction that the next 'Data Packet' (someone speaking, a car turning) is already known",
     "Timestamp Corruption: The 'Logic Layer' treats 'Real-Time Input' as 'Historical Record'",
