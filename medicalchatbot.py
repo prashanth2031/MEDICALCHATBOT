@@ -82,6 +82,40 @@ medical_db = {
     "Managing 'System Voltage' (blood pressure) and 'Vascular Integrity' to prevent 'Hardware Failures'"
   ]
 }
+"alien_hand_orphaned_thread": {
+  "description": "A condition in which a person's limb behaves externally to their control, as if it has a mind of its own.",
+  "symptoms": [
+    "Autonomous Scripting: The limb performs 'Goal-Directed Actions' (reaching for an object) without 'User Intent'",
+    "Inter-Manual Conflict: The 'Secondary Processor' executes 'Inverse Logic' to the 'Main Thread' (e.g., left hand fights right hand)",
+    "Identity-Ownership Null: The 'Executive Layer' reports 'Null' on 'Proprioceptive Ownership' for the action",
+    "Grasp-Reflex Lock: Once the limb captures an 'Object Node', it may refuse to 'Release the Pointer'",
+    "Alien Personification: The 'User' often treats the limb as a 'Separate Process' or 'External Guest'"
+  ],
+  "causes": [
+    "Corpus Callosum Disconnect: The 'Inter-Processor Bus' is severed, leading to 'Split-Brain Logic'",
+    "Frontal Lobe Lesion: Loss of the 'Inhibitory Gating' that normally suppresses 'Low-Level Motor Reflexes'",
+    "SMA Interference: The 'Supplementary Motor Area' starts 'Firing' without 'Prefrontal Validation'",
+    "Posterior Parietal Damage: Corruption of the 'Body Schema Map', leading to 'Agency Attribution' errors"
+  ],
+  "risk_factors": [
+    "Post-Callosotomy 'Kernel Split' (Surgery for Epilepsy)",
+    "Stroke in the 'Anterior Cerebral Artery' (Power failure to the 'Motor Hub')",
+    "Neurodegenerative 'System Erosion' (Corticobasal Degeneration)"
+  ],
+  "diagnosis": [
+    "The 'Manual Conflict' Audit: Observing if hands perform 'Contradictory Commands'",
+    "Neuroimaging: Locating 'White Matter Interrupts' in the 'Corpus Callosum'",
+    "Attribution Testing: Assessing if the 'User' can distinguish between 'Self-Generated' and 'Autonomous' motion"
+  ],
+  "remedies": [
+    "Hardware Distraction: Giving the 'Alien Hand' an 'Idle Object' (like a ball) to keep the 'Thread' busy",
+    "Sensory Muffling: Using a 'Glove' or 'Sleeve' to reduce 'Environmental Triggering'",
+    "Verbal Override: Using 'Voice Commands' to re-assert 'Executive Control' over the 'Orphaned Process'"
+  ],
+  "prevention": [
+    "Maintaining 'Vascular Health' to protect the 'Inter-Processor Bus'"
+  ]
+}
 
 "deja_vecu_latency_desync": {
   "description": "A pathological form of déjà vu characterized by "synesthesia_cross_modal_leak": {
