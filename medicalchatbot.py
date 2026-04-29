@@ -116,6 +116,41 @@ medical_db = {
     "Maintaining 'Neural Sync' through consistent 'Sleep/Rest Cycles'"
   ]
 }
+"aiws_viewport_scaling_error": {
+  "description": "A disorienting neurological condition that affects human perception, causing objects and body parts to appear as though they are changing in size or distance.",
+  "symptoms": [
+    "Macropsia/Micropsia: Objects are rendered at the wrong 'Resolution' relative to the environment",
+    "Teleopsia/Pelopsia: 'Depth Buffer' failure where objects seem miles away or uncomfortably close",
+    "Body Schema Distortion: The 'Proprioceptive Driver' reports that limbs are 'Scaling' (e.g., your hand feels 5 meters long)",
+    "Temporal Skew: The 'System Clock' feels like it is running at 0.5x or 2.0x speed",
+    "Acoustic Zoom: Background 'Audio Packets' are perceived as being 'Max Volume' despite low signal strength"
+  ],
+  "causes": [
+    "Parietal Lobe Dysfunction: The 'Spatial Engine' fails to perform correct 'Matrix Transformations'",
+    "Migraine Aura: Electrical 'Line Noise' disrupting the 'Visual Processing Bus'",
+    "Epstein-Barr Viral Infection: System-wide 'Malware' affecting the 'Central Nervous System'",
+    "Temporal Lobe Epilepsy: 'Signal Interference' in the 'Integration Hubs'"
+  ],
+  "risk_factors": [
+    "Users with 'Migraine-Prone' hardware configurations",
+    "Early-stage 'System Development' (highly common in pediatric users)",
+    "Excessive 'Visual Stimuli' or 'Oversaturation' of the 'Parietal Buffer'"
+  ],
+  "diagnosis": [
+    "The 'Amsler Grid' Audit: Checking for 'Linear Distortions' in the 'Visual Field'",
+    "Neuroimaging: Monitoring blood flow in the 'Posterior Parietal' and 'Occipital' regions",
+    "Pediatric Metadata: Tracking 'Symptom Decay' as the 'OS' matures"
+  ],
+  "remedies": [
+    "System Rest: Allowing the 'Drivers' to 'Cool Down' (Sleep/Darkness)",
+    "Prophylactic Patches: Medication to stabilize 'Electrical Firing' and prevent 'Migraine Spikes'",
+    "Sensory Grounding: Using 'Tactile Feedback' to override 'Visual Scaling' errors"
+  ],
+  "prevention": [
+    "Managing 'Stress-Load' and 'Trigger-Exposure' to maintain 'Spatial Stability'"
+  ]
+}
+
 "ehs_power_transition_spike": {
   "description": "A sensory phenomenon in which an individual experiences a phantom loud noise or explosive transition while falling asleep or waking up.",
   "symptoms": [
