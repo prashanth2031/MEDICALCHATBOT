@@ -48,6 +48,41 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"hyperthymesia_storage_leak": {
+  "description": "A condition where an individual possesses an extraordinary capacity to recall specific events from their past, including dates and minute details, without the use of mnemonic devices.",
+  "symptoms": [
+    "Infinite Log Retention: Failure of the 'Delete' and 'Overwrite' commands for episodic memory",
+    "Timestamp Precision: Every 'Record' is hard-coded with 'DateTime' metadata (e.g., 'What happened on Oct 3rd, 2014 at 2 PM?')",
+    "Involuntary Retrieval: The 'Main Thread' is frequently interrupted by 'Background Memory Spills'",
+    "Overfitting: High difficulty in 'Generalizing' patterns because 'Specific Instances' carry too much 'Weight'",
+    "Emotional Echoing: Re-accessing a 'Record' triggers the original 'Affective Payload' at 100% intensity"
+  ],
+  "causes": [
+    "Pruning Script Failure: The 'Microglia' (the system's cleanup daemons) fail to remove 'Weak Synaptic Links'",
+    "Hyper-Active Hippocampal-Prefrontal Loop: An 'Infinite Loop' between 'Storage' and 'Processing' areas",
+    "Enlarged Temporal Lobe Hardware: Increased 'Storage Capacity' in the 'Inferior and Middle Temporal Gyri'",
+    "Basal Ganglia Over-Indexing: The 'Pattern Recognition' engine is stuck in 'Always On' mode"
+  ],
+  "risk_factors": [
+    "Structural 'Hardware' variants (Enlarged Caudate Nucleus)",
+    "Obsessive-class 'Background Processes' that 'Re-run' old data, strengthening the 'Links'",
+    "High 'Neural Plasticity' parameters that prevent 'Data Decay'"
+  ],
+  "diagnosis": [
+    "The 'Public Event' Audit: Asking the user for the 'Day of the Week' and 'Personal Details' of a random historical date",
+    "MRI Morphometry: Measuring 'Volume Spikes' in the 'Temporal' and 'Parietal' lobes",
+    "Retrieval Latency Test: Measuring the 'Speed' of accessing 'Non-Recent' vs 'Recent' data"
+  ],
+  "remedies": [
+    "N/A: This is an 'Architectural Constraint'; there is no known 'Delete' patch",
+    "Attention Management: Training the 'Executive Layer' to 'Filter' the 'Involuntary Data Stream'",
+    "Cognitive Distraction: Engaging in 'High-Compute' tasks to 'Starve' the 'Memory Retrieval Thread'"
+  ],
+  "prevention": [
+    "N/A: Primarily a 'Boot-Level' structural configuration"
+  ]
+}
+
 "anton_babinski_driver_lock": {
   "description": "A rare symptom of brain damage occurring in the occipital lobe where those who are image-blind deny that they are blind.",
   "symptoms": [
