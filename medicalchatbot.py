@@ -116,6 +116,41 @@ medical_db = {
     "Maintaining 'Vascular Health' to protect the 'Inter-Processor Bus'"
   ]
 }
+"cotard_existence_status_fault": {
+  "description": "A rare neuropsychiatric delusion in which the patient holds the delusional belief that they are already dead, do not exist, are putrefying, or have lost their blood or internal organs.",
+  "symptoms": [
+    "Existential Negation: The 'I AM' status bit is flipped to 'FALSE' in the 'Primary Identity Hub'",
+    "Affective Anesthesia: Total absence of 'Emotional Metadata' in response to 'Self-Stimulation'",
+    "Biological Denial: Belief that the 'Hardware' (organs/blood) has been 'Deallocated' or 'Deleted'",
+    "Immortality Paradox: The belief that because they are 'Already Dead', they can no longer be 'Terminated'",
+    "Self-Starvation: Termination of 'Energy Input' (eating) because the 'User' believes 'Dead Hardware' requires no 'Resources'"
+  ],
+  "causes": [
+    "Amygdala-Cortex Disconnect: The 'Identity Node' can no longer 'Read' the 'Emotional State' of the body",
+    "Right Parietal Lesion: Corruption of the 'Self-Representation Map' and 'Body Schema'",
+    "Dopaminergic Depletion: Severe 'Voltage Drop' in the 'Reward/Salience' circuits, leading to 'Affective Death'",
+    "Hypometabolism: Reduced 'Clock Speed' in the 'Frontal' and 'Parietal' nodes"
+  ],
+  "risk_factors": [
+    "Severe 'Depression-class' System Lag",
+    "Schizophrenia 'Kernel' instability",
+    "Post-Traumatic 'Hardware' damage to the 'Right Hemisphere'"
+  ],
+  "diagnosis": [
+    "The 'Existence Audit': Asking the user to 'Verify Reality' (they will consistently report 'Existence = NULL')",
+    "Neuroimaging (PET/fMRI): Identifying 'Deep Hypometabolism' in the 'Parietal' and 'Frontal' regions",
+    "The 'Mirror Test': Observing if the 'User' recognizes their 'Reflected Hardware' as 'Dead' or 'Hollow'"
+  ],
+  "remedies": [
+    "ECT (Electroconvulsive Therapy): A 'System-Wide Power Cycle' to force-reset 'Neural Firing' patterns",
+    "Pharmacological Patches: Anti-psychotics and Anti-depressants to stabilize 'Neurotransmitter Voltage'",
+    "Cognitive-Behavioral Overlays: Attempting to 'Override' the 'Negation Logic' with 'External Data'"
+  ],
+  "prevention": [
+    "Early detection of 'Systemic Despair' to prevent 'Affective Disconnection'"
+  ]
+}
+
 
 "deja_vecu_latency_desync": {
   "description": "A pathological form of déjà vu characterized by "synesthesia_cross_modal_leak": {
