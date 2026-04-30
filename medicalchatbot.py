@@ -82,6 +82,41 @@ medical_db = {
     "Managing 'System Voltage' (blood pressure) and 'Vascular Integrity' to prevent 'Hardware Failures'"
   ]
 }
+"jamais_vu_recognition_drop": {
+  "description": "A phenomenon characterized by the feeling that a situation or object is totally unfamiliar, despite being known to be part of one's experience.",
+  "symptoms": [
+    "Semantic Satiation: A word or object loses its 'Meaning-Value' after repeated 'Access Requests'",
+    "Familiarity-Bit Failure: The 'Recognition Signal' returns 'False' for a 'Known Record'",
+    "The 'Alienation' Filter: A sense of 'Uncanny Newness' applied to 'Legacy Data'",
+    "System Stutter: A temporary 'Processing Delay' as the brain tries to 'Re-Index' the familiar object",
+    "High-Confidence Confusion: The user 'Knows' they should 'Recognize' the object but the 'System' refuses to 'Tag' it"
+  ],
+  "causes": [
+    "Perirhinal Cortex Fatigue: The 'Recognition Engine' enters a 'Cooldown State' from 'Over-Querying'",
+    "Temporal Gating Glitch: The 'Signal' to the 'Familiarity Hub' is 'Dropped' or 'Lost' in the 'Neural Bus'",
+    "Inhibitory Signal Spike: The 'Logic Layer' accidentally 'Mutes' the 'Familiarity Response'",
+    "Contextual Cache Expiry: The 'Environment Metadata' is temporarily purged, making the 'Record' look 'Isolated'"
+  ],
+  "risk_factors": [
+    "Temporal Lobe Epilepsy (Electrical 'Line Noise' during 'Fetch')",
+    "Migraine 'Aura' (Systemic 'Driver Interference')",
+    "Severe 'Cognitive Fatigue' (Cache 'Fragmentation')"
+  ],
+  "diagnosis": [
+    "Word-Repetition Test: Forcing 'Semantic Satiation' by repeating a word until the 'Meaning-Link' breaks",
+    "Familiarity Rating Audit: Measuring the 'Gap' between 'Objective Knowledge' and 'Subjective Feeling'",
+    "EEG: Identifying 'Spike-Wave' discharges in the 'Temporal Lobe' during the 'Alienation' event"
+  ],
+  "remedies": [
+    "Session Refresh: Looking away or 'Changing the Context' to force a 'Full Re-Load' of the 'Node'",
+    "Metadata Association: Manually 'Linking' the object to 'Associated Records' (e.g., 'This is a table because it has legs and I ate here yesterday')",
+    "Sleep/Rest Cycle: Clearing the 'Neural Buffer' to restore 'Recognition-Bit Sensitivity'"
+  ],
+  "prevention": [
+    "Avoiding 'Infinite Loops' of 'Repetitive Input' to prevent 'Semantic Satiation'"
+  ]
+}
+
 "alien_hand_orphaned_thread": {
   "description": "A condition in which a person's limb behaves externally to their control, as if it has a mind of its own.",
   "symptoms": [
