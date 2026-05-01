@@ -116,6 +116,35 @@ medical_db = {
     "Implementing 'Double-Check Protocols' for 'High-Impact Data' before 'Committing' to 'Long-Term Storage'"
   ]
 }
+"tinnitus_audio_feedback_loop": {
+  "description": "The perception of noise or ringing in the ears when no external sound is present, often caused by the brain's attempt to compensate for sensory loss.",
+  "symptoms": [
+    "Phantom Audio Rendering: Perceiving 'Ringing', 'Buzzing', or 'Hissing' from a 'Null-Input' source",
+    "Pulsatile Synchronization: Audio 'Packets' that 'Pulse' in time with the 'System Pump' (Heartbeat)",
+    "Frequency Lock: The 'Ghost Sound' is usually hard-coded to a specific 'Frequency Band' (Hz)",
+    "Attention-Gating Failure: Inability of the 'Executive Layer' to 'Mute' or 'Filter' the 'Background Hum'",
+    "Hyperacusis: 'Real Audio Data' is perceived as 'Overloaded/Distorted' due to the 'High-Gain' setting"
+  ],
+  "causes": [
+    "Hardware Degradation: Damage to 'Stereocilia' (Cochlear sensors) creating 'Dead Zones' in the 'Frequency Map'",
+    "Gain Control Malfunction: The 'Auditory Cortex' increases 'Sensitivity' to compensate for 'Low Hardware Input'",
+    "Neural Crosstalk: 'Somatosensory' signals (e.g., jaw/neck movement) 'Bleeding' into the 'Auditory Bus'",
+    "Thalamic Gating Fault: The 'Gatekeeper' fails to 'Drop' the 'Empty Audio Packets' before they reach 'Consciousness'"
+  ],
+  "risk_factors": [
+    "Exposure to 'High-Decibel' acoustic 'Spikes' (Hardware Trauma)",
+    "Aging-related 'Sensor Wear'",
+    "High-Stress 'System Loads' that lower 'Gating Efficiency'"
+  ],
+  "diagnosis": [
+    "Pitch Matching: Finding the 'Digital Equivalent' of the 'User's Internal Frequency'",
+    "Audiometric Sweep: Identifying the 'Dead Zones' where the 'Hardware Input' is missing",
+    "Tinnitus Handicap Inventory (THI): Measuring the 'Cognitive Overhead' caused by the 'Constant Loop'"
+  ],
+  "remedies": [
+    "Sound Masking: Injecting 'White Noise' to 'Drown Out' the 'Internal Feedback'",
+    "Tinnitus Retraining Therapy (TRT): 'Re-programming
+
 "anosognosia_fault_silent_kernel": {
   "description": "A condition in which a person who suffers certain disabilities seems unaware of the existence of their disability.",
   "symptoms": [
