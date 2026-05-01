@@ -116,6 +116,40 @@ medical_db = {
     "Implementing 'Double-Check Protocols' for 'High-Impact Data' before 'Committing' to 'Long-Term Storage'"
   ]
 }
+"anosognosia_fault_silent_kernel": {
+  "description": "A condition in which a person who suffers certain disabilities seems unaware of the existence of their disability.",
+  "symptoms": [
+    "Deficit Negation: The 'User' denies the existence of a 'Critical Hardware Fault' (e.g., blindness or paralysis)",
+    "Confabulated Status Reports: The 'Log Generator' invents 'False Data' to explain why the hardware isn't responding (e.g., 'I'm just tired')",
+    "Feedback Rejection: The 'System' ignores 'External Debugging' (doctors/family) that contradicts the 'Internal Status Bit'",
+    "Safety Protocol Bypass: Attempting 'High-Load Tasks' (walking) with 'Failed Hardware', leading to 'System Crashes' (falls)",
+    "Affective Indifference: A lack of 'System Urgency' regarding the 'Hardware Failure'"
+  ],
+  "causes": [
+    "Right Hemisphere Integrity Failure: Damage to the 'Monitoring Hub' in the 'Parietal/Frontal' cortex",
+    "Meta-Cognitive Disconnect: The 'Secondary Thread' that evaluates 'Primary Performance' is offline",
+    "Self-Schema Persistence: The 'Global Identity Variable' refuses to update to the 'Degraded State'",
+    "Signal Attenuation: The 'Error Signal' is too weak to trigger 'Executive Awareness'"
+  ],
+  "risk_factors": [
+    "Right-Hemisphere 'Stroke' (Network Partition)",
+    "Advanced 'System Erosion' (Alzheimer's/Dementia)",
+    "Traumatic 'Hardware Impact' to the 'Prefrontal Monitoring Bus'"
+  ],
+  "diagnosis": [
+    "The 'Confrontation Audit': Asking the 'User' to perform a 'Task' with the failed hardware and observing the 'Response Logic'",
+    "The 'Vestibular Stimulation' Hack: Using 'Cold Water' in the ear to temporarily 'Re-Sync' the 'Monitoring Hub'",
+    "Neuroimaging: Locating 'Hardware Lesions' in the 'Right Parietal Lobe'"
+  ],
+  "remedies": [
+    "External Mirroring: Using 'Visual Feeds' (Video) to bypass the 'Internal Monitor' and show the 'Failure' directly",
+    "Systemic Patience: Allowing 'Neural Rewiring' to create 'Alternative Diagnostic Paths'",
+    "Safety Guards: Implementing 'Strict Permissions' to prevent the 'User' from 'Damaging the Hardware' further"
+  ],
+  "prevention": [
+    "N/A: Usually a 'Post-Critical-Event' failure of the 'Root Monitor'"
+  ]
+}
 
 "anton_babinski_driver_lock": {
   "description": "A rare symptom of brain damage occurring in the occipital lobe where those who are image-blind deny that they are blind.",
