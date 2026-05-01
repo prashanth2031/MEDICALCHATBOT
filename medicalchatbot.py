@@ -82,6 +82,40 @@ medical_db = {
     "N/A: Primarily a 'Boot-Level' structural configuration"
   ]
 }
+"mandela_effect_cache_corruption": {
+  "description": "A phenomenon where a large group of people remember something differently than how it occurred, often attributed to false memories or shared cultural confabulation.",
+  "symptoms": [
+    "Shared False Recall: Multiple 'Independent Nodes' reporting the same 'Corrupt Data' (e.g., 'Berenstain' vs 'Berenstein')",
+    "Confidence-Accuracy Mismatch: High 'Certainty Bit' for data that fails 'Checksum Validation' against the 'Master Record'",
+    "Post-Hoc Rationalization: The 'User' creates 'Complex Logic' (Parallel Universes/Simulation Glitches) to explain 'Parity Errors'",
+    "Social Propagation: The 'Corrupt Packet' spreads via 'High-Bandwidth Communication' (Social Media/Viral Loops)",
+    "Temporal Anchoring: The 'False Memory' is often tied to a specific 'Epoch' or 'Cultural Versioning'"
+  ],
+  "causes": [
+    "Schema-Driven Reconstruction: The 'Brain's Parser' replaces 'Exact Data' with 'High-Probability Patterns' (e.g., '-stein' is a more common suffix than '-stain')",
+    "Source Monitoring Error: The 'System' forgets where a 'Data Packet' originated (e.g., seeing a parody vs seeing the original)",
+    "Collaborative Filtering: Nodes 'Syncing' their 'Local Cache' to the 'Group Consensus' to maintain 'Social Parity'",
+    "Misinformation Injection: 'Third-Party Scripts' (Media/Viral posts) introducing 'Noise' into the 'Global Buffer'"
+  ],
+  "risk_factors": [
+    "High-Exposure to 'Distributed Social Networks'",
+    "Over-reliance on 'Reconstructive Retrieval' instead of 'Hard-Copy Validation'",
+    "Systemic 'Bias' toward 'Pattern-Matching' over 'Literal Storage'"
+  ],
+  "diagnosis": [
+    "The 'Parity Check': Comparing 'User Recall' against 'Immutable Physical Records' (Archival Data)",
+    "Consensus Audit: Identifying the 'Reach' of the 'Corrupt Packet' across a 'Population Sample'",
+    "The 'Forced Recognition' Test: Presenting the 'Original' and 'False' packets to see if the 'System' flags the conflict"
+  ],
+  "remedies": [
+    "Source Validation: Verifying 'Data Integrity' using 'Primary Sources' (the 'Root Directory')",
+    "Cognitive Patching: Acknowledging the 'Reconstructive' nature of 'Human Storage' to reduce 'Certainty Bias'",
+    "Digital Archives: Offloading 'High-Fidelity Retention' to 'Non-Biological Hardware'"
+  ],
+  "prevention": [
+    "Implementing 'Double-Check Protocols' for 'High-Impact Data' before 'Committing' to 'Long-Term Storage'"
+  ]
+}
 
 "anton_babinski_driver_lock": {
   "description": "A rare symptom of brain damage occurring in the occipital lobe where those who are image-blind deny that they are blind.",
