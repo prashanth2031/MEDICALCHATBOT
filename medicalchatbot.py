@@ -220,6 +220,41 @@ medical_db = {
     "Maintaining 'Vascular Health' to protect the 'Inter-Processor Bus'"
   ]
 }
+"palinopsia_buffer_persistence": {
+  "description": "A visual disturbance in which images persist or recur after the stimulus has been removed, often appearing as trailing or 'echoes' of moving objects.",
+  "symptoms": [
+    "Visual Trailing: Moving 'Objects' leave a 'Motion Blur' path of 'Ghost Frames' behind them",
+    "Light-Streak Persistence: High-intensity 'Light Packets' remain burned into the 'Active Viewport' for minutes",
+    "Delayed Echo: An 'Object Record' (e.g., a person's face) re-appears in the 'Frame' minutes after the 'Source' has left",
+    "Motion Smear: A failure of 'Frame-to-Frame' separation, making 'Real-Time Data' look like a 'Long Exposure' photograph",
+    "Input Saturation: The 'User' becomes 'Overwhelmed' as 'Old Data' obscures 'New Data'"
+  ],
+  "causes": [
+    "V5/MT Area Over-Excitation: The 'Motion Processing Hub' fails to 'Reset' after a 'Signal Spike'",
+    "Inhibitory Gating Failure: Loss of 'GABAergic' suppression that normally 'Mutes' the previous frame",
+    "Neural Excitability: 'High Voltage' in the 'Occipital-Temporal' bus preventing 'Signal Decay'",
+    "Pharmacological Interference: 'External Scripts' (Tricyclic antidepressants, Topiramate) altering 'Buffer Logic'"
+  ],
+  "risk_factors": [
+    "Migraine 'Aura' (System-wide 'Signal Persistence')",
+    "Traumatic Brain Injury (TBI) to the 'Visual Processing Hardware'",
+    "Post-Hallucinogen Perception Disorder (HPPD) - 'Kernel-Level' driver corruption"
+  ],
+  "diagnosis": [
+    "The 'Flicker Fusion' Test: Measuring the 'Frequency' at which 'Separate Frames' merge into 'Continuous Signal'",
+    "Visual Field Audit: Identifying if 'Echoes' are 'Localized' to specific 'Viewport Sectors'",
+    "MRI/fMRI: Checking for 'Hyper-Metabolism' in the 'Visual Buffer' regions"
+  ],
+  "remedies": [
+    "Voltage Regulation: Using 'Calcium-Channel Blockers' to 'Dampen' the 'Neural Signal'",
+    "Luminance Filtering: Reducing 'Input Intensity' with 'Darkened Lenses' to lower 'Buffer Load'",
+    "Software Training: Teaching the 'Executive Layer' to 'Ignore' the 'Ghost Data'"
+  ],
+  "prevention": [
+    "Managing 'Optical Exposure' and 'Neural Stress' to maintain 'Buffer Integrity'"
+  ]
+}
+
 "cotard_existence_status_fault": {
   "description": "A rare neuropsychiatric delusion in which the patient holds the delusional belief that they are already dead, do not exist, are putrefying, or have lost their blood or internal organs.",
   "symptoms": [
