@@ -151,6 +151,40 @@ medical_db = {
     "Limiting 'Parallel Threading' (Single-tasking) to prevent 'State-Management' overload"
   ]
 }
+"ehs_shutdown_interrupt_spike": {
+  "description": "A sensory parasomnia where the user perceives a loud, sudden noise or explosion inside the head during sleep-wake transitions.",
+  "symptoms": [
+    "Acoustic Spike: Perceiving a 'High-Decibel Packet' (100dB+) during 'Power State' transitions",
+    "Phosphene Flash: A simultaneous 'Visual Buffer Spike' (seeing a flash of light)",
+    "Adrenaline Influx: Immediate 'System-Wide Wake' signal and heart-rate 'Clock Spike'",
+    "Zero-External Source: The 'Audio Sensors' (Cochlea) report 'Silence', but the 'Internal Bus' reports an 'Explosion'",
+    "Fear-Flag Trigger: High-priority 'Anxiety Metadata' attached to the 'False Packet'"
+  ],
+  "causes": [
+    "RAS Transition Failure: The 'Power Manager' fails to 'Mute' the 'Audio Bus' before the 'Sleep Daemon' takes over",
+    "Calcium-Channel Voltage Spikes: Sudden 'Ion Flux' in the 'Auditory Cortex' neurons",
+    "Thalamic Gating Glitch: The 'Security Filter' for 'Sensory Data' momentarily 'Crashes'",
+    "GABAergic Deficiency: Insufficient 'Inhibitory Signals' to 'Dampen' the 'Shutdown Noise'"
+  ],
+  "risk_factors": [
+    "High 'System Stress' levels (Buffer Overload)",
+    "Sleep Deprivation (Systemic 'Driver' instability)",
+    "Side-effects from 'Antidepressant' patches"
+  ],
+  "diagnosis": [
+    "Polysomnography: Observing 'Alpha-to-Theta' transitions during the 'Spike' event",
+    "Patient Log Audit: Identifying if the 'Bang' occurs specifically at 'State Change' boundaries",
+    "Exclusion of 'Hardware Faults': Ensuring the 'Cochlea' and 'Eardrum' are intact"
+  ],
+  "remedies": [
+    "Buffer Management: Stress reduction to lower 'System Voltage'",
+    "Pharmacological Dampening: Using 'Clomipramine' or 'Calcium Channel Blockers' to 'Smooth' the 'Voltage Spike'",
+    "Education Patch: Informing the 'User' that the 'Packet' is 'Non-Destructive' to reduce 'Fear-Loops'"
+  ],
+  "prevention": [
+    "Optimizing 'Shutdown Routines' (consistent sleep schedule) to stabilize the 'RAS'"
+  ]
+}
 
 "mandela_effect_cache_corruption": {
   "description": "A phenomenon where a large group of people remember something differently than how it occurred, often attributed to false memories or shared cultural confabulation.",
