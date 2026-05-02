@@ -48,6 +48,41 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"aiws_temporal_clock_desync": {
+  "description": "A neurological condition affecting perception, specifically causing distortions in the sense of time, scale, and distance.",
+  "symptoms": [
+    "Tachysensia: The 'System Clock' accelerates; 'Environmental Processes' (speech, movement) feel hyper-fast",
+    "Protraction: The 'Time-Buffer' expands; 'Real-Time Data' feels 'Slowed Down'",
+    "Zoopsia: Seeing 'Illuscory Movement' or 'Scaling Errors' in 'Static Hardware'",
+    "Sound Distortion: 'Audio Packets' feel 'Aggressive' or 'Hyper-Accelerated' in rhythm",
+    "Dissociative Lag: The 'User' feels 'De-synced' from the 'Physical Environment's Frame Rate'"
+  ],
+  "causes": [
+    "Temporal-Parietal Junction (TPJ) Fatigue: The 'Integration Node' for 'Space-Time' enters a 'High-Error State'",
+    "Migraine 'Kernel' Spikes: Electrical 'Storms' in the 'Visual/Temporal' bus causing 'Clock Jitter'",
+    "EBV/Viral Interference: 'Infection-class Malware' affecting 'Neural Conductivity'",
+    "Parietal Lobe Hypoperfusion: A 'Voltage Drop' in the 'Spatial Mapping' sector"
+  ],
+  "risk_factors": [
+    "Pediatric 'System Initialization' (Common in children)",
+    "Migraine-class 'Driver' instability",
+    "High-Stress 'Clock Overclocking' (Anxiety/Panic)"
+  ],
+  "diagnosis": [
+    "Temporal Estimation Test: Asking the 'User' to 'Stop a Timer' at what they perceive as 60 seconds",
+    "Visual Field Mapping: Identifying 'Scaling Anomalies' in the 'Viewport'",
+    "EEG Monitoring: Detecting 'Abnormal Alpha/Beta Waves' during a 'Time-Warp' event"
+  ],
+  "remedies": [
+    "System Grounding: Using 'Tactile Input' (touching a heavy object) to 'Re-Anchor' the 'Clock'",
+    "Dark-Mode Reset: Reducing 'Optical Input' to allow the 'Temporal Hub' to 'Cool Down'",
+    "Migraine Prophylaxis: Patching the 'Underlying Driver' to prevent 'Clock Jitter'"
+  ],
+  "prevention": [
+    "Maintaining 'Sleep Hygiene' to prevent 'System Fatigue' and 'Clock Drift'"
+  ]
+}
+
 "hyperthymesia_storage_leak": {
   "description": "A condition where an individual possesses an extraordinary capacity to recall specific events from their past, including dates and minute details, without the use of mnemonic devices.",
   "symptoms": [
