@@ -117,6 +117,41 @@ medical_db = {
     "N/A: Primarily a 'Boot-Level' structural configuration"
   ]
 }
+"fas_motor_thread_reroute": {
+  "description": "A speech disorder that causes a sudden change in speech patterns so that a person is perceived to speak with a 'foreign' accent.",
+  "symptoms": [
+    "Prosody Drift: Altered 'Timing' and 'Rhythm' of the 'Audio Stream'",
+    "Vowel Distortion: Lengthening or 'Shifting' of 'Vowel Packets' (e.g., 'bit' sounds like 'beet')",
+    "Syntactic Stutter: Occasional 'Parser Errors' in 'Word Order' or 'Grammar'",
+    "Phonetic Replacement: Using 'Incompatible Phonemes' (e.g., adding an 'h' where none exists)",
+    "Identity-Parity Conflict: The 'User' sounds 'Alien' to their 'Social Network', causing 'Authentication Failures'"
+  ],
+  "causes": [
+    "Broca’s Area Corruption: Damage to the 'Primary Speech-Output Buffer'",
+    "Basal Ganglia Latency: 'Timing Errors' in the 'Motor Control Bus'",
+    "Left Hemisphere 'Segmental' Failure: Loss of 'Granular Control' over 'Speech Hardware' (tongue/lips)",
+    "Compensatory Re-routing: The 'System' using 'Sub-optimal Paths' to maintain 'Communication Availability'"
+  ],
+  "risk_factors": [
+    "Ischemic Stroke (Localized 'Network Outage')",
+    "Traumatic Brain Injury (TBI) to the 'Speech-Hardware Interface'",
+    "Multiple Sclerosis (Systemic 'Demyelination' causing 'Signal Lag')"
+  ],
+  "diagnosis": [
+    "Spectrographic Analysis: Measuring the 'Frequency' and 'Duration' of 'Vowel Clusters'",
+    "Neuroimaging (fMRI): Mapping 'Active Speech Threads' during 'Real-Time Output'",
+    "Linguistic Audit: Determining if the 'Accent' is 'Authentic' or a 'Phonetic Approximation'"
+  ],
+  "remedies": [
+    "Speech Driver Recalibration: Intensive 'Speech Therapy' to 'Manual-Override' the new 'Motor Map'",
+    "Cognitive Patching: Helping the 'User' manage the 'Psychological Load' of the 'Identity Shift'",
+    "Accent Imitation: Using the 'New Accent' as a 'Base Layer' to build a 'Hybrid Speech Profile'"
+  ],
+  "prevention": [
+    "N/A: Primarily a 'Post-Trauma' recovery 'Side-Effect'"
+  ]
+}
+
 "zeigarnik_uncommitted_transaction_error": {
   "description": "The psychological phenomenon where people remember uncompleted or interrupted tasks better than completed ones.",
   "symptoms": [
