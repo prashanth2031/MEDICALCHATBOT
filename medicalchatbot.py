@@ -151,6 +151,40 @@ medical_db = {
     "N/A: Primarily a 'Post-Trauma' recovery 'Side-Effect'"
   ]
 }
+"ahs_autonomous_peripheral_ghost": {
+  "description": "A neurological disorder where one hand functions involuntarily, with the sufferer feeling as if the hand has its own personality or is being controlled by an external entity.",
+  "symptoms": [
+    "Autonomous Task Execution: The 'Peripheral' performs complex 'Functions' (buttoning/unbuttoning) without 'User Init'",
+    "Intermanual Conflict: The 'Left Hand' (Ghost Process) undoes the 'Work' of the 'Right Hand' (Main Thread)",
+    "Sensory-Motor Disconnect: The 'User' recognizes the 'Hardware' as theirs but denies 'Process Ownership'",
+    "Reflexive Grasping: The 'Hand' becomes 'Hard-Coded' to grab any 'Object' in the 'Input Field'",
+    "Execution Negation: The 'Ghost Hand' may actively 'Block' the 'User' from performing 'Main Thread' tasks"
+  ],
+  "causes": [
+    "Callosal Disconnect: A 'Network Partition' where the 'Left and Right Kernels' cannot sync 'State'",
+    "Frontal SMA Damage: Failure of the 'Inhibitory Gating' that usually stops 'Spontaneous Motor Output'",
+    "Posterior Parietal Lesions: Corruption of the 'Proprioceptive Map' causing 'Identity Loss' for that 'Port'",
+    "Stroke or Surgical Sequestration: Physical 'Hardware' damage to the 'Central Data Bus'"
+  ],
+  "risk_factors": [
+    "Corpus Callosotomy (Intentional 'Network Split' for epilepsy)",
+    "Anterior Cerebral Artery Stroke (Localized 'Power Loss' to motor hubs)",
+    "Neurodegenerative 'System Erosion' (Corticobasal Degeneration)"
+  ],
+  "diagnosis": [
+    "The 'Object Interaction' Test: Placing an object in front of the 'User' and observing 'Unsolicited Commands'",
+    "Intermanual Coordination Audit: Testing if the 'User' can force 'Both Hands' to 'Sync' on a single 'Instruction'",
+    "MRI/DTI: Mapping the 'Fiber Integrity' of the 'Corpus Callosum' bus"
+  ],
+  "remedies": [
+    "Peripheral Isolation: Giving the 'Alien Hand' an 'Idle Task' (e.g., holding a ball) to saturate its 'Buffer'",
+    "Visual-Motor Feedback: Using 'Direct Viewport' monitoring to manually 'Override' the 'Ghost Process'",
+    "Hardware Constraint: Physically 'Disabling' the 'Port' (using an oven mitt) to prevent 'Unchecked Writes'"
+  ],
+  "prevention": [
+    "Minimizing 'Surgical Partitioning' of the 'Central Bus' whenever possible"
+  ]
+}
 
 "zeigarnik_uncommitted_transaction_error": {
   "description": "The psychological phenomenon where people remember uncompleted or interrupted tasks better than completed ones.",
