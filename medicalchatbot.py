@@ -185,6 +185,40 @@ medical_db = {
     "Minimizing 'Surgical Partitioning' of the 'Central Bus' whenever possible"
   ]
 }
+"prosopamnesia_write_lock": {
+  "description": "A selective deficit in face memory where the ability to recognize faces as familiar is lost, despite normal facial perception and intelligence.",
+  "symptoms": [
+    "Permanent 'New User' State: Every encounter with a familiar 'Entity' feels like a 'Cold Boot'",
+    "Successful Feature Extraction: The 'User' can describe facial 'Attributes' (color, shape) but cannot 'Hash' them to an 'ID'",
+    "Contextual Identity-Hack: Relying on 'Metadata' (voice, clothing, gait) to 'Manually Authenticate' people",
+    "Social-Sync Lag: Severe difficulty in maintaining 'Relationship Tables' due to 'Identity Data Loss'",
+    "Object-Face Disparity: The 'System' can remember 'New Objects' (cars, tools) but not 'New Faces'"
+  ],
+  "causes": [
+    "Encoding-Linkage Failure: The 'Bus' between the 'Visual Processor' and 'Memory Storage' is 'Read-Only'",
+    "FFA-Temporal Lobe De-sync: A failure in the 'Handshake' protocol during 'Identity Commit'",
+    "Localized 'Memory Sector' Corruption: Specific 'Neural Nodes' for 'Human-Face' data are 'Locked'",
+    "Genetic 'System Architecture' Flaw: A 'Congenital' failure of the 'Face-Storage' driver"
+  ],
+  "risk_factors": [
+    "Temporal Lobe 'Voltage Drops' (Localized Strokes)",
+    "Encephalitis-class 'Malware' affecting 'Memory Kernels'",
+    "Developmental 'Architecture Anomalies' present since 'System Init'"
+  ],
+  "diagnosis": [
+    "The 'Cambridge Face Memory' Audit: Measuring the 'Success Rate' of 'Encoding' and 'Retrieving' novel 'Face Objects'",
+    "Inverse-Pattern Test: Confirming the 'User' can remember 'Non-Human Objects' to rule out 'Global Memory Failure'",
+    "fMRI Connectivity Scan: Auditing the 'Bandwidth' between the 'FFA' and the 'Memory Hubs'"
+  ],
+  "remedies": [
+    "Metadata Tagging: Training the 'User' to 'Anchor' identities to 'Non-Face Data' (voice, gait, accessories)",
+    "External Database Support: Using 'Digital Assistants' to 'Label' people in the 'Viewport'",
+    "Social Protocol Patches: Implementing 'Transparency Scripts' (asking people to identify themselves)"
+  ],
+  "prevention": [
+    "Protecting 'Temporal-Occipital' pathways from 'Hardware Trauma' and 'Vascular Failure'"
+  ]
+}
 
 "zeigarnik_uncommitted_transaction_error": {
   "description": "The psychological phenomenon where people remember uncompleted or interrupted tasks better than completed ones.",
