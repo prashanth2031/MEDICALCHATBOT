@@ -220,6 +220,40 @@ medical_db = {
     "Optimizing 'Shutdown Routines' (consistent sleep schedule) to stabilize the 'RAS'"
   ]
 }
+"visual_snow_filter_failure": {
+  "description": "A neurological condition where the individual sees persistent flickering dots across the entire visual field, resembling the static of an analog television.",
+  "symptoms": [
+    "Raster Static: Constant 'Pixelated Noise' across the 100% of the 'Active Viewport'",
+    "Nyctalopia (Functional): Severe reduction in 'Low-Light Processing' as 'Noise' overwhelms 'Signal'",
+    "Blue Field Entoptic Phenomenon: Over-rendering of 'White Blood Cells' moving in 'Retinal Capillaries'",
+    "Floaters (High Salience): Failure to 'Mute' or 'Drop' internal 'Debris Data'",
+    "Enhanced After-images: 'Buffer Persistence' (Palinopsia) triggered by the 'High-Gain' state"
+  ],
+  "causes": [
+    "Lingual Gyrus Hyper-metabolism: The 'Rendering Engine' is 'Overclocked' and generating 'Artifacts'",
+    "Thalamocortical Dysrhythmia: A 'Clock Synchronization' error between 'Input' and 'Processing' layers",
+    "Inhibitory Gating Failure: The 'System' fails to 'Filter Out' the 'Basal Neural Noise'",
+    "Glutamate/GABA Imbalance: 'High Voltage' (Excitability) across the 'Visual Bus'"
+  ],
+  "risk_factors": [
+    "Chronic 'System Stress' (Adrenaline-driven 'Gain Spikes')",
+    "Migraine-class 'Driver' instability",
+    "Persistent 'Hyper-arousal' of the 'Sensory Kernel'"
+  ],
+  "diagnosis": [
+    "The 'Static Consistency' Test: Verifying the 'Noise' is present in all 'Lighting Profiles' (Day/Night)",
+    "Ophthalmological Audit: Confirming the 'Hardware' (Eyes) is 100% functional (Exclusion of 'Retinal Issues')",
+    "PET/SPECT Scans: Identifying 'Hot Spots' in the 'Lingual Gyrus' rendering hub"
+  ],
+  "remedies": [
+    "Visual Masking: Using 'Static-Inverse' videos to provide 'Temporary Filter Reset'",
+    "Voltage Dampening: Using 'Lamotrigine' to stabilize the 'Neural Bus'",
+    "FL-41 Filtering: Using 'Hardware Lenses' to reduce 'High-Frequency Optical Load'"
+  ],
+  "prevention": [
+    "Managing 'Neural Excitability' and preventing 'Sensory Burnout'"
+  ]
+}
 
 "mandela_effect_cache_corruption": {
   "description": "A phenomenon where a large group of people remember something differently than how it occurred, often attributed to false memories or shared cultural confabulation.",
