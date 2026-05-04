@@ -117,6 +117,41 @@ medical_db = {
     "N/A: Primarily a 'Boot-Level' structural configuration"
   ]
 }
+"cotard_global_kernel_panic": {
+  "description": "A rare neuropsychiatric delusion in which the person holds the delusional belief that they are already dead, do not exist, are putrefying, or have lost their blood or internal organs.",
+  "symptoms": [
+    "Entity De-registration: The 'Primary Key' for the 'Self' is deleted from the 'Active Registry'",
+    "Nihilistic Delusions: Belief that the 'Physical Hardware' is 'Non-Functional' or 'Deceased'",
+    "Affective Null-State: Total loss of 'Emotional Bandwidth' (Atheymia)",
+    "Sensory-Identity Mismatch: The 'User' sees their body in the 'Viewport' but 'Authenticates' it as 'Dead Matter'",
+    "Pain Threshold Overflow: High tolerance for 'Hardware Alarms' (pain) because the 'System' thinks it's already 'Offline'"
+  ],
+  "causes": [
+    "Insula-Prefrontal Partition: Total 'Disconnect' between 'Interoceptive Input' and 'Cognitive Awareness'",
+    "Right Hemisphere Logic Collapse: Failure of the 'Skepticism Engine' to 'Reject' impossible 'Status Reports'",
+    "Dopaminergic Shutdown: Massive 'Voltage Drop' in 'Reward and Salience' circuits",
+    "Amygdala Atrophy/Disconnection: 'Visual Data' no longer triggers any 'Emotional Metadata'"
+  ],
+  "risk_factors": [
+    "Severe 'Systemic Depression' (Total Resource Depletion)",
+    "Advanced 'Neural Erosion' (Dementia/Atrophy)",
+    "Traumatic 'Network Impact' to the 'Right Parietal/Temporal' lobes"
+  ],
+  "diagnosis": [
+    "The 'Existence Verification' Audit: Attempting to 'Ping' the 'User' with logical proofs of life",
+    "fMRI/PET Scan: Detecting 'Metabolic Shutdown' in the 'Default Mode Network'",
+    "Capgras-Cross-Correlation: Identifying if the 'User' also 'De-authenticates' 'External Objects'"
+  ],
+  "remedies": [
+    "Electroconvulsive Therapy (ECT): A 'System Hard-Reset' to restore 'Neural Voltage' and 'Connectivity'",
+    "Pharmacological Reprogramming: Using 'Antipsychotics' and 'Antidepressants' to 'Re-prime' the 'Inhibition Gates'",
+    "Reality-Validation Patches: Intense 'Cognitive Behavioral' therapy to 'Re-map' the 'Existence Variable'"
+  ],
+  "prevention": [
+    "N/A: Usually a 'Critical-State' failure of the 'Self-Monitoring Kernel'"
+  ]
+}
+
 "fas_motor_thread_reroute": {
   "description": "A speech disorder that causes a sudden change in speech patterns so that a person is perceived to speak with a 'foreign' accent.",
   "symptoms": [
