@@ -117,6 +117,35 @@ medical_db = {
     "N/A: Primarily a 'Boot-Level' structural configuration"
   ]
 }
+"misophonia_priority_inversion": {
+  "description": "A condition where specific soft sounds trigger an immediate, intense emotional or physiological response that is completely disproportionate to the stimulus.",
+  "symptoms": [
+    "Pattern-Triggered Spikes: 'Specific Waveforms' (e.g., mouth sounds) trigger 'Max Voltage' emotional responses",
+    "Instant Sympathetic Arousal: Immediate 'Adrenaline Dump' and heart-rate 'Clock Jump'",
+    "Anticipatory Latency: The 'System' enters a 'High-Alert State' just 'Expecting' the 'Interrupt'",
+    "Aggressive Logic Overflow: The 'Executive Layer' is 'High-jacked' by anger or the urge to 'Kill the Process' (the source of the sound)",
+    "Localization Bias: The 'Glitch' often worsens with 'Known User Entities' (friends/family)"
+  ],
+  "causes": [
+    "Anterior Insular Cortex (AIC) Hyper-connectivity: The 'Salience Network' is 'Over-sampling' specific frequencies",
+    "Amygdala Hyper-reflectivity: A 'Direct Bus' between the 'Auditory Input' and the 'Fear/Anger Hub'",
+    "Myelination Anomalies: 'Increased Signal Speed' in the 'Medial Frontal Cortex' leading to 'Signal Bleed' into 'Emotional Circuits'",
+    "Inhibitory Gating Failure: The 'Thalamus' fails to 'Drop' the 'Repetitive Packets'"
+  ],
+  "risk_factors": [
+    "Comorbidity with 'OCD' or 'Anxiety' kernels",
+    "High 'Systemic Stress' reducing 'Gating Efficiency'",
+    "Early 'Initial Setup' (Symptoms usually appear during 'Adolescent Re-boot')"
+  ],
+  "diagnosis": [
+    "The 'Trigger Audio' Audit: Measuring 'Skin Conductance' while playing 'Pattern-Specific' sound packets",
+    "Salience Mapping: Identifying if the 'User' can 'Mute' the emotional response through 'Contextual Re-framing'",
+    "fMRI Connectivity Check: Identifying 'Abnormal Firing' in the 'Insula' during 'Trigger Exposure'"
+  ],
+  "remedies": [
+    "Audio Masking: Using 'White/Brown Noise' to 'Drown Out' the 'Trigger Packet' in 'Signal Noise'",
+    "Cognitive Counter-Conditioning: Attempting to 'Re-map' the 'Trigger' to a 'Neutral Identity
+
 "cotard_global_kernel_panic": {
   "description": "A rare neuropsychiatric delusion in which the person holds the delusional belief that they are already dead, do not exist, are putrefying, or have lost their blood or internal organs.",
   "symptoms": [
