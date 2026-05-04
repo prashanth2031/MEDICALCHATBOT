@@ -220,6 +220,41 @@ medical_db = {
     "Minimizing 'Surgical Partitioning' of the 'Central Bus' whenever possible"
   ]
 }
+"synesthesia_ipc_data_leak": {
+  "description": "A neurological condition in which information meant to stimulate one of the senses stimulates several of them, leading to a joined-up sensory experience.",
+  "symptoms": [
+    "Chromesthesia: 'Audio Packets' are simultaneously rendered as 'Visual Colors'",
+    "Grapheme-Color Mapping: Alphanumeric 'Strings' are hard-coded to specific 'Hex Codes'",
+    "Lexical-Gustatory Leak: 'Text Data' triggers 'Flavor-Profile' interrupts",
+    "Spatial-Sequence Mapping: 'Temporal Data' (months/years) is rendered as a '3D Physical Map'",
+    "Hyper-Association: The 'User' cannot 'Un-link' the two 'Data Streams'"
+  ],
+  "causes": [
+    "Neural Pruning Failure: A 'Hardware Optimization' error where 'Excess Connections' were never 'Deleted'",
+    "Cross-Activation: Adjacent 'Sensory Nodes' (e.g., V4 and the Grapheme area) lack 'Signal Insulation'",
+    "Inhibitory Feedback Deficit: The 'System' fails to 'Gate' the 'Crosstalk' before it reaches 'Consciousness'",
+    "Limbic System Over-threading: Emotional 'Metadata' forcing 'Sensory Links' to stay 'Active'"
+  ],
+  "risk_factors": [
+    "Genetic 'System Architecture' heritage",
+    "Early-stage 'System Initialization' (Present since childhood)",
+    "Transient 'Overclocking' (Hallucinogen-induced 'Buffer Bleed')"
+  ],
+  "diagnosis": [
+    "Consistency Audit: Testing if 'Letter A' always triggers 'Hex #FF0000' over a 12-month period",
+    "Stroop-Effect Variance: Measuring 'Latency' when 'Text Color' conflicts with 'Synesthetic Color'",
+    "DTI Fiber-Tracking: Auditing the 'Physical Wiring' density between 'Sensory Hubs'"
+  ],
+  "remedies": [
+    "N/A: Usually treated as a 'Feature' rather than a 'Bug', unless 'Signal Noise' is too high",
+    "Selective Attention Filtering: Training the 'User' to 'Ignore' the 'Leaked Data Packets'",
+    "Sensory-Load Management: Reducing 'Input Volume' to prevent 'Cross-Modal Overload'"
+  ],
+  "prevention": [
+    "Standard 'Neural Pruning' during 'System Development' (Ages 0-5)"
+  ]
+}
+
 "prosopamnesia_write_lock": {
   "description": "A selective deficit in face memory where the ability to recognize faces as familiar is lost, despite normal facial perception and intelligence.",
   "symptoms": [
