@@ -48,6 +48,41 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"object_identity_pointer_leak": {
+  "description": "A form of synesthesia where inanimate objects are perceived as having distinct personalities, genders, and social roles.",
+  "symptoms": [
+    "Attribute Inheritance: Assigning 'Human Variables' (e.g., shy, arrogant) to 'Static Objects'",
+    "Empathy Loop-back: Feeling 'Emotional Distress' when 'Hardware' is discarded or 'Upgraded'",
+    "Gender Mapping: Hard-coding specific 'Objects' to binary or non-binary 'Identity Tags'",
+    "Social-Hierarchy Logic: Perceiving 'Relationships' between different 'Items' in a set",
+    "Moral Weighting: Feeling 'Guilt' for 'Using' one tool over another (e.g., choosing the 'newer' pen)"
+  ],
+  "causes": [
+    "Hyper-connectivity in the 'Social Bus': Excess bandwidth between the 'Visual Object Recognition' and 'Social Attribution' centers",
+    "Incomplete 'Class Separation': The 'Entity' and 'Object' classes in the 'Internal Schema' share too many 'Inherited Methods'",
+    "Mirror Neuron Over-sampling: The 'System' tries to 'Reflect' the 'State' of objects as if they were 'Peers'",
+    "Oxytocin-driven 'Metadata Tagging': Hormonal 'Writes' to 'Object Data' during 'High-Attachment' states"
+  ],
+  "risk_factors": [
+    "Hyper-active 'Social-Sim' drivers (High empathy)",
+    "Autism-spectrum 'Logic Divergence' (Non-standard 'Entity Gating')",
+    "Developmental 'Early-Access' (Common in children before 'Category-Pruning' is finalized)"
+  ],
+  "diagnosis": [
+    "The 'Inanimate Attribute' Test: Assessing if the 'User' can describe an 'Object's Mood' consistently",
+    "Empathy Response Audit: Monitoring 'Galvanic Skin Response' when an 'Object' is 'Damaged'",
+    "Object-Preference Logic: Checking if the 'User' treats 'Hardware' as a 'Stakeholder' in decisions"
+  ],
+  "remedies": [
+    "Functional Reframing: Re-training the 'Parser' to focus strictly on 'Utility Metadata'",
+    "Cognitive De-coupling: Manually 'Un-linking' the 'Identity Tag' from the 'Object ID'",
+    "System-Wide 'Pruning': Encouraging the 'Disposal' of 'Redundant Hardware' to 'Cool Down' the 'Empathy Buffer'"
+  ],
+  "prevention": [
+    "N/A: Primarily a 'High-Functioning' variance in 'Identity Mapping'"
+  ]
+}
+
 "aiws_temporal_clock_desync": {
   "description": "A neurological condition affecting perception, specifically causing distortions in the sense of time, scale, and distance.",
   "symptoms": [
