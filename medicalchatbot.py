@@ -82,6 +82,40 @@ medical_db = {
     "Disabling 'Vibration' for 'Low-Priority Threads' to reduce 'Systemic Noise'"
   ]
 }
+"semantic_satiation_cache_flush": {
+  "description": "A psychological phenomenon in which repetition causes a word or phrase to temporarily lose its meaning for the listener/reader, who then perceives the speech as meaningless sounds.",
+  "symptoms": [
+    "Pointer Dissociation: The 'Symbol' (signifier) detaches from the 'Object' (signified)",
+    "Orthographic Estrangement: Written 'Strings' look like 'Foreign Glyphs' or 'Abstract Shapes'",
+    "Phonetic Fragmentation: Spoken 'Audio' breaks down into 'Disjointed Phonemes'",
+    "Lexical Vacuum: The 'User' can pronounce the 'Word' but cannot 'Parse' its 'Definition'",
+    "Spontaneous Recovery: The 'Cache' automatically 'Re-populates' after a 'Cool-down' period"
+  ],
+  "causes": [
+    "Neural Adaptation: 'Peripheral Neurons' in the 'Language Hub' stop 'Firing' to conserve 'Energy'",
+    "Reactive Inhibition: A 'Circuit Breaker' triggered by 'Excessive Repetitive Input'",
+    "Associative Linkage Decay: The 'Synaptic Weight' of the 'Concept-Link' temporarily 'Zeros Out'",
+    "Wernicke’s Buffer Saturation: The 'Input Buffer' is 'Full', preventing 'Deep-Level Processing'"
+  ],
+  "risk_factors": [
+    "High-Frequency 'Input Loops' (e.g., repeating a word 30+ times)",
+    "Rapid 'Task-Switching' involving 'Static Strings'",
+    "Systemic 'Neural Fatigue' (Sleep deprivation/Overload)"
+  ],
+  "diagnosis": [
+    "The 'Symbolic Decay' Test: Measuring the 'Time-to-Loss-of-Meaning' during 'Loop Iterations'",
+    "Lexical Decision Audit: Testing 'Response Latency' for the 'Satiated Word' vs. 'Control Words'",
+    "fMRI 'Repetition Suppression' Analysis: Mapping the 'Decreased Activation' in the 'Left Temporal Lobe'"
+  ],
+  "remedies": [
+    "Contextual Re-insertion: Placing the 'Word' into a 'Complex Sentence' to 'Force a Re-fetch'",
+    "System Idle: Ceasing 'Input' for 30–60 seconds to allow 'Cache Refresh'",
+    "Modality Shift: Moving from 'Audio' to 'Visual' input to 'Bypass' the 'Fatigued Node'"
+  ],
+  "prevention": [
+    "Avoid 'Infinite Loops' in 'Verbal/Visual Processing'"
+  ]
+}
 
 "object_identity_pointer_leak": {
   "description": "A form of synesthesia where inanimate objects are perceived as having distinct personalities, genders, and social roles.",
