@@ -48,6 +48,41 @@ medical_db = {
     "Early treatment of symptoms"
   ]
 },
+"pvs_ghost_interrupt_fault": {
+  "description": "A tactile hallucination where the user perceives a mobile device vibrating against their skin when no such vibration has occurred.",
+  "symptoms": [
+    "False-Positive Interrupt: The 'Tactile Driver' reports a 'Vibration Event' (150-200Hz) with zero physical input",
+    "Phantom Reach: An automatic 'Hand-Motor Routine' to check the 'Peripheral Device'",
+    "Contextual Sensitivity: The 'Glitch' occurs most frequently when 'System Anxiety' or 'Message Latency' is high",
+    "Signal-to-Noise Failure: Misinterpreting 'Clothing Friction' or 'Muscle Fasciculations' as 'Data Packets'",
+    "Temporal Clustering: Multiple 'Ghost Events' occurring during 'High-Notification' windows"
+  ],
+  "causes": [
+    "Predictive Processing Bias: The 'Bayesian Brain' expects a 'Signal', so it 'Renders' one from 'Noise'",
+    "Hyper-sensitization: The 'Somatosensory Bus' has been 'Over-trained' on a specific 'Haptic Frequency'",
+    "Cortical Reorganization: 'Neuroplasticity' has dedicated a 'Dedicated Buffer' for 'Smartphone Haptics'",
+    "Limbic Over-threading: 'Fear of Missing Out (FOMO)' lowering the 'Gating Threshold' for 'Interruption'"
+  ],
+  "risk_factors": [
+    "High 'Digital Load' (Persistent 'Interrupts')",
+    "Chronic 'Stress/Cortisol' levels (Lowering 'Neural-Firing' thresholds)",
+    "Professional 'On-Call' status (Constant 'Ready-State' in the 'Kernel')"
+  ],
+  "diagnosis": [
+    "The 'Device Isolation' Test: Observing if the 'Glitch' persists when the 'Hardware' is physically removed",
+    "Signal Detection Audit: Measuring 'False Alarm' rates vs. 'Actual Notifications'",
+    "Somatosensory Mapping: Identifying 'Hyper-active' patches in the 'Thalamocortical' loop"
+  ],
+  "remedies": [
+    "Haptic Recalibration: Changing the 'Vibration Pattern' to break the 'Predictive Loop'",
+    "Driver Detox: Periods of 'Device Offline' to allow the 'Threshold' to reset to 'Normal'",
+    "Tactile De-sensitization: Intentionally 'Ignoring' tactile 'Interviews' to increase the 'Filter Strength'"
+  ],
+  "prevention": [
+    "Disabling 'Vibration' for 'Low-Priority Threads' to reduce 'Systemic Noise'"
+  ]
+}
+
 "object_identity_pointer_leak": {
   "description": "A form of synesthesia where inanimate objects are perceived as having distinct personalities, genders, and social roles.",
   "symptoms": [
