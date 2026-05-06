@@ -151,6 +151,40 @@ medical_db = {
     "Avoid 'Infinite Loops' in 'Verbal/Visual Processing'"
   ]
 }
+"proprioceptive_drift_desync": {
+  "description": "The phenomenon where the perceived location of a limb shifts toward a visual proxy, resulting in a mismatch between the 'Internal Map' and 'Physical Hardware'.",
+  "symptoms": [
+    "Coordinate Shift: The 'Internal GPS' for a 'Peripheral' (hand/foot) reports a 'False X,Y,Z' position",
+    "Hardware Disownership: A 'Processing Delay' or 'Mismatch' causes the 'User' to feel their 'Limb' is 'External'",
+    "Visual Overdrive: The 'Visual Stream' overrides the 'Haptic Feedback' in the 'Spatial Integration Hub'",
+    "Phantom Mapping: Feeling 'Sensation' on 'Non-System Hardware' (e.g., the rubber hand)",
+    "Motor Latency: Difficulty 'Initializing' a 'Move Command' because the 'Source Coordinates' are corrupted"
+  ],
+  "causes": [
+    "PPC Integration Error: The 'Posterior Parietal Cortex' fails to 'Resolve' conflicting 'Sensor Streams'",
+    "Neuroplastic 'Hot-Swapping': The brain 'Re-allocates' a 'Hardware Port' to a 'Visual Proxy' to resolve 'Logic Conflicts'",
+    "Multisensory 'Buffer Mismatch': 'Tactile' and 'Visual' packets arrive with 'Synchronized Timestamps' but different 'Spatial Headers'",
+    "Incomplete 'Body Schema' Validation: The 'Firmware' is too 'Flexible' regarding 'Hardware Geometry'"
+  ],
+  "risk_factors": [
+    "Exposure to 'Augmented/Virtual Reality' (Extended 'Visual-Proprioceptive Mismatch')",
+    "Chronic 'Sensory Deprivation' (Weakening the 'Haptic Baseline')",
+    "High 'Neural Plasticity' (System is 'Too Willing' to 'Re-configure' the 'Map')"
+  ],
+  "diagnosis": [
+    "The 'Rubber Hand' Audit: Inducing 'Visual-Tactile Synchrony' and measuring the 'Spatial Offset'",
+    "Blind Re-zeroing Test: Asking the 'User' to 'Point' to their 'Hand' without 'Visual Feedback'",
+    "fMRI Connectivity Audit: Monitoring 'Cross-talk' between the 'Premotor Cortex' and 'Visual Areas'"
+  ],
+  "remedies": [
+    "Visual Re-calibration: Looking directly at the 'Physical Hardware' to 'Force a Re-sync'",
+    "Active Motor Feedback: Moving the 'Limb' to 'Update' the 'Spatial Map' via 'Kinesthetic Data'",
+    "Hardware Grounding: Increasing 'Tactile Load' (e.g., wearing a weighted glove) to 'Anchor' the 'Coordinate'"
+  ],
+  "prevention": [
+    "Maintaining 'High-Fidelity' visual-haptic 'Sync' during 'Remote Operation' or 'VR' sessions"
+  ]
+}
 
 "object_identity_pointer_leak": {
   "description": "A form of synesthesia where inanimate objects are perceived as having distinct personalities, genders, and social roles.",
