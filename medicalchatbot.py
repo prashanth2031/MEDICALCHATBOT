@@ -185,6 +185,40 @@ medical_db = {
   "prevention": [
     "N/A: Usually a 'Critical-State' failure of the 'Self-Monitoring Kernel'"
   ]
+"dpdr_spectator_mode_fault": {
+  "description": "A dissociative disorder characterized by persistent or recurrent feelings of being detached from one's own body or mental processes (DP) or feeling that the surroundings are unreal (DR).",
+  "symptoms": [
+    "Unauthenticated Session: The 'User' feels like an 'Outside Observer' of the 'Local System'",
+    "Flat Rendering: The 'World' is perceived as a '2D Backdrop' or a 'Simulation'",
+    "Affective Damping: 'Emotional Metadata' is stripped from incoming 'Sensory Packets'",
+    "Robot-Mode Logic: Performing 'Complex Tasks' (Java coding/driving) while feeling 'Scripted'",
+    "The 'Glass Partition' Effect: A 'Perceptual Barrier' between the 'CPU' and the 'Input Stream'"
+  ],
+  "causes": [
+    "Prefrontal Over-Inhibition: The 'Executive Layer' (mPFC) is 'Throttling' the 'Emotional Kernel' (Amygdala)",
+    "Vestibular-Visual Desync: A failure to 'Merge' the 'Internal Balance Sensor' with the 'External Viewport'",
+    "Glutamate System Overload: 'Signal Noise' leading to a 'Protective Circuit Break' in the 'Thalamocortical Loop'",
+    "Session De-authentication: A 'Dissociative Defensive Script' triggered by 'High Stress/Trauma' loads"
+  ],
+  "risk_factors": [
+    "Chronic 'Kernel Stress' (Anxiety/Panic)",
+    "Extended 'System Uptime' without 'Sleep/Maintenance'",
+    "Adverse reactions to 'Chemical Modifiers' (e.g., THC-induced 'Driver Corruption')"
+  ],
+  "diagnosis": [
+    "The 'Ownership' Audit: Testing if the 'User' identifies 'Physical Actions' as 'Self-Generated'",
+    "fMRI Connectivity Check: Identifying 'High-Latency' links between the 'Insula' and 'Sensory Cortex'",
+    "Cambridge Depersonalization Scale: A 'System Diagnostic' to quantify the 'Detachment Coefficient'"
+  ],
+  "remedies": [
+    "Physical Grounding (Hardware Pings): Intense 'Sensory Input' (cold/pressure) to 'Force a Re-sync'",
+    "Cognitive-Behavioral Patching: Re-training the 'Executive Layer' to stop 'Monitoring' the 'Buffer'",
+    "Pharmacological Re-balancing: Using 'Modulators' to increase 'Signal Gain' in the 'Emotional Bus'"
+  ],
+  "prevention": [
+    "Strict 'Work-Life Load Balancing' and 'Stress Buffer' management"
+  ]
+}
 }
 
 "pvs_ghost_interrupt_fault": {
