@@ -117,6 +117,41 @@ medical_db = {
   ]
 }
 
+"mirror_touch_system_bleed": {
+  "description": "A condition where individuals experience the same sensation (such as touch) that they see another person experiencing.",
+  "symptoms": [
+    "Tactile Mirroring: 'Visual Observation' of touch on an 'External Entity' triggers a 'Sensation Packet' on the 'Local Hardware'",
+    "Synchocheiria: Sensation is felt on the 'Equivalent' body part (e.g., seeing a left cheek touch triggers a right/left cheek sensation)",
+    "Empathy Overload: Intense 'Affective Resonance' that can lead to 'System Fatigue' in crowded environments",
+    "Boundary Failure: Difficulty distinguishing between 'Self-Generated' and 'Observed' sensory data",
+    "Pain Reflection: Seeing 'Hardware Damage' on another 'User' triggers a 'Nociceptive Alert' (pain) in the observer"
+  ],
+  "causes": [
+    "TPJ Gating Failure: The 'Temporoparietal Junction' fails to 'Flag' the mirrored signal as 'External'",
+    "Mirror Neuron Hyper-excitability: The 'Premotor Cortex' is 'Over-clocked' in its 'Simulation' routines",
+    "Somatosensory Cross-talk: Excess 'Physical Wiring' between the 'Visual Cortex' and 'S1 (Primary Somatosensory)'",
+    "Inhibition Deficiency: The 'Prefrontal Cortex' cannot 'Suppress' the 'Simulated Interrupts' before they hit the 'UI'"
+  ],
+  "risk_factors": [
+    "Developmental 'Hyper-connectivity' in social-processing kernels",
+    "Acquired 'System Trauma' (e.g., limb loss leading to 'Phantom' mirroring)",
+    "High 'Baseline Empathy' scores in the 'Social Cognition' module"
+  ],
+  "diagnosis": [
+    "The 'Visual-Tactile Interference' Audit: Measuring 'Response Latency' when 'Observed Touch' conflicts with 'Physical Touch'",
+    "fMRI Connectivity Scan: Monitoring the 'Bandwidth' between the 'Visual Stream' and 'S1' during 'Social Observation'",
+    "Perspective-Taking Tests: Auditing the 'TPJ's' ability to 'Switch' between 'Self' and 'Other' frames"
+  ],
+  "remedies": [
+    "Perspective Training: Strengthening the 'Self-Other Firewall' through 'Cognitive Gating' exercises",
+    "Visual Filtering: Intentionally 'Lowering the Resolution' of 'Social Observations' to reduce 'Interrupt Volume'",
+    "Tactile Anchoring: Increasing 'Local Haptic Load' (e.g., squeezing a stress ball) to 'Drown Out' the 'Leaked Signal'"
+  ],
+  "prevention": [
+    "N/A: Primarily an 'Architectural Variance' in the 'Social Hardware'"
+  ]
+}
+
 "cotard_global_kernel_panic": {
   "description": "A rare neuropsychiatric delusion in which the person holds the delusional belief that they are already dead, do not exist, are putrefying, or have lost their blood or internal organs.",
   "symptoms": [
