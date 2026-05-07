@@ -150,6 +150,40 @@ medical_db = {
     "Avoiding 'System Hibernation' on the back (Supine position) to reduce 'Vagus Nerve' triggers"
   ]
 }
+"false_memory_write_back_fault": {
+  "description": "A memory error where gaps in memory are unconsciously filled with fabricated, misinterpreted, or distorted information, which the user then accepts as fact.",
+  "symptoms": [
+    "Synthetic Log Generation: The 'Memory Parser' creates 'New Data' to fill 'Null Gaps' in a 'Historical Trace'",
+    "Authentication Over-confidence: The 'User' assigns a 'High-Certainty Flag' to 'Fabricated Records'",
+    "Retroactive Overwriting: The 'Write-Back' process replaces 'Actual Data' with 'Synthetic Mockups'",
+    "Contextual Bleeding: 'Metadata' from one 'Event' (e.g., a movie or a dream) is 'Tagged' onto another 'Physical Event'",
+    "Zero-Knowledge Proof Failure: The 'User' cannot 'Audit' the 'Source' of the 'Data' but 'Authenticates' it anyway"
+  ],
+  "causes": [
+    "Reconstruction Logic Error: The 'Retrieval Script' prioritizes 'Narrative Cohesion' over 'Data Accuracy'",
+    "Hippocampal Write-Conflict: During 'Consolidation', 'External Suggestions' are 'Appended' to 'Internal Logs'",
+    "Dopaminergic 'Certainty' Spikes: 'Hormonal Writes' that force the 'System' to 'Trust' the 'Corrupt Buffer'",
+    "Frontal Lobe 'Source-Monitoring' Failure: The 'Gating Service' that tracks 'Data Origin' crashes"
+  ],
+  "risk_factors": [
+    "High-latency 'Retrieval Cycles' (Old memories)",
+    "External 'Data Injections' (Leading questions/Misinformation)",
+    "Systemic 'Stress' during the 'Write' or 'Recall' phase"
+  ],
+  "diagnosis": [
+    "The 'Deese-Roediger-McDermott (DRM)' Audit: Testing 'False Recognition' of 'Semantic Neighbors'",
+    "Source-Monitoring Test: Checking if the 'User' can distinguish 'Seen Data' from 'Imagined Data'",
+    "fMRI Consolidation Scan: Monitoring 'Prefrontal-Hippocampal' synchrony during 'Log Retrieval'"
+  ],
+  "remedies": [
+    "External Metadata Validation: Checking 'Physical Records' (Photos/Logs) to 'Invalidate' the 'Synthetic Trace'",
+    "Source-Tracking Training: Strengthening the 'Metadata Header' for 'Imagination' vs. 'Reality'",
+    "System Rest: Allowing for 'Offline Consolidation' (Sleep) to stabilize 'Long-Term Storage'"
+  ],
+  "prevention": [
+    "Reducing 'Input Noise' during 'Critical Event Logging'"
+  ]
+}
 
 "mirror_touch_system_bleed": {
   "description": "A condition where individuals experience the same sensation (such as touch) that they see another person experiencing.",
