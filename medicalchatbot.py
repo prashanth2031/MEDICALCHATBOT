@@ -116,6 +116,40 @@ medical_db = {
     "N/A: Primarily an 'Architectural Variance' in the 'Social Hardware'"
   ]
 }
+"sleep_paralysis_driver_lock": {
+  "description": "A state during waking up or falling asleep in which a person is aware but unable to move or speak, often accompanied by vivid hallucinations.",
+  "symptoms": [
+    "Motor Driver Lag: The 'Main Thread' is active, but the 'Physical I/O' is 'Read-Only'",
+    "Hypnagogic Hallucinations: 'Dream Data' leaks into the 'Waking Viewport' (e.g., the 'Shadow Figure' or 'Incubus')",
+    "Chest-Weight Metadata: The 'Autonomic System' is in 'Sleep-Mode' breathing, which the 'Consciousness' interprets as 'Pressure/Restriction'",
+    "Hyper-Vigilance Spike: The 'Amygdala' triggers a 'Panic Interrupt' because it cannot detect 'Hardware Feedback'",
+    "Temporary Lock-In: Usually lasts 1–3 minutes before the 'Unlock Signal' is successfully 'Fired'"
+  ],
+  "causes": [
+    "REM-to-Waking Handshake Failure: The 'Pons' fails to 'Disable' the 'Glycine-driven Inhibition' of alpha-motoneurons",
+    "Irregular System Scheduling: Disrupted 'Sleep Cycles' causing 'Out-of-Order' stage transitions",
+    "Narcoleptic Kernel Errors: Frequent 'Intrusions' of REM-state logic into the 'Standard OS'",
+    "Stress/Cortisol Spikes: Triggering a 'GUI Boot' before the 'Low-Level Drivers' are ready"
+  ],
+  "risk_factors": [
+    "High-latency 'Sleep Hygiene' (Irregular hours)",
+    "Sudden 'System Reboots' (Waking up mid-REM)",
+    "Genetic 'Sub-routine' variances"
+  ],
+  "diagnosis": [
+    "Polysomnography (PSG): Monitoring 'Muscle Atonia' alongside 'Waking Brainwave Patterns'",
+    "User Log Audit: Identifying patterns of 'Sleep Deprivation' or 'Jet Lag'",
+    "Homeostasis Check: Ruling out 'Obstructive Sleep Apnea' (Hardware Obstructions)"
+  ],
+  "remedies": [
+    "Peripheral Override: Focusing on 'Small Motor Units' (e.g., trying to wiggle a single toe) to 'Break the Lock'",
+    "Rapid Eye Scanning: Moving the eyes (the only 'Unlocked' motor port) to 'Signal' the 'Kernel' to wake up",
+    "Sleep-Cycle Optimization: Using 'Dark Mode' and 'Consistent Scheduling' to stabilize the 'Handshake'"
+  ],
+  "prevention": [
+    "Avoiding 'System Hibernation' on the back (Supine position) to reduce 'Vagus Nerve' triggers"
+  ]
+}
 
 "mirror_touch_system_bleed": {
   "description": "A condition where individuals experience the same sensation (such as touch) that they see another person experiencing.",
