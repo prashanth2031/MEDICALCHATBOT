@@ -116,6 +116,41 @@ medical_db = {
     "N/A: Primarily an 'Architectural Variance' in the 'Social Hardware'"
   ]
 }
+"cotards_root_deletion_fault": {
+  "description": "A rare delusion in which the user holds the delusional belief that they are dead, do not exist, are putrefying, or have lost their blood or internal organs.",
+  "symptoms": [
+    "Existential Null-Pointer: The 'User Object' is identified as 'NULL' or 'DELETED'",
+    "Interoceptive Silent State: Total absence of 'Vitality Metadata' (feeling 'dead' inside)",
+    "Biological Nihilism: Denying the existence of 'Core Hardware' (e.g., 'I have no heart/stomach')",
+    "Immortality Paradox: Believing that because they are 'Already Dead', they cannot 'Die' again",
+    "Global Anhedonia: The 'Reward System' is 'Hard-Locked' at 0.0, stripping 'Meaning' from all 'Inputs'"
+  ],
+  "causes": [
+    "Fusiform-Amygdala-Insula Disconnection: A 'Total Communications Blackout' between 'Face Recognition' and 'Self-Feeling'",
+    "Severe 'Limbic Throttling': The 'Prefrontal Cortex' suppresses all 'Affective Signals' to the 'Self-Node'",
+    "Dopaminergic System Collapse: 'Signal Strength' in the 'Identity-Value' circuit drops below 'Detection Threshold'",
+    "Parietal Mapping Failure: The 'Internal Map' of the 'Physical Body' is 'Unlinked' from the 'Executive Layer'"
+  ],
+  "risk_factors": [
+    "Severe 'Systemic Depression' (Affective Shutdown)",
+    "Neurological 'Kernel Trauma' in the 'Right Parietal' or 'Temporal' lobes",
+    "Adverse 'Drug-Interaction' events (e.g., Acyclovir-induced 'Renal/Neural' conflicts)"
+  ],
+  "diagnosis": [
+    "Interoceptive Audit: Testing the 'User's' ability to 'Feel' their own 'Heartbeat' or 'Hunger'",
+    "fMRI 'Self-Reference' Scan: Monitoring 'Medial Prefrontal' activity during 'Self-identification' tasks",
+    "Psychiatric 'Logic-Branch' Analysis: Identifying 'Nihilistic' vs. 'Persecutory' delusion patterns"
+  ],
+  "remedies": [
+    "Electroconvulsive 'System Reboot' (ECT): Forcing a 'Global Neural Reset' to 'Restore Connectivity'",
+    "Dopamine/Serotonin 'Driver Updates': Pharmacological 'Gain-Boosting' for 'Affective Signals'",
+    "Cognitive 'Hardware Validation': Using 'External Sensors' (e.g., EKG monitors) to 'Prove' the 'Hardware' is 'Active'"
+  ],
+  "prevention": [
+    "Aggressive 'Maintenance' of 'Affective Health' and 'Signal Connectivity'"
+  ]
+}
+
 "capgras_auth_spoofing_fault": {
   "description": "A delusion in which the user believes that a friend, spouse, parent, or other close family member has been replaced by an identical-looking impostor.",
   "symptoms": [
