@@ -116,6 +116,41 @@ medical_db = {
     "N/A: Primarily an 'Architectural Variance' in the 'Social Hardware'"
   ]
 }
+"capgras_auth_spoofing_fault": {
+  "description": "A delusion in which the user believes that a friend, spouse, parent, or other close family member has been replaced by an identical-looking impostor.",
+  "symptoms": [
+    "Face-Value Verification: The 'Visual Driver' reports 100% feature matching for a 'Known Entity'",
+    "Emotional Null-Pointer: Total absence of 'Affective Resonance' during 'Entity Contact'",
+    "The 'Uncanny Valley' Logic: The 'User' perceives the entity as 'Technically Perfect' but 'Soulless'",
+    "Hostile Identification: Classifying 'Trusted Peers' as 'Infiltrators' or 'Synthetic Replicants'",
+    "Spared Modalities: The 'Glitch' often only affects 'Visual Input'; 'Audio-Only' (phone calls) may still 'Authenticate' correctly"
+  ],
+  "causes": [
+    "Ventral-Limbic Disconnection: A physical 'Link Failure' between the 'FFA' and the 'Amygdala'",
+    "Identity-Gating Conflict: The 'Right Hemisphere' fails to 'Sync' the 'Image' with the 'Identity File'",
+    "Metabolic Droop: Reduced 'Signal Strength' in the 'Recognition-Emotion Bus'",
+    "Paranoid Logic Over-threading: The 'Prefrontal Cortex' over-optimizes for 'Threat Detection' to explain the 'Auth Failure'"
+  ],
+  "risk_factors": [
+    "Traumatic Brain Injury (TBI) to the 'Right Temporal/Parietal' sectors",
+    "Neurodegenerative 'Kernel Decay' (e.g., Lewy Body or Alzheimer's)",
+    "Post-Ictal 'Driver Instability' following 'Temporal Lobe' events"
+  ],
+  "diagnosis": [
+    "The 'Affective Galvanic' Audit: Measuring 'Skin Conductance' when viewing 'Peers' (fails to spike in Entry 213)",
+    "The 'Cross-Modal' Test: Checking if 'Recognition' stabilizes when 'Visuals' are removed (Audio-only)",
+    "PET/SPECT Scanning: Identifying 'Hypometabolism' in the 'Right Hemisphere' recognition nodes"
+  ],
+  "remedies": [
+    "Multimodal Redundancy: Using 'Audio' or 'Scent' to bypass the 'Corrupt Visual-Auth' path",
+    "Cognitive Patching: Re-training the 'Parser' to 'Ignore' the missing 'Emotional Token'",
+    "Antipsychotic 'Voltage Stabilizers': Reducing 'Dopaminergic Noise' in the 'Conspiracy Logic' engine"
+  ],
+  "prevention": [
+    "Protecting 'Connectivity Hubs' in the 'Right Temporal' region from 'Trauma/Infection'"
+  ]
+}
+
 "sleep_paralysis_driver_lock": {
   "description": "A state during waking up or falling asleep in which a person is aware but unable to move or speak, often accompanied by vivid hallucinations.",
   "symptoms": [
