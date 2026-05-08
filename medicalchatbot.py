@@ -82,6 +82,41 @@ medical_db = {
     "Maintaining 'High-Fidelity' visual-haptic 'Sync' during 'Remote Operation' or 'VR' sessions"
   ]
 }
+"fregoli_identity_collision_fault": {
+  "description": "A rare disorder in which a person holds a delusional belief that different people are actually a single person who changes appearance or is in disguise.",
+  "symptoms": [
+    "Identity Pointer Hijacking: Multiple 'Visual Entities' map to a single 'Identity Record'",
+    "Over-Broad Feature Matching: The 'System' ignores 'Visual Deltas' (height, weight, age) to maintain 'Identity Persistence'",
+    "Hyper-Associative Tagging: Every 'Stranger' is tagged with 'Familiarity Metadata'",
+    "The 'Disguise' Logic: The 'Executive Layer' explains the 'Visual Mismatch' as 'Advanced Camouflage'",
+    "Global Recognition Logic: The 'Who' service is 'Hard-coded' to a single 'Variable' during the 'Glitch'"
+  ],
+  "causes": [
+    "Dopaminergic Hyper-associativity: 'Signal Noise' causing 'Nodes' to fire across 'Identity Thresholds'",
+    "Right Temporoparietal 'Node' Corruption: A failure in the 'Gating Service' that distinguishes 'Unique Peers'",
+    "Limbic Over-synchronization: The 'Feeling of Familiarity' is 'Broadcast' to all incoming 'Visual Packets'",
+    "Node-Link Congestion: The 'Pointer' for a 'Highly Significant Individual' occupies the 'Global Reference' position"
+  ],
+  "risk_factors": [
+    "Traumatic Brain Injury in the 'Right Frontal-Parietal' sectors",
+    "Dopamine-driven 'Psychotic Cycles' (Kernel Instability)",
+    "Neurodegenerative 'Identity Mapping' decay"
+  ],
+  "diagnosis": [
+    "The 'Identity Collision' Audit: Checking if 'Strangers' trigger 'Recognition' response",
+    "fMRI 'Face-Mapping' Scan: Monitoring 'FFA' to 'Hippocampus' link strength",
+    "Galvanic Skin Response (GSR): Identifying 'Emotional Spikes' for 'Non-Peers'"
+  ],
+  "remedies": [
+    "Dopamine Antagonists: 'Throttling' the 'Association Engine' to stop 'Over-Mapping'",
+    "Reality-Testing Modules: 'Auditing' the 'Logical Gaps' in the 'Disguise Theory'",
+    "System Downtime: 'Sleep/Sedation' to allow the 'Associative Buffer' to flush"
+  ],
+  "prevention": [
+    "Maintaining 'Signal-to-Noise' ratios in the 'Social Recognition' pathways"
+  ]
+}
+
 "mirror_touch_system_bleed": {
   "description": "A condition where individuals experience the same sensation (such as touch) that they see another person experiencing.",
   "symptoms": [
