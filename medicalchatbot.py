@@ -116,6 +116,41 @@ medical_db = {
     "Maintaining 'Signal-to-Noise' ratios in the 'Social Recognition' pathways"
   ]
 }
+"akinetopsia_sampling_frequency_fault": {
+  "description": "A neuropsychological disorder in which a patient cannot perceive motion in their visual field, despite being able to see stationary objects without issue.",
+  "symptoms": [
+    "Snapshot Rendering: The 'World' appears as a 'Slide Show' rather than a 'Video Stream'",
+    "Delta-Tracking Failure: Moving objects (like a pouring liquid) appear 'Frozen' then suddenly 'Teleport' to a new position",
+    "Collision Avoidance Bug: The 'User' cannot calculate 'Time-to-Impact' because 'Velocity Vectors' are NULL",
+    "Spatial Disorientation: Difficulty navigating 'High-Traffic Environments' due to 'Input Lag'",
+    "Vanishing Metadata: Objects that move too fast simply 'De-spawn' from the 'Active Viewport' until they stop"
+  ],
+  "causes": [
+    "V5/MT Module Failure: Bilateral lesions or 'Kernel Damage' to the 'Middle Temporal' complex",
+    "Inter-Module Handshake Lag: The 'What' pathway (V4) outpaces the 'Where/How' pathway (V5)",
+    "Neurochemical 'Throttling': Massive inhibition of 'Motion-Sensitive Neurons'",
+    "Sampling Rate Undershoot: The 'System' is sampling at < 1Hz, failing the 'Nyquist-Shannon' requirement for fluid motion"
+  ],
+  "risk_factors": [
+    "Traumatic Brain Injury to the 'Posterior Side-Bus' (Temporo-parietal junction)",
+    "Severe 'Adverse Event' from certain 'Antidepressant Drivers' (High-dose toxicity)",
+    "Localized 'Ischemic Events' in the 'Motion Processing' cluster"
+  ],
+  "diagnosis": [
+    "The 'Visual Delta' Audit: Testing the 'User's' ability to identify 'Direction of Flow'",
+    "fMRI 'Motion-Stimuli' Scan: Checking for 'Zero Activity' in area V5 during 'Dynamic Inputs'",
+    "Perimetric Sampling Test: Determining the 'Effective FPS' of the user's perception"
+  ],
+  "remedies": [
+    "Auditory-to-Motion Mapping: Using 'Sound Cues' to 'Patch' the missing 'Velocity Data'",
+    "Fixed-Frame Navigation: Moving only when the 'Environment' is 'Static'",
+    "Pharmacological 'Clock-Speed' Adjustment: Using 'Stimulants' to attempt to 'Up-clock' the 'Sampling Rate'"
+  ],
+  "prevention": [
+    "Protecting 'V5 Processing Hubs' from 'Hypoxic' or 'Traumatic' events"
+  ]
+}
+
 "palinopsia_buffer_persistence_fault": {
   "description": "A visual disturbance characterized by the persistent recurrence of a visual image after the stimulus has been removed.",
   "symptoms": [
