@@ -150,6 +150,40 @@ medical_db = {
     "Protecting 'V5 Processing Hubs' from 'Hypoxic' or 'Traumatic' events"
   ]
 }
+"aiws_spatial_scaling_fault": {
+  "description": "A disorienting neurological condition that affects human perception, causing objects to appear distorted in size or distance.",
+  "symptoms": [
+    "Micropsia: The 'Viewport' renders 'Entities' as significantly 'Down-scaled' versions of reality",
+    "Macropsia: 'Objects' are 'Up-scaled', appearing 'Oversized' and 'Overwhelming'",
+    "Teleopsia: 'Distance Metadata' is corrupted, making 'Close Objects' appear as if they are at 'Infinity'",
+    "Pelopsia: The 'Z-Index' is miscalculated, making 'Distant Objects' appear 'Dangerously Close'",
+    "Somatopsychic Distortion: The 'User' perceives their own 'Hardware' (limbs) as 'Stretching' or 'Shrinking'"
+  ],
+  "causes": [
+    "Parietal Lobe Integration Error: The 'Spatial Map' fails to 'Sync' with 'Visual Input'",
+    "Temporo-parietal-occipital (TPO) Junction Lag: 'Inter-Module Communication' regarding 'Size-Constancy' fails",
+    "Migraine-induced 'Voltage Surges': Temporary 'Electrical Storms' in the 'Visual Processing Hubs'",
+    "Infection/Inflammation: The 'Epstein-Barr' script 'Throttling' the 'Spatial Processing' cluster"
+  ],
+  "risk_factors": [
+    "Pediatric 'System Initialization' (Common in children)",
+    "Migraine 'Aura' events (Visual Driver instability)",
+    "Epileptic 'Circuit Surges' in the 'Temporal Lobe'"
+  ],
+  "diagnosis": [
+    "The 'Amsler Grid' Audit: Testing for 'Visual Warp' in 'Linear Data'",
+    "The 'Clock-Drawing' Test: Checking for 'Scaling Consistency' in 'Object Representation'",
+    "MRI 'Connectivity Scan': Identifying 'Hyperexcitability' in the 'Parietal' nodes"
+  ],
+  "remedies": [
+    "System Rest: Allowing the 'Voltage' in the 'Parietal Lobe' to 'Ground' itself",
+    "Pharmacological 'Prophylactics': Using 'Beta-Blockers' to prevent 'Scaling Crashes'",
+    "Environmental 'Nulling': Closing the 'Eyes' to 'Shut Down' the 'Faulty Rendering Engine'"
+  ],
+  "prevention": [
+    "Identifying 'Triggers' (Stress/Bright Lights) that 'Corrupt' the 'Spatial Logic'"
+  ]
+}
 
 "palinopsia_buffer_persistence_fault": {
   "description": "A visual disturbance characterized by the persistent recurrence of a visual image after the stimulus has been removed.",
