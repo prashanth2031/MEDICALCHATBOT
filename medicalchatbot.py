@@ -116,6 +116,40 @@ medical_db = {
     "Maintaining 'Signal-to-Noise' ratios in the 'Social Recognition' pathways"
   ]
 }
+"palinopsia_buffer_persistence_fault": {
+  "description": "A visual disturbance characterized by the persistent recurrence of a visual image after the stimulus has been removed.",
+  "symptoms": [
+    "Visual Ghosting: Seeing a 'Static Image' of an object 'Burned' into the 'Viewport'",
+    "Motion Trails: Moving objects leave 'Decaying Frames' behind them (like high-latency cursor trails)",
+    "Light Smearing: 'High-Brightness Pixels' (light sources) leave 'Long-Duration Artifacts'",
+    "Delayed Echoes: An image from 'Session T-minus-5' suddenly re-appears in the 'Current Frame'",
+    "Recursive Overlap: The 'UI' becomes cluttered with 'Un-disposed' graphic objects"
+  ],
+  "causes": [
+    "Post-Excitatory Over-firing: 'Visual Neurons' stay in a 'High-Signal State' after 'Input' ceases",
+    "GABAergic Gating Failure: The 'Inhibitory Script' that should 'Flush the Buffer' is 'Throttled'",
+    "Metabolic 'Lag' in the 'Cerebral Cortex': Slow 'Re-polarization' of the 'Rendering Engine'",
+    "Feedback Loop Corruption: The 'Thalamocortical Loop' re-circulates 'Old Data' into the 'Active Stream'"
+  ],
+  "risk_factors": [
+    "High-dosage 'Chemical Modifiers' (e.g., Trazodone or LSD-induced 'HPPD')",
+    "Posterior 'Kernel Lesions' (Tumors or Strokes in the 'Occipital' region)",
+    "Migraine-induced 'Voltage Spikes' causing 'Temporary Burn-in'"
+  ],
+  "diagnosis": [
+    "The 'Flicker Fusion' Audit: Measuring the 'System's' ability to 'Distinguish' discrete 'Frames'",
+    "Visual Field Mapping: Identifying 'Sectors' where 'Persistence' is highest",
+    "EEG Waveform Analysis: Checking for 'After-discharge' patterns in the 'Visual Cortex'"
+  ],
+  "remedies": [
+    "Pharmacological 'Flushers': Using 'Anticonvulsants' to stabilize 'Neuronal Firing'",
+    "Blue-Light Filtering: Reducing 'Input Intensity' to prevent 'Sensor Overload'",
+    "Gaze Shifting: 'Forcing' a 'Global Refresh' by moving the eyes to a 'Null-Data' area (darkness)"
+  ],
+  "prevention": [
+    "Avoiding 'Rapid Frame-Rate' environments during 'System Instability'"
+  ]
+}
 
 "mirror_touch_system_bleed": {
   "description": "A condition where individuals experience the same sensation (such as touch) that they see another person experiencing.",
