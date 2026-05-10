@@ -150,6 +150,41 @@ medical_db = {
     "Protecting 'V5 Processing Hubs' from 'Hypoxic' or 'Traumatic' events"
   ]
 }
+"achromatopsia_colorspace_crash_fault": {
+  "description": "A condition resulting in the total inability to perceive color, often accompanied by decreased visual acuity and light sensitivity.",
+  "symptoms": [
+    "Global De-saturation: The 'Viewport' is locked in 'Greyscale Mode' (0% Saturation)",
+    "Photophobia: 'Luminance Overload' as the 'System' cannot 'Filter' high-intensity light packets",
+    "Acuity Drop: The 'Resolution' of the 'Central Fovea' is 'Throttled' due to cone-cell 'Driver Failure'",
+    "Nystagmus: 'Hardware Jitter' as the 'Eyes' attempt to 'Auto-focus' without 'Color Contrast'",
+    "The 'Hemi-color' Glitch: If only one 'Core' (hemisphere) fails, the user sees half the 'Viewport' in 'Color' and half in 'Grey'"
+  ],
+  "causes": [
+    "V4 Module Corruption: Lesions or 'Hardware Damage' to the 'Lingual' and 'Fusiform' gyri",
+    "Cone-Cell Initialization Failure: Genetic 'Boot Error' in the 'Hardware Layer' (Rod Monochromacy)",
+    "Carbon Monoxide Toxicity: 'Systemic Interference' with 'Chrominance Encoding'",
+    "Signal-to-Noise Mismatch: The 'Luminance' signal 'Drowns out' the 'Color' signal due to 'Synaptic Noise'"
+  ],
+  "risk_factors": [
+    "Vascular 'Crashes' (Strokes) in the 'Posterior Cerebral' artery",
+    "Genetic 'Code Mutations' (CNGA3, CNGB3) affecting 'Retinal Hardware'",
+    "Severe 'Head Trauma' impacting the 'Visual Buffer Hubs'"
+  ],
+  "diagnosis": [
+    "The 'Ishihara' Protocol: Auditing the 'System's' ability to 'Distinguish' color-coded 'Metadata'",
+    "Electroretinography (ERG): Measuring 'Electrical Output' of the 'Cone-Cell Hardware'",
+    "fMRI 'V4-Stimuli' Scan: Checking for 'Zero Signal' in 'Color-Sensitive Nodes' during 'RGB Input'"
+  ],
+  "remedies": [
+    "Wavelength Filtering: Using 'Magenta-tinted' glasses to 'Normalize' 'Luminance' levels",
+    "Metadata Tagging: 'Training' the user to 'Identify' colors via 'Shade Intensity' and 'Context'",
+    "Low-Light UI Optimization: Navigating in 'Dim Environments' to 'Optimize' 'Rod-Cell' performance"
+  ],
+  "prevention": [
+    "Protecting the 'Occipital-Temporal' junction from 'Traumatic Interrupts'"
+  ]
+}
+
 "visual_agnosia_orm_mapping_fault": {
   "description": "A condition where the user can see objects clearly but cannot recognize or identify them due to a failure in semantic linking.",
   "symptoms": [
