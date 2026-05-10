@@ -150,6 +150,41 @@ medical_db = {
     "Protecting 'V5 Processing Hubs' from 'Hypoxic' or 'Traumatic' events"
   ]
 }
+"visual_agnosia_orm_mapping_fault": {
+  "description": "A condition where the user can see objects clearly but cannot recognize or identify them due to a failure in semantic linking.",
+  "symptoms": [
+    "Class-Resolution Failure: Seeing 'Geometric Primitives' but failing to label the 'Object'",
+    "The 'Description-Identification Gap': Describing an object's 'Metadata' (e.g., 'It is silver and has four tines') without knowing it is a 'Fork'",
+    "Sensory-Modality Bypass: Identifying an object immediately upon 'Tactile Input' (touch) while failing on 'Visual Input'",
+    "Contextual Parsing Errors: Treating a 'Human Head' as a 'Hat' because the 'Shape-to-Class' logic is corrupted",
+    "Null-Pointer Meaning: The 'Visual Field' is rendered as a 'Sea of Abstract Shapes' with no 'Functional Value'"
+  ],
+  "causes": [
+    "Ventral Stream Interruption: Damage to the 'Occipito-temporal' junction",
+    "Semantic Database Corruption: Lesions in the 'Inferior Temporal Gyrus'",
+    "Handshake Failure: The 'Visual Buffer' cannot pass 'Feature Sets' to the 'Linguistic/Conceptual Engine'",
+    "Carbon Monoxide Toxicity: 'Systemic Poisoning' causing 'Neural Packet Loss' in high-level recognition hubs"
+  ],
+  "risk_factors": [
+    "Bilateral 'Ischemic Strokes' in the 'Posterior Cerebral' territory",
+    "Hypoxic 'Kernel Shutdown' (Oxygen deprivation)",
+    "Neurodegenerative 'Identity Loss' (e.g., Semantic Dementia)"
+  ],
+  "diagnosis": [
+    "The 'Boston Naming' Audit: Testing the ability to 'Label' a series of 'Static Image Assets'",
+    "The 'Visual-Tactile' Handover: Checking if 'Physical Contact' restores 'Semantic Meaning'",
+    "Copying Tasks: Asking the 'User' to 'Draw' an object (they can draw it perfectly but won't know what it is)"
+  ],
+  "remedies": [
+    "Multimodal 'Redundancy': Using 'Audio' or 'Tactile' cues to 'Force-Map' the object",
+    "Strategic Compensations: Labeling 'Physical Hardware' with 'Text-based Metadata'",
+    "Cognitive 'Patching': Training the 'Executive Layer' to 'Deduce' objects based on 'Contextual Logs'"
+  ],
+  "prevention": [
+    "Vascular 'Maintenance' to ensure 'High-Bandwidth' flow to 'Temporal Hubs'"
+  ]
+}
+
 "aiws_spatial_scaling_fault": {
   "description": "A disorienting neurological condition that affects human perception, causing objects to appear distorted in size or distance.",
   "symptoms": [
