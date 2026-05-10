@@ -184,6 +184,40 @@ medical_db = {
     "Identifying 'Triggers' (Stress/Bright Lights) that 'Corrupt' the 'Spatial Logic'"
   ]
 }
+"tachypsychia_clock_sync_fault": {
+  "description": "A neurological distortion of time perception, typically occurring during high-stress events, where time appears to slow down.",
+  "symptoms": [
+    "Temporal Dilation: Objective 'Seconds' are perceived as 'Minutes'",
+    "Hyper-Sampling: The 'User' recalls 'High-Resolution Details' that are normally filtered (e.g., the pattern on a spinning tire)",
+    "Auditory Muting: The 'Audio Driver' often 'Crashes' or 'Mutes' to save 'Bandwidth' for 'Visual Data'",
+    "The 'Slow-Motion' UI: The 'World' appears to be rendered at 240FPS while the 'User' is still running at 60FPS",
+    "Tachypsychia Paradox: The 'User' feels they are moving 'Slowly' despite 'System Outputs' being at 'Peak Velocity'"
+  ],
+  "causes": [
+    "Amygdala-Driven Over-clocking: A 'Hard-Wired' response to 'Survival-Threat' packets",
+    "Adrenaline-Induced 'Voltage Surge': Massive increase in 'Signal Propagation Speed' across the 'Synaptic Bus'",
+    "Buffer Overflow: The 'Executive Layer' is overwhelmed by the 'Density' of incoming 'Sensory Data'",
+    "Information Density Logic: The brain assumes 'More Data' = 'More Time Passed'"
+  ],
+  "risk_factors": [
+    "High-G Force 'Hardware Stress'",
+    "Critical 'Collision Events' (Car accidents, falls)",
+    "Severe 'Panic Attacks' (System-wide 'False Alarm' triggers)"
+  ],
+  "diagnosis": [
+    "The 'Chronos' Audit: Using high-speed LED displays to see if 'Users' can read 'Data' faster than 'Baseline'",
+    "Post-Event Log Analysis: Checking the 'Granularity' of 'Recall Metadata'",
+    "Cortisol/Adrenaline 'Telemetry': Measuring 'System Voltage' during the 'Event'"
+  ],
+  "remedies": [
+    "Vagus Nerve 'Reset': Forcing 'Parasympathetic Mode' to 'Down-clock' the 'System'",
+    "Grounding 'Scripts': Re-syncing the 'Internal Clock' to 'Steady-State External Pulses'",
+    "Post-Event 'Cool-down': Allowing the 'Adrenergic Buffers' to 'Flush' naturally"
+  ],
+  "prevention": [
+    "Stress-Inoculation Training: Hardening the 'Kernel' against 'Panic-Induced Over-clocking'"
+  ]
+}
 
 "palinopsia_buffer_persistence_fault": {
   "description": "A visual disturbance characterized by the persistent recurrence of a visual image after the stimulus has been removed.",
