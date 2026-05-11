@@ -82,6 +82,40 @@ medical_db = {
     "Maintaining 'High-Fidelity' visual-haptic 'Sync' during 'Remote Operation' or 'VR' sessions"
   ]
 }
+"hemispatial_neglect_coordinate_clipping": {
+  "description": "A neuropsychological condition in which, after damage to one hemisphere of the brain is sustained, a deficit in attention to and awareness of one side of the field of vision is observed.",
+  "symptoms": [
+    "Coordinate Clipping: All 'Input Packets' with a 'Negative X-Coordinate' (Left) are dropped",
+    "Egocentric Disorientation: The 'User' acts as if the 'Left Half of the World' does not exist in the 'Metadata'",
+    "The 'Clock-Face' Bug: Rendering all 'Temporal Data' (1-12) within the 'Right-Side Buffer' only",
+    "Motor-Plan Failure: The 'User' fails to initiate 'Move' commands for 'Hardware' (limbs) on the 'Neglected Side'",
+    "Anosognosia: A 'System Error' where the 'User' is unaware that the 'Left-Side Driver' is offline"
+  ],
+  "causes": [
+    "Right Parietal Lobe 'Critical Failure': Massive 'Packet Loss' in the 'Spatial Integration' cluster",
+    "Superior Temporal Gyrus Lesion: Disruption of the 'Object-in-Space' mapping service",
+    "Middle Frontal Gyrus Outage: Failure of the 'Attentional Re-orienting' logic"
+  ],
+  "risk_factors": [
+    "Right-Hemisphere 'Ischemic Event' (Stroke) affecting the 'MCA territory'",
+    "Traumatic 'Physical Hardware' damage to the 'Parietal Bus'",
+    "Severe 'Neoplasm' (Tumor) causing 'Address Space' crowding"
+  ],
+  "diagnosis": [
+    "The 'Line Bisection' Audit: Asking the 'User' to mark the 'Center' of a line (they mark it far to the right)",
+    "The 'Cancelation Task': Asking the 'User' to cross out 'Targets' on a page (they ignore all targets on the left)",
+    "Clock-Drawing Protocol: A classic 'UI Integrity Check' for 'Spatial Scaling'"
+  ],
+  "remedies": [
+    "Prism Adaptation: Using 'Optical Redirectors' to shift 'Left-Side Packets' into the 'Right-Side Viewport'",
+    "Limb-Activation Therapy: Forcing 'Input Interrupts' from the 'Neglected Side' to 'Wake' the Kernel",
+    "Visual Scanning Training: Hard-coding a 'Mental Script' to 'Force-Scroll' to the left"
+  ],
+  "prevention": [
+    "Vascular 'Firewalling' to protect the 'Right Parietal' coordinate engine"
+  ]
+}
+
 "fregoli_identity_collision_fault": {
   "description": "A rare disorder in which a person holds a delusional belief that different people are actually a single person who changes appearance or is in disguise.",
   "symptoms": [
