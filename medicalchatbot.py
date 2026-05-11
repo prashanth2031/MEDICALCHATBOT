@@ -13,6 +13,40 @@ medical_db = {
   "causes": ["Genetic factors", "Childhood trauma"],
   "remedies": ["Psychotherapy", "Medication"]
 },
+"capgras_idp_handshake_fault": {
+  "description": "A delusion where the user recognizes a familiar person but believes they have been replaced by an identical imposter.",
+  "symptoms": [
+    "Authentication Mismatch: 'Visual Identification' is successful, but 'Affective Validation' is 'NULL'",
+    "The 'Imposter' Protocol: Assigning the status of 'Duplicate Entity' to 'Trusted Objects' (Family/Friends)",
+    "Reduplicative Paramnesia: The belief that 'Locations' or 'People' have been 'Cloned' in a 'Parallel Cluster'",
+    "Hyper-Suspicion: Constant 'Integrity Auditing' of the 'Imposter' to find 'Rendering Flaws'",
+    "Modality-Specific Validation: The 'User' may recognize the 'Identity' via 'Audio' (phone) but reject it via 'Visual' (Face-to-Face)"
+  ],
+  "causes": [
+    "Ventral-Limbic Disconnect: The 'Physical Bus' between the 'Recognition Hub' and the 'Emotion Engine' is severed",
+    "Right Hemisphere 'Security Breach': Damage to the 'Identity Monitoring' nodes",
+    "Synaptic 'Packet Loss' in the 'Extended Face-Processing Network'"
+  ],
+  "risk_factors": [
+    "Post-Traumatic 'Kernel Corruption' (TBI)",
+    "Neurodegenerative 'Logic Drift' (Lewy Body Dementia)",
+    "Schizophrenic 'Signal Noise' affecting 'Belief-Validation' services"
+  ],
+  "diagnosis": [
+    "The 'Skin Conductance' Audit: Measuring 'Autonomic Response' to 'Visual Stimuli' (Capgras users show zero 'Voltage Spike' for loved ones)",
+    "The 'Voice-vs-Face' Comparison: Checking if 'Audio Packets' bypass the 'Visual Auth' failure",
+    "Neuroimaging 'Connectivity Check': Identifying 'Dead Links' between the 'Fusiform Gyrus' and the 'Amygdala'"
+  ],
+  "remedies": [
+    "Audio-First Interfacing: Using 'Voice Communication' to establish 'Primary Identity'",
+    "Logical 'Bypass' Training: Teaching the 'User' to 'Trust the Visual Metadata' even if the 'Affective Token' is missing",
+    "Pharmacological 'Noise Filtering': Reducing 'Dopaminergic Interference' in the 'Logic Engine'"
+  ],
+  "prevention": [
+    "Ensuring 'Vascular Uptime' to the 'Structural Integrity' of the 'Right Temporal/Parietal' clusters"
+  ]
+}
+
 "zoster_sine_herpete": {
   "description": "Zoster sine herpete is a form of shingles where nerve pain occurs without the typical skin rash.",
   "symptoms": [
