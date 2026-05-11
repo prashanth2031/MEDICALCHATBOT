@@ -323,6 +323,40 @@ medical_db = {
     "Avoiding 'Rapid Frame-Rate' environments during 'System Instability'"
   ]
 }
+"simultanagnosia_single_thread_fault": {
+  "description": "An inability to perceive more than one object at a time, despite preserved visual acuity and object recognition.",
+  "symptoms": [
+    "Scene Graph Fragmentation: The 'User' sees 'Parts' but cannot 'Compile' the 'Whole'",
+    "The 'Context-Switching' Lag: Transitioning focus from 'Object A' to 'Object B' causes 'Object A' to be 'Purged' from Memory",
+    "Spatial Navigation Failure: Walking is difficult because 'Obstacles' and 'Boundaries' cannot be rendered in the same 'Frame'",
+    "Reading Stutter: Identifying individual 'Letters' but failing to 'Parse' the 'Word Entity'",
+    "The 'Tree-not-Forest' Bug: Zero 'Global Awareness' of the 'Environment Layout'"
+  ],
+  "causes": [
+    "Bilateral Parietal Lobe 'Throttling': Damage to the 'Superior Parietal' nodes",
+    "Visual Attention 'Race Condition': The 'Focus Module' gets stuck on a 'Local Maximum'",
+    "White-Matter 'Bandwidth' Collapse: Failure of the 'Long-Range Bus' connecting 'Visual Areas'",
+    "Posterior Cortical Atrophy: Gradual 'Hardware Degradation' of the 'Spatial Logic Unit'"
+  ],
+  "risk_factors": [
+    "Simultaneous 'Bilateral Strokes' (e.g., Watershed Infarction)",
+    "Severe 'Neurodegenerative Hardware Decay' (Alzheimer's Variant)",
+    "Traumatic 'Inter-hemispheric' disconnect"
+  ],
+  "diagnosis": [
+    "The 'Overlapping Figures' Audit: Asking the 'User' to identify multiple 'Intersecting Shapes'",
+    "Global-Local 'Navon' Test: Checking if the 'User' can see the 'Big Letter' made of 'Small Letters'",
+    "The 'Picture Description' Log: Observing if the 'User' describes 'Isolated Details' without 'Context'"
+  ],
+  "remedies": [
+    "Tactile 'Anchoring': Using 'Physical Touch' to 'Lock' a secondary object into the 'Buffer'",
+    "Verbal 'Scene Description': Manually 'Logging' objects in 'Text' to 'Simulate' a 'Persistent Map'",
+    "Slow-Scan 'UI Protocols': Moving the 'Eyes' in a 'Grid Pattern' to 'Fetch' data sequentially"
+  ],
+  "prevention": [
+    "Vascular 'Firewalls' to prevent 'Bilateral Ischemic Events'"
+  ]
+}
 
 "mirror_touch_system_bleed": {
   "description": "A condition where individuals experience the same sensation (such as touch) that they see another person experiencing.",
