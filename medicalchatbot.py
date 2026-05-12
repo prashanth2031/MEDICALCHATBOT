@@ -116,6 +116,40 @@ medical_db = {
     "Maintaining 'High-Fidelity' visual-haptic 'Sync' during 'Remote Operation' or 'VR' sessions"
   ]
 }
+"anterograde_amnesia_write_fail": {
+  "description": "An inability to create new memories after the event that caused the amnesia, while long-term memories from before the event remain intact.",
+  "symptoms": [
+    "Write-Permission Error: New 'Data Packets' are trapped in 'Volatile RAM' (approx. 30-second buffer)",
+    "Persistence Failure: The 'System' cannot 'Commit' current 'Session Data' to 'Disk'",
+    "The 'Ten-Minute' Loop: Every time the 'Buffer' fills or a 'Context Switch' occurs, the 'User' resets to a 'Base State'",
+    "Procedural Redundancy: 'Implicit Skill Drivers' (e.g., learning to play a song) may still 'Compile' even if 'Semantic Logs' are missing",
+    "Time-Stamp Drift: The 'User' believes it is still the 'Date/Time' of the 'Last Successful Write'"
+  ],
+  "causes": [
+    "Hippocampal 'I/O Controller' Damage: Bilateral destruction of the 'Medial Temporal Lobe'",
+    "Thiamine 'Voltage Drop': (Korsakoff Syndrome) causing 'Severe Signal Interference' in memory circuits",
+    "Benzodiazepine 'System Overload': Temporary 'Write-Inhibition' caused by high 'Pharmacological Load'"
+  ],
+  "risk_factors": [
+    "Severe 'Encephalitis' (Kernel Infection)",
+    "Anoxic 'Power Failure' (Cardiac arrest cutting 'O2' to the 'Write Head')",
+    "Traumatic 'Brain Impact' leading to 'Storage Bus' disconnection"
+  ],
+  "diagnosis": [
+    "The 'Delayed Recall' Audit: Asking the 'User' to remember three 'Variables' after a 5-minute 'Sleep/Idle' period",
+    "Neuropsychological 'Log-Trace': Checking for 'Confabulation' (the 'System' inventing data to fill 'Null Pointers')",
+    "MRI 'Hardware Scan': Looking for 'Atrophy' in the 'CA1 Field' of the Hippocampus"
+  ],
+  "remedies": [
+    "External 'SSD' Integration: Using 'Physical Logs' (Notebooks/Phone Apps) to 'Store' data outside the 'Biological Hardware'",
+    "Procedural 'Shadowing': Leveraging 'Muscle Memory' drivers that bypass the 'Hippocampal Controller'",
+    "Error-less Learning: Hard-coding 'Routines' via 'Repetitive Buffer Injection'"
+  ],
+  "prevention": [
+    "Ensuring 'Nutritional Stability' (Thiamine/B1) to maintain 'Memory Controller' voltage"
+  ]
+}
+
 "hemispatial_neglect_coordinate_clipping": {
   "description": "A neuropsychological condition in which, after damage to one hemisphere of the brain is sustained, a deficit in attention to and awareness of one side of the field of vision is observed.",
   "symptoms": [
