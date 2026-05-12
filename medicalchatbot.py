@@ -46,6 +46,39 @@ medical_db = {
     "Ensuring 'Vascular Uptime' to the 'Structural Integrity' of the 'Right Temporal/Parietal' clusters"
   ]
 }
+"topographical_disorientation_routing_fault": {
+  "description": "An inability to orient oneself in the environment or navigate through spatial layouts, even in familiar territory.",
+  "symptoms": [
+    "Route-Table Corruption: The 'User' cannot calculate a 'Path' between two known 'Environment Nodes'",
+    "Landmark Recognition Failure (Agnosia): Identifying a 'Building' as an object but failing to retrieve its 'Spatial Address'",
+    "The 'Dead Reckoning' Bug: Inability to track 'Movement Vectors' (distance and direction) while navigating",
+    "Heading Disorientation: Losing the 'Mental Compass'—the 'User' does not know which way is 'Forward' relative to the map",
+    "Zero-Length Topology: Familiar streets appear as 'Isolated Assets' with no 'Connectivity' between them"
+  ],
+  "causes": [
+    "Grid-Cell Desync: Hardware failure in the 'Entorhinal Cortex' preventing 'Coordinate Generation'",
+    "Retrosplenial Translation Error: The 'Middleware' cannot map 'First-Person UI' to 'Global Map Data'",
+    "Hippocampal Atrophy: 'Storage Leak' or 'Physical Damage' to the 'Spatial Index'"
+  ],
+  "risk_factors": [
+    "Neurodegenerative 'Map Decay' (Early-stage Alzheimer’s)",
+    "Right Posterior 'Bus' Strokes (PCA territory)",
+    "Severe 'Developmental Boot Error' (Congenital lack of spatial mapping capacity)"
+  ],
+  "diagnosis": [
+    "The 'Mental Map' Audit: Asking the 'User' to 'Sketch the Topology' of their own home",
+    "The 'Virtual Maze' Stress Test: Navigating a 'Digital Sandbox' while measuring 'Pathfinding Efficiency'",
+    "POI Pointing: Asking the 'User' to point toward a 'Known Landmark' that is currently 'Off-Screen'"
+  ],
+  "remedies": [
+    "Hard-coded 'Navigation Scripts': Using written, step-by-step 'IF-THEN' instructions (e.g., 'If post office, then Turn Right')",
+    "External 'GPS Hardware': Total reliance on 'Mobile Mapping API' to handle all 'Spatial Logic'",
+    "Visual 'Anchoring': Training the 'User' to use 'Static Assets' (e.g., a specific mountain) as a 'Permanent Origin'"
+  ],
+  "prevention": [
+    "Cognitive 'Pinging': Regularly 'Exercising' the 'Spatial Navigation Engine' without 'External Assistance'"
+  ]
+}
 
 "zoster_sine_herpete": {
   "description": "Zoster sine herpete is a form of shingles where nerve pain occurs without the typical skin rash.",
