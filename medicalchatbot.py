@@ -46,6 +46,40 @@ medical_db = {
     "Ensuring 'Vascular Uptime' to the 'Structural Integrity' of the 'Right Temporal/Parietal' clusters"
   ]
 }
+"akinetopsia_motion_rendering_fault": {
+  "description": "A neuropsychological disorder in which a patient cannot perceive motion in their visual field, despite being able to see stationary objects.",
+  "symptoms": [
+    "Frame-Rate Throttling: The 'Viewport' drops from 60+ FPS to < 1 FPS",
+    "Strobe-Light Effect: Moving 'Assets' appear as 'Discrete Static Snapshots' with 'Visual Trails'",
+    "The 'Teleportation' Bug: Objects 'Jump' between 'Coordinates' without 'Interpolation'",
+    "Depth-from-Motion Failure: Inability to calculate 'ETA' for incoming 'Packets' (e.g., a ball or a car)",
+    "Temporal Aliasing: High-speed 'Events' are completely 'Dropped' by the 'Visual Kernel'"
+  ],
+  "causes": [
+    "V5/MT Hub Corruption: Bilateral damage to the 'Temporo-Occipital' junction",
+    "Motion-Vector 'Packet Loss': Failure of the 'Dorsal Stream' to sync 'Spatial' and 'Temporal' data",
+    "Severe 'Signal Jitter': Interference in the 'Thalamo-Cortical' bus responsible for 'Motion Integration'"
+  ],
+  "risk_factors": [
+    "Vascular 'Crashes' in the 'Middle Cerebral Artery' (MCA)",
+    "High-dosage 'Antidepressant Overload' (Temporary 'Software Lag')",
+    "Traumatic 'Inter-Cerebral' impact affecting the 'Motion-Logic' hardware"
+  ],
+  "diagnosis": [
+    "The 'Visual Persistence' Audit: Measuring the 'User's' ability to 'Track' a moving 'LED Cursor'",
+    "fMRI 'Motion-Stimuli' Scan: Checking for 'Zero Activity' in 'Area V5' during 'Moving Pattern' input",
+    "Fluid Dynamics Test: Observing the 'User's' ability to stop 'Liquid Flow' before 'Buffer Overflow'"
+  ],
+  "remedies": [
+    "Audio-Motion Mapping: Using 'Sound Frequency' (Doppler effect) to 'Simulate' velocity",
+    "Static-Point Navigation: Moving only when 'Assets' in the 'Environment' are 'Stationary'",
+    "Predictive Logic Training: Using 'Mental Math' to 'Calculate' future 'Coordinates' of moving objects"
+  ],
+  "prevention": [
+    "Protecting the 'V5 Processor' from 'Hypoxic Outages'"
+  ]
+}
+
 "topographical_disorientation_routing_fault": {
   "description": "An inability to orient oneself in the environment or navigate through spatial layouts, even in familiar territory.",
   "symptoms": [
