@@ -79,6 +79,39 @@ medical_db = {
     "Maintaining 'Signal-to-Noise' ratios in the 'Limbic-Cortical' bus"
   ]
 }
+"wernickes_semantic_parsing_fault": {
+  "description": "A type of aphasia in which the ability to grasp the meaning of spoken words and sentences is impaired, while the ease of producing connected speech is not very much affected.",
+  "symptoms": [
+    "Semantic Garbage: Speech is 'Fluent' but contains 'Null Meanings' or 'Word Salad'",
+    "Neologism Injection: The 'String Encoder' generates 'Illegal Characters' (made-up words)",
+    "Input Parsing Failure: 'Incoming Packets' (speech) are received but the 'Semantic Mapping' returns 404",
+    "Anosognosia: The 'User' is unaware that their 'Standard Output (stdout)' is corrupted",
+    "Press of Speech: The 'Kernel' continues to 'Broadcast' data at high 'Throughput' despite the 'Encoding Error'"
+  ],
+  "causes": [
+    "Left Temporal Gyrus 'Buffer Overflow': Damage to the 'Wernicke's Cluster'",
+    "Ischemic 'Network Outage': Blockage in the 'Inferior Division' of the 'Left MCA'",
+    "Synaptic 'Cross-Talk': Degeneration of the 'Semantic Network' links"
+  ],
+  "risk_factors": [
+    "Left-Hemisphere 'Stroke' affecting the 'Language Processing Unit'",
+    "Traumatic 'Hardware' damage to the 'Temporal Bus'",
+    "Advanced 'Neuro-Atrophy' (Dementia) affecting 'Lexical Storage'"
+  ],
+  "diagnosis": [
+    "The 'Tokenization' Audit: Asking the 'User' to follow 'Multi-Step Commands' (they fail to 'Parse' the instructions)",
+    "Output Log Analysis: Recording 'Speech Samples' to check for 'Semantic-to-Syntax' mismatch",
+    "The 'Naming' Test: Asking the 'User' to identify 'Assets' (they may use 'Circumlocution' or 'Pseudo-words')"
+  ],
+  "remedies": [
+    "Visual Symbol Mapping: Using 'Iconography' to bypass the 'Textual/Auditory Parser'",
+    "Social Contextualization: Relying on 'Metadata' (gestures, environment) to 'Infer' meaning",
+    "Speech-Language 'Refactoring': Intense 'Re-indexing' of words to 'Rebuild' the 'Dictionary'"
+  ],
+  "prevention": [
+    "Vascular 'Load Balancing' to prevent 'Left-Hemisphere' congestion"
+  ]
+}
 
 "akinetopsia_motion_rendering_fault": {
   "description": "A neuropsychological disorder in which a patient cannot perceive motion in their visual field, despite being able to see stationary objects.",
