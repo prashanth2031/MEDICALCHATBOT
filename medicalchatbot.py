@@ -46,6 +46,40 @@ medical_db = {
     "Ensuring 'Vascular Uptime' to the 'Structural Integrity' of the 'Right Temporal/Parietal' clusters"
   ]
 }
+"fregoli_hash_collision_fault": {
+  "description": "A delusion where the user believes that different people are actually a single person who changes appearance or is in disguise.",
+  "symptoms": [
+    "Identity Pointer Collision: Multiple 'Visual Objects' are resolved to the same 'User ID'",
+    "The 'Master-Key' Bug: A single 'Affective Token' (familiarity) is erroneously attached to 'Unknown Packets'",
+    "Hyper-Associative Search: The 'Pattern Matcher' finds 'Matches' with a 0.1% confidence threshold",
+    "Disguise-Logic Override: The 'Executive Layer' invents 'Scenarios' (makeup, wigs, masks) to explain 'Rendering Differences'",
+    "Paranoid Monitoring: The 'User' believes they are being 'Tracked' by the 'Single Entity' across 'Network Nodes'"
+  ],
+  "causes": [
+    "Dopaminergic 'Overclocking': Hyper-sensitivity in the 'Associative Hubs'",
+    "Fusiform-Amygdala 'Feedback Loop': The 'Familiarity Pulse' fires for every 'Incoming Frame'",
+    "Right Frontal 'Consistency Logic' Crash: Failure to 'Prune' irrational identity mappings"
+  ],
+  "risk_factors": [
+    "Dopamine-Agonist 'System Overload' (often in Parkinson's treatment)",
+    "Schizophrenic 'Feature Extraction' errors",
+    "Traumatic 'Right-Hemisphere' Hardware failure"
+  ],
+  "diagnosis": [
+    "The 'Visual Discriminator' Audit: Presenting the 'User' with 'Distinct Entities' and checking for 'Identity Convergence'",
+    "Autonomic 'Hyper-Arousal' Scan: Measuring 'Skin Conductance' across 'Variable Inputs' (finding constant high voltage)",
+    "Logical 'Constraint Test': Evaluating if the 'User' can accept the 'Parallel Existence' of the 'Entity'"
+  ],
+  "remedies": [
+    "Dopamine 'Throttling': Pharmacological 'Down-clocking' of the 'Pattern Recognition Engine'",
+    "Identity 'Sanity Checks': Using 'External Documentation' to 'Verify' the 'UUID' of strangers",
+    "Cognitive 'Logic-Gate' Repair: Training the 'Frontal Cortex' to 'Block' the 'Identity-Pointer' from firing without 'High-Confidence Data'"
+  ],
+  "prevention": [
+    "Maintaining 'Signal-to-Noise' ratios in the 'Limbic-Cortical' bus"
+  ]
+}
+
 "akinetopsia_motion_rendering_fault": {
   "description": "A neuropsychological disorder in which a patient cannot perceive motion in their visual field, despite being able to see stationary objects.",
   "symptoms": [
