@@ -250,6 +250,40 @@ medical_db = {
     "Maintaining 'High-Fidelity' visual-haptic 'Sync' during 'Remote Operation' or 'VR' sessions"
   ]
 }
+"witzelsucht_executive_satire_fault": {
+  "description": "A set of rare neurological symptoms characterized by a tendency to make puns, tell inappropriate jokes, or entertain pointless stories in socially unsuitable situations.",
+  "symptoms": [
+    "Infinite Pun-Loop: The 'Executive Layer' cannot suppress 'Word-Play' tokens",
+    "Context-Filter 403: Total disregard for 'Social Access Permissions' (e.g., joking during a 'System Crash' or 'Funeral')",
+    "Asymmetric Humor Validation: The 'User' perceives their own 'Output' as 'Peak Comedy' while being 'Blind' to 'External Feedback'",
+    "Hyper-Pranking: The 'Kernel' triggers 'Physical Interaction Bugs' (pranks) without 'User Authorization'",
+    "The 'Empty Registry' Effect: The 'User' may forget the 'Joke' immediately after 'Broadcast' (Persistence Error)"
+  ],
+  "causes": [
+    "Right Orbitofrontal Cortex 'Bus' Failure: Damage to the 'Frontal Inhibition Nodes'",
+    "Tumor-Induced 'Noise': Masses 'Pinging' the 'Humor Hub' into 'High-Availability' mode",
+    "Frontotemporal 'Logic Decay': Degeneration of the 'Social Middleware'"
+  ],
+  "risk_factors": [
+    "Right-Hemisphere 'Kernel Crashes' (Strokes)",
+    "Frontal Lobe 'Hardware Impact' (TBI)",
+    "Secondary 'Signal Drift' from Neurodegenerative 'Service Failures'"
+  ],
+  "diagnosis": [
+    "The 'Pun-Suppression' Audit: Asking the 'User' to inhibit a 'Word-Play' response to a 'Keyword'",
+    "The 'Affective Empathy' Scan: Checking if the 'User' can 'Parse' social distress in others",
+    "MRI 'Structural Integrity' Test: Locating 'Dead Zones' in the 'Inhibitory Control' centers"
+  ],
+  "remedies": [
+    "External 'Social-Proxy' Validation: Relying on a 'Trusted Node' (companion) to 'Signal' when to 'Mute'",
+    "Pharmacological 'Brake Injection': Using 'Serotonergic' modulators to 'Throttle' the 'Frontal Loop'",
+    "Cognitive 'Behavioral Patching': Training the 'Executive Layer' to 'Delay' output for 'Metadata Verification'"
+  ],
+  "prevention": [
+    "Ensuring 'Structural Uptime' of the 'Frontal-Limbic' connections"
+  ]
+}
+
 "anterograde_amnesia_write_fail": {
   "description": "An inability to create new memories after the event that caused the amnesia, while long-term memories from before the event remain intact.",
   "symptoms": [
