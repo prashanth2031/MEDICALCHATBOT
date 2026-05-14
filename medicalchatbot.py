@@ -147,6 +147,40 @@ medical_db = {
     "Maintaining 'Signal-to-Noise' ratios in the 'Limbic-Cortical' bus"
   ]
 }
+"anosognosia_diagnostic_report_fault": {
+  "description": "A condition in which a person who suffers some disability seems unaware of the existence of their disability.",
+  "symptoms": [
+    "Silent Exception: The 'Kernel' fails to log a 'Hardware Crash' to the 'Executive Layer'",
+    "The 'Phantom-Success' Bug: The 'User' believes an 'Action' was successful despite zero 'Actuator' movement",
+    "Confabulated Logging: The 'Reasoning Engine' generates 'Fake Metadata' to explain away 'Inactivity'",
+    "Permission Denied (Self): The 'User' cannot 'Access' the 'Truth' of their 'System State'",
+    "Risk-Assessment Failure: Attempting 'High-Bandwidth' tasks (walking) on 'Offline' hardware"
+  ],
+  "causes": [
+    "Right Parietal 'Bus' Failure: Damage to the 'Self-Monitoring' circuit",
+    "Anterior Insula 'Desync': Failure to integrate 'Internal Reality' with 'Mental Models'",
+    "Prefrontal 'Conflict-Resolution' Crash: Inability to reconcile 'Visual Evidence' with 'Internal Logs'"
+  ],
+  "risk_factors": [
+    "Right-Hemisphere 'Ischemic Event' (Stroke)",
+    "Traumatic 'Diagnostic Hub' damage",
+    "Advanced 'Neuro-Degenerative' system decay (e.g., Alzheimer's)"
+  ],
+  "diagnosis": [
+    "The 'Challenge' Audit: Asking the 'User' to perform a task with the 'Crashed Hardware' (observing the 'Excuses' generated)",
+    "The 'Mirror' Test: Checking if 'Visual Feedback' can 'Force' an 'Error Log' update",
+    "Vestibular 'Cold-Water' Stimulus: A temporary 'Hardware Reset' that sometimes 'Clears' the 'Diagnostic Cache' briefly"
+  ],
+  "remedies": [
+    "Cross-Modal 'Pinging': Using 'Visual' or 'Auditory' cues to 'Force-Write' the error to the 'Log'",
+    "Physical Therapy 'Feedback Loops': Strengthening the 'Alternative Data Paths' for 'State Awareness'",
+    "Social-Node Validation: Relying on 'External Network Status' (family/doctors) to 'Proxy' the 'Health Check'"
+  ],
+  "prevention": [
+    "Ensuring 'Redundant Diagnostic Circuits' through 'Cognitive Reserve'"
+  ]
+}
+
 "wernickes_semantic_parsing_fault": {
   "description": "A type of aphasia in which the ability to grasp the meaning of spoken words and sentences is impaired, while the ease of producing connected speech is not very much affected.",
   "symptoms": [
