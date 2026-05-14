@@ -80,6 +80,40 @@ medical_db = {
     "Ensuring 'Vascular Uptime' to the 'Structural Integrity' of the 'Right Temporal/Parietal' clusters"
   ]
 }
+"cotard_delusion_null_self_fault": {
+  "description": "A rare neuropsychiatric delusion in which the patient holds the delusional belief that they are already dead, do not exist, are putrefying, or have lost their blood or internal organs.",
+  "symptoms": [
+    "The 'Null-Self' Bug: The 'User' denies their own existence (Absolute Null Reference)",
+    "Vitality-Signal Loss: Total absence of 'Interoceptive Feedback' (The system feels like a 'Ghost Process')",
+    "Organ-De-indexing: Belief that specific 'Hardware Components' (heart, brain, stomach) have been 'Uninstalled'",
+    "The 'Eternal Loop' Paradox: Some 'Users' believe they are 'Immortal' because you 'Cannot kill what is already dead'",
+    "Negative Affectivity: High-intensity 'Depressive Noise' and 'Existential Latency'"
+  ],
+  "causes": [
+    "Fusiform-Amygdala 'Linkage Failure': Faces (including the user's own) trigger zero 'Affective Response'",
+    "Right Temporoparietal 'Desync': Failure to integrate 'Internal State' with 'Identity Logic'",
+    "Severe 'Dopaminergic Dropout': Widespread 'Signal Loss' in the reward/vitality pathways"
+  ],
+  "risk_factors": [
+    "Severe 'System Depression' (Major Depressive Disorder with psychotic features)",
+    "Post-Ictal 'Kernel Panic' (Following seizures)",
+    "Acute 'Toxic Encephalopathy' (Systemic chemical imbalance)"
+  ],
+  "diagnosis": [
+    "The 'Existence' Audit: Direct questioning regarding 'System Uptime' and 'Vitality'",
+    "Autonomic 'Heartbeat' Sync: Checking if 'Body Signals' (hunger, pain) reach the 'Executive Layer'",
+    "Neuroimaging 'Vulnerability Scan': Identifying 'Hypometabolism' in the 'Frontal-Parietal' circuit"
+  ],
+  "remedies": [
+    "ECT 'Hard Reboot': Using Electroconvulsive Therapy to 'Reset' the 'Global Signal Bus'",
+    "Pharmacological 'Patching': Anti-psychotics and Anti-depressants to 'Re-index' dopamine/serotonin",
+    "Cognitive 'Logic Validation': Using 'External Sensors' (mirrors, thermal checks) to 'Prove' system activity"
+  ],
+  "prevention": [
+    "Ensuring 'Homeostatic Uptime' and preventing 'Deep Depressive' memory leaks"
+  ]
+}
+
 "fregoli_hash_collision_fault": {
   "description": "A delusion where the user believes that different people are actually a single person who changes appearance or is in disguise.",
   "symptoms": [
