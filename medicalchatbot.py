@@ -13,6 +13,40 @@ medical_db = {
   "causes": ["Genetic factors", "Childhood trauma"],
   "remedies": ["Psychotherapy", "Medication"]
 },
+"apraxia_execution_driver_fault": {
+  "description": "A neurological disorder characterized by the inability to perform learned (familiar) movements on command, even though the command is understood and there is a willingness to perform the movement.",
+  "symptoms": [
+    "Instruction-Set Fragmentation: Inability to execute a multi-step 'Script' (e.g., 'Fold a letter, put it in an envelope')",
+    "Object-Mapping Error (Ideational): Attempting to use 'Peripherals' for the wrong 'Process' (e.g., using a spoon to write)",
+    "Spatial-Vector Failure (Ideomotor): The 'User' knows the goal but the 'Pathfinding' for the limb is clumsy and non-linear",
+    "Verbal-Execution Lag: The 'Speech Actuators' fail to coordinate the 'Complex Sequential Logic' of phonemes",
+    "Command-Line Timeout: Purposeful 'Input' fails, but 'Autonomous/Reflexive' movements may still trigger successfully"
+  ],
+  "causes": [
+    "Left Parietal 'Lobe' Corruption: Damage to the 'Motor-Planning Storage' library",
+    "Premotor 'Bus' Interruption: Lesions in the 'Frontal Planning Nodes'",
+    "Corpus Callosum 'Network Lag': Failure to transfer 'Spatial Instructions' across hemispheres"
+  ],
+  "risk_factors": [
+    "Cerebrovascular 'Packet Loss' (Stroke) in the 'Language/Action' dominant hemisphere",
+    "Neurodegenerative 'Code Decay' (Corticobasal Degeneration)",
+    "Traumatic 'Processor Impact' affecting the 'Sequential Logic' hubs"
+  ],
+  "diagnosis": [
+    "The 'Pantomime' Audit: Asking the 'User' to 'Simulate' an action (e.g., 'Show me how you use a hammer')",
+    "Sequential Task Stress-Test: Observing the 'User' while they perform a 'Compound Procedure' (e.g., making tea)",
+    "Imitation Tracking: Checking if the 'User' can 'Mirror' a 'Movement Pattern' rendered by another entity"
+  ],
+  "remedies": [
+    "Segmented 'Scripting': Breaking 'Tasks' into 'Atomic Commands' to reduce 'Compiler Load'",
+    "Occupational 'Firmware Updates': Repetitive 'Physical Training' to 'Hard-Code' new motor pathways",
+    "Multi-Sensory 'Pinging': Using 'Auditory Cues' (metronomes) to 'Sync' the 'Motor Clock'"
+  ],
+  "prevention": [
+    "Maintaining 'Vascular Throughput' to the 'Planning Layers' of the cortex"
+  ]
+}
+
 "capgras_idp_handshake_fault": {
   "description": "A delusion where the user recognizes a familiar person but believes they have been replaced by an identical imposter.",
   "symptoms": [
