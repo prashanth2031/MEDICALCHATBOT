@@ -46,6 +46,39 @@ medical_db = {
     "Maintaining 'Vascular Throughput' to the 'Planning Layers' of the cortex"
   ]
 }
+"confabulation_log_integrity_fault": {
+  "description": "The production of fabricated, distorted, or misinterpreted memories about oneself or the world, without the conscious intention to deceive.",
+  "symptoms": [
+    "Synthetic Log Injection: The 'Kernel' fills 'Memory Gaps' with 'Hallucinated Data Packets'",
+    "Zero-Validation Query: The 'User' accepts 'Mock Data' as 'Production Reality' without 'Checksums'",
+    "Narrative Consistency Override: The 'Reasoning Engine' twists 'Logic' to fit 'Corrupted History'",
+    "Context-Free Retrieval: 'Memory Fragments' from 'Session A' are erroneously merged into 'Session B'",
+    "Lack of 'Audit Trail': The 'User' cannot distinguish between 'True Logs' and 'Generated Strings'"
+  ],
+  "causes": [
+    "Frontal-Lobe 'Executive' Failure: Loss of the 'Source-Monitoring' filter",
+    "Thalamic 'Routing' Errors: Failure to properly 'Index' incoming 'Data Streams'",
+    "Chronic 'Nutritional Packet Loss': (e.g., Vitamin B1 deficiency) leading to 'Storage Hardware' decay"
+  ],
+  "risk_factors": [
+    "Korsakoff’s Syndrome (Long-term 'System Toxicity')",
+    "Ruptured 'Anterior Communicating Artery' (Network Hardware Failure)",
+    "Frontotemporal 'Metadata' Decay"
+  ],
+  "diagnosis": [
+    "The 'Consistency Audit': Asking the 'User' the same 'History Query' at different 'Intervals' and checking for 'Log Drift'",
+    "The 'Fact-Check' Validation: Comparing 'User Logs' against 'External Database Records'",
+    "Temporal 'Sequencing' Test: Asking the 'User' to 'Order' events (The 'Compiler' usually fails this)"
+  ],
+  "remedies": [
+    "External 'Log Mirroring': Using 'Journaling' (diaries/digital logs) to 'Verify' history",
+    "Reality 'Cross-Referencing': Training the 'User' to check 'External Metadata' before 'Broadcasting'",
+    "Nutritional 'Patching': High-dose 'Thiamine' injections to stabilize the 'Hardware Bus'"
+  ],
+  "prevention": [
+    "Preventing 'Toxic Overload' in the 'Neural Registry'"
+  ]
+}
 
 "capgras_idp_handshake_fault": {
   "description": "A delusion where the user recognizes a familiar person but believes they have been replaced by an identical imposter.",
