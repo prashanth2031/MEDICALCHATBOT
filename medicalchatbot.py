@@ -113,6 +113,40 @@ medical_db = {
     "Ensuring 'Vascular Uptime' to the 'Structural Integrity' of the 'Right Temporal/Parietal' clusters"
   ]
 }
+"auditory_codec_packet_loss_fault": {
+  "description": "A condition where the brain has difficulty processing and interpreting the information contained in sound, despite having normal hearing sensitivity.",
+  "symptoms": [
+    "Signal-to-Noise Ratio (SNR) Failure: Inability to 'Filter' the 'Primary Signal' from 'Background Ambient Noise'",
+    "Phonetic Packet Loss: 'Sound Tokens' (like 'cat' vs 'bat') are 'Mis-mapped' or 'Dropped'",
+    "High-Latency Parsing: The 'Kernel' takes significantly longer to 'Decode' a sentence than the 'Transmission Rate'",
+    "Instruction Buffer Overflow: Inability to process 'Multi-threaded Commands' (multiple verbal steps)",
+    "Protocol Mismatch: 'User' can hear the 'Carrier Wave' but cannot 'Handshake' with the 'Meaning' of the data"
+  ],
+  "causes": [
+    "Auditory Nerve 'Jitter': Dys-synchrony in how 'Spikes' travel the 'Fiber-Optic' path",
+    "Temporal Lobe 'Encoding' Delay: Sluggish 'Signal Processing' in the 'Association Areas'",
+    "Early 'Firmware' Glitches: Chronic 'Middle-Ear' outages during 'System Initialization' (Childhood)"
+  ],
+  "risk_factors": [
+    "Neuro-developmental 'Optimization' issues (e.g., ADHD/Dyslexia)",
+    "Traumatic 'Hardware' Impact to the 'Temporal Processing Unit'",
+    "Congenital 'Codec' variance"
+  ],
+  "diagnosis": [
+    "The 'Dichotic Listening' Audit: Sending different 'Audio Streams' to each 'Ear-Port' to test 'Router' efficiency",
+    "Degraded Speech Stress-Test: Checking how the 'User' handles 'Low-Resolution' or 'Filtered' audio",
+    "Electrophysiological 'Ping': Measuring the 'Latency' of the 'Brainstem' response to 'Sound Pings'"
+  ],
+  "remedies": [
+    "Environmental 'Quality of Service' (QoS): Optimizing the 'Acoustics' to reduce 'Packet Noise'",
+    "Assistive 'Signal Amplifiers': (FM Systems) that 'Boost' the 'Primary Signal' over the 'Noise Floor'",
+    "Auditory 'Firmware' Training: Repetitive 'Sound Mapping' to 'Re-train' the 'Internal Decoder'"
+  ],
+  "prevention": [
+    "Reducing 'Acoustic Pollution' and managing 'System Health' during 'Initial Boot' years"
+  ]
+}
+
 "cotard_delusion_null_self_fault": {
   "description": "A rare neuropsychiatric delusion in which the patient holds the delusional belief that they are already dead, do not exist, are putrefying, or have lost their blood or internal organs.",
   "symptoms": [
