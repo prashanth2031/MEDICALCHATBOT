@@ -315,6 +315,39 @@ medical_db = {
     "Protecting the 'V5 Processor' from 'Hypoxic Outages'"
   ]
 }
+"prosopagnosia_identity_mapping_fault": {
+  "description": "A cognitive disorder of face perception where the ability to recognize familiar faces, including one's own, is impaired, while other aspects of visual processing remain intact.",
+  "symptoms": [
+    "Identity-Hash Failure: The 'System' cannot generate a 'Unique Key' from facial features",
+    "Feature-Object Decoupling: Seeing 'Components' (eyes, nose) but failing to 'Assemble' the 'Identity-Object'",
+    "The 'Generic Template' Bug: All faces are perceived as 'Placeholder Avatars'",
+    "Context-Dependent Workarounds: Relying on 'Secondary Metadata' (voice, hair, gait, clothing) to 'Identify' entities",
+    "Self-Reference Timeout: Inability to recognize one's own 'System Image' in a mirror (in severe cases)"
+  ],
+  "causes": [
+    "Fusiform Face Area (FFA) 'Core' Damage: Lesions or 'Hardware Impact' to the 'Right Temporal Hub'",
+    "Ventral Stream 'Data-Bus' Interruption: Failure to 'Pipe' visual data to the 'Identity-Matching' layer",
+    "Congenital 'Firmware' Variance: A 'Factory Setting' where the 'Face-Decoder' was never fully 'Initialized'"
+  ],
+  "risk_factors": [
+    "Occipitotemporal 'Packet Loss' (Stroke)",
+    "Traumatic 'Processor Impact' (TBI)",
+    "Acute 'Signal Decay' from carbon monoxide or specific 'Toxins'"
+  ],
+  "diagnosis": [
+    "The 'Famous Faces' Audit: Testing if the 'User' can 'Fetch' names from 'High-Confidence' visual inputs",
+    "Benton Facial Recognition Test: Checking 'Matching Logic' for 'Unfamiliar Face Objects'",
+    "The 'Inversion' Test: Determining if 'Upside-Down' faces (which bypass the FFA) are 'Parsed' differently"
+  ],
+  "remedies": [
+    "Attribute-Tagging: Training the 'Executive Layer' to 'Manual-Index' unique 'Features' (e.g., 'Entity-42 has a mole')",
+    "Multi-Modal 'Handshaking': Relying on 'Voice Codecs' or 'Olfactory Pings' to 'Verify' identity",
+    "Environmental 'Tagging': Asking 'Known Nodes' to wear 'Distinctive Metadata' (bright colors/specific jewelry)"
+  ],
+  "prevention": [
+    "Maintaining 'Structural Integrity' of the 'Ventral Visual Stream'"
+  ]
+}
 
 "topographical_disorientation_routing_fault": {
   "description": "An inability to orient oneself in the environment or navigate through spatial layouts, even in familiar territory.",
