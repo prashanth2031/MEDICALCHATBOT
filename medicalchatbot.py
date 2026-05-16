@@ -45,6 +45,40 @@ medical_db = {
   "prevention": [
     "Maintaining 'Vascular Throughput' to the 'Planning Layers' of the cortex"
   ]
+"catatonia_motor_deadlock_fault": {
+  "description": "A complex neuropsychiatric syndrome characterized by a severe disruption in motor behavior, volition, and state transitions, ranging from complete immobility to purposeless excitement.",
+  "symptoms": [
+    "Motor Stupor: Total execution freeze; 'Active Threads' are starved of CPU cycles despite normal intent",
+    "Waxy Flexibility: The 'Hardware' maintains arbitrary, externally imposed positions (Forced State Persistence)",
+    "Negativism: An involuntary bitwise NOT operation applied to incoming commands (e.g., resisting physical adjustment or doing the exact opposite)",
+    "Catalepsy: Spontaneous, rigid posture maintenance against gravity without 'Command Timeout'",
+    "Echolalia / Echopraxia: The 'I/O Subsystem' directly mirrors external inputs (strings/actions) without processing them through the 'Executive Layer'"
+  ],
+  "causes": [
+    "GABA-A Receptor Downregulation: Severe drop in the 'Inhibitory Gateway' voltage, causing erratic thread scheduling",
+    "Dopaminergic Hyper-Hypo Oscillations: Sudden crashes in the 'Basal Ganglia' routing buses",
+    "Thalamocortical Signaling Lockout: Feedback loops between the sensory routers and the motor cortex get stuck in an infinite loop"
+  ],
+  "risk_factors": [
+    "Severe systemic psychiatric 'Kernel Panics' (Major mood disorders or schizophrenia)",
+    "Abrupt 'Withdrawal' from high-load neurological modulators (GABA agonists)",
+    "Encephalitis or metabolic 'Power Spikes' targeting deep brain structures"
+  ],
+  "diagnosis": [
+    "The 'Lorado' Lorazepam Challenge: Injecting a fast-acting GABA agonist to temporarily 'Clear the Thread Lock' and restore movement",
+    "Waxy Resistance Profiling: Manually shifting a limb to observe uniform, joint-like 'Plastic Resistance'",
+    "Autonomic Stability Scan: Monitoring for 'Hyper-Vigilant' metrics (tachycardia, hypertension) indicating an active internal process"
+  ],
+  "remedies": [
+    "GABA-A Gateway Flooding: High-dose Benzodiazepine administration to force-release the motor locks",
+    "ECT Shock Reboot: Electroconvulsive therapy to disrupt the synchronized deadlock waves across the cortex",
+    "Environmental De-escalation: Reducing packet traffic (noise, light) to lower the load on the scheduling engine"
+  ],
+  "prevention": [
+    "Strict management of neurotransmitter 'Thread Pools' and avoiding sudden medication terminations"
+  ]
+}
+
 "dyschronometria_clock_drift_fault": {
   "description": "A condition seen typically in cerebellar damage where an individual cannot accurately estimate the passage of time, leading to coordination and scheduling failures.",
   "symptoms": [
