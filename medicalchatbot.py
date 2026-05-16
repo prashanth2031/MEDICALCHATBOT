@@ -45,6 +45,40 @@ medical_db = {
   "prevention": [
     "Maintaining 'Vascular Throughput' to the 'Planning Layers' of the cortex"
   ]
+"dyschronometria_clock_drift_fault": {
+  "description": "A condition seen typically in cerebellar damage where an individual cannot accurately estimate the passage of time, leading to coordination and scheduling failures.",
+  "symptoms": [
+    "Clock Skewing: Massive 'Delta' variance between 'Perceived Time' and the 'Physical World Clock'",
+    "Thread-Timeout Blindness: Inability to gauge how long an active 'Process' (e.g., waiting, boiling water) has been executing",
+    "Chronological Re-ordering: Minor 'Log Events' appear out of sequence due to 'Timestamp Corruption'",
+    "Rhythm Interruption: Failure to maintain a constant 'Execution Cadence' (e.g., tapping a steady beat)",
+    "Future-State Estimation Failure: Inability to calculate 'ETA' for upcoming, time-dependent routines"
+  ],
+  "causes": [
+    "Cerebellar 'Clock-Line' Interruption: Damage to the lateral hemispheres responsible for 'Millisecond-level Integration'",
+    "Basal Ganglia 'Striatal Dopamine' Drop: Degradation of the interval timer's 'Interval Step Engine'",
+    "Prefrontal-Parietal Network Lag: Failure to 'Flush' the temporal accumulation buffer"
+  ],
+  "risk_factors": [
+    "Cerebellar 'Ischemic Outage' (PICA/AICA Stroke)",
+    "Traumatic 'Hardware' Shock to the posterior fossa",
+    "Advanced Neuro-degenerative 'Drift' affecting the 'Striatal Pacemaker'"
+  ],
+  "diagnosis": [
+    "The 'Interval Production' Audit: Requesting the 'User' to manually signal when '60 Seconds' have elapsed",
+    "The 'Duration Discrimination' Test: Presenting two 'Execution Threads' (tones) and checking if the 'User' can parse which ran longer",
+    "Rhythmic Tapping Profiling: Measuring 'Clock Jitter' using high-frequency sensor telemetry"
+  ],
+  "remedies": [
+    "External Interrupt Schedulers: Heavy reliance on 'Hardware Timers' (alarms, stopwatches) to trigger context switches",
+    "Visual Timeline Injections: Using a constant 'Progress Bar' overlay to anchor temporal progression",
+    "Paced Cognitive Routines: Hard-coding explicitly timed physical sequences to calibrate internal loops"
+  ],
+  "prevention": [
+    "Protecting 'Vertebrobasilar Throughput' to maintain voltage to the cerebellar tracking cluster"
+  ]
+}
+
 }
 "confabulation_log_integrity_fault": {
   "description": "The production of fabricated, distorted, or misinterpreted memories about oneself or the world, without the conscious intention to deceive.",
