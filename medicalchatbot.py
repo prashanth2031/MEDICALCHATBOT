@@ -180,6 +180,40 @@ medical_db = {
     "Reducing 'Acoustic Pollution' and managing 'System Health' during 'Initial Boot' years"
   ]
 }
+"aiws_viewport_scaling_fault": {
+  "description": "A neuropsychological condition causing distortions in visual perception, body schema, and the perceived size, distance, or shape of objects.",
+  "symptoms": [
+    "Micropsia / Macropsia: Objects in the environment are rendered with incorrect scale factors (too small or too large)",
+    "Pelopsia / Teleopsia: Real-time depth calculations fail, making assets appear much closer or further away than true coordinates dictate",
+    "Metamorphopsia: Linear geometric edges are processed with structural warping (straight lines appearing curved or jagged)",
+    "Somatosensory Somatognosis Drift: The 'User' perceives parts of their own 'Hardware' (e.g., hands, head) changing dimensions dynamically",
+    "Temporal Distortion: Often runs concurrently with clock failures, causing events to feel artificially accelerated or decelerated"
+  ],
+  "causes": [
+    "Cortical Spreading Depression: Electrical wave anomalies propagating through the 'Parieto-Occipital' rendering pipeline",
+    "Temporal-Parietal-Occipital (TPO) Junction Congestion: Middleware processing bottlenecks distorting integrated sensory packets",
+    "Infectious Encephalitis: (e.g., Epstein-Barr virus) introducing localized 'Signal Noise' into spatial monitoring networks"
+  ],
+  "risk_factors": [
+    "Severe Migraine Aura states (Transient hardware overvoltage)",
+    "Pediatric 'System Boot' phases (Highly prevalent in children during late evening idle cycles)",
+    "Temporal Lobe Epilepsy (Unscheduled kernel discharges)"
+  ],
+  "diagnosis": [
+    "The 'Scale Validation' Audit: Testing if the 'User' can manually calibrate an on-screen box to match a known physical object's dimensions",
+    "Amsler Grid Monitoring: Tracking real-time 'Line Trajectory Warping' in the visual field",
+    "EEG Neurometric Sweep: Scanning for 'Paroxysmal Discharges' in the posterior tracking hubs during an active episode"
+  ],
+  "remedies": [
+    "Environmental 'Dark Mode': Minimizing sensory input (reducing screen/light bandwidth) to let the 'Parietal Matrix' reset",
+    "Pharmacological 'Voltage Clamping': Using anti-epileptics or beta-blockers to stabilize electrical propagation",
+    "Tactile Re-anchoring: Utilizing heavy, consistent physical feedback to force-recalibrate the somatosensory map"
+  ],
+  "prevention": [
+    "Identifying and blacklisting sensory triggers (e.g., blue-light flickers, extreme fatigue) that disrupt visual-bus stability"
+  ]
+}
+
 
 "cotard_delusion_null_self_fault": {
   "description": "A rare neuropsychiatric delusion in which the patient holds the delusional belief that they are already dead, do not exist, are putrefying, or have lost their blood or internal organs.",
