@@ -181,6 +181,39 @@ medical_db = {
     "Preventing 'Toxic Overload' in the 'Neural Registry'"
   ]
 }
+"inanimate_capgras_checksum_fault": {
+  "description": "A delusional misidentification syndrome where the user believes that familiar inanimate objects, places, or physical assets have been replaced with exact duplicates or replicas.",
+  "symptoms": [
+    "Asset Checksum Failure: Physical objects match visual profiles perfectly but fail authenticity validation",
+    "Environment Spoof Alert: The belief that one's entire local station (e.g., home or neighborhood) is a mock replica or movie set",
+    "The 'Imposter Object' Paradox: The user treats their own possessions with suspicion, claiming they are 'clones'",
+    "Localized Paranoia: Believing an unknown entity is systematically swapping out real assets for identical counterfeits",
+    "Functional Redundancy: The user may recognize the object works identically (e.g., 'it keys my car') but denies its true origin"
+  ],
+  "causes": [
+    "Visual-to-Limbic Linkage Failure: Structural disconnection between the object-processing nodes and the emotional indexing core",
+    "Right Hemisphere Integration Crash: Failure to synthesize spatial context with emotional memory tags",
+    "Perceptual Isolation: Selective processing decay within the parahippocampal place area (PPA)"
+  ],
+  "risk_factors": [
+    "Right-hemisphere cerebrovascular incidents (MCA/PCA Strokes)",
+    "Advanced neurodegenerative drift (Lewy Body Dementia or Alzheimer's affecting object-memory indices)",
+    "Post-traumatic encephalopathy targeting the visual integration buses"
+  ],
+  "diagnosis": [
+    "The 'Asset Identity' Audit: Evaluating the user's emotional reaction to personal vs. completely novel objects",
+    "Cross-Modal Discrepancy Test: Checking if touching or using the object blindfolded bypasses the visual token failure",
+    "Functional Connectivity Mapping: Spotting signal blocks along the ventral pathway to the amygdala network"
+  ],
+  "remedies": [
+    "Multi-Sensory Verification: Utilizing alternative input buses (auditory sound cues or tactile textures) to bypass the visual fault",
+    "Cognitive Patching: Helping the executive layer ignore the 'missing token' by verifying the item's immutable physical traits",
+    "Environmental Stabilization: Keeping the local station completely unchanged to reduce asset indexing load"
+  ],
+  "prevention": [
+    "Mitigating vascular stress and preventing micro-packet loss in the occipitotemporal highways"
+  ]
+}
 
 "capgras_idp_handshake_fault": {
   "description": "A delusion where the user recognizes a familiar person but believes they have been replaced by an identical imposter.",
