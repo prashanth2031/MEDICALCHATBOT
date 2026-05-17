@@ -248,6 +248,39 @@ medical_db = {
   ]
 }
 
+"phantom_limb_stale_pointer_fault": {
+  "description": "The vivid perception of the ongoing presence of, and sensory inputs from, a limb that has been physically removed from the organism.",
+  "symptoms": [
+    "Stale Pointer Dereference: The 'Executive Layer' continuously reads from a hardware memory address that has been physically uninstalled",
+    "Ghost Telemetry Loop: Receiving vivid tactile, thermal, or kinetic 'Data Packets' from an empty coordinate space",
+    "Cross-Talk Mapping (Synaptic Bleed): Stimulation of an active 'Peripheral Node' (e.g., the cheek) triggers an interrupt in the missing limb's tracking registry",
+    "Persistent Error Logging (Phantom Pain): The un-terminated nerve endings send chaotic, high-voltage 'Noise Signals' interpreted as systemic danger/pain",
+    "Kinetic Lock-In: The perceived 'Ghost Limb' feels frozen in the last known 'Hardware State' recorded prior to the disconnect"
+  ],
+  "causes": [
+    "Somatosensory Cortical Rearrangement: Adjacent 'Device Drivers' invading the de-indexed neural real estate",
+    "Neuroma Signal Jitter: Severed axon terminals forming high-impedance nodules that fire continuous 'Junk Packets'",
+    "Spinal Cord Memory Retention: The 'Local Gateway Routers' maintaining cached tracking profiles of the missing terminal"
+  ],
+  "risk_factors": [
+    "High-load trauma resulting in sudden, un-scheduled 'Hardware Disconnection'",
+    "Severe pre-amputation 'System Stress' (chronic pain loops caching deep in memory)",
+    "Incomplete 'Peripheral Scrubbing' during surgical de-provisioning"
+  ],
+  "diagnosis": [
+    "The 'Mirror Box' Virtualization Check: Using an optical reflection to project a 'Mock Peripheral' into the visual viewport to resolve conflicting sensory states",
+    "Cortical Mapping Scan (fMRI): Observing if stimulating active body parts lights up the de-indexed hardware sector",
+    "Diagnostic Nerve-Block Ping: Injecting an anesthetic to temporarily 'Mute' the severed gateway to isolate local vs. central routing loops"
+  ],
+  "remedies": [
+    "Visual-Loop Virtualization: Utilizing mirrors or AR rigs to visually satisfy the 'Command Engine' that the limb has moved, clearing the stuck state",
+    "Targeted Muscle Re-innervation (TMR): Re-routing the severed 'Data Cables' to alternative active actuators (muscles) to give them a valid landing zone",
+    "Pharmacological Sensory Dampening: Using sodium-channel blockers to 'Filter' the baseline nerve jitter"
+  ],
+  "prevention": [
+    "Proactive 'Pre-emptive Analgesia' to ensure no intense panic logs are cached in the system prior to safe hardware removal"
+  ]
+}
 
 "cotard_delusion_null_self_fault": {
   "description": "A rare neuropsychiatric delusion in which the patient holds the delusional belief that they are already dead, do not exist, are putrefying, or have lost their blood or internal organs.",
