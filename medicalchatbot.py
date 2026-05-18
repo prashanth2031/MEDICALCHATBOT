@@ -145,6 +145,39 @@ medical_db = {
     "Maintaining stable systemic blood pressure to protect the posterior cerebral blood flow routes"
   ]
 }
+"tga_ephemeral_cache_fault": {
+  "description": "A temporary, absolute disruption of short-term memory formation accompanied by anterograde amnesia and mild retrograde amnesia, while core identity and cognitive processing remain fully operational.",
+  "symptoms": [
+    "Anterograde Log Block: Absolute inability to commit new memory packets to persistent storage fields",
+    "The 'Infinite Polling' Loop: The execution thread repeatedly runs the exact same environmental status query (e.g., 'What day is it?') every time the cache wraps around",
+    "Intact Core Runtime: Deep-layer firmware (language parsing, motor navigation, professional skill execution) runs with zero degradation",
+    "Retrograde Lookback Ceiling: A transient, shifting block preventing access to long-term memory logs created immediately prior to the event window",
+    "Self-Limiting Recovery: Automatic garbage collection and node re-initialization typically occur within a 4 to 24-hour window"
+  ],
+  "causes": [
+    "Transient Venous Congestion: Micro-backflow in the 'Internal Jugular' routing lines, starving the hippocampal structures of oxygenated power packets",
+    "Glutamate Excitotoxicity Cascade: An un-throttled surge of incoming neurotransmitter packets overloading the CA1 memory cluster nodes",
+    "Localized Spreading Depression: A slow-moving wave of electrical silence suppressing the short-term cache architecture"
+  ],
+  "risk_factors": [
+    "Sudden temperature spikes (e.g., cold-water immersion or 'Thermal Shock')",
+    "High-load physical exertion or valsalva strain (Overpressurizing the data bus)",
+    "Acute psychogenic panic states (Kernel over-allocation)"
+  ],
+  "diagnosis": [
+    "The 'Three-Word Retention' Ping: Injecting three unique strings into the cache and testing if they are completely evicted after a 120-second delta",
+    "Neurological Focal Sweep: Confirming the absence of focal motor drops or language syntax corruption to isolate the error to memory storage",
+    "Diffusion-Weighted MRI: Scanning for pinpoint micro-vacuoles or signaling drops in the CA1 sector of the hippocampus"
+  ],
+  "remedies": [
+    "System Throttling: Enforcing a low-load, low-stimulus state to reduce the write operations sent to the failing cache",
+    "Reassurance Script Injection: Flooding the input bus with a static string ('You are safe, your system is temporarily recovering') to prevent panic threads from spawning",
+    "Time-Elapsed Waiting: Allowing the biological garbage collector to clear the underlying vascular congestion naturally"
+  ],
+  "prevention": [
+    "Avoiding extreme, un-buffered physical or thermal transitions that destabilize cerebral blood flow networks"
+  ]
+}
 
 
 "catatonia_motor_deadlock_fault": {
