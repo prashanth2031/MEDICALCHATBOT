@@ -45,6 +45,40 @@ medical_db = {
   "prevention": [
     "Maintaining 'Vascular Throughput' to the 'Planning Layers' of the cortex"
   ]
+"visual_agnosia_inference_fault": {
+  "description": "A neurological impairment characterized by the inability to recognize and name familiar objects visually, despite intact raw visual acuity and sensory processing.",
+  "symptoms": [
+    "Classification Null-Pointer: The 'User' looks directly at an asset but the semantic class label returns null or blank",
+    "Feature-Label Disconnection: Ability to parse structural parameters (colors, edges) without compiling them into an object identity",
+    "Tactile-Bypass Recovery: Physical interaction (touching the object) immediately routes data through an alternative bus, triggering successful classification",
+    "Contextual Guessing: The 'Reasoning Engine' attempts to infer the asset's identity based purely on environment telemetry (e.g., assuming an unknown object on a stove must be a pot)",
+    "Prosopagnosia Escalation Risks: Often co-exists with face-classification drops if the structural damage propagates across the ventral highway"
+  ],
+  "causes": [
+    "Lateral Occipital Complex (LOC) Outage: Structural degradation of the primary geometry classification hubs",
+    "Ventral Stream Disconnection: Disruption of the high-speed data bus connecting early visual filters to semantic memory registers",
+    "Carbon Monoxide Toxicity or Hypoxic System Reset: Selective damage to vulnerable inference nodes during low-voltage states"
+  ],
+  "risk_factors": [
+    "Bilateral Posterior Cerebral Artery (PCA) ischemic events",
+    "Anoxic brain damage (Temporary loss of oxygen supply to the rendering clusters)",
+    "Localized trauma to the ventral occipitotemporal processing zones"
+  ],
+  "diagnosis": [
+    "The 'Visual Object Naming' Audit: Presenting standard physical assets (e.g., a comb, a watch) and tracking classification accuracy",
+    "Real-Time Copy-Drawing Validation: Requesting the 'User' to draw a copy of an object; if they draw it perfectly but cannot name it, the agnosia glitch is verified",
+    "Cross-Modal Matching Test: Testing classification via visual inputs versus tactile/auditory inputs"
+  ],
+  "remedies": [
+    "Multi-Modal Sensor Integration: Explicitly relying on tactile (touch) or haptic interaction to force-trigger classification loops",
+    "Verbal Metadata Streaming: Having companions verbally pass object IDs to skip the visual inference engine entirely",
+    "Structural Environmental Rules: Sorting physical assets into highly predictable, fixed locations to minimize the need for active classification"
+  ],
+  "prevention": [
+    "Maintaining stable systemic blood pressure to protect the posterior cerebral blood flow routes"
+  ]
+}
+
 "synesthesia_pipeline_routing_fault": {
   "description": "A neurological condition where stimulation of one sensory or cognitive pathway leads to involuntary, automatic experiences in a second sensory or cognitive pathway.",
   "symptoms": [
