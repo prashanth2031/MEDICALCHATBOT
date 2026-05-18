@@ -78,6 +78,40 @@ medical_db = {
     "Maintaining stable systemic blood pressure to protect the posterior cerebral blood flow routes"
   ]
 }
+"misophonia_hardware_interrupt_fault": {
+  "description": "A neurobehavioral syndrome characterized by an immediate, intense emotional and physiological panic/anger response triggered by highly specific, low-volume acoustic patterns.",
+  "symptoms": [
+    "Acoustic Firewall Bypass: Low-amplitude background packets slip past sensory gating layers with zero attenuation",
+    "Instantaneous Priority Inversion: Trivial audio streams instantly preempt high-level cognitive threads",
+    "Autonomous Panic Spike: Immediate, involuntary activation of the sympathetic nervous system (tachycardia, diaphoresis)",
+    "Hyper-Vigilant Buffer Allocation: The 'User' locks their sensory focus onto the source of the noise, starving other applications of attention",
+    "Aggressive Local Defense: An immediate behavioral command to terminate the external noise source or evacuate the current station"
+  ],
+  "causes": [
+    "Auditory-Limbic Hyper-Connectivity: Abnormally high-bandwidth structural routing wires connecting the auditory cortex directly to the defensive amygdala network",
+    "Thalamic Gating Failure: Structural degradation of the inhibitory interneurons responsible for dropping repetitive background data packets",
+    "Prefrontal Top-Down Control Drop: Failure of the executive layer to send suppression signals to the sensory router"
+  ],
+  "risk_factors": [
+    "Congenital routing variations compiled during early development",
+    "High baseline systemic burnout (lowering the threshold for interrupt handling)",
+    "Co-occurring sensory processing optimization variances"
+  ],
+  "diagnosis": [
+    "The 'Trigger Audio' Load Test: Exposing the system to specific isolated sound strings and measuring immediate galvanic skin response changes",
+    "Audiometric Decibel Isolation: Verifying the panic response occurs independently of sound volume (ruling out physical hardware damage like hyperacusis)",
+    "Functional Connectivity Mapping: Tracing active packet routing loops during an exposure event using fMRI tracking"
+  ],
+  "remedies": [
+    "White-Noise Masking Sideload: Overlaying a continuous broadband noise stream to saturate the sensory input buffer and obscure the trigger signature",
+    "Cognitive Patching (CBT): Attempting to re-route the downstream response handler away from the panic core via long-term iterative training",
+    "Input Isolation hardware: Utilizing high-attenuation physical ear-defenders to drop external packet ingestion to zero"
+  ],
+  "prevention": [
+    "Proactive management of systemic load metrics to ensure the executive layer has sufficient headroom to handle unexpected interrupts"
+  ]
+}
+
 "tga_ephemeral_cache_fault": {
   "description": "A temporary, absolute disruption of short-term memory formation accompanied by anterograde amnesia and mild retrograde amnesia, while core identity and cognitive processing remain fully operational.",
   "symptoms": [
