@@ -45,6 +45,40 @@ medical_db = {
   "prevention": [
     "Maintaining 'Vascular Throughput' to the 'Planning Layers' of the cortex"
   ]
+"antons_syndrome_denial_fault": {
+  "description": "A rare neurological condition where cortical blindness is accompanied by a severe deficit in self-awareness (anosognosia), causing the user to deny their visual impairment and fabricate visual details.",
+  "symptoms": [
+    "False-Positive Status Flag: The internal diagnostic layer reports 'Vision Online' despite complete physical feed failure",
+    "Confabulation Buffer: The executive engine fills the empty visual buffer with high-probability predictions from context",
+    "Anosognosia: A critical breakdown in the self-monitoring diagnostic module, making the user incapable of acknowledging the system crash",
+    "Sensor Fusion Override: The user prioritizes predicted (hallucinated) data over actual sensory discrepancies",
+    "Systemic Denial: The user becomes combative or defensive when presented with 'Data Mismatch' evidence (e.g., walking into a physical barrier)"
+  ],
+  "causes": [
+    "Bilateral Occipital Lobe Infarction: Total blackout of the primary rendering clusters",
+    "Executive Diagnostic Path Break: Failure of the self-monitoring circuit to detect the visual subsystem failure",
+    "Limbic-Occipital Disconnect: The executive layer refuses to accept the negative telemetry from the sensory buses"
+  ],
+  "risk_factors": [
+    "Severe Posterior Cerebral Artery (PCA) stroke",
+    "Occipital lobe trauma (physical impact affecting the rendering hardware)",
+    "Severe systemic hypotension leading to localized neural necrosis"
+  ],
+  "diagnosis": [
+    "The 'Visual Discrepancy' Test: Directly exposing the system to clearly contradicting inputs (e.g., asking 'what color is this object?' while holding a clearly different color item) and analyzing if the system admits failure or doubles down",
+    "Hardware Connectivity Scan: Using MRI/CT to confirm physical rendering unit damage",
+    "Self-Report Audit: Comparing self-reported visual status against actual physical navigation performance"
+  ],
+  "remedies": [
+    "Diagnostic Re-Routing: Gently introducing incontrovertible physical evidence of the discrepancy to trigger a secondary logic check",
+    "Executive-Level 'Safe-Mode' Initiation: Forcing the system to acknowledge a critical subsystem failure through repeated, non-confrontational testing",
+    "Supportive Environmental Stabilization: Designing the physical environment to prevent navigation errors caused by the 'False-Positive' visual state"
+  ],
+  "prevention": [
+    "Maintaining stable vascular integrity to the occipital rendering nodes"
+  ]
+}
+
 "visual_agnosia_inference_fault": {
   "description": "A neurological impairment characterized by the inability to recognize and name familiar objects visually, despite intact raw visual acuity and sensory processing.",
   "symptoms": [
