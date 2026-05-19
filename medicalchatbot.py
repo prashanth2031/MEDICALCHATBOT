@@ -78,6 +78,39 @@ medical_db = {
     "Maintaining stable vascular integrity to the occipital rendering nodes"
   ]
 }
+"cotards_identity_deletion_fault": {
+  "description": "A rare nihilistic delusion where the user maintains absolute conviction that they are dead, do not exist, are rotting, or have lost all internal organs, despite intact somatic execution.",
+  "symptoms": [
+    "Self-Reference NullPointer: The central identity index returns null or a deleted status code upon system query",
+    "Somatic Neglect: The belief that internal hardware components (heart, lungs, intestines) have been uninstalled or are actively putrefying",
+    "Nihilistic Execution Loop: Complete withdrawal from system maintenance subroutines (eating, washing, hydrating) because 'dead objects do not require resource allocation'",
+    "Immortality Paradox: A secondary logic flaw where the user believes they cannot die permanently because they are already in a post-termination state",
+    "Analgesic Insensitivity: Reduced responsiveness to physical pain telemetry, as the system interprets pain signals as processing noise on a dead node"
+  ],
+  "causes": [
+    "Frontal-Limbic Disconnection: Total breakdown between the conceptual self-monitoring nodes and the emotional resonance registers",
+    "Default Mode Network (DMN) Desynchronization: Severe suppression of the neural clusters responsible for ego-state preservation",
+    "Deep-Layer Dopaminergic Shutdown: Complete loss of reward and vitality gating signals, causing a 'Zero-State' perception of existence"
+  ],
+  "risk_factors": [
+    "Severe psychotic depression (Massive system-wide thread suppression)",
+    "Encephalitis targeting the frontotemporoparietal integration hubs",
+    "Advanced neurodegenerative drift affecting deep midline cortical structures"
+  ],
+  "diagnosis": [
+    "The 'Identity Attestation' Audit: Evaluating the user's reaction to their own reflection or physical heartbeat",
+    "Resource Deprivation Tracking: Monitoring intentional refusal of vital biological inputs based on existential logic arguments",
+    "Functional Connectivity Mapping: Spotting profound hypometabolism in the medial prefrontal and parietal networks"
+  ],
+  "remedies": [
+    "Somatic Shock Re-Initialization (ECT): Utilizing high-voltage electrical synchronization to force a hard reset of the DMN and neural transmitters",
+    "Pharmacological Patching: Deploying heavy dopaminergic and serotonergic updates to restore emotional resonance to self-referential tracking",
+    "Tactile Validation Input: Using intense sensory feedback (e.g., thermal changes, deep pressure haptics) to force-write an 'Active' state back to the insula"
+  ],
+  "prevention": [
+    "Aggressive intervention during severe depressive crashes to prevent the identity tracking thread from dropping into unrecoverable null states"
+  ]
+}
 
 "visual_agnosia_inference_fault": {
   "description": "A neurological impairment characterized by the inability to recognize and name familiar objects visually, despite intact raw visual acuity and sensory processing.",
