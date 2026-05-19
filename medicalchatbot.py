@@ -111,6 +111,39 @@ medical_db = {
     "Proactive management of systemic load metrics to ensure the executive layer has sufficient headroom to handle unexpected interrupts"
   ]
 }
+"alien_hand_rogue_thread_fault": {
+  "description": "An autonomous motor execution anomaly where a peripheral limb performs goal-directed actions without the conscious intent or master command approval of the operator.",
+  "symptoms": [
+    "Orchestrator Detachment: The limb moves independently, carrying out complex physical routines outside the main thread execution log",
+    "Inter-Manual Conflict: The detached limb actively sabotages the synchronized limb (e.g., the left hand closes a door that the right hand is attempting to open)",
+    "Compulsive Environmental Ingestion: The rogue thread reacts automatically to local objects (tactile triggers instantly fire 'Grasp' routines)",
+    "Intact Motor Codecs: Physical execution quality remains high, proving the failure is an orchestration bug rather than a hardware breakdown",
+    "Subjective Agency Loss: The user reports complete observation-only monitoring of the limb, logging it as an external node"
+  ],
+  "causes": [
+    "Corpus Callosum Split-Brain Event: Loss of inter-hemispheric heartbeat signals, allowing autonomous local runtimes",
+    "Supplementary Motor Area (SMA) Ischemia: Breakdown of the central coordination lock engine",
+    "Frontal Gating Inhibition Failure: Loss of top-down suppression over local primitive motor loops"
+  ],
+  "risk_factors": [
+    "Surgical callosotomy procedures (Surgical database sharding gone wrong)",
+    "Anterior Cerebral Artery (ACA) ischemic events starving the medial cortex clusters",
+    "Neurodegenerative lesions targeting the frontal structural bridges"
+  ],
+  "diagnosis": [
+    "The 'Inter-Manual Sabotage' Audit: Observing the system during complex tasks requiring dual-hand synchronization",
+    "Tactile Ingestion Test: Placing a familiar asset (like a pen) near the unmanaged limb to see if it executes automatic grab routines without an explicit command",
+    "Structural Connectome Diffusion Imaging: Mapping callosal track integrity to isolate the physical routing drop"
+  ],
+  "remedies": [
+    "Tactile Anchoring (Satiating the Buffer): Giving the rogue hand an object to hold (like a cane or a ball), filling its local buffer to prevent random ambient grabbing",
+    "Visual Override Training: Forcing the primary visual cortex to lock onto the rogue limb, manually reinforcing executive control loops",
+    "Physical Containment Intercept: Restricting the peripheral actuator's physical coordinates to prevent background data damage"
+  ],
+  "prevention": [
+    "Preserving structural cross-hemispheric arterial pressure to ensure constant heartbeat synchronization across processing nodes"
+  ]
+}
 
 "tga_ephemeral_cache_fault": {
   "description": "A temporary, absolute disruption of short-term memory formation accompanied by anterograde amnesia and mild retrograde amnesia, while core identity and cognitive processing remain fully operational.",
