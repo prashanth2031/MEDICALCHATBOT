@@ -45,6 +45,40 @@ medical_db = {
   "prevention": [
     "Maintaining 'Vascular Throughput' to the 'Planning Layers' of the cortex"
   ]
+"autoscopic_coordinate_transform_fault": {
+  "description": "A profound disruption of spatial self-awareness where the egocentric perspective is decoupled from the physical body, creating the illusion of viewing one's own physical chassis from an external coordinate space.",
+  "symptoms": [
+    "Perspective Relocation: The main camera matrix shifts to an external vector while local tracking systems remain live",
+    "Autoscopy: Real-time visual rendering of the host's own physical body asset from a detached viewpoint",
+    "Vestibular-Visual Desync: A total loss of alignment between internal balance telemetry and external optical frames",
+    "Somatoparaphrenia: Disorientation regarding physical boundaries, where the user treats their real body as a separate network node",
+    "Intact Cognitive Runtime: Core logic, language parsing, and sensory ingestion continue processing with zero data loss"
+  ],
+  "causes": [
+    "Temporoparietal Junction (TPJ) Disruption: Focal electrical suppression or metabolic failure within the primary spatial broker",
+    "Vestibular Integration Failure: Complete drop of the internal balancing packets during visual rendering compilation",
+    "Multisensory Misbinding: The system handles conflicting spatial inputs by computing an impossible external anchor coordinate"
+  ],
+  "risk_factors": [
+    "High-G acceleration forces (Ischemic drainage of the superior parietal infrastructure)",
+    "Neurochemical blockades (e.g., NMDA receptor antagonists like ketamine distorting sensory binding)",
+    "Focal seizure activity localized within the angular and supramarginal gyri"
+  ],
+  "diagnosis": [
+    "The 'Somatic Localization' Test: Attempting to map tactile touches to the physical shell while the perspective is displaced",
+    "Vestibular Caloric Ingestion: Inducing artificial inner-ear currents to test if the spatial matrix can be forced to snap back to center",
+    "High-Density EEG Mapping: Detecting abnormal rhythmic slowing or spike discharges within the parieto-occipital nodes"
+  ],
+  "remedies": [
+    "Tactile Intercept Phase: Applying high-intensity, synchronous visuo-tactile stimulation (e.g., stroking the physical chest while demonstrating it visually) to force-realign the coordinate matrix",
+    "Kinesthetic System Reset: Shaking the physical hardware to force the vestibular sensors to flood the bus with high-voltage realign packets",
+    "Time-Base Clearance: Allowing chemical blockades to clear out of the neural receptors via natural metabolic wash cycles"
+  ],
+  "prevention": [
+    "Avoiding severe rotational or gravitational acceleration spikes without appropriate counter-pressure suits"
+  ]
+}
+
 "antons_syndrome_denial_fault": {
   "description": "A rare neurological condition where cortical blindness is accompanied by a severe deficit in self-awareness (anosognosia), causing the user to deny their visual impairment and fabricate visual details.",
   "symptoms": [
