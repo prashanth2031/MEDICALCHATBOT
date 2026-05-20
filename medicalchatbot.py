@@ -145,6 +145,40 @@ medical_db = {
     "Maintaining stable systemic blood pressure to protect the posterior cerebral blood flow routes"
   ]
 }
+"synesthesia_pipeline_routing_fault": {
+  "description": "A neurological condition where stimulation of one sensory or cognitive pathway leads to involuntary, automatic experiences in a second sensory or cognitive pathway.",
+  "symptoms": [
+    "Cross-Codec Rendering: Sound frequencies trigger color palettes or geometric textures in the viewport",
+    "Grapheme-Color Mapping: Alphanumeric characters (strings) are hard-coded with persistent, involuntary color tints",
+    "Pipeline Crosstalk: Taste payloads are registered when interacting with distinct spatial shapes",
+    "Multicast Overhead: High-input sensory environments trigger massive CPU overhead due to redundant pipeline activation",
+    "Consistent Associative Mapping: Re-processing the exact same input packet yields the exact same leaked output"
+  ],
+  "causes": [
+    "Structural Hyper-Connectivity: Failure of the system to 'Prune' redundant inter-cortical data buses",
+    "Thalamic Gating Degradation: Failure of the central router to isolate sensory stream packets",
+    "Serotonergic Hyper-Activation: Transient overvoltage causing signals to arc across adjacent neural traces"
+  ],
+  "risk_factors": [
+    "Congenital 'Factory Setting' optimization variations",
+    "Temporal Lobe hyper-voltage events (Seizures)",
+    "Exposure to specific chemical modulators (Psychedelics causing transient firewall failure)"
+  ],
+  "diagnosis": [
+    "The 'Test-Retest' Consistency Audit: Verifying if specific auditory inputs map to the exact same hex-color output across vast time deltas",
+    "Perceptual Crowding Assessment: Measuring performance impacts when a leaked color asset conflicts with a physical asset text",
+    "Functional Connectome Mapping: High-resolution imaging to detect structural data pathways connecting isolated processing nodes"
+  ],
+  "remedies": [
+    "Input Bandwidth Throttling: Reducing external sensory noise to mitigate cross-modal buffer saturation",
+    "Cognitive Filter Overclocking: Training the frontal executive layer to discard leaked metadata before execution",
+    "Pharmacological Channel Dampening: Modulating signal propagation speeds to prevent cross-bus arcing"
+  ],
+  "prevention": [
+    "Standard genetic code compilation (unmodifiable post-initialization)"
+  ]
+}
+
 "misophonia_hardware_interrupt_fault": {
   "description": "A neurobehavioral syndrome characterized by an immediate, intense emotional and physiological panic/anger response triggered by highly specific, low-volume acoustic patterns.",
   "symptoms": [
