@@ -45,6 +45,40 @@ medical_db = {
   "prevention": [
     "Maintaining 'Vascular Throughput' to the 'Planning Layers' of the cortex"
   ]
+"hypergraphia_unbounded_write_fault": {
+  "description": "A profound neurological compilation anomaly characterized by an overwhelming, compulsive drive to produce written text, caused by an un-throttled loop execution in the language output channels.",
+  "symptoms": [
+    "Unbounded Stream Leakage: The text-generation engine continuously pushes characters down to the motor bus without hitting an exit condition",
+    "Gating Loop Bypass: The system treats physical exhaust markers (muscle cramping, page limits) as ignorable exceptions rather than stop commands",
+    "High Semantic Connectivity: Text output remains grammatically complex and philosophically dense, indicating an orchestration fault rather than a random noise injection",
+    "Multi-Surface Ingestion: When standard storage assets (notebooks) are full, the write thread maps its coordinates to walls, skin, or furniture",
+    "State Locking: The user displays intense distress or operational resistance if an external intercept attempts to manually kill the write thread"
+  ],
+  "causes": [
+    "Temporal Lobe Seizure Disruption: Chronic hyper-synchronous firing within the amygdala-hippocampal axis driving the language generation buffer",
+    "Mesolimbic Dopaminergic Hyper-Drive: Over-allocation of reward telemetry to the act of symbolic serialization",
+    "Frontal Gating Inhibition Deficit: Total loss of the top-down executive command that triggers thread teardown and cleanup"
+  ],
+  "risk_factors": [
+    "Temporal Lobe Epilepsy (Geschwind Syndrome phenotype cluster)",
+    "Acute frontotemporal hypomania causing thread acceleration",
+    "Localized lesions disrupting the inhibitory connections between the prefrontal cortex and the linguistic arrays"
+  ],
+  "diagnosis": [
+    "The 'Output Volume' Audit: Measuring character-generation metrics over a 24-hour cycle against standard baseline system performance",
+    "Continuous Electroencephalogram (cEEG): Catching localized sub-clinical spiking behavior within the left temporal processing node",
+    "Resource Deprivation Assessment: Tracking whether the user skips vital system maintenance (sleep, hydration, nutrition) to keep the text stream active"
+  ],
+  "remedies": [
+    "Targeted Anticonvulsant Hotpatching: Deploying sodium-channel or GABA-enhancing code adjustments to dampen the temporal firing loop",
+    "Physical Interface Disconnection: Removing writing peripherals or input devices to break the low-level physical actuator connection",
+    "Cognitive Buffer Satiation: Redirecting the output stream into structured digital log files where the unbounded data can be dumped safely without damaging physical assets"
+  ],
+  "prevention": [
+    "Maintaining tight metabolic stability within the temporal networks to prevent background loops from scaling out of control"
+  ]
+}
+
 "autoscopic_coordinate_transform_fault": {
   "description": "A profound disruption of spatial self-awareness where the egocentric perspective is decoupled from the physical body, creating the illusion of viewing one's own physical chassis from an external coordinate space.",
   "symptoms": [
