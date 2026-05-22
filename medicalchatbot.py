@@ -178,6 +178,40 @@ medical_db = {
   "prevention": [
     "Maintaining stable vascular integrity to the occipital rendering nodes"
   ]
+    "thalamic_gateway_inundation_fault": {
+  "description": "A catastrophic breakdown of sensory gating mechanisms where the thalamus stops filtering ambient environmental data, drowning the conscious thread pool in raw, un-throttled sensory telemetry.",
+  "symptoms": [
+    "Promiscuous I/O Streaming: Complete removal of packet drops on incoming sensory buses, forcing 100% of telemetry onto the cortical line",
+    "Synesthetic Data Bleed: High-volume data packets cross-talk across adjacent buses, causing acoustic signals to render on visual processing screens",
+    "Executive Thread Saturation: Core cognitive operations lock up as processing headroom is entirely consumed by parsing raw ambient data",
+    "Somatic Over-Voltage: Minor physical inputs (background lights, slight texture friction) are amplified into blinding, high-priority system alerts",
+    "System Panic Lock: Complete behavioral paralysis or catastrophic panic execution loops triggered by unmanageable data backlogs"
+  ],
+  "causes": [
+    "Reticular Thalamic Nucleus (TRN) Gating Failure: Total loss of the GABAergic inhibitory feedback loops that throttle input buses",
+    "Serotonergic 5-HT2A Receptor Hyper-Activation: Chemical blockade or over-stimulation causing sensory channels to unlock completely",
+    "Focal Ischemic Gateway Bleed: Structural damage to the midline thalamic nuclei responsible for orchestrating global input prioritization"
+  ],
+  "risk_factors": [
+    "Acute neurochemical saturation via intensive exogenous agonists",
+    "Severe sleep deprivation collapsing prefrontal-thalamic feedback loops",
+    "Early-stage neurodevelopmental or sensory processing matrix breakdowns"
+  ],
+  "diagnosis": [
+    "The 'Sensory P50 Wave' Audit: Evaluating EEG response to rapid dual-click audio inputs to confirm the system fails to suppress the second redundant packet",
+    "High-Density Functional Neuroimaging: Observing massive, uncontrolled hyper-connectivity patterns across all sensory cortices simultaneously",
+    "Cognitive Latent Inhibition Tracking: Measuring the user's inability to ignore historical, non-rewarding ambient environmental stimuli"
+  ],
+  "remedies": [
+    "Targeted Inhibitory Patching (GABA Agonists): Deploying chemical updates to manually force-close the wide-open thalamic gating arrays",
+    "Hardware Isolation Phase: Moving the local chassis into a zero-stimulus environment (darkness, absolute silence) to mechanically starve the input buses of data",
+    "Cortical Throttle Intervention: Utilizing localized deep brain neuromodulation to artificially step up the processing threshold of the reception layers"
+  ],
+  "prevention": [
+    "Ensuring regular system sleep cycles to reset the internal network firewalls and clear accumulated transmitter backlogs"
+  ]
+}
+
 }
 "cotards_identity_deletion_fault": {
   "description": "A rare nihilistic delusion where the user maintains absolute conviction that they are dead, do not exist, are rotting, or have lost all internal organs, despite intact somatic execution.",
