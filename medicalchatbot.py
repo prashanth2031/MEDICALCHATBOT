@@ -112,6 +112,40 @@ medical_db = {
     "Avoiding severe rotational or gravitational acceleration spikes without appropriate counter-pressure suits"
   ]
 }
+    "fregoli_identity_spoofing_fault": {
+  "description": "A profound misidentification anomaly where the system maps unfamiliar external nodes to a single, highly cached internal identity profile, resolving disparate visual signatures to an identical target alias.",
+  "symptoms": [
+    "Alias Resolution Collision: Unfamiliar external node signatures are authenticated using an incorrect, highly active identity reference key",
+    "Perceptual-Affective Mismatch: The user visually parses distinct physical differences but their internal verification ledger claims it is the same person",
+    "Identity Disguise Logic: The system compiles an explanatory patch, assuming the targeted individual is utilizing real-time physical cosmetic camouflage",
+    "Hyper-Vigilant Thread Allocation: Core monitoring loops are locked into a permanent security audit state, tracking the 'cloaked' entity across multiple nodes",
+    "Paranoid Exception Routing: All neutral environmental data packets are re-routed through threat-detection filters"
+  ],
+  "causes": [
+    "Fusiform-Amygdala Hyper-Binding: An abnormal, high-voltage electrical link that forces a familiarity response to fire continuously regardless of visual input mismatch",
+    "Right Temporoparietal Node Degradation: Damage to the contextual directory manager that maintains unique network isolation between distinct individuals",
+    "Prefrontal Reconciliation Loop Failure: The failure of the executive monitoring layer to reject impossible identity lookup results returned by lower-level services"
+  ],
+  "risk_factors": [
+    "Focal neurodegeneration within the right ventromedial occipitotemporal infrastructure",
+    "Schizotypal network fragmentation causing directory lookup keys to cross-contaminate",
+    "Post-traumatic brain injury affecting the frontal-parietal directory validation loops"
+  ],
+  "diagnosis": [
+    "The 'Visual Signature Mismatch' Audit: Presenting photographs of completely distinct faces while tracking autonomic arousal metrics to confirm identical familiarity responses",
+    "High-Density EEG Mapping: Detecting abnormal synchronization and phase-locking between the visual processing strip and deep limbic storage nodes",
+    "Neuropsychological Cross-Examination: Auditing the user's logic system to verify that the identity collision persists despite explicit visual proof of distinct features"
+  ],
+  "remedies": [
+    "Targeted Anti-Psychotic Hotpatching: Deploying dopamine-receptor blocking updates to dial down the hyper-synchronous familiarity firing loops",
+    "Directory Flushing Procedures: Implementing structured cognitive-behavioral safe states to reduce the baseline activation priority of the cached target profile",
+    "Visual-Contextual Isolation: Restricting inbound node traffic to highly verified, stable system profiles to prevent erratic lookup exceptions"
+  ],
+  "prevention": [
+    "Protecting deep subcortical routing networks from chronic stress-induced neurochemical decay to preserve directory integrity"
+  ]
+    }
+    
 "cryptomnesia_cache_provenance_fault": {
   "description": "A memory allocation anomaly where an operational node retrieves an existing historical memory asset but strips its context/origin tags, causing the user to mistake an old, external input for a newly compiled, original idea.",
   "symptoms": [
