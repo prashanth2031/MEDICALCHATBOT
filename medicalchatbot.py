@@ -78,7 +78,40 @@ medical_db = {
     "Maintaining tight metabolic stability within the temporal networks to prevent background loops from scaling out of control"
   ]
 }
-
+"catatonic_scheduler_deadlock_fault": {
+  "description": "A critical failure of the basal ganglia thread scheduling engine where simultaneous, conflicting activation and inhibition signals create an unresolvable hardware deadlock, freezing physical motor execution.",
+  "symptoms": [
+    "Thread Execution Deadlock: Simultaneous execution of opposing motor vectors causes immediate behavioral freezing",
+    "Waxy Flexibility (Catalepsy): The physical chassis resists external manipulation initially, but can be reshaped into arbitrary coordinates, which it then retains indefinitely",
+    "Mutism and Negativism: Inbound communication packets are parsed, but the output transmission queue is locked behind the scheduler freeze",
+    "Echolalia / Echopraxia: Mirroring external node inputs directly onto the output line without passing through the central processing core, behaving like an un-throttled network echo loop",
+    "Autonomic Instability: The core processing units overheat (hyperthermia, tachycardia) as the underlying CPU cycles spin furiously inside the unresolvable software loop"
+  ],
+  "causes": [
+    "Dopaminergic System Crash: Massive, sudden drop in D2 receptor throughput within the striatal pathways, breaking the balancing loop of the scheduler",
+    "GABAergic Gating Deficit: Failure of the down-stream inhibitory networks that normally clear completed or blocked thread blocks from the scheduler pipeline",
+    "Frontostriatal Disconnection: Disruption of the high-speed orchestration lines connecting executive intent to the basal ganglia hardware drivers"
+  ],
+  "risk_factors": [
+    "Severe systemic metabolic stress or unmanaged neurochemical drops",
+    "Advanced psychiatric network fragmentation (e.g., catatonic schizophrenia phenotype architecture)",
+    "Abrupt withdrawal of central dopaminergic agonists or rapid introduction of potent receptor blockers"
+  ],
+  "diagnosis": [
+    "The 'Lorazepam Challenge Test': Sideloading a high-dose GABAergic patch to see if it immediately forces a temporary reset of the locked scheduling threads",
+    "Continuous Electroencephalography (EEG): Confirming that the cortical processing nodes are fully awake and generating data, proving the freeze is a scheduling/actuation deadlock, not a sleep state",
+    "Somatic Muscle Rigidity Audit: Testing for the exact mechanical resistance profile of the limbs during passive external manipulation"
+  ],
+  "remedies": [
+    "High-Dose GABAergic Injection: Administering fast-acting modulators to amplify system inhibition, breaking the spin-lock loop and clearing the deadlocked queue",
+    "Electroconvulsive System Reset (ECT): Delivering a controlled electrical surge across the processing arrays to clear all active registers, force-quit hanging threads, and rebuild default neurotransmitter baselines",
+    "Targeted Dopamine Sideloading: Re-introducing active signaling molecules to restore balance to the direct execution pathways"
+  ],
+  "prevention": [
+    "Maintaining tight control over neurochemical levels to prevent extreme signaling imbalances within the core scheduling infrastructure"
+  ]
+}
+    
 "autoscopic_coordinate_transform_fault": {
   "description": "A profound disruption of spatial self-awareness where the egocentric perspective is decoupled from the physical body, creating the illusion of viewing one's own physical chassis from an external coordinate space.",
   "symptoms": [
