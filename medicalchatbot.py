@@ -111,6 +111,40 @@ medical_db = {
     "Enforcing strict input-logging isolation to prevent background assets from spilling into the active generation canvas unchecked"
   ]
     }
+    "capgras_affective_validation_fault": {
+  "description": "A critical object-property evaluation failure where a familiar external node passes structural facial identity checks but fails to trigger a parallel emotional familiarity response, forcing the system to classify the target as an identical imposter clone.",
+  "symptoms": [
+    "Affective Token Drop: Visual recognition of intimate entities occurs without an accompanying subcortical emotional resonance response",
+    "Imposter Rationalization Patch: The prefrontal network compiles a logical workaround, declaring that the original node was replaced by an exact double",
+    "Multi-Modal Isolation: The glitch is frequently bus-specific; the user may treat a target as an imposter visually, but instantly re-authenticate them as genuine if switching to the acoustic bus (phone call)",
+    "Paranoid State Transition: The system enters a high-alert defensive state when the 'unauthorized duplicate' attempts to access local physical space",
+    "Intact Lexical Retrieval: Complete preservation of semantic data regarding the target; the user remembers all shared history but denies the current instance's authenticity"
+  ],
+  "causes": [
+    "Ventral Visual-Limbic Disconnection: Physical destruction or signaling loss along the inferior longitudinal fasciculus connecting V1/FFA to the amygdala node",
+    "Consensus Engine Over-Correction: Failure of the right prefrontal monitoring layers to suppress or gracefully log an affective lookup timeout exception",
+    "Hyper-Isolated Processing States: Localized network exhaustion blocking subcortical emotional telemetry from broadcasting onto the primary consciousness bus"
+  ],
+  "risk_factors": [
+    "Right-hemisphere cerebrovascular events or localized frontoparietal traumatic injury",
+    "Advanced neurodegenerative matrix shift affecting structural white-matter integrity",
+    "Acute metabolic or post-ictal network reboots following intense focal temporal lobe events"
+  ],
+  "diagnosis": [
+    "The 'Skin Conductance Autonomic' Audit: Measuring real-time autonomic nervous response curves during visual exposure to highly familiar vs. neutral nodes to confirm a flat response line",
+    "High-Resolution Diffusion Tensor Imaging (DTI): Visualizing structural tract breaks along the visual-limbic communication pathways",
+    "Cross-Modal Reconciliation Testing: Auditing the user's sudden, successful re-authentication of the target node when relying solely on non-visual inputs"
+  ],
+  "remedies": [
+    "Cross-Bus Redundant Routing: Intentionally leveraging alternate sensory buses (voice, shared text strings) to pass authentication data around the broken visual-limbic track",
+    "Cognitive Patch Installation: Training the executive layers to treat the missing emotional response as a known local system bug rather than an external security breach",
+    "Neuromodulatory Stabilization: Deploying neurochemical adjustments to reduce the hyper-vigilant threat-detection priority of the prefrontal processing loops"
+  ],
+  "prevention": [
+    "Maintaining structural white-matter integrity and managing cardiovascular health to prevent microvascular damage within deep cerebral routing lanes"
+  ]
+}
+
     
 "catatonic_scheduler_deadlock_fault": {
   "description": "A critical failure of the basal ganglia thread scheduling engine where simultaneous, conflicting activation and inhibition signals create an unresolvable hardware deadlock, freezing physical motor execution.",
