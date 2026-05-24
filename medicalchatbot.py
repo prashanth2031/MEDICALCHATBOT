@@ -448,6 +448,40 @@ medical_db = {
     "Proactive management of systemic load metrics to ensure the executive layer has sufficient headroom to handle unexpected interrupts"
   ]
 }
+    "kinesthetic_proprioceptive_delay_fault": {
+  "description": "A profound synchronization error within the somatic feedback pipeline where a latency spike on the sensory telemetry bus causes the system to process its own motor executions as late, foreign events.",
+  "symptoms": [
+    "Somatic Echo State: Real-time sensory tracking loops lag behind motor commands, causing a noticeable physical delay between action and perception",
+    "Alien Agency Attribution: Because the feedback loop arrives after the expected prediction window, the system flags the action as externally driven",
+    "Severe Spatial Over-Correction: The user over-corrects physical trajectories (e.g., over-reaching for an object) because the current position data is stale",
+    "Kinesthetic Disassociation: A strong cognitive sensation of controlling a puppet or operating a high-latency remote vehicle rather than an organic chassis",
+    "Gait and Balance Degradation: Walking routines drop into a safe, heavily throttled mode as the system waits for late landing confirmations before initializing the next stride step"
+  ],
+  "causes": [
+    "Posterior Column-Medial Lemniscus Desynchronization: Demyelination or physical compression slowing down the high-speed sensory transmission fibers",
+    "Cerebellar Forward-Model Mismatch: A failure in the predictive timing arrays that match sent motor copies with incoming sensation packets",
+    "Central Sensory Processing Jitter: Severe neurochemical timing anomalies within the parietal integration hubs, causing erratic queuing of somatic inputs"
+  ],
+  "risk_factors": [
+    "Acute localized demyelinating flare-ups affecting central tracking tracks",
+    "Severe vitamin B12 metabolic deficiency causing transmission line degradation",
+    "Deep-seated subclinical neurochemical timing drops within the basal-ganglia-cerebellar timing networks"
+  ],
+  "diagnosis": [
+    "The 'Asynchronous Touch-Lag' Test: Measuring the exact millisecond gap between a voluntary tap action and the conscious registration of the impact packet",
+    "Somatosensory Evoked Potentials (SSEP): Tracing the transmission speed of electrical square-wave impulses from peripheral nodes up to the cortex to isolate the physical bus delay",
+    "Closed-Loop Motor Tracking Audits: Observing whether the user's motor errors exactly match a predictable 300-600ms latency curve during dynamic tasks"
+  ],
+  "remedies": [
+    "Software Buffer Resynchronization: Intentionally slowing down the visual and cognitive planning lines to match the slower arrival rate of the somatic data bus",
+    "Myelin Transmission Re-insulation: Long-term deployment of neuro-metabolic structural rebuilders to repair and speed up physical line propagation",
+    "Visual-Dominance Re-routing: Forcing the system to ignore the late somatic feedback bus entirely and rely strictly on zero-latency visual telemetry for positioning adjustments"
+  ],
+  "prevention": [
+    "Maintaining aggressive metabolic and structural health monitoring along the long-haul spinal and subcortical communication highways"
+  ]
+    }
+    
 "alien_hand_rogue_thread_fault": {
   "description": "An autonomous motor execution anomaly where a peripheral limb performs goal-directed actions without the conscious intent or master command approval of the operator.",
   "symptoms": [
