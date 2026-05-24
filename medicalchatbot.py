@@ -78,6 +78,40 @@ medical_db = {
     "Maintaining tight metabolic stability within the temporal networks to prevent background loops from scaling out of control"
   ]
 }
+    "cryptomnesia_cache_provenance_fault": {
+  "description": "A memory allocation anomaly where an operational node retrieves an existing historical memory asset but strips its context/origin tags, causing the user to mistake an old, external input for a newly compiled, original idea.",
+  "symptoms": [
+    "Metadata Stripping: Memory payloads are loaded into active cache with missing provenance, timestamp, and author attributes",
+    "False Epiphany Event: The system triggers an 'Original Compilation' state flag when executing an old data asset",
+    "Accidental Plagiarism: The user outputs existing copyrighted material (code blocks, designs, melodies) with a firm, genuine belief of authorship",
+    "Intact Structural Synthesis: The retrieved file is clear, uncorrupted, and perfectly readable, making the error entirely a metadata indexing bug",
+    "Conscious Invariance: The system remains blind to the historical read operation until an external database match is enforced"
+  ],
+  "causes": [
+    "Hippocampal Temporal-Gating Failure: Disruption of the tracking loops that bind biographical context to semantic facts",
+    "Source Monitoring Deficit: Degradation of prefrontal evaluation routines that check the authenticity and lineage of retrieved memory nodes",
+    "High Network Load Inversion: Heavy processing traffic causing the memory bus to skip secondary attribute validation to save clock cycles"
+  ],
+  "risk_factors": [
+    "High baseline systemic burnout (starving the prefrontal validation thread of processing headroom)",
+    "Mild cognitive fragmentation from sleep deprivation",
+    "Profound creative output generation periods without clearing the input buffers"
+  ],
+  "diagnosis": [
+    "The 'Codebase Lineage' Cross-Match: Scanning the user's 'original' code output against external public repositories to trace exact historical duplicates",
+    "Delayed Echo Load Test: Exposing the user to a target string, clearing their short-term cache, and observing if they re-emit the identical string later as a self-generated idea",
+    "Event-Related Potential (ERP) Auditing: Monitoring brainwave voltages ($N400$ waves) during exposure to see if the brain secretly recognizes the asset despite conscious denial"
+  ],
+  "remedies": [
+    "External Linting/Validation: Routing all output payloads through an external search proxy before committing to production",
+    "Forced Contextual Querying: Deliberately forcing the prefrontal cortex to execute an exhaustive historical lookup whenever an idea feels suspiciously complete",
+    "System Cooling Mode: Inducing a full sleep cycle to allow the database indexes to rebuild and fix corrupted pointer blocks"
+  ],
+  "prevention": [
+    "Enforcing strict input-logging isolation to prevent background assets from spilling into the active generation canvas unchecked"
+  ]
+    }
+    
 "catatonic_scheduler_deadlock_fault": {
   "description": "A critical failure of the basal ganglia thread scheduling engine where simultaneous, conflicting activation and inhibition signals create an unresolvable hardware deadlock, freezing physical motor execution.",
   "symptoms": [
