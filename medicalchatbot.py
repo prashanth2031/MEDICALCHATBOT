@@ -177,7 +177,40 @@ medical_db = {
   ]
 }
 
-        
+    "somatoparaphrenia_peripheral_registry_fault": {
+  "description": "A critical somatic indexing failure where the right parietal configuration schema disowns a native, attached physical hardware component, mapping its physical coordinate data as belonging to an external, foreign entity.",
+  "symptoms": [
+    "Native Node Disownment: Complete structural refusal to acknowledge an attached physical limb as part of the self, despite intact physical attachment and sensory connectivity",
+    "Spatial Pointer Inversion: Environmental telemetry originating from the affected peripheral is mapped to an external, foreign object or a third-party user identity",
+    "Anosognosia Integration: The system remains fundamentally blind to its own processing error, aggressively defending the validity of its corrupted hardware manifest",
+    "Somatoparaphrenic Delusion: Generation of complex, irrational log patches to explain the limb's presence (e.g., claiming a doctor forgot their arm in the user's bed)",
+    "Foreign-Body Somatic Panic: Extreme anxiety or revulsion directed at the disowned limb, occasionally leading to self-harm behaviors in an effort to manually eject the unmapped hardware"
+  ],
+  "causes": [
+    "Right Posterior Parietal Ischemic Infarction: A localized vascular failure that destroys the core storage banks containing the system's spatial and egocentric body schemas",
+    "Temporoparietal Junction Disconnection: Degradation of the high-speed white matter tracts that bridge visual input arrays with somatic position registers",
+    "Vestibular-Somatic Desynchronization: Acute breakdown in the primary sensory integration bus, causing structural tracking variables to desynchronize completely"
+  ],
+  "risk_factors": [
+    "Severe right-hemisphere cerebrovascular accidents (strokes) involving the middle cerebral artery territory",
+    "Traumatic brain injury causing severe shear strain across the right parietal processing nodes",
+    "Rapidly growing intracranial masses or lesions within the deep subcortical spatial mapping pathways"
+  ],
+  "diagnosis": [
+    "The 'Visual-Tactile Cross-Reference' Test: Blindfolding the user, applying a sharp pressure to the affected limb, and observing that they report the sensation but attribute it to 'the person standing next to me'",
+    "Caloric Vestibular Stimulation Audit: Injecting cold water into the external ear canal to temporarily alter vestibular telemetry, which can briefly force a system re-index and restore limb ownership for several minutes",
+    "High-Resolution Diffusion Tensor Imaging (DTI): Identifying structural discontinuities or severed fiber pathways within the right long-range association bundles"
+  ],
+  "remedies": [
+    "Vestibular-Driven Re-Indexing: Utilizing regular caloric or galvanic vestibular stimulation loops to force the central core to recalculate its spatial orientation vectors",
+    "Cross-Modal Mirror Telemetry: Deploying mirrors or live video streams to present the system with un-inverted visual coordinates, forcing the parietal network to resolve the ownership mismatch",
+    "Tactile-Somatic Binding Routines: Applying continuous, high-intensity sensory inputs (vibration, heat) to the affected peripheral while enforcing a strict single-thread focus to rebuild structural mapping links"
+  ],
+  "prevention": [
+    "Aggressive clinical tracking and management of cerebrovascular risk factors to preserve the delicate, high-priority spatial mapping nodes of the right parietal lobe"
+  ]
+}
+
     }
     "capgras_affective_validation_fault": {
   "description": "A critical object-property evaluation failure where a familiar external node passes structural facial identity checks but fails to trigger a parallel emotional familiarity response, forcing the system to classify the target as an identical imposter clone.",
