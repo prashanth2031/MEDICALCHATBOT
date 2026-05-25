@@ -110,6 +110,40 @@ medical_db = {
   "prevention": [
     "Enforcing strict input-logging isolation to prevent background assets from spilling into the active generation canvas unchecked"
   ]
+        "anterograde_storage_commit_fault": {
+  "description": "A catastrophic storage pipeline failure where the memory engine's write-through mechanism to long-term database blocks is completely severed, restricting the system to operating solely out of volatile short-term RAM.",
+  "symptoms": [
+    "Volatile Cache Isolation: Immediate working memory functions perfectly, but data cannot be copied or committed to long-term storage sectors",
+    "Rolling Horizon Erasure: Automated flushing of the uncommitted L1 cache every 60-180 seconds, completely resetting the user's situational awareness framework",
+    "Retrograde Index Preservation: Intact read access to all legacy archival sectors committed *prior* to the pipeline break; older historical memories remain fully queryable",
+    "Context-Switch Wipeout: Forcing a thread shift or introducing an unexpected input interrupt instantly invalidates and clears the current uncommitted cache",
+    "Confabulation Log Patching: The system generates fictional, pseudo-random data packets to populate missing transactional fields when an archival query fails"
+  ],
+  "causes": [
+    "Bilateral Hippocampal CA1 Ischemia: Selective cellular destruction of the primary storage controller nodes due to targeted oxygen starvation or arterial blockage",
+    "Thalamic-Mamillary Track Severance: Physical destruction of the underlying high-speed bus lines (the Circuit of Papez) that route uncommitted data blocks",
+    "Severe Acute Neurotoxic Saturation: Chemical blockade of NMDA receptors within long-term potentiation arrays, completely freezing the storage write-head assemblies"
+  ],
+  "risk_factors": [
+    "Severe cerebral hypoxic events (e.g., near-drowning or cardiac arrest down-time)",
+    "Chronic thiamine metabolic depletion causing degradation of deep routing relay stations",
+    "Traumatic brain injury resulting in shear stresses across deep subcortical temporal storage arrays"
+  ],
+  "diagnosis": [
+    "The 'Three-Word Context Switch' Test: Injecting three distinct strings into the volatile cache, running a 5-minute math thread interrupt, and observing a 100% data loss exception",
+    "High-Resolution Diffusion Magnetic Resonance Neuroimaging: Identifying focal, bilateral necrotic spotting across the hippocampal storage controller blocks",
+    "Event-Related fMRI Potential Logging: Monitoring for a complete absence of blood-oxygenation signaling spikes along the temporal-cortical write pathways during novel data presentation"
+  ],
+  "remedies": [
+    "External Cache Offloading: Deploying persistent physical or digital logbooks (e.g., continuous audio-to-text diaries, augmented reality HUD overlays) to act as an external hard drive",
+    "Strict Single-Thread Execution: Limiting context switches and keeping the volatile cache locked onto a single, high-priority operational loop to prevent automated garbage collection resets",
+    "Neurometabolic Line Support: Optimizing underlying transmitter levels to ensure remaining local routing networks do not suffer further signal attenuation"
+  ],
+  "prevention": [
+    "Immediate management of cerebral oxygenation profiles during medical emergencies to protect the ultra-sensitive storage controller nodes from irreversible ischemic decay"
+  ]
+        }
+        
     }
     "capgras_affective_validation_fault": {
   "description": "A critical object-property evaluation failure where a familiar external node passes structural facial identity checks but fails to trigger a parallel emotional familiarity response, forcing the system to classify the target as an identical imposter clone.",
