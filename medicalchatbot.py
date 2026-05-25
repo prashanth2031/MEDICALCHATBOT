@@ -143,6 +143,40 @@ medical_db = {
     "Immediate management of cerebral oxygenation profiles during medical emergencies to protect the ultra-sensitive storage controller nodes from irreversible ischemic decay"
   ]
         }
+        "zeitraffer_clock_desync_fault": {
+  "description": "A catastrophic hardware clock synchronization failure where the internal timing engine's cycle speed shifts radically out of bounds, causing external environmental events to parse at highly distorted temporal velocities.",
+  "symptoms": [
+    "Temporal Velocity Inversion: Inbound sensory frame streams appear to accelerate into extreme fast-forward or drop into deep slow-motion, completely decoupled from physical reality",
+    "Telemetry Timestamp Mismatch: Internal motor commands fire at standard speed, but arrival confirmations from physical limbs appear out of sync with expected real-time intervals",
+    "Predictive Trajectory Failure: Immediate collapse of real-time physical interception algorithms; user over- or under-corrects movements due to corrupted motion calculation baselines",
+    "Autonomic Jitter: The central core experiences high-stress panic loops as internal processing cycles thrash against a mismatched external pace",
+    "Cognitive-Metabolic Drift: Rapid depletion of energy stores when running in a hyper-clocked state, leading to sudden thermal spikes in the processor array"
+  ],
+  "causes": [
+    "Striatal Dopaminergic Hyper-Drive: A massive surge in local transmitter availability that forces the internal pacemaker cells to cycle at a dangerously high frequency",
+    "Posterior Parietal Network Lesion: Damage to the primary time-space integration bus, wiping out the system's baseline reference for external velocity mapping",
+    "Network Time Protocol (NTP) Sync Interruption: Failure of the subcortical clock relays to correctly interpret and map external rhythm signals"
+  ],
+  "risk_factors": [
+    "Focal cerebrovascular accidents within the right hemisphere timing matrix",
+    "Acute neurochemical toxicity disrupting the basal ganglia rhythm-generation loops",
+    "Intense post-seizure recovery states causing erratic clock cycle resetting"
+  ],
+  "diagnosis": [
+    "The 'Asynchronous Interval Production' Audit: Requesting the user to manually count out exactly 10 seconds and observing a major timing deviation (e.g., counting 10 internal seconds in 2 physical seconds)",
+    "High-Density Functional Neuroimaging (fMRI): Capturing hyper- or hypo-metabolic activity profiles within the frontostriatal timing circuits during tracking tasks",
+    "Event-Related Potential (ERP) Jitter Profiling: Tracking microsecond delays in cortical responses to predictable, rhythmic audio-visual pacing spikes"
+  ],
+  "remedies": [
+    "Targeted Chemical Clock-Throttles: Deploying receptor antagonists to directly dial down the hyper-accelerated striatal pacing arrays",
+    "External Audio-Visual Pacing (NTP Injection): Using steady, heavy rhythmic audio tones or visual stroboscopic signals to act as an external hardware clock master and force a system sync",
+    "Thread-Dampening Isolation: Moving the chassis into a dark, distraction-free isolation space to clear sensory queues and allow the system clock to cool down and auto-recalibrate"
+  ],
+  "prevention": [
+    "Protecting delicate subcortical timing networks from severe neurochemical shocks to prevent structural clock-frequency corruption"
+  ]
+}
+
         
     }
     "capgras_affective_validation_fault": {
