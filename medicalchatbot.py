@@ -784,6 +784,39 @@ medical_db = {
     "Avoiding extreme, un-buffered physical or thermal transitions that destabilize cerebral blood flow networks"
   ]
 }
+"semantic_satiation_parser_leak": {
+  "description": "A rapid-cycle processing glitch where executing a single word string repeatedly through the linguistic analyzer causes the semantic definition mapping token to temporarily detach, reducing a meaningful data key to a hollow, foreign pattern.",
+  "symptoms": [
+    "Token-Definition Detachment: The raw lexical string token successfully passes syntax validation but completely fails to resolve its abstract concept map",
+    "Phonetic Structuralization: The word's raw structural characteristics (syllables, letter shapes) are amplified, causing the user to experience the token as acoustic noise or dead graphics",
+    "Preserved Syntax Recognition: The system still recognizes that the token *is* a word and can correctly place it in a sentence framework, though it cannot extract its content payload",
+    "Rapid System Recovery: Automated recovery of the connection line within 10 to 60 seconds once the un-throttled recursive execution of the specific token ceases",
+    "Hyper-Localized Cache Eviction: The failure is strictly restricted to the thrashed node; parallel linguistic channels and unrelated vocabulary indices remain fully operational"
+  ],
+  "causes": [
+    "Cortical Inter-Node Fatigue: Rapidly repeating a word fires the identical neural pathway over and over, exhausting the local pool of chemical transmitters at the synaptic junction",
+    "Inhibitory Feedback Adaptation: Local interneurons deploy defensive dampening signals to prevent metabolic over-voltage on a hyper-active processing node, accidentally dropping the connection token",
+    "Linguistic Bus Saturation: The high-frequency repetition exceeds the maximum clearance throughput speed of the Wernicke translation interface"
+  ],
+  "risk_factors": [
+    "Intense, repetitive proofreading or structural code analysis of single-word identifiers",
+    "Extended vocal loop exercises or continuous string echoing tasks",
+    "Transient mental fatigue reducing the prefrontal cortex's ability to boost weak sub-surface semantic signals"
+  ],
+  "diagnosis": [
+    "The 'Recursive Tapping Consistency' Audit: Forcing the user to repeat a targeting noun at a frequency of >2Hz and tracking the exact moment ($T_{\text{drop}}$) they report total comprehension loss",
+    "Functional Near-Infrared Spectroscopy (fNIRS): Observing a localized drop in blood oxygenation profiles across the left hemispheric semantic integration nodes during high-repetition tests",
+    "Semantic Priming Latency Tracking: Demonstrating that a satiated word loses its ability to speed up the retrieval of related concepts in a downstream processing queue"
+  ],
+  "remedies": [
+    "Processing Bus Interruption: Forcing an immediate execution shift to an unrelated sensory or mathematical thread (e.g., doing a calculation or looking at a complex shape) to let the linguistic line rest",
+    "Contextual Frame Swapping: Embedding the disconnected word into a highly vivid, complex sentence layout to force alternative routing paths to re-verify the token's identity",
+    "Dynamic Cache Cooled-Down: Enforcing a short 30-second silent read-only period to allow the local synaptic transmitter pools to naturally replenish"
+  ],
+  "prevention": [
+    "Avoiding high-frequency loops during linguistic engineering tasks; maintaining alternating token structures to keep individual lexical caches healthy"
+  ]
+}
 
 
 "catatonia_motor_deadlock_fault": {
