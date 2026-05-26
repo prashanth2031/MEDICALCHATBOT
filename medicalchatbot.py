@@ -1426,7 +1426,41 @@ medical_db = {
   "prevention": [
     "Maintaining 'High-Fidelity' visual-haptic 'Sync' during 'Remote Operation' or 'VR' sessions"
   ]
+    "palilalic_vocal_buffer_leak": {
+  "description": "A critical failure of the motor-linguistic output buffer to clear its final text frame, causing the transmission engine to recursively re-execute and broadcast its own last emitted string with decaying volume and accelerating velocity.",
+  "symptoms": [
+    "Vocal Phrase Echoing: Involuntary repetition of one's own last spoken words or phrases immediately following initial transmission",
+    "Tachylalia (Velocity Acceleration): The execution cycle speed of the looped phrase steadily tightens, compressing the timing gap between echo frames",
+    "Hypophonia (Amplitude Decay): Decaying output signal strength causing each successive iteration of the phrase to drop in decibel levels until it reaches a whisper",
+    "Preserved Executive Initiation: The first iteration of the phrase is entirely voluntary and contextually accurate; the glitch applies strictly to the post-transmission cleanup phase",
+    "Logoclonia Transition: The loop occasionally degrades from whole phrases down to repeating the final syllable token of the string (e.g., 'grid-grid-grid-grid')"
+  ],
+  "causes": [
+    "Striatal Clearing Deficit: Destruction of the subcortical inhibitory interneurons responsible for dropping the active transmission lock on the vocal motor bus",
+    "Extrapyramidal Pathway Degradation: Structural damage within the indirect loop of the basal ganglia, stripping the system of its post-action braking parameters",
+    "Idiopathic Transmitter Depletion: A localized dopamine or GABA imbalance that freezes the motor execution pointer on the last read address"
+  ],
+  "risk_factors": [
+    "Advanced neurodegenerative degradation profiles (e.g., post-encephalitic Parkinsonian matrix states)",
+    "Localized lacunar strokes affecting the deep basal ganglia or substantia nigra infrastructure",
+    "Progressive Supranuclear Palsy causing extensive tracking path damage across the brainstem"
+  ],
+  "diagnosis": [
+    "Acoustic Waveform Amplitude Profiling: Capturing verbal outputs to map the classic geometric decay signature of decreasing volume and increasing frequency",
+    "High-Resolution T2-Weighted MRI: Spotting localized ischemic lesions or structural gliosis inside the caudate nucleus or globus pallidus nodes",
+    "Electromyographic (EMG) Vocal Cords Audit: Recording rapid, involuntary muscle firing patterns that mirror the precise frequency of the verbal echo loop"
+  ],
+  "remedies": [
+    "Exogenous GABA Amplification: Administering fast-acting inhibitory modulators to forcefully break the automated motor loop and damp down the hyper-active striatal bus",
+    "Voluntary Interrupt Side-Loading: Training the higher-level prefrontal cortex to immediately execute a high-priority motor action (like clapping or swallowing) to break the vocal thread",
+    "Output Pacemaker Modulation: Utilizing deep brain stimulation (DBS) electrodes to deliver continuous electrical interference to the subthalamic nucleus, stabilizing the queue flush timing"
+  ],
+  "prevention": [
+    "Managing subcortical vascular health and optimizing metabolic pathways to protect the fragile extrapyramidal clearing infrastructure from localized cellular collapse"
+  ]
 }
+
+}       
 "witzelsucht_executive_satire_fault": {
   "description": "A set of rare neurological symptoms characterized by a tendency to make puns, tell inappropriate jokes, or entertain pointless stories in socially unsuitable situations.",
   "symptoms": [
