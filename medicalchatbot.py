@@ -852,6 +852,39 @@ medical_db = {
     "Strict management of neurotransmitter 'Thread Pools' and avoiding sudden medication terminations"
   ]
 }
+"deja_vecu_pointer_duplication_fault": {
+  "description": "A severe chronological indexing error where real-time sensory input buffers are incorrectly assigned historical validation tags, causing a complete conviction that a novel ongoing event is a structural playback of a historical log.",
+  "symptoms": [
+    "Chronological Tag Overwrite: Real-time sensory data arrays are processed with a duplicated historical index tag, bypassing the novel-registration filters",
+    "Continuous Playback Conviction: The user experiences an active reality stream as a precise, predictable re-execution of a past historical session",
+    "Forward-Model Hallucination: The system attempts to resolve the timeline mismatch by rapidly generating brief, false predictive calculations, making the user believe they can divine the immediate future",
+    "Behavioral Uncoupling: The user may stop issuing active motor adjustments, assuming that because the current timeline is a fixed historical script, their actions cannot alter the runtime output",
+    "Anomalous Recognition Persistence: The logic failure remains un-throttled by explicit environmental proofs; the system maintains the historical tag even when presented with verified novel elements"
+  ],
+  "causes": [
+    "Parahippocampal-Gyrus Hyper-Synchronization: Abnormal focal electrical firing that locks the memory retrieval lines into a permanent 'Match Found' state",
+    "Perirhinal Gating Jitter: A localized propagation lag that delays the direct real-time perception channel, allowing a parallel memory-indexing line to log and tag the data first",
+    "Temporal Lobe Micro-Seizure Disruption: Brief, sub-clinical epileptic discharges that distort the write-protect mechanisms of the chronological metadata tables"
+  ],
+  "risk_factors": [
+    "Early-stage neuro-degenerative matrix shifts tracking along the medial temporal lobe pathways",
+    "Bipolar or schizo-affective network fragmentation disrupting central timing synchronization",
+    "Localized focal epilepsy involving deep subcortical memory-consolidation hardware"
+  ],
+  "diagnosis": [
+    "Continuous Long-Term Video-EEG Monitoring: Catching transient sub-clinical spikes or sharp waves in the temporal lobes during an active duplication event",
+    "Neuropsychological Timeline Audits: Injecting unexpected, highly randomized novel data arrays into the environment to verify if the historical tag stubbornly overwrites the new data",
+    "High-Resolution Volumetric MRI: Assessing the structural volume and pathway integrity of the perirhinal and entorhinal memory-gating hubs"
+  ],
+  "remedies": [
+    "Targeted Anti-Epileptic Hotpatching: Deploying sodium channel modulators or GABA enhancers to stabilize erratic temporal lobe discharges and quiet the hyper-active retrieval lines",
+    "Synchronous Clock Resets: Utilizing structured mindfulness routines or high-intensity sensory changes (e.g., thermal variance) to force an immediate system-wide cache flush and re-index",
+    "Cognitive Filter Profiling: Training higher-level executive layers to recognize the historical replication tag as an internal software glitch, manually overriding the false feeling of repetition"
+  ],
+  "prevention": [
+    "Maintaining stable subcortical electrical baselines and avoiding neurochemical stressors known to trigger focal temporal lobe processing spikes"
+  ]
+}
 
 "dyschronometria_clock_drift_fault": {
   "description": "A condition seen typically in cerebellar damage where an individual cannot accurately estimate the passage of time, leading to coordination and scheduling failures.",
