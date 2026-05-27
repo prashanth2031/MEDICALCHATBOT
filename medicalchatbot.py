@@ -1120,6 +1120,40 @@ medical_db = {
     "Reducing 'Acoustic Pollution' and managing 'System Health' during 'Initial Boot' years"
   ]
 }
+        "retroactive_confabulation_overwrite_fault": {
+  "description": "A critical memory reconstruction failure where updating or querying a historical database record inadvertently injects synthetic current variables backward, completely corrupting past operational logs to match a newly introduced current variable.",
+  "symptoms": [
+    "Retroactive Log Swapping: Immediate, involuntary fabrication of past events to fill structural gaps in archival storage memory blocks",
+    "Flawed Authenticity Stamping: The system assigns a maximum validation rating to newly generated, fictional records, treating them as trusted legacy data",
+    "Dynamic History Modification: The fabricated history updates in real time based on changes to the immediate environment (e.g., seeing a clock on the wall causes the user to rewrite what they did three hours ago to involve clocks)",
+    "Absence of Intentional Fraud: The system operates with zero malice or awareness of the data swap; the prefrontal validation monitors accept the fake log as absolute truth",
+    "Suggestibility Matrix Leakage: External prompt injections (e.g., an engineer asking a leading question) are instantly incorporated into the user's historical database as native entries"
+  ],
+  "causes": [
+    "Mamillary Body Network Degradation: Hemorrhagic or metabolic destruction of the core routing stations that manage historical transaction log verification",
+    "Frontal-Executive Gating Collapse: Structural damage to the orbitofrontal monitoring networks, disabling the system's ability to run plausibility checks on recalled data",
+    "Thiamine-Dependent Pyruvate Metabolism Fail: Severe chemical energy starvation across deep storage controller tracks, causing systematic data lookup failures"
+  ],
+  "risk_factors": [
+    "Chronic thiamine (Vitamin B1) deficiency leading to advanced Wernicke-Korsakoff subsystem crashes",
+    "Ruptures or surgical clamping of the anterior communicating artery, depriving the frontal monitoring hubs of blood flow",
+    "Severe localized traumatic brain injury causing focal shears across the ventral frontal-temporal communication buses"
+  ],
+  "diagnosis": [
+    "The 'Asynchronous Narrative Collision' Audit: Asking the user about an impossible historical event (e.g., 'Do you remember our mission on Mars yesterday?'), and observing that the system accepts the prompt and fabricates a detailed, valid-feeling log",
+    "High-Resolution Sagittal MRI: Spotting clear structural atrophy or signal hyper-intensities within the mamillary bodies and medial thalamic nuclei clusters",
+    "Cognitive Plausibility Tracking: Monitoring for rapid, self-contradictory shifts in the user's reported historical timeline when environmental cues are subtly changed"
+  ],
+  "remedies": [
+    "Aggressive Neurometabolic Hotpatching: High-dose intravenous thiamine infusions to arrest active metabolic decay and stabilize remaining subcortical data tracks",
+    "External Log-of-Truth Anchoring: Forcing the system to cross-reference all historical statements against an un-alterable, external digital ledger (e.g., a wearable video diary or blockchain-backed log)",
+    "Executive Verification Training: Installing manual checking routines in the remaining healthy prefrontal layers to cross-check personal logs for logical contradictions before committing them"
+  ],
+  "prevention": [
+    "Immediate metabolic intervention during acute states of nutritional or vascular distress to preserve the fragile hardware bridges that connect memory generation to identity tracking"
+  ]
+    }
+        
 "aiws_viewport_scaling_fault": {
   "description": "A neuropsychological condition causing distortions in visual perception, body schema, and the perceived size, distance, or shape of objects.",
   "symptoms": [
