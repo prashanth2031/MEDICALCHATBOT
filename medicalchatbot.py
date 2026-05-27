@@ -817,6 +817,39 @@ medical_db = {
     "Avoiding high-frequency loops during linguistic engineering tasks; maintaining alternating token structures to keep individual lexical caches healthy"
   ]
 }
+"prosopagnosic_entity_assembly_fault": {
+  "description": "A structural pattern-recognition failure where the system's face-decryption chip handles component metrics perfectly but completely fails to stich them into a holistically unified identity token.",
+  "symptoms": [
+    "Holistic Rendering Collapse: Inability to assemble individual facial features into a recognizable composite entity, treating faces as un-parsable geometric configurations",
+    "Preserved Component Extraction: Perfect ability to identify separate features in isolation (e.g., noting the exact color of an iris or the shape of a eyebrow) without mapping who they belong to",
+    "Intact Low-Tier Visual Pipelines: Flawless parsing of non-face objects, text shapes, environmental terrain layouts, and color balances",
+    "Alternative Metadata Indexing: Forced reliance on secondary, slower peripheral telemetry tags (vocal signatures, gait tracking, apparel styles) to resolve entity identities",
+    "Retrograde Identity Integrity: Preserved semantic memory files; the system perfectly remembers who individuals are, but cannot unlock those files using a visual facial pass"
+  ],
+  "causes": [
+    "Bilateral Fusiform Gyrus Infarction: Ischemic cellular destruction of the dedicated facial rendering and decryption hardware arrays",
+    "Ventral Stream Disconnection: Disruption of the long-range association white-matter tracks that route structural visual inputs to the identity directory",
+    "Congenital Neural Under-Development: Microstructural initial setting errors causing a failure to wire the specialized holistic compilation blocks during system provisioning"
+  ],
+  "risk_factors": [
+    "Vascular accidents tracking along the posterior cerebral artery branches",
+    "Severe localized head trauma causing focal contusions along the inferior occipitotemporal boundary lines",
+    "Early developmental tracking anomalies causing congenital structural isolation of the FFA"
+  ],
+  "diagnosis": [
+    "The 'Cambridge Face Memory' Benchmark: Auditing the system's error rate when attempting to identify newly introduced facial configurations across varying noise levels",
+    "Functional fMRI Contrast Mapping: Presenting alternating blocks of face and object images to observe the complete absence of blood-oxygenation signaling spikes inside the fusiform gyrus",
+    "Inversion-Effect Latency Profile: Tracking whether turning a face upside down fails to increase processing latency (confirming the system is already parsing faces as raw, unlinked objects)"
+  ],
+  "remedies": [
+    "Feature-Based Macro Indexing: Training the prefrontal layers to manually parse unique, high-contrast structural defects (like a distinct scar or unusual eyewear) to act as an override identity trigger",
+    "Multi-Modal Sensor Integration: Enforcing an immediate, high-priority audio listening thread to extract voice parameters the moment an un-parsable face asset enters the view frustum",
+    "Augmented Reality Overlay Aids: Using external computer-vision frameworks to auto-tag human entities within the field of view, displaying identity strings directly over the un-renderable faces"
+  ],
+  "prevention": [
+    "Protecting ventral occipitotemporal vascular channels from prolonged micro-embolic showers or intense localized tissue degradation"
+  ]
+}
 
 
 "catatonia_motor_deadlock_fault": {
