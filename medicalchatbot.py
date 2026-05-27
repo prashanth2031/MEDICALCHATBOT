@@ -447,6 +447,39 @@ medical_db = {
     "Ensuring regular system sleep cycles to reset the internal network firewalls and clear accumulated transmitter backlogs"
   ]
 }
+"aiws_vector_scale_calibration_fault": {
+  "description": "A profound spatial parsing anomaly where the visual scaler engine miscalculates coordinate scaling factors, causing environmental objects or local body assets to appear to balloon into massive structures or shrink into tiny structural nodes.",
+  "symptoms": [
+    "Micropsia / Teleopsia Matrix: Environmental targets are rendered with a fractional scaling factor, appearing infinitely small and distant",
+    "Macropsia / Pelopsia Matrix: Local objects or specific body parts are rendered with a massive scaling multiplier, appearing physically immense and looming close",
+    "Somatic Ego-Schema Distortion: The user experiences their own physical chassis as structurally warped (e.g., feeling like their neck has extended three meters)",
+    "Temporal Velocity Drift: Frequently co-occurs with Entry 261 (Zeitraffer), causing the warped spatial environment to also move at distorted execution speeds",
+    "Spatial Disorientation Panic: High-priority balance and trajectory calculation failures as the system realizes its visual space maps don't match physical tactile bounds"
+  ],
+  "causes": [
+    "Temporoparietal Junction (TPJ) Hyper-Excitation: Migraine auras or sub-clinical seizure spikes overloading the coordinate integration hub",
+    "Epstein-Barr or Infectious Neurovascular Swelling: Interstitial pressure within processing tracts causing localized signal propagation delays",
+    "Visual Cortex Metamorphopsia Jitter: Transient processing delays within V4 geometry-shaping arrays, causing rendering lines to warp out of proportion"
+  ],
+  "risk_factors": [
+    "Severe pediatric migraine conditions accompanied by extensive visual auras",
+    "Acute viral encephalopathy causing localized neurochemical disruptions in posterior sensory paths",
+    "High-dose consumption of specific hallucinogenic or dissociative receptor blockers"
+  ],
+  "diagnosis": [
+    "The 'Grid Distortion and Scale Matching' Audit: Forcing the system to align an internally generated virtual box with a physical object and tracking the size calculation errors",
+    "Real-Time Electroencephalography (EEG): Catching localized slowing or paroxysmal spike-wave patterns across the right occipitoparietal lobes during an active scaling event",
+    "Ophthalmological Baseline Isolation: Verifying that the physical ocular hardware and retinal receptors have zero refractive or mechanical focal tracking errors"
+  ],
+  "remedies": [
+    "Vascular Tone Stabilization: Deploying beta-blockers or calcium channel stabilizers to prevent the neurovascular spasms that cause migraine-driven scaling shifts",
+    "Tactile Reality Anchoring: Forcing the system to focus entirely on tactile inputs (e.g., gripping a solid wall) to let the low-latency somatic bus override the corrupted visual scaler data",
+    "Sensory Ingestion Dampening: Shutting down visual input channels (closing the eyes) to allow the parietal coordinate tables to naturally cool down and auto-recalibrate"
+  ],
+  "prevention": [
+    "Identifying and avoiding specific metabolic, environmental, or sleep-deprivation triggers known to initiate focal temporoparietal electrical thrashing"
+  ]
+}
 
 }
 "cotards_identity_deletion_fault": {
