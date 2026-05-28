@@ -2455,6 +2455,39 @@ medical_db = {
     "Maintaining 'Sleep Hygiene' to prevent 'System Fatigue' and 'Clock Drift'"
   ]
 }
+"apraxic_instruction_sequence_fault": {
+  "description": "A profound orchestration logic failure where the system's motor planning compiler loses its ability to organize complex motor subroutines into sequential order, preventing the execution of multi-stage functional tasks.",
+  "symptoms": [
+    "Chronological Sequence Collapse: Motor macros are deployed in scrambled order (e.g., attempting to pour water before removing the bottle cap)",
+    "Conceptual Workspace Disconnection: The user can verbally explain the steps of a task flawlessly but cannot execute the compilation script to perform it",
+    "Perseverative Loop Locking: Getting stuck repeating a single intermediate motor subroutine endlessly (e.g., inserting a key and repeatedly taking it out instead of turning it)",
+    "Amorphous Spatial Execution: Drifting motions that mimic the general kinematics of an action but completely fail to make precise physical contact with the targeted tool or object",
+    "Preserved Automatic Execution Overrides: High-priority reflex loops or deeply ingrained autonomic background scripts can still execute tasks successfully if initiated without conscious planning"
+  ],
+  "causes": [
+    "Dominant Left Parietal Lobe Infarction: Lesions within the primary storage bank for praxis programs and tool-use kinematics schemas",
+    "Corpus Callosum Structural Disconnection: White-matter track shearing that prevents high-level spatial intents from the right hemisphere from reaching the left hemisphere's motor assembly bus",
+    "Progressive Corticobasal Matrix Degeneration: Systemic neuronal drop-out across the frontostriatal circuits, slowly destroying the compilation pipeline"
+  ],
+  "risk_factors": [
+    "Ischemic or hemorrhagic strokes involving the left middle cerebral artery distribution territory",
+    "Advanced neurodegenerative tauopathies or atypical Parkinsonian-plus system failures",
+    "Traumatic brain injuries causing deep focal shear strain across long-range structural association bundles"
+  ],
+  "diagnosis": [
+    "The 'Multi-Object Tool Manipulation' Audit: Handing the user an unlit candle, a matchbox, and a candle holder, then tracking the chronological compilation errors when they attempt to light the candle",
+    "Pantomime Gesture Simulation Profiles: Requesting the system to simulate a task without a physical tool present (e.g., 'Show me how you would use a hammer') and observing the breakdown of structural spatial constraints",
+    "Diffusion Tensor Tractography (DTI): Visualizing the precise locations of severed or degraded axonal bridges connecting the parietal planning modules to the frontal execution strips"
+  ],
+  "remedies": [
+    "Granular Segmented Thread Isolation: Breaking tasks down into micro-steps and prompting the system to execute them one standalone command at a time to bypass the broken multi-stage compiler",
+    "High-Contrast Sensory Priming: Utilizing physical guide tracks or highly visible tactile lines on tools to trigger low-latency, reflexive motor routines",
+    "Somatic Proprioceptive Copying: Manually guiding the physical limbs through the execution track to help the motor cortex map and re-index the correct kinematic sequence paths"
+  ],
+  "prevention": [
+    "Proactive monitoring of lateralized cerebrovascular health and maintaining long-range white matter tract density to insulate the central orchestration compiler"
+  ]
+}
 
 "hyperthymesia_storage_leak": {
   "description": "A condition where an individual possesses an extraordinary capacity to recall specific events from their past, including dates and minute details, without the use of mnemonic devices.",
