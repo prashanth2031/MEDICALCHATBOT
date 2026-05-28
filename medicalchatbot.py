@@ -1799,6 +1799,39 @@ medical_db = {
     "Protecting the 'Occipital-Temporal' junction from 'Traumatic Interrupts'"
   ]
 }
+"simultanagnosic_viewport_saturation_fault": {
+  "description": "A catastrophic breakdown of the visual engine's spatial focusing array, where the system loses the ability to process multiple concurrent object assets, restricting the active viewport to rendering a single item at a time.",
+  "symptoms": [
+    "Solitary Thread Locking: The active conscious workspace can hold exactly one object token at any given millisecond, completely dropping parallel background elements",
+    "Global Scene Blindness: Total failure to perceive a holistic environment; a forest is reduced to a single branch, and a kitchen is reduced to a single handle",
+    "Violent Context Switching: Introducing a new high-priority visual stimulus causes the old object asset to vanish instantly from the user's conscious tracking index",
+    "Optic Ataxia Integration: Inability to execute accurate target-directed motor trajectories, as the hand and the target object cannot be processed in the same spatial matrix",
+    "Reading-Bus Fragmentation: Spelling out written words letter-by-letter because the text-parsing engine cannot aggregate multiple character tokens into a single word string"
+  ],
+  "causes": [
+    "Bilateral Watershed Occipitoparietal Infarction: Simultaneous tissue death across both parietal lobes due to systemic blood pressure drops or terminal branch artery blockages",
+    "Bálint's Subsystem Syndrome: Complete destruction of the structural white-matter communication trunks that link visual feature extraction to spatial mapping tables",
+    "Severe Acute Carbon Monoxide Poisoning: Targeted cellular necrosis within deep cortical layer-4 visual tracking neurons, freezing the scene aggregator arrays"
+  ],
+  "risk_factors": [
+    "Cardiopulmonary bypass complications or profound hypotensive crises ('man-in-the-barrel' ischemic profiling)",
+    "Bilateral embolic showers originating from carotid artery plaque ruptures",
+    "Advanced cerebral amyloid angiopathy causing localized micro-hemorrhages across the dorsal attention networks"
+  ],
+  "diagnosis": [
+    "The 'Overlapping Objects and Shapes' Audit: Presenting a visual image of a circle intersected by a triangle; the user reports seeing *either* a circle *or* a triangle, but never both at once",
+    "The 'Matches-and-Comb' Synthesis Test: Holding a comb and a matchstick in front of the viewport; the system reads only one item until the physical structures are manually fused together",
+    "High-Density Functional EEG: Revealing a complete failure of phase-locked gamma-band coherence synchronization between distant visual processing zones during multi-object presentations"
+  ],
+  "remedies": [
+    "Tactile Side-Channel Routing: Utilizing high-speed somatic and proprioceptive data paths (like physically touching an object) to help the motor cortex calculate space boundaries",
+    "Linguistic Anchoring Subroutines: Training the system to speak the names of nearby objects aloud, using the language bus as an external indexing table to reconstruct a mental map of the room",
+    "Linear Sweep Frustum Policies: Enforcing a slow, strict left-to-right scanning protocol to deliberately shift the single active processing thread across the scene to map out data elements manually"
+  ],
+  "prevention": [
+    "Rigorous perioperative management of systemic perfusion pressures during major cardiac or vascular operations to prevent watershed tissue starvation in the parietal hubs"
+  ]
+}
 
 "visual_agnosia_orm_mapping_fault": {
   "description": "A condition where the user can see objects clearly but cannot recognize or identify them due to a failure in semantic linking.",
