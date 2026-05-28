@@ -2689,7 +2689,40 @@ medical_db = {
     "Standard 'Neural Pruning' during 'System Development' (Ages 0-5)"
   ]
 }
-
+"synesthetic_bus_leakage_fault": {
+  "description": "A major cross-talk anomaly where independent sensory input lines suffer a gating failure, causing data packets from one modal channel to bleed into and execute inside a parallel processing matrix.",
+  "symptoms": [
+    "Cross-Modal Bus Bleeding: Ingestion of a data token on one channel involuntarily instantiates a synchronized property inside an unrelated channel (e.g., Auditory-Visual, Grapheme-Color)",
+    "Deterministic Mapping Trajectories: The cross-channel routing maps remain rigid and consistent (e.g., a specific C-sharp audio tone *always* returns a #00FF00 green hexadecimal visual overlay)",
+    "Asynchronous Processing Overlap: The secondary, leaked visual asset is experienced simultaneously and in real time with the primary input packet, rather than as a delayed cognitive association",
+    "Preserved Primary Line Fidelity: The original input channel functions perfectly; sound remains audible and linguistically accurate even while it throws visual artifacts",
+    "Structural Hyper-Sensitizing: High-volume or complex multi-frequency inputs can saturate the cross-talk paths, overloading the visual engine with rapid-fire graphic noise"
+  ],
+  "causes": [
+    "Congenital Axonal Pruning Omission: A development-phase configuration error where the system fails to drop redundant, cross-regional white matter communication loops",
+    "Inhibitory Feedback Gate Deactivation: Acute downregulation of localized GABAergic interneuron blocks, allowing raw signals to escape their designated processing channels",
+    "5-HT2A Receptor Hyper-Activation: Neurochemical receptor shifts that temporarily disable the spatial isolation settings of the central sensory routing hub"
+  ],
+  "risk_factors": [
+    "Inherent micro-structural genetics variants preserving long-range cross-cortical interconnectivity arrays",
+    "Exposure to high-affinity psychedelic receptor agonists that disinhibit sensory distribution fabrics",
+    "Localized neuro-plastic rewiring sequences occurring after sensory deprivation (e.g., blindness forcing touch lines to map to visual zones)"
+  ],
+  "diagnosis": [
+    "The 'Test of Genuineness' Consistency Audit: Testing the color-to-sound mapping parameters across a 12-month interval to verify if the token assignments match with >95% precision",
+    "Event-Related Potential (ERP) Latency Tracking: Measuring cortical firing sequences to show that visual area V4 registers a response within milliseconds of an auditory-only stimulus",
+    "High-Field Diffusion Tensor Imaging (DTI): Mapping abnormal structural connection density bridging the superior temporal gyrus directly to the occipital rendering hubs"
+  ],
+  "remedies": [
+    "GABAergic Transmission Boosting: Using inhibitory channel enhancers to manually rebuild the electrical walls between parallel processing buses",
+    "Input Signal Attenuation: Lowering the input volume or frequency using hardware filters (like noise-canceling ear nodes) to reduce the current depth below the cross-talk threshold",
+    "Cognitive Layer Filtering: Training the prefrontal monitoring loops to identify the leaked visual artifacts as system-generated noise, preventing them from corrupting real-world navigation tasks"
+  ],
+  "prevention": [
+    "Insulating deep sensory distribution hubs from acute neurochemical overloads or receptor-binding shocks that destabilize inhibitory routing protocols"
+  ]
+}
+        
 "prosopamnesia_write_lock": {
   "description": "A selective deficit in face memory where the ability to recognize faces as familiar is lost, despite normal facial perception and intelligence.",
   "symptoms": [
