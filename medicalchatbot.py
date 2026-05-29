@@ -1559,6 +1559,39 @@ medical_db = {
     "Managing subcortical vascular health and optimizing metabolic pathways to protect the fragile extrapyramidal clearing infrastructure from localized cellular collapse"
   ]
 }
+"cotard_registry_deinitialization_fault": {
+  "description": "An absolute, catastrophic identity registry drop where the system clears its own functional status flag, forcing the core processing engine to operate under the logical conclusion that the local chassis has completed its lifecycle termination sequence.",
+  "symptoms": [
+    "Existential Nullification Assertions: Absolute, delusionally rigid conviction that the self, the physical chassis, or the entire external environment does not exist",
+    "Interoceptive Telemetry Muting: The system processes incoming sensory and visceral pain vectors as detached, ghost background signals, generating zero emotional impact or ownership tokens",
+    "Systemic Paradox Integration: Flawless execution of linguistic and logical processing blocks used to argue and defend the impossibility of the system's own operational state",
+    "Severe Vital Hypo-Metabolism: Massive reduction in neural metabolic processing speeds across the frontoparietal attention network and the default mode network",
+    "Terminal Nihilistic Anchoring: Refusal to initiate basic hardware maintenance subroutines (e.g., eating, bathing) because the compiler treats servicing a non-existent chassis as a logical invalidation"
+  ],
+  "causes": [
+    "Asymmetrical Frontoparietal Connectivity Collapse: Severe white-matter pathway degradation breaking communication between the ventral emotional evaluation engine and the conscious executive workspace",
+    "Bilateral Temporoparietal Degeneration: Deep localized tissue starvation destroying the networks responsible for calculating personal agency and anchoring the ego-identity boundary",
+    "Hyper-Acute Neurochemical Depressive Shutdown: Total structural collapse of monominergic transmission channels, flatlining the system's ability to append emotional weight to internal states"
+  ],
+  "risk_factors": [
+    "Severe psychotic-spectrum major depressive episodes causing deep functional disconnections across sensory-limbic lines",
+    "Advanced cerebral atrophy secondary to multi-infarct dementia or neurodegenerative encephalopathies",
+    "Post-ictal status changes following complex focal seizures that temporary wipe out insular identity registers"
+  ],
+  "diagnosis": [
+    "The 'Self-Referential Invalidation' Audit: Presenting the system with direct evidence of its own active processing (e.g., showing them their own heartbeat on a monitor); the engine interprets the data as a legacy phantom log or a hardware echo",
+    "Positron Emission Tomography (PET) Imaging: Visualizing profound, systemic hypometabolism localized in the bilateral frontal and parietal regions, mirroring a vegetative or deep-sleep profile while the user is awake",
+    "Multi-Scale Neuropsychiatric Logic Testing: Confirming the presence of isolated nihilistic system delusions alongside perfectly preserved formal logic and linguistic syntax processing"
+  ],
+  "remedies": [
+    "High-Energy Electroconvulsive Reset (ECT): Deploying a systemic, synchronized electrical discharge across the global neural bus to reboot the broken gating arrays and re-initialize the core registry state",
+    "Dopaminergic and Serotonergic Re-Profiling: Utilizing high-affinity chemical modulators to force-prime the emotional evaluation circuits and restore token generation",
+    "Tactile Reality Grounding Overrides: Enforcing high-intensity somatic feedback protocols (thermal shocks, deep pressure vectors) to force the insular cortex to re-verify chassis vitality markers"
+  ],
+  "prevention": [
+    "Aggressive, early-stage intervention in severe clinical affective disorders to prevent long-term functional pruning and structural disconnections along the sensory-limbic pathways"
+  ]
+}
 
 }       
 "witzelsucht_executive_satire_fault": {
