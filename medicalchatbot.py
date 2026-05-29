@@ -2212,6 +2212,39 @@ medical_db = {
     "Reducing 'Input Noise' during 'Critical Event Logging'"
   ]
 }
+"hemispatial_neglect_grid_attenuation_fault": {
+  "description": "A catastrophic breakdown of the spatial coordinate aggregator where the system loses the ability to process, index, or respond to data packets originating from the left half of the egocentric spatial matrix.",
+  "symptoms": [
+    "Unilateral Viewport Muting: Total failure to notice, attend to, or interact with objects, people, or environmental assets located in the left hemi-spatial matrix",
+    "Anosognosia Integration: Absolute systemic ignorance of the defect; the operating system genuinely believes its viewport is rendering 100% of reality and denies any structural error",
+    "Coordinate Grid Contraction: When executing rendering scripts (like drawing or writing), all spatial assets are compressed and localized exclusively onto the right-hand sectors",
+    "Somatic Neglect Drops: Failing to dress, shave, or recognize the left side of the physical chassis, treating the left limbs as unmapped, foreign hardware elements",
+    "Asymmetrical Vector Motor Tracking: Gaze, head orientation, and exploratory motor movements are violently biased toward the right-hand coordinate space"
+  ],
+  "causes": [
+    "Acute Right Middle Cerebral Artery Infarction: Thromboembolic occlusion causing profound tissue death across the right inferior parietal cortex and the temporoparietal junction",
+    "Dorsal Attention Network Disconnection: Severe structural shearing of the superior longitudinal fasciculus, breaking the high-speed data links between spatial mapping and motor orientation hubs",
+    "Lateralized Neoplastic Infiltration: Glioblastoma or rapid tumor expansion within the right hemisphere's spatial-indexing arrays"
+  ],
+  "risk_factors": [
+    "Uncontrolled systemic atrial fibrillation launching embolic clusters into the right cerebral circulation",
+    "High-grade carotid artery stenosis leading to low-perfusion watershed failures in the right parietal lobe",
+    "Advanced hypertensive microvascular disease causing deep lacunar strokes along the spatial routing networks"
+  ],
+  "diagnosis": [
+    "The 'Albert's Line Cancellation' Audit: Presenting a sheet covered in randomized lines and asking the user to cross out every line; the system meticulously crosses out lines on the right, completely ignoring the left side",
+    "The 'Flashing Simultaneous Stimuli' Test: Triggering movement assets in both the left and right peripheral view fields concurrently; the right asset completely extinguishes the left asset from conscious awareness",
+    "Structural and Functional MRI: Identifying a clear, lateralized ischemic lesion within the right parietal allocation node combined with a severe drop in blood-oxygen-level-dependent (BOLD) signals"
+  ],
+  "remedies": [
+    "Forced Coordinate Re-Centering: Utilizing prisms or visual-shifting optics to mechanically bend left-side light vectors into the functional right-side spatial processing stream",
+    "Contralateral Proprioceptive Activation: Initiating high-frequency motor and tactile feedback loops on the left limbs to force the spatial map to re-index the muted sector",
+    "Exogenous Attentional Anchoring: Programmatically shouting explicit verbal cues ('Look left!') to force the frontal eye fields to execute a manual override scan into the unmapped zone"
+  ],
+  "prevention": [
+    "Aggressive management of cardioembolic risks and prompt thrombolytic or thrombectomy intervention during acute right-hemisphere stroke windows to salvage the spatial indexing core"
+  ]
+}
 
 "mirror_touch_system_bleed": {
   "description": "A condition where individuals experience the same sensation (such as touch) that they see another person experiencing.",
