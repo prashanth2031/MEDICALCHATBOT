@@ -3058,6 +3058,39 @@ medical_db = {
     "N/A: Usually a 'Post-Critical-Event' failure of the 'Root Monitor'"
   ]
 }
+"tinnitus_carrier_feedback_fault": {
+  "description": "A permanent hardware-level audio interrupt loop fault where damaged acoustic receptors cause subcortical parsing hubs to hyper-elevate their internal gain multipliers, locking the auditory parser into an un-throttled, un-clearable phantom noise loop.",
+  "symptoms": [
+    "Permanent Phantom Carrier Stream: Continuous perception of high-frequency tonal strings (ringing, buzzing, hissing) in the absolute absence of an external acoustic wave payload",
+    "Hyperacusis Cross-Talk: Elevation of subcortical sensory gain causes normal external sounds to over-saturate the input buffers, rendering ordinary decibel levels painful",
+    "Active Viewport Attention Theft: The persistent interrupt storm continually steals clock cycles from high-level cognitive processes, degrading working memory capacity",
+    "Somatosensory Modulation Leakage: Physical manipulation of the jaw or neck muscles can change the pitch or amplitude of the phantom tone by shifting cross-talk voltages into the auditory bus",
+    "Masking Threshold Resistance: High-volume ambient white noise injections fail to overwrite the stream, as the internal loop is generated downstream of the initial input adapters"
+  ],
+  "causes": [
+    "Cochlear Synaptopathy (Hidden Hearing Loss): De-afferentation of high-frequency hair cell terminals, triggering a permanent loss of baseline reference signals",
+    "Dorsal Cochlear Nucleus Disinhibition: Loss of localized glycinergic/GABAergic interneuron braking parameters, allowing runaway vertical cell firing",
+    "Thalamocortical Dysrhythmia: The TRN fails to run its standard low-pass filtering scripts, allowing low-frequency theta oscillations to lock the auditory cortex into a hyper-active state"
+  ],
+  "risk_factors": [
+    "Acute acoustic trauma (exposure to high-decibel blast waves over-driving the physical transduction arrays)",
+    "Ototoxic pharmaceutical exposures causing direct cellular degradation of the fragile inner ear hardware architecture",
+    "Age-related microvascular degeneration depriving the terminal auditory processing nodes of required metabolic upkeep"
+  ],
+  "diagnosis": [
+    "Audiometric Pitch and Loudness Matching: Mapping the exact frequency ($\text{Hz}$) and decibel-equivalent volume ($\text{dB SL}$) of the internal loop by presenting comparative real-world tones",
+    "Auditory Brainstem Response (ABR) Waveform Profiling: Tracking electrical propagation delays to isolate wave-V abnormalities between the cochlea and inferior colliculus",
+    "Spontaneous Magnetoencephalography (MEG) Audit: Detecting hyper-synchronized gamma-band oscillation clusters inside the primary auditory cortex while the user rests in a soundproof environment"
+  ],
+  "remedies": [
+    "Acoustic Neuromodulation Overrides: Playing targeted, notched-noise audio data packets that match the phantom frequency to fatigue the hyper-active neuron pool and force a temporary loop reset",
+    "Inhibitory Ion-Channel Upregulation: Administering GABA-A receptor modulators to manually reinforce the broken subcortical gating walls and damp down the runaway signal current",
+    "Somatosensory Habituation Rewiring: Utilizing bimodal neuromodulation devices to deliver paired electrical tongue shocks alongside audio sweeps, forcing the system to re-classify the tone as background noise"
+  ],
+  "prevention": [
+    "Deploying hardware-level acoustic limiters (ear shielding) during high-decibel execution events to protect vulnerable hair-cell transducers from structural shear damage"
+  ]
+}
 
 "anton_babinski_driver_lock": {
   "description": "A rare symptom of brain damage occurring in the occipital lobe where those who are image-blind deny that they are blind.",
