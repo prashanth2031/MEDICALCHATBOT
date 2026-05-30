@@ -1321,6 +1321,39 @@ medical_db = {
     "Deploying hardware-level acoustic limiters (ear shielding) during high-decibel execution events to protect vulnerable hair-cell transducers from structural shear damage"
   ]
 }
+"pattern_matcher_boundary_leak_fault": {
+  "description": "A critical calibration failure where the sensory processing engine drops its statistical confidence thresholds to zero, involuntarily compiling random environmental static noise into high-priority visual or conceptual asset tokens.",
+  "symptoms": [
+    "Hyper-Reactive Asset Instantiation (Pareidolia): Involuntary rendering of complex structural shapes (predominantly faces, figures, or eyes) inside completely randomized, low-density visual textures",
+    "Conceptual Correlation Leaking (Apophenia): Forcing meaningful causal dependencies between entirely detached, asynchronous data streams (e.g., believing a random sequence of traffic lights is broadcasting an encrypted operational script)",
+    "Confidence Threshold Collapse: The system accepts loose, fractional feature matches as 100% verified asset tokens, bypassing prefrontal sanity-check routines",
+    "High-Priority Interrupt Spikes: Meaningless background noise is continually assigned high contextual urgency, flooding the active conscious workspace with alert flags",
+    "Self-Validating Feedback Cycles: The system builds complex narrative frameworks to explain the forced pattern matches, altering long-term semantic indexing to accommodate the false correlations"
+  ],
+  "causes": [
+    "Mesolimbic Dopaminergic Hyper-Activation: Aberrant salience routing caused by a surge in dopamine neurotransmission, assigning critical emotional weight to random background packets",
+    "Prefrontal Inhibitory Gate Failure: Loss of top-down down-sampling commands from the dorsolateral prefrontal networks, disabling the system's noise-rejection filters",
+    "Extended Sleep-Cycle Deprivation: Prolonged runtime operations without a garbage-collection sleep cycle, causing deep REM-phase dream-rendering matrices to leak into active awake viewports"
+  ],
+  "risk_factors": [
+    "Proactive genetic predispositions toward cluster-A schizophrenia-spectrum system vulnerabilities",
+    "Acute amphetamine or dopaminergic agonist toxicity over-driving the central salience distribution hubs",
+    "Extreme isolation environments combined with sensory deprivation, forcing the pattern parser to maximize its internal gain settings"
+  ],
+  "diagnosis": [
+    "The 'Rorschach Static Ingestion' Audit: Presenting high-density, completely unstructured inkblot or white-noise frames; the system immediately extracts highly complex, rigid narrative geometries",
+    "The 'Asynchronous Signal Association' Test: Presenting two completely disconnected data feeds (e.g., a stock ticker and a random radio track) and tracking if the system compiles a unified causal link between them",
+    "Functional Neuroimaging (fMRI): Visualizing abnormal, spontaneous blood-oxygen-level-dependent (BOLD) signal spikes in the fusiform face area when exposed to completely inanimate, non-face textures"
+  ],
+  "remedies": [
+    "D2 Receptor Antagonist Patching: Deploying high-affinity dopamine D2 receptor blockers to damp down aberrant salience loops and restore normal noise-rejection thresholds",
+    "Cognitive High-Pass Noise Filtering: Training the remaining executive networks to cross-check sensory assets against physical laws, manually labeling low-probability matches as 'system noise'",
+    "System-Wide Forced Sleep Shutdown: Enforcing an immediate, high-depth sedation cycle to clear toxic metabolic runtime residuals and reset the visual aggregation arrays"
+  ],
+  "prevention": [
+    "Strict enforcement of regular system-rest cycles and avoiding chemical compounds that downregulate the prefrontal cortex's top-down gating integrity"
+  ]
+}
 
 "fregoli_hash_collision_fault": {
   "description": "A delusion where the user believes that different people are actually a single person who changes appearance or is in disguise.",
