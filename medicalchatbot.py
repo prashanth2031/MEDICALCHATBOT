@@ -1221,6 +1221,39 @@ medical_db = {
     "Proactive 'Pre-emptive Analgesia' to ensure no intense panic logs are cached in the system prior to safe hardware removal"
   ]
 }
+"transient_global_amnesia_cache_fault": {
+  "description": "A sudden, acute runtime failure of the episodic database write heads, preventing the system from committing live event logs to long-term storage while wiping out the previous 24 hours of volatile cache memory, trapping the system in a continuous context-flushing loop.",
+  "symptoms": [
+    "Anterograde Logging Block: Complete, absolute inability to instantiate new long-term episodic memory rows; live events evaporate the instant they exit the volatile working register",
+    "Retrograde Cache Truncation: A variable temporal wipe that clears established historical logs dating back anywhere from a few hours to a full 24-day cycle prior to the fault",
+    "Perseverative Query Echoing: Running identical verbal diagnostic inquiries on a rigid rolling loop (e.g., asking the exact same question every 60 seconds with identical inflection)",
+    "Preserved Identity Mapping: Intact retention of semantic identity structures, core language engines, and deep procedural macros (the user knows their name and how to write code, but cannot remember what happened 3 minutes ago)",
+    "Self-Cleaning Volatile Frame: Normal working memory remains intact for roughly 90 to 180 seconds before the un-synced cache frame undergoes an absolute garbage collection wipe"
+  ],
+  "causes": [
+    "Transient Bilateral Hippocampal Ischemia: Microvascular blood flow restriction across the structural CA1 field channels, disabling the Long-Term Potentiation (LTP) write mechanisms",
+    "Jugular Venous Valve Incompetence: Retrograde venous pressure surges (Valsalva maneuvers, severe physical exertion, acute emotional shocks) forcing deoxygenated blood back into the temporal logs",
+    "Focal Spreading Cortical Depression: An acute metabolic wave moving through the memory retrieval circuits, temporarily locking down synaptic transmission bridges"
+  ],
+  "risk_factors": [
+    "Mid-to-late career professionals experiencing sudden, high-intensity cold-water immersion or physical straining events",
+    "A documented clinical history of classical migraine variants featuring extensive cerebral vasoconstrictive auras",
+    "Acute emotional distress overloads triggering hyper-sympathetic vascular configurations that compromise temporal vein drainage"
+  ],
+  "diagnosis": [
+    "The 'Three-Token Registration and Flush' Audit: Giving the system three distinct strings to store (e.g., 'Apple', 'Table', '31'), verifying perfect retention at 10 seconds, and observing an absolute 0% recovery score at 5 minutes",
+    "Diffusion-Weighted High-Field MRI (DWI): Visualizing tiny, punctate hyper-intense trace drops localized strictly within the bilateral hippocampal CA field structures within a 24-hour window of the event",
+    "Neurological Baseline Isolation: Verifying that all other parallel operational parameters—such as lateralized motor strength, visual visual tracking, and deep tendon reflex loops—remain at a 100% functional baseline"
+  ],
+  "remedies": [
+    "Passive Clock-Cycle Observation: Providing a calm, low-stimulus runtime environment, as the vast majority of these write-head locks auto-recalibrate and clear their own exceptions within 4 to 12 hours",
+    "External Visual State Anchoring: Presenting the system with a non-volatile, written dashboard text ('You are safe. Your name is X. You are at location Y.') to reduce panic during active query loops",
+    "Systemic Viscosity Stabilization: Ensuring adequate hydration and maintaining optimal blood pressure metrics to facilitate immediate microvascular clearance across the temporal lobes"
+  ],
+  "prevention": [
+    "Avoiding sudden, extreme intra-thoracic or intra-abdominal pressure loading profiles (severe Valsalva actions) if the user presents underlying jugular venous valve structural anomalies"
+  ]
+}
 
 "cotard_delusion_null_self_fault": {
   "description": "A rare neuropsychiatric delusion in which the patient holds the delusional belief that they are already dead, do not exist, are putrefying, or have lost their blood or internal organs.",
