@@ -1862,6 +1862,39 @@ medical_db = {
     "Vascular 'Firewalling' to protect the 'Right Parietal' coordinate engine"
   ]
 }
+"jamais_vu_cache_decoupling_fault": {
+  "description": "An acute semantic-cache decoupling fault where a highly integrated, deeply ingrained environmental token or word string is suddenly treated as un-parsed, raw data, stripping the asset of its familiarity tags while preserving its structural architecture.",
+  "symptoms": [
+    "Familiarity Metadata Stripping: Complete loss of the sub-cognitive 'recognition layer' while processing deeply routine visual, verbal, or environmental assets",
+    "Preserved Structural Semantics: The system maintains full intellectual access to definitions and properties (e.g., the user can define the word, but it looks like gibberish)",
+    "Acute Environmental Alienation: Sudden perception of one's native, highly frequented operational workspace (e.g., home, office) as an entirely un-visited, newly initialized zone",
+    "Perseverative Over-Parsing: The prefrontal loop becomes hyper-focused on the detached token, staring at or repeating it to force a manual cache re-indexing match",
+    "Transient Runtime Duration: The anomaly typically lasts for milliseconds to minutes before the subcortical gating channels auto-clear and re-sync the metadata pipelines"
+  ],
+  "causes": [
+    "Sub-Clinical Temporal Lobe Micro-Seizures: Transient, localized electrical micro-storms across the parahippocampal gyrus temporarily disrupting the metadata token bus",
+    "Synaptic Satiation / Refractory Fatigue: Prolonged, continuous loop repetition of a single asset (e.g., writing the same word 100 times), forcing the familiarity circuit into an absolute refractory freeze",
+    "Frontotemporal Disconnection Spikes: Acute, temporary synchronization dropouts between the ventral object-recognition pathway and the frontoparietal evaluation networks"
+  ],
+  "risk_factors": [
+    "Underlying temporal lobe epilepsy variations inducing un-triggered focal dyscognitive events",
+    "Severe sleep-deprivation cycles preventing the clearance of metabolic junk from semantic indexing hubs",
+    "High-load cognitive burnout profiles where the system's focus arrays over-saturate specific lexical pathways"
+  ],
+  "diagnosis": [
+    "The 'Satiation Lexical Iteration' Audit: Forcing the system to repeatedly execute or write a single word token for 60 seconds; tracking the speed at which the familiarity gate collapses compared to baseline nodes",
+    "Electroencephalography (EEG) Temporal Tracking: Capturing transient focal sharp waves or localized delta-slowing clusters over the anterior temporal electrodes during active dissociation events",
+    "Neuropsychological Schema Validation: Confirming that object recognition, vocabulary indexing, and spatial orientation scores remain completely intact during the acute novelty event"
+  ],
+  "remedies": [
+    "Context Pipeline Disruption: Intentionally shifting the active attention vector away from the un-mapped token to clear the saturated synaptic lines and let the circuit reset",
+    "Alternative Sensory Ingestion: Using a parallel processing track (e.g., reading the word aloud to process it through the auditory parser) to bypass the locked visual perirhinal gate",
+    "Systemic Metabolic Re-Balancing: Stabilizing glucose levels and ensuring hydration to support high-throughput neurotransmitter synthesis across the temporal cortex channels"
+  ],
+  "prevention": [
+    "Enforcing strict constraints on monotonous, repetitive data loops and implementing regular macro rest periods to protect semantic index blocks from focal exhaustion"
+  ]
+}
 
 "fregoli_identity_collision_fault": {
   "description": "A rare disorder in which a person holds a delusional belief that different people are actually a single person who changes appearance or is in disguise.",
