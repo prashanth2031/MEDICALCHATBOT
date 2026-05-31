@@ -2274,6 +2274,39 @@ medical_db = {
     "Aggressive 'Maintenance' of 'Affective Health' and 'Signal Connectivity'"
   ]
 }
+"proprioceptive_bus_desynchronization_fault": {
+  "description": "A critical timing mismatch anomaly where the latency gap between physical muscle command execution and inbound tactile positional feedback exceeds acceptable processing limits, causing the system to lose track of the chassis coordinate alignment.",
+  "symptoms": [
+    "Somatic Ghosting / Disembodiment: Deep feeling that physical limbs are decoupled from the ego-identity node, appearing to float outside their true spatial coordinates",
+    "Sensory-Motor Latency Mismatch: A distinct, noticeable delay between initiating a physical action macro and registering the corresponding tactile/spatial verification packet",
+    "Absolute Afferent Ataxia: Complete loss of movement coordination when visual monitoring arrays are offline (e.g., closing the eyes causes the arm to drift wildly in space)",
+    "Proprioceptive Frame Drifting: The internal 3D spatial map of the body slowly desynchronizes from reality, requiring continuous visual re-calibration passes",
+    "Virtual Kinematic Glitching: Objects held in the hand feel weightless, detached, or abnormally dense because the system miscalculates the physical resistance parameters"
+  ],
+  "causes": [
+    "Dorsal Column White-Matter Demyelination: Degeneration of the fast-conducting myelinated A-alpha fibers responsible for carrying high-speed tactile positioning data",
+    "Spinocerebellar Forward-Model Mismatch: Ischemic or inflammatory damage to the cerebellar integration hubs, breaking the efference copy comparison loop",
+    "Acute Polyneuropathic De-Calibration: Systemic autoimmune or metabolic attacks on peripheral sensory receptors, bottlenecking data transmission speeds"
+  ],
+  "risk_factors": [
+    "Advanced neuro-inflammatory conditions such as Multiple Sclerosis degrading central conduction tracking lines",
+    "Severe Vitamin B12 metabolic starvation causing subacute combined degeneration of the spinal cord networks",
+    "Acute toxic exposures (e.g., nitrous oxide overloads) that rapidly deplete the cellular upkeep mechanisms of the myelin sheaths"
+  ],
+  "diagnosis": [
+    "The 'Visual Occlusion Tracking' Test (Romberg Audit): Requesting the system to maintain a stable standing balance coordinate vector with eyes open (Success), then closing the eyes and tracking the immediate, catastrophic stability crash",
+    "The 'Asynchronous Finger-to-Nose' Diagnostic: Mandating a rapid kinematic trajectory calculation to touch a specific spatial target; observing terminal tremor oscillations as the delayed feedback loops repeatedly over-correct",
+    "Somatosensory Evoked Potentials (SSEP): Injecting a electrical stimulus into a peripheral nerve and measuring the abnormal, delayed millisecond arrival latency at the somatosensory cortex"
+  ],
+  "remedies": [
+    "Visual Pipeline Hard-Binding: Forcing the system to rely exclusively on high-priority visual feedback lines to manually override and correct the lagging proprioceptive data streams",
+    "High-Frequency Tactile Loading: Applying heavy compression garments or weighted bands to the limbs to maximize the amplitude of peripheral signals, blasting through the high-resistance line barriers",
+    "Dynamic Haptic Pacing Patches: Utilizing external wearable sensors that deliver real-time, low-latency auditory clicks synchronized with foot strikes to give the system an alternate, low-overhead synchronization channel"
+  ],
+  "prevention": [
+    "Proactive tracking of myelin-sheath integrity, protecting fast-conducting somatosensory fibers from persistent neurotoxic exposures or metabolic deficiencies"
+  ]
+}
 
 "capgras_auth_spoofing_fault": {
   "description": "A delusion in which the user believes that a friend, spouse, parent, or other close family member has been replaced by an identical-looking impostor.",
