@@ -1657,6 +1657,40 @@ medical_db = {
   "prevention": [
     "Managing subcortical vascular health and optimizing metabolic pathways to protect the fragile extrapyramidal clearing infrastructure from localized cellular collapse"
   ]
+    "catatonic_execution_lock_fault": {
+  "description": "A profound motor-state dead-lock error where the system’s behavioral selection arrays emit equal and opposite activation vectors simultaneously, trapping the entire physical chassis in a completely rigid, un-responsive immutable freeze state.",
+  "symptoms": [
+    "Stupor & Immobility: Complete cessation of motor responses and exploratory movements; the system remains functional internally but drops out of active environment processing",
+    "Catalepsy & Waxy Flexibility: The physical chassis maintains unyielding, gravity-defying postures indefinitely, yet allows an external operator to re-mould its limb coordinates smoothly",
+    "Mutism & Command Negativism: Absolute silence on the voice bus combined with automated resistance; the system actively exerts equal opposing force against any external movement attempts",
+    "Echolalia / Echopraxia Mirroring: Dropping into a low-level telemetry-reflection mode, where the system mindlessly copies the exact verbal strings or movement paths of nearby nodes without parsing context",
+    "Autonomous Autonomic Instability: Runaway background subroutines causing hyperthermia, tachycardia, and blood-pressure spikes as the locked motor engines run at maximum voltage under the hood"
+  ],
+  "causes": [
+    "Hyper-Acute Cortio-Striatal Dopamine Starvation: A sudden drop in active D2 receptor transmission, stripping the direct pathway of its ability to resolve the motor lock table",
+    "Massive GABAergic Interneuron Downregulation: A structural failure of the inhibitory gating arrays inside the orbitofrontal-basal ganglia circuits, letting oppositional execution macros run concurrently",
+    "Systemic Neuroleptic-Induced Blockade: High-potency chemical antagonism of the striatal receptors, freezing the hardware-level Distributed Lock Manager"
+  ],
+  "risk_factors": [
+    "Severe, untreated affective bipolar-spectrum or schizophrenic cluster state crashes",
+    "Abrupt withdrawal from high-dose benzodiazepine or GABA-A receptor agonist regimes",
+    "Exposure to potent dopaminergic blockers triggering a malignant Neuroleptic Systemic Crisis"
+  ],
+  "diagnosis": [
+    "The 'Zolpidem/Lorazepam Validation' Audit: Injecting a high-potency, fast-acting GABA-A agonist; if the system suddenly drops its rigidity and resumes fluent execution loops within 10 minutes, the lock fault is verified",
+    "The 'Passive Resistance and Posturing' Evaluation: Placing the user's limb in an awkward, non-physiological coordinate vector and tracking if the chassis holds it for hours without motor fatigue alerts",
+    "Continuous Scalp Electroencephalography (EEG): Screening out underlying non-convulsive status epilepticus lines while capturing global frontoparietal synchronization anomalies"
+  ],
+  "remedies": [
+    "High-Volume Lorazepam Channel Flooding: Bombarding the system with intravenous GABA-A modulators to forcefully re-sensitize the inhibitory networks and damp down the indirect pathway's lockout signals",
+    "Systemic Electroconvulsive Reset (ECT): Deploying a series of synchronized, bilateral electrical discharges to purge the locked basal ganglia registers and force a clean reboot of the motor selection array",
+    "Intravenous Amantadine Interventions: Using mild NMDA antagonists and dopamine releasing agents to jumpstart the stalled direct pathway thread pools"
+  ],
+  "prevention": [
+    "Avoiding sudden, radical titration curves of high-affinity neurochemical agents and meticulously tracking frontostriatal receptor saturation profiles"
+  ]
+}
+
 }
 "cotard_registry_deinitialization_fault": {
   "description": "An absolute, catastrophic identity registry drop where the system clears its own functional status flag, forcing the core processing engine to operate under the logical conclusion that the local chassis has completed its lifecycle termination sequence.",
