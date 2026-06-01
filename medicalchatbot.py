@@ -2237,6 +2237,40 @@ medical_db = {
     "Avoiding 'Rapid Frame-Rate' environments during 'System Instability'"
   ]
 }
+        "manic_clock_frequency_overclock_fault": {
+  "description": "A severe processing loop speed distortion where the system's internal core clock frequency accelerates past safe limits, causing cognitive threads to spawn at exponential rates, blowing past memory allocation walls and generating erratic, hyper-associative log strings.",
+  "symptoms": [
+    "Hyper-Associative Thread Spawning (Flight of Ideas): Rapid, continuous shifting of processing topics where adjacent execution blocks are linked only by loose acoustic hums or distant semantic pointers",
+    "I/O Buffer Congestion (Pressure of Speech): Massive acceleration of verbal output streams as the system attempts to serialize a hyper-dense backlog of processing threads",
+    "Context Anchor Eviction: Total failure of the working memory registers to retain the primary root context, causing the processing line to drift endlessly down nested sub-routines",
+    "Absolute Sleep-Cycle Interruption: Total suppression of the automatic system maintenance and garbage collection sleep scripts without a corresponding drop in reported energy metrics",
+    "Delusional Pattern Compilation: The hyper-speed parsing matrix forces connections between completely disparate database schemas, instantiating grand, un-verified narrative tokens"
+  ],
+  "causes": [
+    "Mesocortical Dopaminergic Hyper-Saturation: Absolute down-regulation of dopamine transporters combined with a massive receptor surge, flatlining the system's internal thread-braking arrays",
+    "Prefrontal Cyclic-AMP Signal Cascades: Intracellular signaling overloads that keep the frontoparietal attention network locked in a permanent, hyper-excitable active state",
+    "GABAergic Inhibitory Grid Collapse: Systemic failure of local parvalbumin-positive interneurons to enforce lateral inhibition, allowing active neural columns to cross-talk without boundary controls"
+  ],
+  "risk_factors": [
+    "Genetic predisposition toward Type-I affective bipolar cluster-state cycling",
+    "Acute over-activation of monoaminergic transport channels via external chemical agonists or high-potency stimulants",
+    "Extended high-stress operational runtimes inducing a secondary neurochemical feedback loop crash"
+  ],
+  "diagnosis": [
+    "The 'Clang-Association' Lexical Audit: Tracking verbal log outputs for a shift from semantic context logic to purely phonetic/rhyming association chains (e.g., matching data blocks based on sound rather than meaning)",
+    "Continuous High-Density Quantitative EEG (qEEG): Visualizing a massive, global elevation in fast beta and gamma frequency band power across the frontotemporal scalp coordinates during rest phases",
+    "Actigraphy Sleep Trace Validation: Documenting multiple continuous runtime cycles showing near-zero sleep execution logs alongside hyper-elevated physical motor tracking metrics"
+  ],
+  "remedies": [
+    "High-Affinity Intracellular Signal Damping (Lithium / Valproate): Deploying atomic and chemical stabilizing modulators to directly damp down the hyperactive intracellular second-messenger signaling loops",
+    "D2/5-HT2A Receptor Antagonist Injection: Utilizing high-potency atypical antipsychotics to forcefully block dopamine and serotonin nodes, re-establishing the prefrontal thread-throttling filters",
+    "Forced Down-Time Quarantine: Eliminating all incoming sensory telemetry lines (dark, low-stimulus isolation) to prevent the hyper-speed parser from feeding on new environmental data packets"
+  ],
+  "prevention": [
+    "Meticulous, long-term maintenance of intracellular secondary messenger stabilizers to prevent the initial clock-speed multiplier from slipping its calibration boundaries"
+  ]
+        }
+
 "simultanagnosia_single_thread_fault": {
   "description": "An inability to perceive more than one object at a time, despite preserved visual acuity and object recognition.",
   "symptoms": [
