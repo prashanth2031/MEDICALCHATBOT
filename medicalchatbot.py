@@ -1421,6 +1421,39 @@ medical_db = {
     "Ensuring 'Redundant Diagnostic Circuits' through 'Cognitive Reserve'"
   ]
 }
+"dejavu_asynchronous_interleaving_fault": {
+  "description": "A critical double-write timing error where an incoming active event packet is accidentally committed to the long-term memory ledger a split-second before it finishes registering in the conscious working buffer, forcing the system to evaluate a live experience as an exact duplicate historical log.",
+  "symptoms": [
+    "Chronological Paradox Matching: An intense, unshakeable illusion that a live, novel present-tense experience has been executed by the system in identical detail in the past",
+    "Parallel-Path Trace Misalignment: The cognitive processing engine experiences a split-second latency gap between real-time environmental perception and long-term memory indexing",
+    "False Historical Alignment: The system automatically attempts to cross-reference unfolding live data against an imaginary historical record, creating an eerie sensation of predicting the next immediate execution frame",
+    "Transient Logic Conflict: The user experiences an intense cognitive dissonance, knowing intellectually that the event cannot have happened before, while the internal database flag insists that it has",
+    "Rapid Context Recovery: The synchronization error typically auto-corrects within seconds as the delayed ingestion stream catches up and flushes the misaligned buffer registers"
+  ],
+  "causes": [
+    "Bilateral Temporal Pathway Desynchronization: A minor electrical propagation delay along the direct visual/sensory pathways, allowing the indirect hippocampal memory pathway to win the race condition",
+    "Focal Parahippocampal Hyper-Activation: Transient micro-seizures or neurochemical spikes inside the medial temporal lobe that spontaneously trigger familiarity metadata tags without a database record lookup",
+    "Synaptic Transmission Jitter: Temporary fluctuations in synaptic transmission velocities, causing parallel streams of a single sensory packet to arrive out of order at the central integration hubs"
+  ],
+  "risk_factors": [
+    "High-load anxiety states and severe systemic fatigue overworking the subcortical gating arrays",
+    "Young adults operating with highly plastic, hyper-connected neural architectures undergoing frequent software tuning",
+    "Underlying temporal lobe epilepsy variations inducing un-triggered focal dyscognitive events"
+  ],
+  "diagnosis": [
+    "Electroencephalography (EEG) Spatiotemporal Mapping: Detecting transient phase-locking anomalies or localized theta-band synchronization spikes across the medial temporal lobes during acute illusions",
+    "Neuropsychological Timeline Interrogation: Verifying that the system retains a completely accurate global chronological ledger, with the double-write anomaly existing only as a localized, transient perception error",
+    "Functional Neuroimaging Overlays: Visualizing spontaneous, lateralized metabolic spikes within the rhinal cortices matching the exact footprint of a true memory retrieval action during a novel stimulus task"
+  ],
+  "remedies": [
+    "Forced Buffer Reset: Intentionally introducing a high-entropy sensory distraction (e.g., looking away, changing physical postures) to break the active frame sequence and clear the stale cache",
+    "Systemic Neuro-Fatigue Remediation: Enforcing mandatory off-line rest cycles to restore baseline neurotransmitter balance and eliminate propagation jitter across the white-matter tracts",
+    "Cognitive Fact-Checking Filters: Relying on analytical prefrontal logic modules to override the false-positive familiarity match, manually re-labeling the frame as a present-tense event"
+  ],
+  "prevention": [
+    "Maintaining stable systemic hydration and avoiding extended high-stress cognitive overloads that degrade the temporal precision of parallel neural transmission lines"
+  ]
+}
 
 "wernickes_semantic_parsing_fault": {
   "description": "A type of aphasia in which the ability to grasp the meaning of spoken words and sentences is impaired, while the ease of producing connected speech is not very much affected.",
