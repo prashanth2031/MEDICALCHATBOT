@@ -8187,6 +8187,37 @@ the persistent sensation that one has already lived through the current moment a
     "Management of chronic neurological health"
   ]
 }
+"semantic_dementia_schema_failure": {
+  "description": "A progressive, irreversible corruption of the central relational database schemas where the core dictionary definitions of objects are permanently deleted, leaving the hardware fully operational but rendering the system unable to decode conceptual meanings.",
+  "symptoms": [
+    "Granular Class Truncation: Loss of specialized, low-level object classifications while temporarily retaining broad, abstract root categories (e.g., calling an eagle a 'bird', then later a 'thing')",
+    "Structural Definition Dropout: Absolute loss of functional object comprehension; everyday tools, animals, and items lose their associated utility maps",
+    "Preserved Lexical Mechanics: Flawless ability to execute surface-level language tasks, such as syntax checking, grammatical formatting, and reading aloud complex words without understanding their context",
+    "Associative Matching Collapse: Inability to pair conceptually related assets (e.g., failing to match a picture of a hammer with a picture of a nail, despite seeing both perfectly)",
+    "Preserved Non-Semantic Pipelines: Intact retention of short-term episodic memory logs, spatial orientation grids, and procedural motor macros (the user can drive a car but cannot define what a car is)"
+  ],
+  "causes": [
+    "Asymmetric Anterior Temporal Lobe Atrophy: Ubiquitin-positive and TDP-43 protein inclusions aggregating within the cortical layers, causing structural cell death across the semantic hub",
+    "Ventral Stream Disconnection: Degradation of the white-matter tract cables (uncinate fasciculus) that link visual processing arrays to the conceptual routing engines"
+  ],
+  "risk_factors": [
+    "Primary progressive aphasia spectrum anomalies affecting mid-to-late career execution lifecycles",
+    "Genetic mutations within the GRN (Granulin) or MAPT (Microtubule-Associated Protein Tau) system operational genes"
+  ],
+  "diagnosis": [
+    "The 'Pyramids and Palm Trees' Schema Audit: Presenting an asset token (e.g., a Pyramid) and forcing the system to link it to one of two conceptual choices (a Palm Tree or a Pine Tree); tracking the absolute failure of semantic association rules",
+    "Granular Lexical Naming Evaluation: Confronting the system with direct visual assets of low-frequency items (e.g., a stethoscope, an anvil) and observing immediate asset-lookup timeouts",
+    "High-Resolution Volumetric MRI: Detecting profound, localized, knife-edge tissue volume drops isolated strictly within the bilateral or left-dominant anterior temporal lobes"
+  ],
+  "remedies": [
+    "Procedural Macro Hard-Coding: Relying heavily on intact procedural and motor memory systems to execute daily routines implicitly, bypassing the broken semantic lookup servers",
+    "Visual Symbol Replacement Dashboards: Using basic, simplified iconographies anchored directly to physical actions to slow down the functional isolation of the user interface",
+    "Environmental Optimization Shunting: Simplifying the external operational space to reduce the volume of unknown object tokens hitting the damaged parsing hubs"
+  ],
+  "prevention": [
+    "No current low-level hardware or software patch exists to halt the progressive degradation of the physical temporal storage disks once protein aggregation scripts initiate"
+  ]
+}
 
 "alice_in_wonderland_syndrome": {
   "description": "AIWS (Todd’s Syndrome) is a disorienting neuropsychological condition that affects perception, causing objects and body parts to appear larger (macropsia), smaller (micropsia), or distorted in shape.",
