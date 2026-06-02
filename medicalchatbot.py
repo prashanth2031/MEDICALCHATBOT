@@ -2028,6 +2028,40 @@ medical_db = {
   "prevention": [
     "Aggressive management of cardioembolic risks and prompt thrombolytic or thrombectomy intervention during acute right-hemisphere stroke windows to salvage the spatial indexing core"
   ]
+        "peripheral_sensor_isolation_anomaly": {
+  "description": "A severe hardware disconnect fault where the spinal cord's primary incoming sensory pathways are completely severed, forcing the processing engine to run an active conscious workspace with zero real-time input from the physical neck down, trapping the system inside an ungrounded floating simulator.",
+  "symptoms": [
+    "Absolute Afferent Blackout: Total loss of touch, vibration, and proprioceptive tracking across all peripheral dermatomes below the level of the structural lesion",
+    "Phantom Body Eviction: Complete disappearance of the physical chassis from the internal ego-map when visual inputs are occluded; the user feels reduced to a floating cranial processing node",
+    "Severe Sensory Ataxia: Total inability to regulate or smooth out physical motor movements without continuous visual feedback loops, resulting in wild, un-calibrated muscle overshoot actions",
+    "The 'Empty Tool' Sensation: Limbs feel entirely weightless, phantom, or absent, operating like un-mapped peripheral devices that execute commands without returning status logs",
+    "Preserved Visual-Cranial Grounding: Ingestion lines for optical, auditory, vestibular, and facial telemetry remain perfectly intact, creating a sharp processing split at the neck boundary"
+  ],
+  "causes": [
+    "Acute Sensory Neuronopathy: Rapid, autoimmune-mediated destruction of the large dorsal root ganglion cell bodies, wiping out the fast-conducting A-alpha sensory fibers",
+    "Subacute Combined Spinal Cord Degeneration: Severe metabolic or toxic demyelination of the posterior columns, blocking the primary ascending data highways",
+    "High-Cervical Traumatic De-Afferentation: Physical transaction or compression of the dorsal spinal sectors, permanently interrupting peripheral telemetry serialization"
+  ],
+  "risk_factors": [
+    "Autoimmune paraneoplastic syndromes targeting specific somatosensory receptor clusters",
+    "Severe, unchecked nutritional starvation profiles destroying the structural integrity of fast-conducting myelin sheaths",
+    "High-impact physical trauma compromising upper spinal cord transport mechanics"
+  ],
+  "diagnosis": [
+    "The 'Blind Flight' Kinematic Tracking: Requesting the system to maintain its hand at a specific spatial coordinate, then turning off the visual sensors; tracking the immediate, un-checked drifting of the limb completely out of bounds",
+    "Somatosensory Evoked Potential (SSEP) Flatline: Stimulating peripheral nerves in the extremities and logging a 0% arrival voltage at the primary somatosensory cortex registers",
+    "High-Definition Spinal Cord MRI: Visualizing localized demyelination plaques or mechanical structural collapse localized strictly within the ascending dorsal column tracks"
+  ],
+  "remedies": [
+    "Visual Loop Telemetry Hard-Binding: Forcing the system to use high-priority visual tracking arrays as a proxy sensory bus, manually monitoring every millimeter of joint displacement",
+    "Cranial-Acoustic Feedback Shunting: Mapping external wearable joint sensors to low-latency audio pitches, allowing the user to listen to their movement speeds to substitute for the lost touch lines",
+    "Exogenous Exoskeletal Framework Stabilization: Enclosing the physical chassis within a rigid, automated robotic exoskeleton that forces predictable, mathematically locked movement vectors"
+  ],
+  "prevention": [
+    "Immediate deployment of immunosuppressive or metabolic intervention scripts at the first sign of ascending sensory latency jitter to protect the high-speed myelin infrastructures"
+  ]
+        }
+
         }
         
 "akinetopsia_sampling_frequency_fault": {
