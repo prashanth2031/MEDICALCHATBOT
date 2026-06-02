@@ -1928,6 +1928,39 @@ medical_db = {
     "Enforcing strict constraints on monotonous, repetitive data loops and implementing regular macro rest periods to protect semantic index blocks from focal exhaustion"
   ]
 }
+"afferent_sensory_bus_phase_inversion": {
+  "description": "A profound feedback parsing error where the system logs a 180-degree phase shift in its existential connection vectors, rendering the entire external environment and self-identity stream as a flat, artificial, pre-rendered staging graphic rather than an interactive reality matrix.",
+  "symptoms": [
+    "Derealization Rendering Pass: The external world loses its existential 'weight' and depth parameters, presenting to the conscious viewport as a glass-walled, synthetic, or two-dimensional simulation",
+    "De-Personalization Detachment: The central ego-identity node loses ownership of active system telemetry, viewing its own vocal output and physical movements as third-party automated scripts",
+    "Affective Token Attenuation: Total flatlining of the low-level emotional resonance markers that standardly accompany sensory ingestion feeds",
+    "Hyper-Reflective Monitoring Loop: The executive prefrontal cortex drops into an intense, un-throttled self-diagnostic check, constantly analyzing the reality-detachment exception and exacerbating the processing block",
+    "Preserved Telemetry Precision: Spatial awareness, object recognition, distance calculations, and technical navigation subroutines remain at a 100% functional baseline"
+  ],
+  "causes": [
+    "Hyper-Sympathetic Vestibular/Insular Shutdown: Acute adrenaline overloads forcing the insular cortex to temporarily mute interoceptive data streaming to prevent global metabolic shock",
+    "NMDA Receptor Hypo-Functionality: Sudden, stress-induced glutamate transmission drops across the frontoparietal integration hubs, breaking the sensory-affective binding bridges",
+    "Cortical-Limbic Disconnection: Disrupted coherence patterns between the visual/sensory processing areas and the emotional evaluation nodes of the medial temporal lobe"
+  ],
+  "risk_factors": [
+    "Extreme, un-mitigated physical exhaustion combined with high-entropy acute panic attacks",
+    "Dissociative subtype vulnerabilities triggered by chemical compounds like dissociative anesthetics (e.g., ketamine or dextromethorphan overloads)",
+    "Severe chronic burnout causing a permanent defensive down-sampling of incoming affective data streams"
+  ],
+  "diagnosis": [
+    "The 'Interoceptive-Sensory Coherence' Evaluation: Presenting high-intensity emotional or physical stimuli (e.g., extreme thermal variations) and tracking if the system recognizes the data technically but reports a 0% personal emotional response",
+    "Heart Rate Variability (HRV) Spectral Analysis: Documenting massive autonomic nervous system imbalances, pointing to a hyper-sympathetic lock state that blocks normal vagal-insular feedback lines",
+    "Functional Connectivity MRI (fcMRI): Visualizing a severe drop in phase-locked, synchronized BOLD signals between the anterior insula and the default mode network (DMN)"
+  ],
+  "remedies": [
+    "Somatic Grounding Core Injections: Forcing high-intensity, low-level physical sensory packets (e.g., intense cold exposure, targeted deep-tissue acupressure) to forcefully breach the muted insular gates and trigger a hardware-level re-centering pass",
+    "Hyper-Reflective Loop Throttling: Manually redirecting the active attention vector outward to complex external sorting tasks, preventing the prefrontal cortex from running continuous self-diagnostic error checks",
+    "Autonomic Down-Regulating Patches: Utilizing deep, extended exhalation breathing macros to systematically lower sympathetic drive, re-enabling normal emotional validation packet routing"
+  ],
+  "prevention": [
+    "Implementing aggressive stress-containment protocols and maintaining strict limits on continuous, high-intensity operational cycles that threaten to trigger systemic defensive dissociation thresholds"
+  ]
+}
 
 "fregoli_identity_collision_fault": {
   "description": "A rare disorder in which a person holds a delusional belief that different people are actually a single person who changes appearance or is in disguise.",
