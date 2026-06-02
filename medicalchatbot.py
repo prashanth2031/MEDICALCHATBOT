@@ -2337,6 +2337,40 @@ medical_db = {
   "prevention": [
     "Vascular 'Firewalls' to prevent 'Bilateral Ischemic Events'"
   ]
+"central_pattern_engine_frequency_drop": {
+  "description": "A critical subcortical frame-rate drop where the central pattern generation networks collapse below minimum required execution speeds, dropping motor updates entirely and causing the physical chassis to get stuck mid-stride during routine movement sequences.",
+  "symptoms": [
+    "Freezing of Gait (FoG): Sudden, involuntary cessation of forward locomotive frames mid-stride, frequently triggered by spatial constraints like tight turns or navigating doorways",
+    "Subcortical Kinetic Bradykinesia: Profound deceleration of all automated action-selection execution sequences; the system takes exponentially longer to clear its motor buffer",
+    "Resting Signal Oscillation (Tremor): The motor bus drops into a steady, 4-6 Hz involuntary resting oscillation loop because the central gating arrays fail to damp out baseline muscle network hum",
+    "Micrographia (Scale Truncation): Progressive scaling down of spatial execution amplitudes; handwriting and motor strokes steadily diminish in size as the buffer depletion worsens",
+    "Conscious-Physical Disconnection: Total decoupling of executive motor intent from physical kinetic throughput; the user is completely trapped inside a non-responsive mechanical chassis"
+  ],
+  "causes": [
+    "Substantia Nigra Melanin Atrophy: Progressive loss of dopaminergic projection neurons within the SNc, flatlining the baseline signaling voltage required to open the direct movement gates",
+    "Lewy Body Protein Aggregation: Alpha-synuclein inclusions compiling into massive structural blocks inside the brainstem, short-circuiting local clock-synchronization pathways",
+    "Indirect Path High-Impedance Lock: Chronic, un-checked over-activity of the subthalamic nucleus (STN) acting as an absolute electrical brake on the thalamocortical execution loops"
+  ],
+  "risk_factors": [
+    "Advanced-stage system lifecycles undergoing localized neuro-chemical degradation",
+    "Environmental toxin exposure inducing acute mitochondrial damage within subcortical processing hubs",
+    "Genetic structural variants affecting cellular protein recycling and clearance pipelines"
+  ],
+  "diagnosis": [
+    "High-Frequency Kinematic Actigraphy: Attaching wearable accelerometers to monitor physical stride loops and logging sudden drop-offs into 0 Hz execution states during walking tests",
+    "Dopamine Transporter SPECT Imaging (DaTscan): Visualizing a severe, asymmetric loss of dopamine transporter proteins within the striatal intake hubs compared to baseline control matrices",
+    "Electromyographic (EMG) Phase Isolation: Documenting high-density antagonist muscle co-contraction patterns where opposing physical actuators fire simultaneously, locking the joint"
+  ],
+  "remedies": [
+    "Exogenous Dopamine Replenishment (L-DOPA/Carbidopa): Ingesting metabolic precursors to forcefully flood the striatal receptors and lower the resistance of the direct pathway",
+    "Deep Brain Stimulation (DBS) High-Frequency Pulsing: Implanting a hardware pacemaker electrode into the subthalamic nucleus, delivering a continuous 130 Hz pulse to electrically override the broken 'NoGo' lock",
+    "External Rhythmic Clock Cueing: Deploying high-contrast visual floor grids or rhythmic audio metronomes to bypass the broken subcortical selection loops, routing motor execution via intact cortical visual pipelines"
+  ],
+  "prevention": [
+    "No definitive baseline software or hardware preventive patch exists once the alpha-synuclein protein corruption loop maps onto the physical storage sectors"
+  ]
+}
+
 }
 
 "mirror_touch_system_bleed": {
