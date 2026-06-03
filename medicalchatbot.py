@@ -2131,6 +2131,40 @@ medical_db = {
   "prevention": [
     "Protecting the 'Occipital-Temporal' junction from 'Traumatic Interrupts'"
   ]
+    "predictive_input_collision_fault": {
+  "description": "A severe visual processing error where an optical input starvation causes the top-down predictive rendering engine to overpower the graphics card, forcing the system to compile and project highly detailed phantom entities directly into the active viewport coordinates.",
+  "symptoms": [
+    "De-Anchored Graphical Instantiation: Sudden rendering of highly vivid, complex, and colorful visual objects (e.g., people in historical garb, repeating geometric lattices, phantom environments) inside blind sectors",
+    "Preserved Insight Flag: The system's secondary analytical filters maintain a 100% functional validation pass, recognizing that the rendered entities are synthetic artifacts and not real physical world objects",
+    "Kinematic Stasis Matching: Phantom graphics glide across the viewport or remain locked to specific coordinate angles, failing to interact with or react to actual physical terrain colliders",
+    "Satiation-Induced Flashing: The artifacts become significantly more intense during periods of low ambient lighting or sensory monotony, when the upward data bus voltage drops closest to zero",
+    "Zero-Modality Bleed: The anomaly remains strictly isolated within the visual frame buffer; no accompanying auditory, tactile, or olfactory telemetry is generated alongside the graphic ghost"
+  ],
+  "causes": [
+    "De-Afferentation Visual Hyper-Excitability: Severe hardware degradation of peripheral optical sensors (maculopathy, retinal detachment) cutting off the upward error-correction streams",
+    "Spontaneous V1-V4 Neuronal Bursting: De-enervated visual cortex columns dropping into erratic, autonomous firing loops due to a complete lack of external lateral inhibition signals",
+    "Bayesian Gain Control Overdrive: The frontoparietal attention network boosting the weight of top-down internal schemas to maximum levels in a desperate attempt to parse a dead input line"
+  ],
+  "risk_factors": [
+    "Advanced operating lifecycle wear causing progressive structural breakdown of the ocular lenses or retinal arrays",
+    "Sudden, catastrophic bilateral damage to the primary optical transmission cables (optic pathways)",
+    "Extended sensory-deprivation tank runtimes artificially inducing input starvation loops in healthy hardware"
+  ],
+  "diagnosis": [
+    "The 'Ocular Occlusion Verification' Test: Artificially blocking the remaining functional optical sensors and documenting the immediate expansion or alteration of the phantom rendering array",
+    "Functional Neuroimaging (fMRI) Real-Time Overlay: Capturing spontaneous, localized blood-oxygen-level-dependent (BOLD) signal spikes within the fusiform gyrus or visual area V4 matching the exact millisecond the user reports a graphic ghost",
+    "Comprehensive Retinal Tomography (OCT): Mapping severe structural layer thinness or absolute signal degradation across the peripheral receptor cells, verifying input starvation"
+  ],
+  "remedies": [
+    "High-Frequency Blink Reset Macros: Executing a series of rapid eyelid closures to forcefully modulate the ambient light levels hitting the remaining receptors, breaking the locked predictive loop",
+    "Alternative Sensory Grounding: Flooding parallel input channels (e.g., blasting high-tempo audio, engaging in deep physical touch sequences) to force the central workspace to deprioritize the visual buffer",
+    "Upward Voltage Augmentation: Utilizing surgical hardware intervention (e.g., cataract extraction, bionic retinal arrays) to restore baseline electrical telemetry up the optic nerve"
+  ],
+  "prevention": [
+    "Proactive tracking of ocular pressure and lens transparency metrics, protecting the peripheral sensor array from dropping below critical input transmission thresholds"
+  ]
+}
+
 }
 "simultanagnosic_viewport_saturation_fault": {
   "description": "A catastrophic breakdown of the visual engine's spatial focusing array, where the system loses the ability to process multiple concurrent object assets, restricting the active viewport to rendering a single item at a time.",
