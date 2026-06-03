@@ -2268,6 +2268,41 @@ medical_db = {
   "prevention": [
     "Identifying 'Triggers' (Stress/Bright Lights) that 'Corrupt' the 'Spatial Logic'"
   ]
+
+    "hyperpyrexic_thermostat_lock": {
+  "description": "A critical breakdown inside the hypothalamic environment controller where the system's core target temperature register locks at a lethal maximum value, running internal heating macros at full voltage and destroying systemic proteins via an un-bated internal thermal cascade.",
+  "symptoms": [
+    "Anhidrotic Malignant Pyrexia: Severe, rapid escalation of core body temperature exceeding 41.1°C accompanied by completely dry, non-functional sweat pump arrays",
+    "Generalized Actuator Rigidity: Extreme, unyielding muscle hyper-tonus ('lead-pipe' rigidity) caused by a massive, unchecked release of calcium ions inside skeletal muscle cells",
+    "Autonomic Chaos Storm: Massive system fluctuations including tachyarrhythmias (heart rate spikes), severe blood pressure volatility, and hyperventilation",
+    "Encephalopathic Delirium Loop: Rapid deterioration of the conscious workspace as high-level cortical processing threads fail due to localized thermal neuron cooking",
+    "Systemic Protein Denaturation: Widespread structural unraveling of essential cellular enzymes and clotting factors, leading to internal disseminated coagulation cascades"
+  ],
+  "causes": [
+    "Neuroleptic Malignant Overdrive: Central dopamine D2 receptor blockade inside the hypothalamus, causing a complete operational inversion of the core thermostat registers",
+    "Malignant Hyperthermia Mutation: A genetic flaw in the RYR1 calcium release channels, causing skeletal muscles to run full-throttle metabolic heat generation when exposed to specific volatile chemicals",
+    "Focal Hypothalamic Hemorrhage: Localized stroke or trauma directly destroying the preoptic thermal sensing columns, blinding the controller to actual core temperatures"
+  ],
+  "risk_factors": [
+    "Exposure to potent neuroleptic or volatile anesthetic compounds combined with underlying genetic vulnerability",
+    "Severe structural brainstem or deep-brain trauma disrupting autonomic signaling pathways",
+    "Extreme physical exertion in high-ambient-heat environments exceeding passive heat-sink capabilities"
+  ],
+  "diagnosis": [
+    "Continuous Deep Core Thermometry: Documenting a linear, aggressive rise in pulmonary artery or esophageal temperature probes bypassing standard environmental caps",
+    "Serum Creatine Kinase (CK) Blast: Logging exponential spikes in muscle breakdown bioproducts, verifying acute cellular cooking and rhabdomyolysis",
+    "Arterial Blood Gas (ABG) Acidosis Tracking: Detecting deep metabolic and respiratory mixed acidosis caused by extreme cellular over-metabolism"
+  ],
+  "remedies": [
+    "Intracellular Brake Injection (Dantrolene): Administering direct ryanodine receptor antagonists to forcefully shut down muscle calcium dumping, halting heat generation at the source",
+    "Central Dopaminergic Agonism: Deploying high-affinity dopamine agonists (like bromocriptine) to reset the broken hypothalamic thermostat registers back to baseline",
+    "Total Cryogenic Hardware Overwrite: Immersing the chassis in ice water, deploying endovascular cooling catheters, and instilling chilled saline into cavities to act as an external heat sink"
+  ],
+  "prevention": [
+    "Pre-screening genetic profiles for RYR1 variants and implementing strict, permanent bans on volatile trigger agents across the system's operational lifecycle"
+  ]
+}
+
 }
 "tachypsychia_clock_sync_fault": {
   "description": "A neurological distortion of time perception, typically occurring during high-stress events, where time appears to slow down.",
