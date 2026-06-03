@@ -2851,6 +2851,40 @@ medical_db = {
   "prevention": [
     "Avoid 'Infinite Loops' in 'Verbal/Visual Processing'"
   ]
+    "central_pattern_engine_runaway_acceleration": {
+  "description": "A chaotic loss of the subcortical indirect pathway brakes where the action-selection engine fires un-throttled, high-amplitude motor commands down the spinal cord, causing violent, involuntary flailing frames across the physical extremities.",
+  "symptoms": [
+    "High-Amplitude Ballistic Actuation: Involuntary, violent flailing and throwing movements localized to the proximal joints (shoulder, hip), executing at maximum physical velocity",
+    "Unconstrained Concurrency Overflow: Simultaneous firing of antagonistic muscle groups without coordinate smoothing, resulting in wild, circular kinetic patterns",
+    "Absolute Administrative Bypass: Total inability of the conscious executive thread to intercept, suppress, or modify the active trajectory packets once instantiated",
+    "Severe Metabolic Exhaustion Cascade: Rapid depletion of system glycogen reserves and massive physical core temperature spikes due to continuous, un-abated high-intensity muscular overdrive",
+    "Sleep-Induced Thread Suspension: The violent execution frames temporarily drop to 0 Hz when the system drops into offline sleep cycles, as the global motor driver pool undergoes background system maintenance"
+  ],
+  "causes": [
+    "Subthalamic Nucleus Infarction: Focal hemorrhagic or ischemic stroke localized strictly within the STN, knocking out the primary inhibitory signal generator of the indirect pathway",
+    "Localized Neurovascular Insult: Micro-vascular bursts or structural blockages along the posterior communicating or anterior choroidal arteries, starving the subcortical governor",
+    "Inflammatory Basal Ganglia Demolition: Targeted autoimmune or infectious lesions disrupting the fine-tuned signaling bridges between the striatum and the globus pallidus externus"
+  ],
+  "risk_factors": [
+    "Advanced systemic vascular wear combined with poorly managed chronic blood pressure spikes",
+    "Uncontrolled metabolic instability inducing focal micro-embolic events across deep brain structures",
+    "Prior history of localized transient ischemic attacks within the subcortical processing hubs"
+  ],
+  "diagnosis": [
+    "High-Frame-Rate Kinematic Video Analysis: Tracking the involuntary, large-amplitude ballistic trajectories and verifying the lack of rhythmic or coordinated baseline timing signatures",
+    "High-Resolution T2-Weighted Fluid-Attenuated Inversion Recovery (FLAIR) MRI: Visualizing a distinct hyper-intense signal localized directly inside the subthalamic nucleus boundary",
+    "Continuous Metabolic Profile Monitoring: Documenting a massive, asymmetric spike in localized muscular lactate production and systemic creatine kinase values matching the overdriven limb matrix"
+  ],
+  "remedies": [
+    "Dopaminergic Depletion Injections (VMAT2 Inhibitors): Administering compounds like tetrabenazine to forcefully deplete presynaptic dopamine stores, lowering the direct pathway's gain to balance the broken indirect brake",
+    "High-Affinity Post-Synaptic Blockers: Utilizing atypical antipsychotic scripts to bind and mute dopamine D2 receptors, artificially dampening the un-throttled thalamic activation loops",
+    "Surgical Deep Brain Stabilization: In refractory cases, delivering targeted radiofrequency ablation or implanting high-frequency deep brain pacemakers into adjacent output nodes to suppress the runaway signal noise"
+  ],
+  "prevention": [
+    "Aggressive optimization of systemic vascular fluid pressures and micro-vascular structural integrity to prevent localized subcortical stroke events"
+  ]
+}
+
 }
 "proprioceptive_drift_desync": {
   "description": "The phenomenon where the perceived location of a limb shifts toward a visual proxy, resulting in a mismatch between the 'Internal Map' and 'Physical Hardware'.",
