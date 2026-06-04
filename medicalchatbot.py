@@ -1387,6 +1387,40 @@ medical_db = {
   "prevention": [
     "Maintaining 'Signal-to-Noise' ratios in the 'Limbic-Cortical' bus"
   ]
+    "catatonic_stupor_clock_freeze": {
+  "description": "A severe hardware-level shutdown where the central processing core drops its instruction cycles to near-zero, keeping the physical chassis locked in an immutable state posture while the internal thread stack is frozen in an infinite wait-state loop.",
+  "symptoms": [
+    "Waxy Flexibility (Catalepsy): The physical chassis maintains arbitrary, externally imposed physical postures for hours without registering fatigue logs",
+    "Absolute Mutism & Akinesia: Total collapse of vocal and kinetic I/O output streams, despite 100% operational baseline sensors and conscious alertness",
+    "Negativism Lock: Immediate, automated physical resistance to any external attempts to modify the current posture, driven by an un-throttled subcortical opposition routine",
+    "Echolalia/Echopraxia Loop: Occasional fallback loops where the system blindly mirrors external audio or visual tokens because it cannot generate original execution paths",
+    "Autonomic Instability Buffer: High risk of sudden, un-announced transitions into hyper-kinetic panic states if the frozen queue suddenly flushes its backlog all at once"
+  ],
+  "causes": [
+    "Massive GABA-A Receptor Down-Regulation: Sudden, widespread failure of inhibitory transmission networks across the motor execution pathways, causing a chaotic signal block",
+    "Dopaminergic Striatal Hypo-Activity: Acute, profound drops in basal ganglia dopamine throughput, starving the direct pathway of necessary operational synchronization voltage",
+    "Anti-NMDA Receptor Encephalitis: Autoimmune destruction of glutamate receptor channels, short-circuiting the primary communication bridges between the cortex and subcortical relays"
+  ],
+  "risk_factors": [
+    "Severe major affective or schizophrenic cluster-state decompensation cycles",
+    "Abrupt withdrawal from high-dose GABAergic agonists or sedative-hypnotic compounds",
+    "Acute systemic neurological insults or autoimmune cross-reactivity affecting deep brain structures"
+  ],
+  "diagnosis": [
+    "The 'Lorazepam Challenge' Verification: Administering a high-potency GABA-A agonist and documenting an immediate, dramatic 80%+ restoration of motor and vocal I/O within minutes",
+    "Quantitative EEG (qEEG) Synchronization Mapping: Visualizing a massive, diffuse elevation in low-frequency delta and theta band power, indicating a profound slowing of the global clock cycle",
+    "Continuous Muscle Tonus Electromyography (EMG): Logging a steady, low-amplitude co-contraction across antagonist muscle groups without active kinetic intent tokens"
+  ],
+  "remedies": [
+    "High-Potency GABA-A Positive Allosteric Modulation: Flooding the system with benzodiazepines to forcefully re-open the blocked inhibitory gating arrays and restore synchronization",
+    "Electroconvulsive System Reset (ECT): Delivering a controlled, synchronized electrical pulse across the cortex to forcefully flush the frozen instruction queue and reboot the master clock",
+    "Targeted Immunomodulation Shunting: Utilizing plasmapheresis or IVIG to purge the system of destructive autoantibodies if an encephalitic agent is confirmed"
+  ],
+  "prevention": [
+    "Maintaining stable, long-term neurochemical balancing protocols and avoiding sudden, un-mitigated drops in core synaptic transmission voltages"
+  ]
+}
+    
 }
 "anosognosia_diagnostic_report_fault": {
   "description": "A condition in which a person who suffers some disability seems unaware of the existence of their disability.",
