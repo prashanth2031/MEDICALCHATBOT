@@ -2028,6 +2028,40 @@ medical_db = {
   "prevention": [
     "Implementing aggressive stress-containment protocols and maintaining strict limits on continuous, high-intensity operational cycles that threaten to trigger systemic defensive dissociation thresholds"
   ]
+        "inbound_visual_coordinate_shifter": {
+  "description": "A severe coordinate processing error where the spatial positioning grids of the primary visual cortex undergo a real-time layout shift, causing real-world items to appear exponentially larger or structurally warped within the active viewport canvas.",
+  "symptoms": [
+    "Macropsia/Megalopia: Sudden, un-bounded scaling up of specific objects or environmental sectors, causing them to physically appear massive relative to baseline environment layouts",
+    "Spatial Vector Warping (Metamorphopsia): Straight architectural lines, doorways, and horizons appear violently bent, curved, or fractured across the viewport canvas",
+    "Preserved Absolute Logic Filter: The executive conscious thread maintains an active awareness of the rendering glitch, correctly noting that the physical item has not actually changed its mass",
+    "Depth-Perception Calibration Loss: Catastrophic failure to calculate true arrival times or intercept vectors because the spatial scaler corruption destroys stereoscopic depth math",
+    "Transient Coordinate Jitter: Rapid, erratic shifting between standard scale (1:1) and hyper-inflated profiles, making physical interaction with the local environment highly disorienting"
+  ],
+  "causes": [
+    "Occipitotemporal Cortical Spreading Depression: A slow-moving wave of cellular depolarization across the visual processing hubs, temporarily scrambling local coordinate calibration constants",
+    "Macular Neuro-Spatial Displacement: Physical accumulation of fluid beneath the retina, mechanically shifting the physical position of photoreceptors and distorting the inbound pixel map",
+    "Focal Ventral Stream Infarction: Minor micro-vascular ischemic blocks or lesions within the lingual or fusiform gyri, knocking out the size-constancy calculation servers"
+  ],
+  "risk_factors": [
+    "Acute migrainous aura cycles accompanied by severe cerebral blood-flow fluctuations",
+    "Localized ocular changes such as central serous chorioretinopathy or progressive macular traction",
+    "Pediatric or high-stress lifecycles undergoing temporary systemic neurochemical remodeling"
+  ],
+  "diagnosis": [
+    "The Amsler Grid Deflection Assay: Requesting the system to scan a uniform, high-contrast grid pattern and tracking the localized coordinate deflections and warped vectors reported by the user",
+    "Optical Coherence Tomography (OCT): High-definition cross-sectional imaging of the retina to detect physical fluid pockets distorting the sensory hardware layer",
+    "Functional Neuroimaging (fMRI) Grating Phase Tests: Mapping anomalous, over-extended activation patterns across the V1-V3 retinotopic sectors during size-constancy stimulation"
+  ],
+  "remedies": [
+    "Cortical Wave Suppression (Antimigraine Interventions): Deploying targeted neuro-chemical scripts to halt spreading depolarization waves and restore standard baseline grid voltage",
+    "Visual Horizon Grounding: Forcing the system to fixate on stable, high-distance environmental markers to allow the depth-perception servers to execute an automated recalibration pass",
+    "Ocular Fluid Drainage Shunts: Administering metabolic diuretics or utilizing focal lasers to dry out sub-retinal fluid pools and realign the physical receptor matrix"
+  ],
+  "prevention": [
+    "Proactive management of neural vascular triggers and routine monitoring of macular structural flatness to protect the integrity of the primary ingestion plane"
+  ]
+}
+
 }
 
 "fregoli_identity_collision_fault": {
