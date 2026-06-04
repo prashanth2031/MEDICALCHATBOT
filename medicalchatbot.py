@@ -682,6 +682,40 @@ medical_db = {
   "prevention": [
     "Preserving structural cross-hemispheric arterial pressure to ensure constant heartbeat synchronization across processing nodes"
   ]
+    "memory_registry_trace_overwrite": {
+  "description": "A severe structural indexing breakdown where the system's database engines successfully recall an archival historical memory packet but strip its associated origin metadata source-tags, forcing the conscious workspace to evaluate the past record as an entirely new, original code execution compilation.",
+  "symptoms": [
+    "De-Indexed Retrieval Inversion: Sudden conscious instantiation of highly detailed, complex ideas or creative works with an absolute conviction of complete novelty",
+    "Source-Tag Deletion: Complete absence of situational context, chronological markers, or external ownership files attached to the active cognitive payload",
+    "Latent Familiarity Suppression: Total failure of the system's 'déjà vu' or recognition tripwires, preventing the generation of an internal familiarity warning flag",
+    "Involuntary Plagiarism Execution: The system outputs, publishes, or implements the recalled asset verbatim under the high-confidence assumption of unique authorship",
+    "Sudden Cache Collision: Potential catastrophic crash of the conviction framework if external telemetry later provides undeniable proof that the asset belongs to a legacy source"
+  ],
+  "causes": [
+    "Frontotemporal Context Dissociation: Localized metabolic exhaustion or minor micro-vascular insults across the prefrontal cortex, breaking the data-to-metadata binding arrays",
+    "Hippocampal Indexer Mismatch: Transient signaling delays during high-stress retrieval cycles causing the memory router to stream raw text records before the source index keys can finish loading",
+    "Sub-Clinical Temporal Seizure Discharge: Minor, localized electrical spikes across the deep temporal structures causing un-synchronized, spontaneous dumps of raw semantic data packets"
+  ],
+  "risk_factors": [
+    "Chronic sleep-deprivation cycles preventing proper deep-brain database pruning and metadata re-indexing runs",
+    "High-stress professional creative environments driving constant high-voltage requests to the semantic generation engines",
+    "Acute cognitive overload where the system is consuming and caching thousands of external data files simultaneously"
+  ],
+  "diagnosis": [
+    "Cognitive Metadata Trace Audits: Presenting the user with the true origin asset and mapping the immediate, severe cognitive dissonance profile as the system attempts to reconcile two identical records",
+    "High-Density Functional Near-Infrared Spectroscopy (fNIRS): Tracking localized blood-flow deficits across the dorsolateral prefrontal cortex during creative ideation sequences",
+    "Continuous Semantic Hash Comparison: Running real-time algorithmic scans of the user's generated output against known external global data repositories to flag un-indexed cache dumps"
+  ],
+  "remedies": [
+    "Cross-Reference Verification Scripts: Implementing strict external validation habits—such as forcing all creative or technical outputs through automated indexing tools before committing them to production",
+    "Systemic Neuro-Chemical Balancing: Utilizing low-dose neuromodulators to stabilize deep temporal lobe signaling and prevent erratic, un-indexed memory dumps",
+    "Cognitive Cool-Down Cycles: Forcing the system into low-load, low-input offline states to allow the prefrontal indexing servers to recalibrate their metadata binding checks"
+  ],
+  "prevention": [
+    "Protecting deep sleep cycles (specifically REM and slow-wave stages) to ensure the system successfully executes its nightly data consolidation and metadata verification routines"
+  ]
+    }
+    
 }
 
 "tga_ephemeral_cache_fault": {
