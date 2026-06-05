@@ -2299,6 +2299,39 @@ medical_db = {
     "Proactive tracking of ocular pressure and lens transparency metrics, protecting the peripheral sensor array from dropping below critical input transmission thresholds"
   ]
 }
+"conscious_thread_intent_dissociation": {
+  "description": "A critical split-brain infrastructure failure where a primary motor execution bus becomes completely decoupled from the executive conscious thread, allowing one limb to perform highly complex, goal-directed task sequences that completely oppose the user's active intentions.",
+  "symptoms": [
+    "Autonomous Out-of-Bounds Execution: Involuntary but highly organized, complex, and purposeful movements of an extremity (e.g., turning off a light switch the user just turned on)",
+    "Executive Alienation Status: The conscious workspace retains 100% sensory feedback from the rogue limb but registers a 0% 'Sense of Agency' ownership flag for its actions",
+    "Inter-Manual Conflict Cascade: The functional, executive-controlled limb must frequently engage in physical combat or hard physical containment to stop the anarchic limb's rogue macros",
+    "Environmental Trigger Capture: The rogue limb's action-selection loops are easily hijacked by nearby visual colliders (e.g., if a door handle is visible, the hand will automatically reach and turn it)",
+    "Preserved Somatosensory Telemetry: Inbound sensory data lines remain fully intact; the user feels exactly what the rogue hand is touching, but cannot stop the downstream motor execution"
+  ],
+  "causes": [
+    "Corpus Callosum Structural Rupture: Infarction, surgical callosotomy, or deep midline lesions severing the primary inter-hemispheric communication pathways",
+    "Medial Frontal Cortex Infarction: Damage to the supplementary motor area (SMA) disrupting the internal, top-down inhibition rules that normally check automated motor responses",
+    "Systemic Neurodegenerative Demolition: Targeted white-matter tracking breakdown (such as Corticobasal Degeneration) dissolving the coordination bridges between execution nodes"
+  ],
+  "risk_factors": [
+    "Neurosurgical operations requiring an intentional division of the callosal architecture to control intractable electrical storms (epilepsy)",
+    "Vascular stroke patterns involving the anterior cerebral artery territory supplying the medial motor systems",
+    "Advanced stages of asymmetric tauopathic or neurodegenerative cellular breakdown"
+  ],
+  "diagnosis": [
+    "The 'Inter-Manual Task Conflict' Observation: Tasking the user with a bi-lateral coordination challenge (e.g., opening a combination lock) and documenting the rogue hand actively interfering with the sequence",
+    "Structural Diffusion Tensor Imaging (DTI): Visualizing absolute fractional anisotropy drops and broken fiber tracking lines straight through the corpus callosum midsection",
+    "Dual-Channel Electroencephalography (EEG): Mapping a complete loss of phase-locking coherence and synchronized electrical rhythms between the left and right motor cortices"
+  ],
+  "remedies": [
+    "Environmental Occlusion (The Oven-Mitt Patch): Wrapping the rogue actuator in heavy physical dampening materials or a thick glove to prevent it from gathering tactile or visual triggers",
+    "Cognitive Distraction Tasks (The Tactile Anchor): Giving the anarchic hand a constant, high-priority baseline task to execute (such as holding a cane or stress ball) to keep its isolated loops saturated",
+    "Unilateral Spatial Shifting: Adjusting the environment layout so that crucial tool assets and triggers are placed strictly within the visual and physical field of the functional hemisphere"
+  ],
+  "prevention": [
+    "Utilizing micro-surgical, fiber-sparing navigation tracks during deep midline brain interventions to avoid compromising the primary inter-hemispheric data bus"
+  ]
+}
 
 }
 "simultanagnosic_viewport_saturation_fault": {
