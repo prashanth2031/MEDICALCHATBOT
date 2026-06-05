@@ -175,6 +175,40 @@ medical_db = {
   "prevention": [
     "Protecting delicate subcortical timing networks from severe neurochemical shocks to prevent structural clock-frequency corruption"
   ]
+            "autonomic_respiratory_loop_failure": {
+  "description": "A severe operating system bug where the automated background respiration daemon crashes during offline sleep states, forcing the system to rely entirely on manual user commands to breathe, meaning if the user stops consciously executing breathing scripts, the engine suffocates.",
+  "symptoms": [
+    "Offline Sleep Asphyxiation: Complete cessation of spontaneous respiratory actuation the exact moment the system transitions from awake to offline sleep states",
+    "Cheoreceptor Polling Anesthesia: Complete insensitivity to hypercapnia (CO2 saturation) and hypoxia (O2 starvation) parameters during unconscious processing frames",
+    "Intact Voluntary Pipeline: 100% perfect manual control over lung inflation and rate metrics while the primary conscious executive thread is active and awake",
+    "Frequent Hypoxemic System Reboots: Sudden, violent nocturnal awakenings triggered by emergency chemical panic sensors when blood oxygen drops below critical hardware limits",
+    "Severe Daytime Hypercapnia Accumulation: Gradual build-up of toxic blood-gas variables causing chronic cognitive lag, morning processing headaches, and system slowdown"
+  ],
+  "causes": [
+    "Congenital PHOX2B Register Deletion: A genetic framing mutation causing incomplete development or mis-wiring of the retrotrapezoid nucleus chemoreceptor integration hubs",
+    "Focal Medullary Compressed Insulation: Ischemic stroke, demyelinating plaques, or structural compression targeting the ventrolateral brainstem's rhythm-generating servers",
+    "High-Dose Central Depressant Poisoning: Severe pharmacological intoxication flooding the brainstem with inhibitory tokens, forcefully locking the respiration daemon down"
+  ],
+  "risk_factors": [
+    "Underlying genetic neurodevelopmental conditions affecting autonomic nervous system profiling",
+    "Posterior cranial fossa structural abnormalities putting high physical pressure on lower brainstem components",
+    "Unmonitored administration of deep sedative or narcotic classes that suppress central carbon dioxide tracking arrays"
+  ],
+  "diagnosis": [
+    "Polysomnographic Ingress Logging: Documenting a drop in chest wall movement and a flatline in airflow vectors the moment sleep wave patterns are registered on EEG, while CO2 parameters rise unchecked",
+    "Hypercapnic Ventilatory Response Test: Administering a concentrated CO2 air blend during waking hours and tracking the system's failure to automatically escalate respiration speed",
+    "High-Resolution Brainstem MRI: Inspecting the structural integrity of the fourth ventricle floor and medullary junctions for visible compressive or ischemic lesions"
+  ],
+  "remedies": [
+    "Mechanical Ventilation Shunting (BiPAP): Hooking the physical chassis up to an external positive-pressure air-pump array to handle mechanical cycles during offline periods",
+    "Surgical Phrenic Nerve Pacemaking: Implanting a hardware pulse generator directly onto the phrenic nerve to forcefully cycle the diaphragm muscle at a fixed electronic frequency during sleep",
+    "Tracheostomy Port Integration: Creating a direct, permanent hardware bypass lane in the trachea to minimize air resistance and optimize external ventilator coupling arrays"
+  ],
+  "prevention": [
+    "Strict avoidance of any central respiratory dampening drugs and maintaining lifelong compliance with external mechanical air-pump schedulers every time the system goes offline"
+  ]
+            }
+            
 }
 
     "somatoparaphrenia_peripheral_registry_fault": {
