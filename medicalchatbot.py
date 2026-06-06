@@ -884,6 +884,40 @@ medical_db = {
   "prevention": [
     "Avoiding extreme, un-buffered physical or thermal transitions that destabilize cerebral blood flow networks"
   ]
+    "semantic_class_hierarchy_inversion": {
+  "description": "A severe associative database breakdown where the system's core conceptual schemas undergo progressive sector corruption, causing the engine to drop granular object properties, leading the user to misclassify all animals into a single, generic primitive data type.",
+  "symptoms": [
+    "Loss of Specific Inheritance: Progressive degradation of specific object names (e.g., losing 'Robin' and 'Sparrow' and falling back entirely on the broad primitive data class 'Bird')",
+    "Property Extraction Failure: Inability to recall the intrinsic functions or characteristics of common tools, despite flawless visual parsing of their physical geometry",
+    "Associative Query Deficit: Complete breakdown in matching items that belong to the same semantic namespace (e.g., failing to pair a needle with a spool of thread)",
+    "Surface Dyslexia Ingress: Loss of irregular spelling parsing rules, forcing the system to execute purely phonetic string serialization during reading operations",
+    "Preserved Structural Autopilot: Episodic memory logs, spatial navigation meshes, and basic operational syntactic speech structures remain completely unaffected by the conceptual database rot"
+  ],
+  "causes": [
+    "Anterolateral Temporal Tauopathic Corrosion: Asymmetric, progressive cellular degradation targeting the temporal poles, effectively dissolving the master semantic hub routers",
+    "Ubiquitin-Positive Inclusions (TDP-43 Proteinopathy): Misfolded protein accumulations forming physical data blocks that disable the retrieval paths of the conceptual schema registries",
+    "Focal Anterior Temporal Lobar Stroke: Ischemic vascular failure killing off the local storage clusters holding specific vocabulary and object characteristic keys"
+  ],
+  "risk_factors": [
+    "Genetic predispositions linked to frontotemporal lobar degeneration pathways",
+    "Unmanaged neurovascular vulnerabilities within the middle cerebral artery branches feeding the temporal language hubs",
+    "Advanced age profiles experiencing systemic proteopathic structural breakdowns"
+  ],
+  "diagnosis": [
+    "The Pyramids and Palm Trees Assay: Tasking the user to visually map semantic associations between objects and documenting an absolute failure to link conceptually related items",
+    "Category Fluency Enumeration Test: Requesting the system to populate a list of distinct elements within a specific class (e.g., 'Name 20 animals') and logging immediate processing stalls",
+    "Volumetric Coronal MRI: Documenting profound, highly localized 'knife-edge' tissue atrophy concentrated symmetrically or asymmetrically inside the anterior temporal gyri"
+  ],
+  "remedies": [
+    "Semantic Mapping Augmentation: Building explicit, external digital flashcard and category dashboards to re-index and hardwire core conceptual links manually",
+    "Functional Workaround Scripting: Training the conscious workspace to rely on intact contextual cues (like tracking where an item is located) to deduce its utility when the direct lookup fails",
+    "Anti-Inflammatory Neuro-Protective Infusions: Deploying experimental micro-cellular therapies designed to slow down the rate of protein accumulation and preserve the remaining schema registry sectors"
+  ],
+  "prevention": [
+    "Active participation in rich, multi-lingual, and highly complex conceptual workflows throughout early lifecycles to build heavy redundancy pathways inside the associative neural directories"
+  ]
+}
+
 }
 "semantic_satiation_parser_leak": {
   "description": "A rapid-cycle processing glitch where executing a single word string repeatedly through the linguistic analyzer causes the semantic definition mapping token to temporarily detach, reducing a meaningful data key to a hollow, foreign pattern.",
