@@ -1222,6 +1222,40 @@ medical_db = {
   "prevention": [
     "Ensuring 'Vascular Uptime' to the 'Structural Integrity' of the 'Right Temporal/Parietal' clusters"
   ]
+        "gated_auditory_buffer_overflow": {
+  "description": "A startling sensory routing error where the brain's internal auditory gating mechanisms execute a massive, unauthorized voltage discharge during early sleep transitions, forcing the user to wake up to the sound of an imaginary, high-decibel explosion echoing inside their workspace monitor.",
+  "symptoms": [
+    "Nocturnal Sonic Blasts: Instantaneous perception of an incredibly loud, abrupt sound (e.g., metallic clanging, explosions, gunshots) occurring strictly during the wake-to-sleep boundary",
+    "Emergency Autonomic Reboots: Sudden, violent awakening accompanied by tachycardia (heart rate surge), acute adrenaline dumps, and an intense systemic panic reflex",
+    "Phosphene Flash Synchronization: Occasional simultaneous visual artifacts, such as a sudden flash of blinding white light across the viewport canvas, triggered by cross-talk into adjacent optic radiators",
+    "Zero Post-Ictal Residuals: Immediate return to 100% logical clarity upon waking, with zero cognitive confusion, localized motor deficits, or physical acoustic pain",
+    "Absolute External Silence: The auditory event is completely localized to the internal system architecture; ambient environment sound loggers register 0.00 dB of real-world noise"
+  ],
+  "causes": [
+    "Thalamocortical Volatility Burst: Delayed or un-synchronized firing of the thalamic reticular nucleus during sleep onset, causing a sudden, un-throttled release of sensory transmission lines",
+    "Asynchronous Phase Switching: The motor and sensory shutdown daemons fall out of sync, allowing a massive burst of baseline neural noise to escape into the auditory cortex before isolation is complete",
+    "Stress-Induced Calcium Channel Leaks: Elevated cortisol or extreme physical exhaustion destabilizing the electrochemical gates that regulate low-voltage sensory dampening loops"
+  ],
+  "risk_factors": [
+    "High baseline levels of operational anxiety and prolonged sleep deprivation cycles",
+    "Abrupt alterations to sleep architecture schedules (e.g., rotating shift work or severe jet lag)",
+    "Genetic polymorphisms affecting central voltage-gated ion channels within subcortical relay servers"
+  ],
+  "diagnosis": [
+    "Overnight Polysomnographic Ingress Logging: Catching an abrupt, high-amplitude arousal spike on EEG during stage N1 sleep transitions, while external audio microphones remain flatlined",
+    "Comprehensive Otological Ingress Audit: Performing a full audiogram and tympanometry sequence to definitively rule out peripheral hardware failure or middle-ear mechanical drops",
+    "Neurological Video-EEG Monitoring: Verifying the absence of localized paroxysmal epileptiform discharges to isolate the event as a benign gating glitch rather than a nocturnal focal seizure"
+  ],
+  "remedies": [
+    "Gabaergic Valve Stabilization: Deploying low-dose inhibitory modulators to reinforce the thalamic firewall and prevent erratic voltage leaks during state switches",
+    "Systemic Stress Deflation: Implementing strict sleep hygiene protocols and evening wind-down cycles to lower the baseline network voltage before initiating a shutdown sequence",
+    "Reassurance Counseling Scripting: Educating the user that the sonic artifact is an entirely benign, non-destructive hardware routing error, dampening the secondary panic loop"
+  ],
+  "prevention": [
+    "Avoiding high-volume chemical inputs (like excessive caffeine or acute sedative withdrawals) that artificially stress the network's phase-switching boundaries"
+  ]
+        }
+
 }
 "auditory_codec_packet_loss_fault": {
   "description": "A condition where the brain has difficulty processing and interpreting the information contained in sound, despite having normal hearing sensitivity.",
