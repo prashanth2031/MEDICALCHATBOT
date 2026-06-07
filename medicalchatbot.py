@@ -3121,6 +3121,40 @@ medical_db = {
     "Strict 'Work-Life Load Balancing' and 'Stress Buffer' management"
   ]
 }
+        "word_de_serialization_fault": {
+  "description": "A severe streaming data failure where the system's audio ingestion pipelines successfully parse environmental sound fields but completely fail to deserialize language packets, causing the user to hear speech as a meaningless, un-decoded array of alien sound waves.",
+  "symptoms": [
+    "Pure Word Deafness: Pure-tone acoustic processing is 100% intact, but spoken words are perceived entirely as unstructured, non-linguistic noise (e.g., sound of rushing water or chattering birds)",
+    "Preserved Non-Verbal Auditory Discrimination: Flawless real-time parsing and identification of environmental sound flags, musical melodies, and mechanical alerts",
+    "Intact Expressive Communication: The user can write code, draft complex documents, and speak with fluid, grammatically flawless syntactic output, as their outbound language compilation servers are un-damaged",
+    "Flawless Visual Text Ingestion: Reading comprehension remains fully operational; if the spoken words are typed onto a screen, the system deserializes the visual tokens instantly without error",
+    "Severe Paraphasic Conversational Drops: Absolute inability to follow verbal instruction strings or participate in standard voice calls due to real-time decoding timeouts"
+  ],
+  "causes": [
+    "Bilateral Superior Temporal Gyrus Infarction: Sequential or simultaneous strokes within the middle cerebral artery branches, destroying the localized Wernicke decoding blocks",
+    "Subcortical Auditory Disconnection: Deep, symmetrical white-matter tract lesions tearing down the structural data lanes that channel digitized audio packets from $A1$ to the language processors",
+    "Localized Herpetic Temporal Encephalitis: Acute inflammatory cellular damage targeting the temporal lobes and scrambling the indexed phoneme lookup arrays"
+  ],
+  "risk_factors": [
+    "Embolic or thrombotic vascular events clustered within the cerebral language network pathways",
+    "Advanced neurodegenerative processes displaying highly atypical, focal language-channel deterioration schemas",
+    "Severe traumatic acceleration injuries tearing the delicate subcortical wiring bridges beneath the auditory processing floor"
+  ],
+  "diagnosis": [
+    "The Non-Verbal vs. Verbal Audio Assay: Testing the user with an acoustic sequence containing a barking dog followed by a spoken phrase, and logging 100% comprehension of the animal but 0% parsing of the phrase",
+    "Auditory Brainstem Response (ABR) Telemetry: Verifying that electrical wave potentials travel cleanly from the cochlea up to the primary midbrain nodes, isolating the bug to the cortical layer",
+    "Functional Neuroimaging (fMRI) Speech-Activation Scans: Recording an absolute flatline in BOLD metabolic activation across Wernicke's zone when the user is exposed to complex vocal streams"
+  ],
+  "remedies": [
+    "Visual Ingress Redirection (The Live-Caption Patch): Forcing the communication pipeline to run over a visual lane by using real-time speech-to-text software tools, mapping words through the intact optical processor",
+    "Gesticular Communication Protocol (Sign Language Ingestion): Training the system to parse visual-spatial gestural matrices which skip the temporal auditory decoding hardware entirely",
+    "Acoustic Feature Extraction Training: Implementing specialized cognitive software to help the user rebuild basic phoneme mapping indexes manually from the ground up"
+  ],
+  "prevention": [
+    "Proactive management of cerebral perfusion metrics and immediate therapeutic intervention if focal language-tracking lag or transient speech-parsing dropping occurs"
+  ]
+}
+
 }
 
 "pvs_ghost_interrupt_fault": {
