@@ -1356,6 +1356,40 @@ medical_db = {
   "prevention": [
     "Identifying and blacklisting sensory triggers (e.g., blue-light flickers, extreme fatigue) that disrupt visual-bus stability"
   ]
+        "kinetic_execution_loop_echo": {
+  "description": "A low-level motor processing failure where a cleared word or phrase token fails to flush from the speech execution buffer, causing the system to lock into an infinite, high-frequency loop that forces the user to repeat their own last spoken words with escalating velocity.",
+  "symptoms": [
+    "Compulsive Autogenous Iteration: Involuntary repetition of one's own last spoken words, phrases, or syllables rather than echoing external environmental inputs",
+    "Logarithmic Velocity Escalation (Tachylalia): Each repeating cycle of the cached phrase runs at an accelerated playback speed, crowding out normal breathing intervals",
+    "Proportional Amplitude Decrescendo (Hypophonia): The volume of each echo iteration drops systematically, forcing the loop to fade into an un-articulated whisper",
+    "Intact Cognitive Parsing: The user is fully aware of the execution error in real time and retains complete internal clarity regarding what they intended to communicate",
+    "Vocal Gate Jamming: Complete blockage of new speech packet ingress; as long as the re-entrancy loop is spinning, the user cannot load a new sentence macro into the active vocal register"
+  ],
+  "causes": [
+    "Striatal Direct-Pathway Overdrive: Failure of the medial globus pallidus and substantia nigra pars reticulata to execute active lateral inhibition at phrase boundaries",
+    "Post-Encephalitic Basal Ganglia Damage: Chronic viral-induced or autoimmune inflammation scarring the subcortical gating nodes that manage motor macro termination",
+    "Bilateral Lacunar Infarctions: Multi-focal deep ischemic strokes slicing through the extrapyramidal pathways, permanently disrupting the garbage collection signals"
+  ],
+  "risk_factors": [
+    "Advanced extrapyramidal or neurodegenerative conditions such as Parkinson's Disease or Progressive Supranuclear Palsy",
+    "History of toxic-hypoxic injury targeting the high-metabolic-demand cells of the deep basal ganglia",
+    "Chronic cerebrovascular small-vessel disease affecting deep subcortical tracking pathways"
+  ],
+  "diagnosis": [
+    "Acoustic Audio-Waveform Tracing: Recording spontaneous speech and tracking the exponential frequency compression and matching decibel drop-off curves of the terminal phrase tokens",
+    "High-Field Subcortical MRI Architecture Audit: Visualizing distinct focal hyperintensities or structural volume loss concentrated within the bilateral globus pallidus cores",
+    "Fluorodopa (F-DOPA) PET Ingress Scan: Mapping a severe attenuation of dopamine transporter and storage densities within the striatal routing centers"
+  ],
+  "remedies": [
+    "Extrabasall Sensory Interruption (The Break-Key Patch): Introducing an abrupt external acoustic or tactile shock (like a loud clap or a sharp tap) to force a high-level cognitive interrupt and stall the loop",
+    "Dopaminergic Rebalancing Scripts: Titrating localized neurotransmitter modulators to beef up the indirect pathway's inhibitory capacity and enforce buffer flushing rules",
+    "Rhythmic Metronomic Pacing: Training the conscious workspace to execute speech strictly bound to an explicit external visual or haptic timing track, overriding automated subcortical timing loops"
+  ],
+  "prevention": [
+    "Mitigating progressive deep-brain ischemic risks and avoiding long-term exposure to typical neuroleptic classes that induce extrapyramidal pathway gating instability"
+  ]
+}
+
 }
 
 "phantom_limb_stale_pointer_fault": {
