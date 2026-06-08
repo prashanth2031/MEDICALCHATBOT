@@ -1490,7 +1490,40 @@ medical_db = {
     "Rigorous screening of cardioembolic vulnerabilities and rapid deployment of thrombolytic protocols at the earliest sign of acute spatial neglect or asymmetry"
   ]
         }
-        
+   "graphical_buffering_trailing_anomaly": {
+  "description": "A critical presentation layer rendering bug where the graphics processor fails to refresh individual frame boundaries correctly, causing a static visual image token to remain permanently burned into the user's active viewport layout long after the physical environmental object has moved out of frame.",
+  "symptoms": [
+    "Persistent Visual After-Images: High-resolution object vectors remain fully rendered in the field of view for extended durations after the physical target is gone",
+    "Motion Smearing & Trailing: Moving objects leave a distinct, staggered trail of static frame captures behind them, mimicking a low-refresh-rate display or a broken video codec",
+    "Cerebral Polyopia: Fragmentation of a single visual target into multiple, repeating parallel images stacked horizontally or vertically across the viewport",
+    "Light-Intensity Amplification: Severe persistence artifacts triggered specifically by high-contrast border segments, such as structural window frames or bright overhead lamps",
+    "Profound Visual Fatigue: Intense processing overhead as the conscious workspace attempts to manually filter out stale cache overlays to read current environmental states"
+  ],
+  "causes": [
+    "Parieto-Occipital Ischemic Infarction: Focal strokes within the posterior cerebral artery branches, destroying the integration nodes that govern visual data decay loops",
+    "Gabaergic Cortical Suppression Drops: Acute localized drops in inhibitory neurotransmitter pools, throwing the visual cortex into an un-attenuated, hyper-excitable firing state",
+    "Pharmaceutical Channel Modulation: High-dosage intake of specific chemical scripts (like topiramate or nefazodone) that artificially alter metabolic recovery windows in the visual path"
+  ],
+  "risk_factors": [
+    "Migraine variants accompanied by extensive visual aura processing anomalies",
+    "Vascular insufficiency or embolic risks concentrated within the posterior cerebral circulation loops",
+    "Acute withdrawal or abrupt metabolic shifts disrupting central nervous system inhibitory stability"
+  ],
+  "diagnosis": [
+    "The Kinetic Visual Tracking Assay: Moving a high-contrast stimulus across the user's dark visual field and documenting documented trailing or duplicating frame metrics",
+    "High-Density Occipital Electroencephalography: Measuring persistent, low-frequency rhythmic oscillations over the visual cortex failing to attenuate after stimulus removal",
+    "Volumetric FLAIR Brain MRI: Scanning for localized ischemic changes or focal demyelinating patches along the optic radiations and lingual gyri"
+  ],
+  "remedies": [
+    "Inhibitory Voltage Stabilization (Membrane Stabilizers): Administering gabaergic or calcium-channel blocking scripts to lower cortical excitability and force standard frame decay windows",
+    "Spectral Lens Filtering (The Tinted Overlay Patch): Deploying precision wavelength-filtering glasses to mute high-contrast edge inputs and reduce buffer saturation events",
+    "Visual Fixation Pacing: Training the user to execute deliberate, slow saccadic movements combined with blinking routines to manually trigger frame clear exceptions"
+  ],
+  "prevention": [
+    "Monitoring neurovascular flow mechanics within the posterior fossa and strictly managing medications known to alter visual-stream processing latency thresholds"
+  ]
+}
+
 }
 "transient_global_amnesia_cache_fault": {
   "description": "A sudden, acute runtime failure of the episodic database write heads, preventing the system from committing live event logs to long-term storage while wiping out the previous 24 hours of volatile cache memory, trapping the system in a continuous context-flushing loop.",
