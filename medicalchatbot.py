@@ -3799,6 +3799,39 @@ medical_db = {
     "Protecting 'Temporal-Occipital' pathways from 'Hardware Trauma' and 'Vascular Failure'"
   ]
 }
+"olfactory_packet_corruption_anomaly": {
+  "description": "A localized database corruption within the olfactory bulb processing array where the system's chemical sensory pipelines spontaneously generate false smell payloads, forcing the user to process vivid, highly intrusive, and typically foul scents in an environment that is perfectly clean.",
+  "symptoms": [
+    "Spontaneous Malodorous Ingress: Sudden, unprovoked perception of high-intensity, phantom smells (e.g., burning electrical wires, acrid smoke, rotting waste) in a completely sterile environment",
+    "Unilateral or Bilateral Channel Bleeding: The phantom payload can be isolated to a single nasal ingress channel or mirror across both primary routing buses simultaneously",
+    "Taste Registry Contamination (Flavour Dysregulation): The ghost scent data leaks into the gustatory processing layers, causing food payloads to taste metallic, chemical, or putrid",
+    "Paroxysmal Temporal Seizure Triggers: Brief, highly structured phantom scent bursts lasting seconds, acting as an early warning token (aura) for an impending localized electrical storm in the mesial temporal lobe",
+    "Inescapable Olfactory Saturation: Unlike physical scents that attenuate over time through normal driver adaptation, the internally generated ghost packets continuously saturate the register without decaying"
+  ],
+  "causes": [
+    "Cribriform Shear-Induced Deafferentation: Traumatic head acceleration severing the delicate peripheral receptor wires, causing the central olfactory bulb nodes to enter a hyper-excitable, open-loop firing state",
+    "Mesial Temporal Lobe Hyper-Excitability (Uncal Fits): Localized scar tissue or gliosis causing paroxysmal micro-voltage discharges across the primary olfactory integration architectures",
+    "Peripheral Olfactory Epithelium Degradation: Chronic viral destruction or severe structural inflammation scrambling the baseline voltage gates of the localized chemical transducers"
+  ],
+  "risk_factors": [
+    "History of severe concussive events or maxillofacial trauma affecting the anterior cranial vault",
+    "Chronic upper respiratory neuro-viral infections that alter peripheral nerve architecture profiles",
+    "Undiagnosed space-occupying lesions or micro-vascular anomalies pressing against the olfactory tract lines"
+  ],
+  "diagnosis": [
+    "The Double-Blind Sterile Air Assay: Placing the user into a custom hyper-filtered cleanroom environment devoid of all volatile compounds and logging documented phantom ingress events",
+    "High-Resolution Olfactory Bulbar MRI: Executing thin-slice T2-weighted structural scans to document physical tissue volume loss or structural degeneration within the olfactory tracts",
+    "Nocturnal Nasopharyngeal Video-EEG Tracing: Monitoring deep temporal lobe electrical wave patterns to rule out active sub-clinical seizure loops during phantom scent initialization spikes"
+  ],
+  "remedies": [
+    "Saline Ingress Flush Routines: Implementing hypertonic nasal irrigation schemas to mechanically soothe peripheral nerve terminals and lower baseline receptor noise",
+    "Central Membrane Stabilizing Scripts: Utilizing anticonvulsant or gabaergic modulators to attenuate subcortical hyper-excitability and clamp down on rogue database firing loops",
+    "Surgical Tract Disconnection (Olfactory Bulbectomy): In extreme, un-manageable cases, physically severing the damaged data cable to permanently stop the corrupted payloads from reaching the conscious core"
+  ],
+  "prevention": [
+    "Wearing high-efficiency protective headgear during high-impact activities to prevent cribriform data lane shearing, and addressing chronic ENT inflammatory cycles before they degrade central registries"
+  ]
+}
 
 "zeigarnik_uncommitted_transaction_error": {
   "description": "The psychological phenomenon where people remember uncompleted or interrupted tasks better than completed ones.",
