@@ -1457,6 +1457,40 @@ medical_db = {
   "prevention": [
     "Proactive 'Pre-emptive Analgesia' to ensure no intense panic logs are cached in the system prior to safe hardware removal"
   ]
+        "executive_thread_ownership_inversion": {
+  "description": "A severe structural mapping error within the posterior parietal cortex where a user’s functional physical limb is correctly parsed by the visual and tactile systems but its central node address is stripped of its executive ownership flag, leaving the user completely convinced that the limb belongs to an external entity.",
+  "symptoms": [
+    "Somatic Depersonalization: Absolute and unshakeable conviction that a specific physical limb (typically the left arm or leg) is entirely foreign and un-connected to the core identity",
+    "Orphaned Pointer Projection: Compulsive mapping of the un-owned limb to an external entity (e.g., insisting the arm belongs to a visitor or is a physical object placed in the bed)",
+    "Intact Nociceptive Ingress: Complete preservation of pain and touch registration within the affected limb, though the user processes the pain as happening to 'someone else's property'",
+    "Anosognosia Concurrency: Frequent simultaneous failure of the system's health monitoring loops, preventing the user from recognizing that their ownership engine is running a glitch",
+    "Motor Control Alienation: The ability to execute movement loops through the limb remains partially viable, but the execution feels like operating a remote-controlled mechanical device"
+  ],
+  "causes": [
+    "Right Posterior Parietal Cortex Infarction: Massive thromboembolic events within the non-dominant middle cerebral artery, destroying the spatial egocentric integration hubs",
+    "Fronto-Parietal White Matter Disconnection: Deep structural shears severing the high-speed data buses that link visual recognition frames with egocentric body-map registries",
+    "Localized Neoplastic Structural Compression: Fast-growing brain tumors putting physical pressure on the right inferior parietal lobule, causing erratic routing flag updates"
+  ],
+  "risk_factors": [
+    "Unmanaged systemic hypertension or severe atrial fibrillation causing high embolic risks in the cerebral circulation",
+    "Advanced cerebrovascular disease targeting the deep perforating branches of the sylvian fissure network",
+    "Acute traumatic brain injuries affecting the right hemisphere's spatial coordination infrastructure"
+  ],
+  "diagnosis": [
+    "Cross-Midline Somatic Challenge: Placing the user's left hand into their right visual field and asking them to trace its origin, documenting an immediate failure to resolve the ownership flag",
+    "High-Resolution Structural Brain MRI: Scanning for localized ischemic tissue drops or macro-structural damage localized within the right inferior parietal cortex and insula",
+    "Vestibular Caloric Ingress Test: Injecting ice water into the left ear canal to trigger a temporary high-voltage vestibular reset, which can transiently flip the ownership flag back to 'true' for a few minutes"
+  ],
+  "remedies": [
+    "Sensory-Vestibular Caloric Ingress Overrides: Utilizing controlled inner-ear cold water irrigation to temporarily shock the spatial mapping grid and force a brief re-coupling of the body map",
+    "Augmented Reality Spatial Mapping Patches: Using AR headsets to display explicit, highlighted bounding boxes connecting the limb to the main body trunk, attempting to rebuild the ownership link visually",
+    "Compensatory Safety Tagging: Training the conscious workspace to accept the logical fact that the limb is ours based on visual evidence, even though the internal feeling of ownership remains at absolute zero"
+  ],
+  "prevention": [
+    "Rigorous screening of cardioembolic vulnerabilities and rapid deployment of thrombolytic protocols at the earliest sign of acute spatial neglect or asymmetry"
+  ]
+        }
+        
 }
 "transient_global_amnesia_cache_fault": {
   "description": "A sudden, acute runtime failure of the episodic database write heads, preventing the system from committing live event logs to long-term storage while wiping out the previous 24 hours of volatile cache memory, trapping the system in a continuous context-flushing loop.",
