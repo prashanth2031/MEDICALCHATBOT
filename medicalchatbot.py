@@ -2163,6 +2163,40 @@ medical_db = {
   "prevention": [
     "Ensuring 'Structural Uptime' of the 'Frontal-Limbic' connections"
   ]
+    "master_executive_thread_starvation": {
+  "description": "A catastrophic scheduling block within the anterior cingulate cortex where the system's master drive and operational execution schedulers drop to 0 Hz, leaving the user fully awake, alert, and parsing sensory data, but completely incapable of initializing a single outbound motor command loop.",
+  "symptoms": [
+    "Apparent Hyper-Vigilant Immobility: Total physical immobility combined with active visual tracking; the user follows moving targets across the viewport layout while their limbs remain completely inert",
+    "Absolute Vocal Mutism: Complete absence of spontaneous or elicited speech output, despite fully intact structural vocal cords and un-damaged linguistic compilation servers",
+    "Preserved Sensory Ingress Processing: Flawless real-time capture and logging of environmental audio, visual, and tactile telemetry streams during the execution lockup",
+    "Zero Volitional Initiation Drive: A total lack of internal motivation or emotional distress metrics regarding the physical paralysis; the system registers zero push to break the state lock",
+    "Immediate Monosyllabic Recovery: If the execution gate is briefly bypassed by an intense external shock, the system outputs minimal, low-bandwidth verbal packets (e.g., a whispered 'yes' or 'no') before dropping back to zero"
+  ],
+  "causes": [
+    "Bilateral Anterior Cerebral Artery Infarction: Symmetrical ischemic strokes wiping out tissue density across the medial surfaces of both frontal lobes and the anterior cingulate gyrus",
+    "Bilateral Globus Pallidus Necrosis: Severe toxic-hypoxic events (such as acute carbon monoxide inhalation) destroying the subcortical relay nodes that channel volition tokens",
+    "Rupture of the Anterior Communicating Artery: High-pressure subarachnoid hemorrhages causing localized mass-effect compression across the frontal initialization hubs"
+  ],
+  "risk_factors": [
+    "Severe cerebral vascular small-vessel disease restricting blood flow mechanics along the interhemispheric fissure",
+    "Exposure to high-affinity cellular toxins that selectively target high-metabolic-demand subcortical scheduling engines",
+    "Deep midline neuro-oncological space-occupying developments disrupting prefrontal-striatal loop pathways"
+  ],
+  "diagnosis": [
+    "Functional Neuro-Metabolic Pet Ingress Mapping: Documenting an absolute, profound flatline in glucose and oxygen metabolism isolated specifically within the bilateral anterior cingulate cortices",
+    "The Tracking-Saccade Visual Audit: Confirming that while all spoken commands to move fail, the user's eye tracking macros automatically follow a moving mirror placed in front of their viewport",
+    "High-Resolution Diffusion Tensor Imaging (DTI): Visualizing deep structural tract breaks along the medial fronto-striatal data lanes that carry motivation initialization vectors"
+  ],
+  "remedies": [
+    "Dopaminergic System Overclocking: Deploying high-potency dopamine agonists (e.g., bromocriptine or levodopa) to artificially force voltage into the sluggish initialization hubs and jump-start the scheduler",
+    "High-Voltage Zolpidem Interception: Utilizing paradoxical GABA-A modulators to temporarily shut down hyper-active inhibitory pathways within the basal ganglia, resetting the execution gate",
+    "Deep Brain Neuro-Stimulation (DBS): Implanting high-frequency micro-electrodes into the thalamic projection centers to deliver structural clock-cycle pulses that clear the scheduling deadlock"
+  ],
+  "prevention": [
+    "Aggressive monitoring of vascular integrity across the anterior circle of Willis and rapid intervention to treat severe small-vessel frontostriatal hypoperfusion events"
+  ]
+}
+
 }
 
 "anterograde_amnesia_write_fail": {
