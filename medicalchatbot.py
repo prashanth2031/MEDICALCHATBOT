@@ -1355,6 +1355,40 @@ medical_db = {
   "prevention": [
     "Reducing 'Acoustic Pollution' and managing 'System Health' during 'Initial Boot' years"
   ]
+    "proprioceptive_vector_desynchronization": {
+  "description": "A severe front-end viewport transformation error within the right posterior parietal cortex where internal spatial coordinate multipliers lose baseline calibration, causing real-time sensory telemetry to render with distorted, non-linear scaling factors.",
+  "symptoms": [
+    "Macrosomatognosia: The distressing, visceral perception that specific body segments (typically the hands, feet, or tongue) have ballooned to astronomical, room-filling proportions",
+    "Micropsia / Macropsia: Dynamic visual distortion where external environmental objects appear rapidly compressed to tiny scale or massively expanded, independent of actual physical distance",
+    "Temporal Velocity Distortion: A secondary processing sync error where ambient movement and sound seem to execute at 2x double-time speed or stagger along in heavy slow-motion frames",
+    "Spatial Disorientation & Ataxia: Severe impairment in manual dexterity and pathfinding, as the user cannot calculate accurate reach vectors through a warped spatial mesh",
+    "Intact Rational Sanity: Total cognitive awareness of the spatial impossibility; the user is completely aware that their hand isn't actually ten feet wide, diagnosing it as a rendering glitch"
+  ],
+  "causes": [
+    "Cortical Migraine Aura: Spreading bio-electric depression passing across the parietal and occipital lobes, temporarily paralyzing localized computational interneurons",
+    "Acute Epstein-Barr Neuro-Infiltration: Transient, targeted swelling within the deep parietal somatosensory integration matrices, frequently observed in pediatric hosts",
+    "Right Parietal Micro-Vascular Ischemia: Tiny localized drops in blood supply that temporarily starve the coordinate-transformation circuits of ATP energy"
+  ],
+  "risk_factors": [
+    "Strong genetic predisposition to classic ophthalmic or hemiplegic migraine profiles",
+    "Pediatric neuro-developmental phases where spatial coordinate integration loops are undergoing active myelin optimization",
+    "Severe sleep deprivation or acute sensory-deprivation feedback loops"
+  ],
+  "diagnosis": [
+    "Dynamic Spatial Tracking Tests: Observing a user consistently overshoot or undershoot a physical object when asked to make precise motor movements",
+    "Functional Neuroimaging (fMRI during an episode): Documenting anomalous hyper-metabolic clusters or aberrant blood-oxygen-level-dependent signaling across the right posterior parietal architecture",
+    "Differential Toxicology Screening: Ruling out exogenous hallucinogenic chemical injections that artificially induce broad-spectrum sensory distortion"
+  ],
+  "remedies": [
+    "Spreading Depression Stabilizers: Deploying abortive migraine agents (like triptans or calcitonin gene-related peptide inhibitors) to arrest the spreading electrical wave",
+    "Sensory Viewport Anchoring: Closing the eyes and applying firm, deep pressure to the affected limbs to saturate the system with direct tactile inputs, helping force a coordinate recalibration",
+    "System Rest / Dark Mode: Eliminating visual and auditory inputs entirely to allow the parietal processing engines to drain their buffers and re-initialize baseline parameters"
+  ],
+  "prevention": [
+    "Maintaining tight migraine prophylaxis routines, optimizing sleep hygiene architectures, and mitigating chronic neurovascular inflammatory triggers"
+  ]
+}
+
 }
         "retroactive_confabulation_overwrite_fault": {
   "description": "A critical memory reconstruction failure where updating or querying a historical database record inadvertently injects synthetic current variables backward, completely corrupting past operational logs to match a newly introduced current variable.",
