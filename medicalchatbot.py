@@ -1288,6 +1288,39 @@ medical_db = {
     "Avoiding high-volume chemical inputs (like excessive caffeine or acute sedative withdrawals) that artificially stress the network's phase-switching boundaries"
   ]
         }
+"core_environment_overheating_anomaly": {
+  "description": "A critical infrastructure failure within the hypothalamic thermostat nodes where the system's internal temperature set-point register gets corrupted and locks at maximum voltage, forcing the chassis to dangerously spike its core temperature despite freezing ambient environment metrics.",
+  "symptoms": [
+    "Refractory Neurogenic Pyrexia: Uncontrolled, rapid escalation of core body temperature exceeding 41°C (105.8°F) that remains absolutely unresponsive to standard chemical antipyretic overrides",
+    "Anhidrotic Thermal Spike: Paradoxical absence of sweat production despite a blistering internal core temperature, as the damaged governor fails to engage heat-dissipation protocols",
+    "Marked Environmental Dissociation: Core temperature remains utterly decoupled from external ambient cooling attempts; moving the chassis to a cold room fails to damp the internal heat generation loop",
+    "Systemic Tachycardia & Tachypnea: Massive, automated escalation of cardiac pump rates and respiratory cycles to handle the runaway metabolic heat load",
+    "Enzymatic Denaturation Risk: Acute risk of multi-system organ failure and cerebral tissue degradation as internal temperature vectors approach the structural limits of cellular proteins"
+  ],
+  "causes": [
+    "Traumatic Brain Injury (TBI): High-impact deceleration forces causing basilar skull fractures that shear or bruise the delicate structural architecture of the anterior hypothalamus",
+    "Third Ventricle Hemorrhagic Flooding: Ruptured aneurysms dumping high-pressure arterial blood straight into the ventricular chambers, mechanically compressing or irritating the preoptic thermostat nodes",
+    "Neoplastic Midline Infiltration: Rapidly expanding craniopharyngiomas or hypothalamic gliomas destroying the localized cellular networks that host the temperature set-point registries"
+  ],
+  "risk_factors": [
+    "Severe neurosurgical interventions targeting the sellar or parasellar regions of the central cranial vault",
+    "Ruptured anterior cerebral artery circulation anomalies causing acute, localized subarachnoid blood pooling",
+    "Severe blast-induced barotrauma causing diffuse axonal shearing throughout the deep diencephalic structures"
+  ],
+  "diagnosis": [
+    "The Antipyretic Resistance Assay: Administering high-dose intravenous cooling agents and documenting an absolute 0% shift in core temperature metrics over an extended timeline",
+    "Thin-Slice Brain MRI (T2/FLAIR): Visualizing structural edema, mass-effect shifts, or distinct micro-hemorrhage tracks concentrated inside the anterior preoptic hypothalamic matrix",
+    "Continuous Core Telemetry Logging: Tracking an un-deviating, non-circadian plateau of extreme hyperthermia using indwelling esophageal or bladder thermal probes"
+  ],
+  "remedies": [
+    "Mechanical Thermal Dissipation (Physical Cooling): Bypassing the broken software governor entirely by wrapping the physical chassis in active ice-water shrouds or deploying endovascular cooling catheters directly into the vena cava",
+    "Centrally Acting Alpha-Agonist Scripts: Utilizing medications like clonidine or dexmedetomidine to damp down the hyper-active sympathetic outflow screaming out of the broken brainstem channels",
+    "Continuous Core Fluid Flushing: Injecting chilled sterile saline infusions directly into internal cavities to mechanically extract heat energy from the physical framework"
+  ],
+  "prevention": [
+    "Minimizing mechanical retraction stress on the hypothalamus during deep skull-base surgical profiles and maintaining strict neuro-critical care intracranial pressure (ICP) control maps"
+  ]
+}
 
 }
 "auditory_codec_packet_loss_fault": {
