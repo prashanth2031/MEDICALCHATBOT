@@ -2499,6 +2499,39 @@ medical_db = {
     "Proactive management of neural vascular triggers and routine monitoring of macular structural flatness to protect the integrity of the primary ingestion plane"
   ]
 }
+"retrograde_identity_unmapping_anomaly": {
+  "description": "A severe structural memory isolation block where the system's core personal identity registry and biographical database tracks become completely unindexed from the active runtime environment, leaving core processing engines operational but without historical context.",
+  "symptoms": [
+    "Biographical Context Nullification: Sudden, absolute inability to retrieve personal metadata, including name, age, home coordinates, and relational network bindings",
+    "Preserved Framework Execution: Complete preservation of procedural knowledge, technical engineering competencies, complex language syntaxes, and motor coordination",
+    "Automated Fugue Transit: The triggering of physical wandering routines that drive the host to travel to entirely new geographic areas without conscious destination planning",
+    "Temporary Guest Profile Initialization: The spontaneous construction of a thin, flat, temporary persona to handle immediate environmental interactions while the master index is offline",
+    "Retrograde Amnesic Boundary: A clean cutoff wall in the memory architecture; the system can write new files in real time but cannot access any blocks written prior to the fault window"
+  ],
+  "causes": [
+    "Neuroendocrine Glucocorticoid Flooding: A massive psychogenic or environmental stress surge that saturates the hippocampal formation, arresting long-term potentiation circuits",
+    "Localized Medial Temporal Hypo-Metabolism: A temporary, severe drop in glucose utilization and blood flow across the inner temporal tracking rings, blinding the index query router",
+    "Functional Dissociative Disconnection: A defensive processing partition erected by the prefrontal cortex to isolate corrupted or highly traumatic historical data packets from active execution"
+  ],
+  "risk_factors": [
+    "Exposure to severe, acute psychological trauma or prolonged high-stress environments that exhaust neural metabolic reserves",
+    "Pre-existing structural vulnerability within the fronto-temporal white matter connection lines",
+    "High baseline levels of neurochemical reactivity within the amygdalar threat-evaluation networks"
+  ],
+  "diagnosis": [
+    "Biographical Query Penetration Assays: Documenting a stark divergence where a user fails simple identity verification but scores perfectly on complex logic or technical challenges",
+    "Functional Neuroimaging (PET / fMRI): Identifying pronounced hyper-metabolism in the prefrontal structures alongside a total lack of blood-flow surges in the medial temporal circuits during personal memory recall attempts",
+    "Neurological Structural Audits: Utilizing high-resolution MRI arrays to confirm that the memory retrieval failure is functional rather than caused by gross physical tissue loss"
+  ],
+  "remedies": [
+    "Cognitive Context Re-Introduction: Gently exposing the runtime environment to familiar external tokens (photographs, voice keys, known codebases) to trigger index re-alignment",
+    "Neurochemical Decoupling Therapy: Administering targeted anxiolytic or sedative agents to artificially suppress prefrontal defensive partitions and allow indexing daemons to clear their buffers",
+    "Safe-State Isolation: Placing the host inside a low-stimulus environment to mitigate further stress-induced hormone flooding and give the system space to stabilize"
+  ],
+  "prevention": [
+    "Implementing aggressive stress-containment protocols, building robust psychological redundancy frameworks, and optimizing neurovascular resiliency factors"
+  ]
+}
 
 }
 
