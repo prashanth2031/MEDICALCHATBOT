@@ -1725,6 +1725,40 @@ medical_db = {
     "Strict enforcement of regular system-rest cycles and avoiding chemical compounds that downregulate the prefrontal cortex's top-down gating integrity"
   ]
 }
+        "motion_frame_rate_drop_glitch": {
+  "description": "A critical presentation layer refresh error where the visual processing engine's motion-tracking hub (Area V5/MT) drops from a fluid 60 Hz down to a staggered 1 Hz slide-show output, causing moving physical objects to look like a sequence of frozen, disconnected snapshots suspended in space.",
+  "symptoms": [
+    "Locomotion Snapshotting: Moving entities appear as a series of frozen, stationary images that jump abruptly across coordinates without visible transit vectors",
+    "Fluid Volume Calculation Failure: Total inability to perceive the rising or falling motion of liquids, resulting in catastrophic overflow events during standard handling routines",
+    "Dynamic Spatial Blindness: Moving vehicles or fast-moving physical hazards become entirely invisible during transit, appearing only when they come to an absolute stop",
+    "Severe Depth-Perception Trailing: Accompanying spatial disorientation as the system struggles to compute the approach vectors of nearby objects, triggering deep flight-or-fight alerts",
+    "Intact Static Typography Rendering: Complete preservation of high-resolution visual acuity for text, colors, and static boundaries, confirming the error is isolated to motion decoding"
+  ],
+  "causes": [
+    "Bilateral Occipito-Temporal Cortical Infarction: Symmetrical tissue drops targeting the junction of the lateral occipital and temporal lobes due to micro-emboli cascades",
+    "Diffuse Axonal Motion-Loop Shearing: Traumatic brain injury severing the high-speed white matter data tracks that feed raw frame rates into the V5/MT co-processing nodes",
+    "Targeted Neuro-Metabolic Channel Poisoning: Rare toxicological events that paralyze the specific directional interneurons responsible for high-frequency frame interpolation"
+  ],
+  "risk_factors": [
+    "Bilateral structural vascular anomalies inside the terminal arborizations of the posterior cerebral arteries",
+    "Severe open or closed-face skull-base trauma resulting in focal deceleration contusions along the visual tracking corridors",
+    "Advanced neurodegenerative progressions leaking into the visual association and motion-vector processing layers"
+  ],
+  "diagnosis": [
+    "The Kinetic Frame-Rate Degradation Assay: Utilizing controlled visual tracking software to measure the exact threshold where a user can no longer distinguish smooth motion from sequential frames",
+    "Functional BOLD Neuroimaging (fMRI): Recording a total absence of metabolic blood-oxygen surges within Area V5/MT while the user is exposed to high-velocity drifting dot fields",
+    "Visual Evoked Potential (VEP) Latency Tracking: Mapping electro-cortical delay spikes over the lateral visual cortices during dynamic motion stimulation loops"
+  ],
+  "remedies": [
+    "The High-Frequency Acoustic Sub-Channel Patch: Training the user to substitute audio telemetry (sound tracking) to extrapolate target velocities and bypass the broken visual motion loop",
+    "Saccadic Fixation Pacing: Teaching the conscious core to execute deliberate eye blinks or fast frame-shifts to manually trigger static viewport refreshes",
+    "Compensatory Velocity Throttling: Restricting all local movement parameters to ultra-low speeds to allow the degraded 1 Hz snapshot engine sufficient clock cycles to safely register hazards"
+  ],
+  "prevention": [
+    "Protecting deep posterior circulation pathways from embolic showers and managing systemic risk factors that trigger focal visual cortex cellular exhaustion"
+  ]
+}
+
 
 "fregoli_hash_collision_fault": {
   "description": "A delusion where the user believes that different people are actually a single person who changes appearance or is in disguise.",
