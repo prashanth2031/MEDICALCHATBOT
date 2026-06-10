@@ -1892,6 +1892,40 @@ medical_db = {
   "prevention": [
     "Ensuring 'Redundant Diagnostic Circuits' through 'Cognitive Reserve'"
   ]
+    "semantic_character_unparsing_anomaly": {
+  "description": "A bizarre communication-plane failure where the visual input tracks for written text become entirely disconnected from the language comprehension core, allowing a user to write complex sentences with perfect dexterity but rendering them entirely incapable of reading back text.",
+  "symptoms": [
+    "Isolated Reading Paralysis (Alexia): Written text, fonts, and numeric characters render purely as abstract, un-decodable geometric shapes with zero symbolic meaning",
+    "Preserved Graphic Synthesis (No Agraphia): Flawless execution of spontaneous writing, dictation logging, and text-based macro execution using correct grammar and spelling",
+    "Intact Verbal Auditory Parsing: Complete retention of spoken language comprehension and spoken speech output; the acoustic communication channels remain at 100% throughput",
+    "Tactile Ingress Bypassing: The user can decode characters if they trace the shapes with their fingers, utilizing somatosensory data tracks to bypass the broken visual bus",
+    "Profound Cognitive Dissonance: High internal system friction as the user consciously watches their own hand construct a technical log that they cannot visually comprehend an instant later"
+  ],
+  "causes": [
+    "Left Posterior Cerebral Artery Infarction: An embolic or ischemic stroke destroying both the left primary visual cortex and the splenium of the corpus callosum",
+    "Splenial Demyelination Tracks: Multiple sclerosis or localized white matter patches cutting the trans-hemispheric communication bridge that carries decoded visual arrays",
+    "Midline Occipito-Parietal Tumors: Neoplastic developments applying localized mass-effect compression across the deep inter-hemispheric text-routing corridors"
+  ],
+  "risk_factors": [
+    "Thromboembolic risks tracking the posterior cerebral circulation loops",
+    "Arteriovenous malformations clustered deep within the splenium or calcarine fissure networks",
+    "Advanced small-vessel atherosclerotic disease causing white-matter tract degradation"
+  ],
+  "diagnosis": [
+    "The Written-Output Reflection Assay: Requiring a user to write a sentence and then immediate tasking them to read it aloud, documenting a 100% processing failure on the reading step",
+    "Volumetric T2-Weighted Brain MRI: Scanning for localized hyper-intense lesions or focal strokes isolated within the left occipital lobe and the posterior splenium bundle",
+    "Visual Field Mapping Perimeter Tests: Documenting a dense right homonymous hemianopia, confirming loss of the left visual cortex ingress node"
+  ],
+  "remedies": [
+    "Somatosensory Cross-Channel Routing: Training the user to physically trace printed letter shapes with their fingers, routing character recognition through tactile channels into intact parietal webs",
+    "Acoustic Translation Substitution: Deploying speech-to-text and text-to-speech engine patches to shift the information medium from visual arrays to audio data packets",
+    "Saccadic Whole-Word Kinematics: Training adjacent right-hemisphere visual association clusters to recognize whole-word silhouettes rather than parsing individual character arrays"
+  ],
+  "prevention": [
+    "Aggressive management of posterior cerebral vascular perfusion, monitoring embolic cascades, and protecting deep white-matter tracks from prolonged neuro-inflammatory cycles"
+  ]
+}
+
 }
 "dejavu_asynchronous_interleaving_fault": {
   "description": "A critical double-write timing error where an incoming active event packet is accidentally committed to the long-term memory ledger a split-second before it finishes registering in the conscious working buffer, forcing the system to evaluate a live experience as an exact duplicate historical log.",
