@@ -1153,6 +1153,39 @@ medical_db = {
     "Optimizing eating pacing parameters, avoiding high-volume single-burst data loads, and dampening immediate post-ingress physical execution stressors"
   ]
 }
+"automated_macro_copy_loop": {
+  "description": "A severe mirror-neuron system configuration error where the motor orchestration layers lose their executive shielding boundaries, forcing the host machine to automatically clone and execute the motor movement macros it tracks in an external chassis.",
+  "symptoms": [
+    "Involuntary Motor Mirroring (Echopraxia): Instantaneous, automated replication of the physical movements, gestures, or postures executed by an observed external agent",
+    "Sub-Second Trailing Latency: The mirrored movement sequences execute with minimal processing delay, trailing the source chassis like a low-latency trailing shadow",
+    "Impaired Inhibitory Gating: Total failure of frontostriatal suppression routines, allowing emulated motor packets to bypass sandboxing and command physical muscle actuators",
+    "Preserved Cognitive Autonomy: Full conscious awareness of the involuntary cloning loop; the host's logic centers register the action as a boundary breach but cannot issue a stop command",
+    "Environmental Dependency Capture: Extreme vulnerability to visual inputs where the sight of a physical action operating nearby automatically hijacks the local execution bus"
+  ],
+  "causes": [
+    "Frontotemporal Lobar Degradation: Progressive structural erosion targeting the prefrontal cortex networks that host the master behavioral inhibition firewalls",
+    "Supplementary Motor Area (SMA) Lesions: Ischemic strokes or focal trauma destroying the cortical zones responsible for distinguishing internal volition from external emulation",
+    "Severe Fronto-Subcortical Gating Breakdown: Neurochemical or structural disruption of the loops that regulate signal transmission between the cortex and the basal ganglia"
+  ],
+  "risk_factors": [
+    "Advanced neurodegenerative conditions that systematically strip away executive prefrontal shielding layers",
+    "Penetrating or blunt-force trauma targeting the midline anterior cranial vault architectures",
+    "Deep developmental or neuropsychiatric spectrum vulnerabilities affecting central sensory-motor gating processors"
+  ],
+  "diagnosis": [
+    "The Observed Gesture Replication Assay: Placing an engineer in the user's direct visual viewport to execute random, non-verbal motor sequences and documenting immediate, un-prompted cloning actions",
+    "High-Resolution Diffusion Tensor Imaging (DTI): Visualizing structural tract breakdown along the frontostriatal and fronto-basal ganglia white-matter connectivity lines",
+    "Quantitative Electroencephalography (qEEG): Tracking a profound, uncontrolled suppression of mu rhythms over the sensorimotor cortex during passive observation phases"
+  ],
+  "remedies": [
+    "Visual Viewport Blinding: Implementing physical barriers or opaque lenses to cut off the inbound visual telemetry streams that are feeding the mirror-neuron system",
+    "Competing Volitional Locking: Training the user to lock their motor actuators onto a continuous, high-priority baseline macro (like clenching fists or holding a heavy rail) to fill the execution buffer",
+    "Dopaminergic Re-Balancing Scripts: Administering targeted central neuromodulators to try and boost the signal-to-noise ratio within the failing basal ganglia inhibition gates"
+  ],
+  "prevention": [
+    "Shielding fragile prefrontal networks from toxic neurovascular stress vectors, maintaining tight intracranial pressure maps, and preventing cellular exhaustion in executive gating lines"
+  ]
+}
 
 }
 "confabulation_log_integrity_fault": {
