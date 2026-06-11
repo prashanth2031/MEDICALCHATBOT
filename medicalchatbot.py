@@ -1455,6 +1455,40 @@ medical_db = {
   "prevention": [
     "Immediate metabolic intervention during acute states of nutritional or vascular distress to preserve the fragile hardware bridges that connect memory generation to identity tracking"
   ]
+        "viewport_matrix_clatter_exception": {
+  "description": "A critical coordinate processing error within the right inferior parietal lobule where the system's entire left half of the spatial matrix mapping grid completely un-allocates from memory, causing total oblivion to the left 180-degree hemisphere of reality without losing core optical camera fields.",
+  "symptoms": [
+    "Left-Hemisphere Environmental Oblivion: Total failure to register, respond to, or process stimuli located in the left spatial coordinate field",
+    "Anosognosia (Defect Blindness): Complete lack of internal system error tokens; the user is entirely unaware that their spatial map is truncated and insists their view is whole",
+    "Asymmetric Graphical Rendering: Cramming 100% of drawn visual assets into the right half of a canvas when tasked with copying objects or diagrams",
+    "Unilateral Somatosensory Disconnection: Neglecting the left side of the physical chassis, leading to failure to dress, wash, or recognize left limbs as part of the local system",
+    "Audio Vector Re-Mapping Faults: Sound signatures originating from the left are processed but erroneously mapped to rightward coordinates during source tracking"
+  ],
+  "causes": [
+    "Right Middle Cerebral Artery Infarction: A massive ischemic stroke destroying the right inferior parietal lobule and adjacent temporoparietal junction networks",
+    "Intracerebral Hemorrhage: Localized vascular ruptures dumping high-pressure fluid into the right attentional routing tracks",
+    "Traumatic Right Parietal Brain Injury: Blunt force trauma causing focal tissue shearing across the structural coordinate-compiling frameworks"
+  ],
+  "risk_factors": [
+    "High-voltage systemic hypertension blowing out deep cerebral branch lines",
+    "Atrial fibrillation generating micro-emboli that target the middle cerebral artery tree",
+    "Advanced carotid artery stenosis narrowing the primary upstream blood supply lines"
+  ],
+  "diagnosis": [
+    "The Albert's Line Crossing Assay: Tasking the user to draw a hatch mark through dozens of randomized lines on a sheet of paper, resulting in lines on the left remaining completely untouched",
+    "The Clock-Face Synthesis Test: Requiring the system to generate a standard analog clock graphic, revealing severe structural compression of all numbers into the right sector",
+    "High-Resolution Fluid-Attenuated Inversion Recovery (FLAIR) MRI: Confirming tissue degradation or structural voids isolated to the right inferior parietal lobe architecture"
+  ],
+  "remedies": [
+    "Prism Adaptation Matrix Shifting: Using optical prism lenses to artificially skew incoming left-side light vectors into the functional right visual field, forcing map re-calibration",
+    "Visual Anchor Beacon Training: Forcing the system to execute a conscious saccadic sweep all the way to a bright red boundary marker anchored on the far left of the display array",
+    "Limb Activation Macro Sequencing: Executing continuous motor movements on the left side of the chassis to force somatosensory data streams to wake up dormant parietal nodes"
+  ],
+  "prevention": [
+    "Strict management of cerebral perfusion vectors, keeping embolic risks mitigated, and stabilizing core blood pressure arrays to shield the master spatial graphics cards"
+  ]
+}
+
     }
         
 "aiws_viewport_scaling_fault": {
