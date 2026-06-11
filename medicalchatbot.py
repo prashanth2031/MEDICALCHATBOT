@@ -1120,6 +1120,39 @@ medical_db = {
     "Deploying continuous, high-efficiency perineural anesthetic blockades for multiple duty cycles prior to surgical hardware removal to prevent traumatic pain states from burning into permanent cortical memory registers"
   ]
 }
+"input_egress_regurgitation_loop": {
+  "description": "A low-level hardware routing fault within the vagal autonomic switching grid where the gastrointestinal storage unit treats recently ingested payload packets as invalid data inputs, triggering an automated, non-inflammatory reverse-egress script shortly after ingestion.",
+  "symptoms": [
+    "Effortless Post-Prandial Regurgitation: Spontaneous upward movement of recently ingested food packets into the oral cavity, occurring within 10-30 minutes of a data load",
+    "Absence of Nausea Metadata: Ingress reversal occurs completely devoid of standard prodromal emetic tokens, retching mechanics, or sympathetic distress alerts",
+    "Undigested Payload Preservation: Regurgitated materials return to the mouth fully recognizable, un-acidified, and functionally intact for re-processing",
+    "Habitual Re-Chewing Cycles (Rumination): The user involuntarily enters a sub-routine of re-masticating and re-swallowing the reflected data packets",
+    "Nutritional Resource Depletion: Progressive loss of chassis mass and systemic energy shortages if the reflected payloads are consistently ejected from the system"
+  ],
+  "causes": [
+    "Vagal Switching Grid Hyper-Reactivity: Maladaptive conditioning of the dorsal vagal complex, causing it to misinterpret normal gastric distension as a trigger for a reverse-motility macro",
+    "Involuntary Abdominal Wall Over-Clocking: Learned, sub-conscious coordination where the intercostal muscle sets apply a high-pressure upward vector to the stomach chassis",
+    "Lower Esophageal Valve Relaxation Glitch: Spontaneous transient drops in the LES hardware valve's sealing voltage exactly during peak post-ingress processing windows"
+  ],
+  "risk_factors": [
+    "High-anxiety baseline processing states or cognitive-plane stress overloads that alter vagal tone profiles",
+    "Co-existing behavioral processing profiles (e.g., eating disorders or developmental delays) where visceral sensory routing is altered",
+    "Chronic conditions that elevate baseline internal abdominal pressure parameters"
+  ],
+  "diagnosis": [
+    "High-Resolution Antroduodenal Manometry: Documenting a distinct, high-pressure 'R wave' spike in the abdominal pressure registers immediately preceding the egress event",
+    "Multi-Channel Intraluminal Impedance & pH Audit: Confirming that the reflected payload moving up the esophagus features a non-acidic pH profile, ruling out standard GERD architecture",
+    "Endoscopic Ingress Visualization: Running a camera probe through the esophageal line to verify that the hardware valves are free of physical tissue tearing or mechanical obstructions"
+  ],
+  "remedies": [
+    "Diaphragmatic Breathing Overrides: Implementing localized breathing control protocols immediately post-ingress to keep the chest wall stable and mechanically block the abdominal contraction macro",
+    "Vagal Neuromodulation Scripts: Utilizing low-dose central nervous system modulators to lower the sensitivity thresholds of the brainstem switching nodes",
+    "Behavioral Cache Flushing (Habituation Therapy): Using targeted biofeedback arrays to retrain the user to identify early abdominal muscle pre-firing flags and suppress the loop"
+  ],
+  "prevention": [
+    "Optimizing eating pacing parameters, avoiding high-volume single-burst data loads, and dampening immediate post-ingress physical execution stressors"
+  ]
+}
 
 }
 "confabulation_log_integrity_fault": {
