@@ -278,6 +278,35 @@ medical_db = {
   "prevention": [
     "Maintaining structural white-matter integrity and managing cardiovascular health to prevent microvascular damage within deep cerebral routing lanes"
   ]
+"color_space_pointer_disconnection": {
+  "description": "A high-level presentation layer breakdown within the left ventral occipito-temporal cortex where raw color data arrays lose their semantic pointer mappings, leaving wavelength perception intact but disconnecting colors from verbal identification and conceptual meaning.",
+  "symptoms": [
+    "Color Naming Paralysis: Complete inability to assign verbal language tokens (names) to visually presented colors, despite perfect visual clarity",
+    "Preserved Wavelength Discrimination: Full capacity to match, sort, and categorize identical or tracking color hues, confirming the hardware sensors are healthy",
+    "Conceptual Color Amnesia: Loss of abstract knowledge regarding the typical color properties of common items (e.g., failing to remember that grass is green)",
+    "Intact Structural Object Recognition: Uncompromised capability to identify, name, and manipulate physical tools and assets based purely on geometric and texturing data streams",
+    "Anomalous Imagery Generation: When asked to color an outline of an item, the user select random colored markers (e.g., coloring an elephant neon blue) with no awareness of the contextual clash"
+  ],
+  "causes": [
+    "Left Posterior Cerebral Artery Infarction: An ischemic stroke destroying the left lingual or fusiform gyrus networks while sparing the primary visual fields",
+    "Focal Occipito-Temporal Lobar Atrophy: Progressive neurodegenerative thinning targeting the semantic routing hubs that bind sensory features together",
+    "Localized Traumatic Contusion: Impact trauma causing focal tissue bruising along the inferior surface of the left occipital processing architecture"
+  ],
+  "risk_factors": [
+    "Vascular disease patterns affecting the deep branches of the posterior cerebral circulation",
+    "Early-stage atypical neurodegenerative syndromes targeting posterior cortical tracking networks",
+    "Atherosclerotic plaques restricting optimal flow vectors through the basilar-posterior cerebral assembly"
+  ],
+  "diagnosis": [
+    "The Ishihara & Sorting Cross-Evaluation: Passing standard color-blindness plate arrays (which the user passes perfectly) followed by a color-naming verbal test (which the user completely fails)",
+    "The Semantic Color Errors Assay: Requiring the system to verbally flag errors in intentionally mis-colored images (e.g., a blue banana), documenting a total absence of error-detection tokens",
+    "Functional Neuroimaging (PET / fMRI): Documenting robust, normal activation inside Area V4 during color exposure, paired with an absolute lack of signal transit into the left temporal language frameworks"
+  ],
+  "remedies": [
+    "Contextual Cross-Cue Routing: Training the user to associate colors with secondary tactile or brightness gradients to infer name profiles through alternative data tracks",
+    "Digital Color-Token Translators: Utilizing external wearable sensors that scan objects, parse hex codes, and read the color name string straight into the user's audio ingress loops",
+    "Non
+
 }
 
     
