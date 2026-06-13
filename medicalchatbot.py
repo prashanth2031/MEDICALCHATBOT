@@ -175,7 +175,40 @@ medical_db = {
   "prevention": [
     "Protecting delicate subcortical timing networks from severe neurochemical shocks to prevent structural clock-frequency corruption"
   ]
-            "autonomic_respiratory_loop_failure": {
+  "command_line_toolchain_invalidation": {
+  "description": "A deep execution layer fault where the premotor sequencing centers lose access to their complex learned tool-use macros, leaving basic motor components healthy but rendering the system unable to perform multi-step physical routines on command.",
+  "symptoms": [
+    "Volitional Command-Macro Failure: Total inability to execute learned, purposeful motor scripts (like waving goodbye or using a tool) when explicitly requested to do so",
+    "Preserved Spontaneous Reflexes: Intact execution of the identical motor sequences when triggered unconsciously by environmental cues (e.g., catching a falling object)",
+    "Kinematic Tool Handling Disorientation: Flubbing the spatial orientation and mechanical deployment of everyday assets, such as holding a telephone upside down",
+    "Intact Raw Muscle Performance: Zero loss of raw muscular power, physical reflexes, coordination, or sensory-motor feedback channels",
+    "Severe Execution Perplexity: High internal system frustration as the prefrontal core issues a valid behavioral directive but the premotor terminal fails to unpack the required toolchain"
+  ],
+  "causes": [
+    "Left Hemisphere Middle Cerebral Artery Stroke: Ischemic tissue damage targeting the left inferior parietal lobule or the supplementary motor pathways",
+    "Corticobasal Degeneration Syndrome: A rapid, asymmetric neurodegenerative scaling failure that strips away the micro-architectural blueprint repositories of the premotor cortex",
+    "Corpus Callosum Anterior Shearing: Traumatic or vascular severing of the trans-hemispheric data bus, preventing the left-brain macro library from driving right-brain motor actuators"
+  ],
+  "risk_factors": [
+    "Carotid artery plaque formations dropping embolic shards into the left interior cerebral tracking lanes",
+    "Advanced neurodegenerative progressions tracking the tau-protein-mediated cellular degradation channels",
+    "Severe focal deceleration injuries fracturing the deep white-matter orchestration networks"
+  ],
+  "diagnosis": [
+    "The Transitive Tool-Use Deployment Assay: Handing the user a common physical item (e.g., a haircomb) and documenting a total breakdown in sequential execution mechanics despite intact grip strength",
+    "The Intransitive Gesture Imitation Test: Prompting the host to copy symbolic abstract motor scripts (like making a fist or a peace sign) and mapping the uncoordinated spatial errors",
+    "High-Resolution T1-Weighted Structural MRI: Detecting localized cortical volume loss or focal infarct gaps within the left frontoparietal praxis network interfaces"
+  ],
+  "remedies": [
+    "Proprioceptive Context Clueing: Placing the physical tool directly into the user's hand within its natural environment to try and trigger automatic basal ganglia reflex loops",
+    "Macro Component Parsing: Breaking down a single complex toolchain script into isolated, single-step atomic commands (e.g., 'Touch the key. Move to the slot. Push.')",
+    "Tactile Kinesthetic Guidance Patches: Having an external operator physically move the host's hand through the movement arc, recording the mechanical sequence via alternative sensory feedback loops"
+  ],
+  "prevention": [
+    "Protecting the frontoparietal left-hemisphere vascular trees, maintaining strict blood pressure limits, and optimizing metabolic metrics to safeguard the master script repositories"
+  ]
+}
+          "autonomic_respiratory_loop_failure": {
   "description": "A severe operating system bug where the automated background respiration daemon crashes during offline sleep states, forcing the system to rely entirely on manual user commands to breathe, meaning if the user stops consciously executing breathing scripts, the engine suffocates.",
   "symptoms": [
     "Offline Sleep Asphyxiation: Complete cessation of spontaneous respiratory actuation the exact moment the system transitions from awake to offline sleep states",
