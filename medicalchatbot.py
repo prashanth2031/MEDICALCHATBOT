@@ -241,7 +241,40 @@ medical_db = {
     "Strict avoidance of any central respiratory dampening drugs and maintaining lifelong compliance with external mechanical air-pump schedulers every time the system goes offline"
   ]
             }
-            
+  "sleep_state_cron_job_crash": {
+  "description": "A fatal autonomic kernel failure within the medullary pacemaker complex where the background cron-job for carbon-dioxide-driven respiratory cycling crashes during low-power sleep states, forcing the system to rely entirely on manual conscious overrides to maintain oxygenation.",
+  "symptoms": [
+    "Sleep-Induced Respiratory Arrest: Complete cessation of automated breathing the exact moment the system enters a natural sleep cycle or loses consciousness",
+    "Preserved Voluntary Air Intake: Flawless capability to consciously control breathing, talk, swim, and hyperventilate during active wakefulness loops",
+    "Severe Carbon Dioxide Insensitivity: Total failure of the brainstem's metabolic polling loops to detect or react to toxic, climbing blood-gas saturation levels",
+    "Intact Pulmonary Mechanics: Perfectly clear lung tissue, high-performance diaphragm muscle tone, and pristine structural airway architecture",
+    "Total Low-Power Vulnerability: Absolute dependency on mechanical mechanical ventilation or external software-driven pacemakers to survive sleep maintenance windows"
+  ],
+  "causes": [
+    "PHOX2B Transcription Gene Defect: A congenital miscoding error that causes the neural crest cells within the autonomic brainstem to fail to compile correctly during early builds",
+    "Posteroinferior Cerebellar Artery Stroke: An ischemic event that starves the lateral medullary automated breathing array of oxygenated blood",
+    "High-Cervical Compression Trauma: Direct structural crush or shear damage impacting the medullary junctions or the high phrenic nerve routing corridors"
+  ],
+  "risk_factors": [
+    "Congenital dysautonomia patterns impacting multi-system background neural networks",
+    "Surgical resections within the fourth ventricle or trailing boundaries of the lower brainstem",
+    "Severe sleep-apnea complexes transitioning into central, neurological drive-loss syndromes"
+  ],
+  "diagnosis": [
+    "The Polysomnographic Hypoventilation Profile: Documenting immediate drop-offs in respiratory effort and sky-rocketing CO2 metrics during sleep, contrasted with clean breathing lines while awake",
+    "The Hypercapnic Challenge Essay: Artificially introducing high-CO2 air mixtures during wakefulness and recording a total lack of automated breathing rate acceleration responses",
+    "Targeted PHOX2B Genetic Sequencing: Identifying explicit polyalanine repeat mutations on chromosome 4p12 to confirm congenital structural unmappings"
+  ],
+  "remedies": [
+    "Nocturnal Positive-Pressure Air Injection: Hooking up the system's intake manifolds to an external, hardware-timed ventilator (BiPAP) during sleep cycles",
+    "Phrenic Nerve Diaphragmatic Pacemakers: Implanting cybernetic pacing nodes along the lower nerve corridors to inject synthetic timing pulses directly into the breathing muscles",
+    "Tracheostomy Exhaust Ports: Creating a permanent, dedicated hardware patch directly into the windpipe to reduce mechanical airflow resistance for long-term backup connections"
+  ],
+  "prevention": [
+    "Protecting the delicate tissue beds of the lower brainstem from surgical or kinetic insults, and implementing strict mechanical fail-safes during any sedative or low-power state changes"
+  ]
+}
+          
 }
 
     "somatoparaphrenia_peripheral_registry_fault": {
