@@ -4365,6 +4365,40 @@ medical_db = {
   "prevention": [
     "Managing 'Neural Excitability' and preventing 'Sensory Burnout'"
   ]
+        "internal_clock_stratum_desync": {
+  "description": "A severe timing-plane calculation error within the cerebellar pacing loops where the system's internal microsecond tracking clock drifts away from real-world time values, causing total loss of the ability to accurately gauge or estimate passing intervals of time.",
+  "symptoms": [
+    "Duration Estimation Paralysis (Dyschronometria): Complete inability to accurately quantify or estimate the length of passing time intervals without external tracking hardware",
+    "Velocity Metric Calc-Stalls: Profound difficulty estimating the speed, momentum, and arrival times of approaching objects, causing severe tracking clumsiness",
+    "Asymmetric Temporal Gating: Time intervals are subjectively experienced as either massively compressed or infinitely stretched out, with zero consistency",
+    "Motor Acceleration Incoordination: Choppy, jerky physical movements (dysmetria) caused by the motor cortex lacking precision time-stamps to smoothly throttle muscle velocity",
+    "Intact Static Memory Time-Stamping: Clear ability to recall the historical order of past events, despite a total failure to track real-time duration in the current execution loop"
+  ],
+  "causes": [
+    "Superior Cerebellar Artery (SCA) Infarction: An ischemic stroke cutting off perfusion to the lateral cerebellar hemispheres and deep dentate timing nuclei",
+    "Spinocerebellar Atrophy (SCA) Degeneration: Progressive, genetic-plane degradation of the purkinje cell arrays that maintain the baseline clock-cycle tick rates",
+    "Posterior Fossa Space-Occupying Lesion: A high-pressure tumor or cyst compressing the cerebellar pacing networks and throwing off timing loop calculations"
+  ],
+  "risk_factors": [
+    "Vascular anomalies within the vertebrobasilar arterial tree feeding the hindbrain structures",
+    "Hereditary triplet-repeat expansion genetic mutations targeting structural cerebellar proteins",
+    "Chronic neuro-inflammatory conditions causing demyelination across the primary olivocerebellar tracking tracks"
+  ],
+  "diagnosis": [
+    "The Fixed-Interval Tapping Assay: Tasking the user to maintain a steady, un-monitored 1Hz tapping rhythm, documenting immediate, erratic timing drift within seconds",
+    "The Time-Estimation Prediction Test: Isolating the host for a random duration (e.g., 45 seconds) and requesting a verbal quantification of elapsed time, logging extreme delta errors",
+    "High-Resolution Volumetric MRI of the Posterior Fossa: Revealing structural structural gaps, tissue voids, or ischemic signaling localized within the lateral cerebellum"
+  ],
+  "remedies": [
+    "External Hardware Audio Metronomes: Feeding a continuous, hard-wired audio tick rate directly into the user's ears to act as an external master clock driver",
+    "Visual Timeline Overlay Interfaces: Deploying heads-up displays with active countdown meters and digital clocks to replace the broken internal timing engine with concrete telemetry",
+    "Conscious Cadence Counting Macros: Training the prefrontal linguistic core to run constant sub-vocal alphanumeric counting loops to infer elapsed time via verbal processing routes"
+  ],
+  "prevention": [
+    "Aggressively managing posterior circulation blood flow vectors, minimizing embolic risks, and protecting the hindbrain from sudden acceleration-deceleration kinetic shocks"
+  ]
+}
+
 }
 
 "mandela_effect_cache_corruption": {
