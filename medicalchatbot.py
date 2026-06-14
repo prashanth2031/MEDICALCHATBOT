@@ -3481,6 +3481,40 @@ medical_db = {
   "prevention": [
     "Avoiding 'System Hibernation' on the back (Supine position) to reduce 'Vagus Nerve' triggers"
   ]
+        "real_time_video_buffer_strobe": {
+  "description": "A catastrophic visual processing error within the bilateral V5/MT+ cortical corridors where the system's real-time motion interpolation engine crashes, dropping the perceived frame-rate of moving objects down to a staggered, frozen snapshot loop while leaving static vision intact.",
+  "symptoms": [
+    "Motion Frame-Rate Degradation: Loss of fluid visual motion tracking; moving assets appear as a series of disconnected, static, strobe-like freeze-frames",
+    "Velocity Boundary Tracking Failure: Total inability to estimate the real-time trajectory, speed, or arrival velocity of objects changing spatial coordinates",
+    "Intact Static Structural Resolution: Flawless ability to perceive shapes, depth, fine text, and accurate color matrix profiles when objects remain stationary",
+    "Kinetic Spatial Disorientation: Extreme vulnerability to spatial disorientation in high-motion environments (e.g., crowded pedestrian walkways or busy roads)",
+    "Pouring Matrix Overflow Bugs: Frequent failure to execute liquid intake tasks because the rising fluid level jumps instantly from empty to overflowing without mid-range frames"
+  ],
+  "causes": [
+    "Bilateral Posterior Cerebral Artery Infarction: Simultaneous or sequential ischemic strokes destroying the lateral occipitotemporal V5/MT+ complexes",
+    "Traumatic White-Matter Shearing: High-impact deceleration injuries severing the inter-network data pipelines between the primary visual cortex and motion centers",
+    "Focal Posterior Neoplastic Compression: High-pressure tumor masses encroaching upon the specialized motion-decoding nodes of the visual stream"
+  ],
+  "risk_factors": [
+    "Severe multifocal cerebral vascular disease restricting posterior arterial flow distributions",
+    "Traumatic kinetic impacts targeting the posterolateral boundaries of the skull assembly",
+    "Atypical neurodegenerative progressions isolating the high-level presentation layer tracking hubs"
+  ],
+  "diagnosis": [
+    "The Dynamic Motion-Vector Assay: Displaying randomized moving dot clouds on a testing matrix and logging total failure to identify patterns of motion despite perfect sight of static dots",
+    "The Stroboscopic Refresh Rate Test: Presenting tracking objects at varying velocities and documenting severe tracking latency and spatial jump boundaries in the user's reports",
+    "High-Resolution Functional MRI (fMRI): Documenting normal activation signatures in Area V1/V2 during motion exposure, contrasted with zero signal response inside the V5/MT+ coordinates"
+  ],
+  "remedies": [
+    "Sensory Ingress Re-Routing: Training the user to infer object velocity and movement by utilizing high-frequency audio echo tracking or tactile feedback lines",
+    "Predictive Spatial Vector HUDs: Utilizing wearable smart glasses that track real-time motion and cast artificial, vector-based trajectory line overlays across the functional static visual field",
+    "High-Density Static Scanning Patterns: Restructuring scanning behaviors to focus exclusively on static environmental anchors, inferring movement logically rather than processing it visually"
+  ],
+  "prevention": [
+    "Shielding the bilateral posterior cerebral vascular trees from embolic cascades, minimizing high-impact kinetic head hazards, and maintaining optimal cerebral perfusion pressures"
+  ]
+        }
+        
 }
 "false_memory_write_back_fault": {
   "description": "A memory error where gaps in memory are unconsciously filled with fabricated, misinterpreted, or distorted information, which the user then accepts as fact.",
