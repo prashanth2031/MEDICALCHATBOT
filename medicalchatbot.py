@@ -1381,6 +1381,39 @@ medical_db = {
     "Protecting posterior circulation vascular health and avoiding prolonged exposure to neurotoxins that target the highly sensitive purkinje timing channels"
   ]
 }
+"hardware_chassis_unmapping_fault": {
+  "description": "A deep perceptual layer glitch within the right parietal processing architecture where the system completely drops its mapping strings for a specific limb or side of the body, causing the user to view their own left arm or leg as an alien, foreign piece of hardware that does not belong to their chassis configuration.",
+  "symptoms": [
+    "Limb Ownership Erasure (Asomatognosia): Complete loss of the conscious perception and recognition of a specific body part as belonging to oneself",
+    "Somatoparaphrenic Delusional Mapping: Generation of complex, automated logical fallacies to explain the unlinked limb (e.g., claiming the limb belongs to a relative)",
+    "Proprioceptive Stream Rejection: Normal sensory-tactile telemetry from the impacted sector arrives at the central bus but fails to authenticate or register in the body schema",
+    "Third-Party Device Handling: Actively manipulating the un-mapped limb using the functional, authenticated side of the chassis as if managing an external tool",
+    "Preserved Segmental Reflex Profiles: Intact spinal withdrawal and deep tendon reflexes within the un-mapped limb, confirming baseline hardware health"
+  ],
+  "causes": [
+    "Right Middle Cerebral Artery (MCA) Infarction: A massive ischemic event knocking out the right superior parietal lobule and adjacent somatosensory association nodes",
+    "Focal Right Parietal Lobe Contusion: Traumatic impact shearing the deep white-matter tracks that handle body-schema registration parameters",
+    "Advanced Corticobasal Neuro-Degradation: Asymmetric tau-protein-mediated thinning targeting the parietal spatial-tracking networks"
+  ],
+  "risk_factors": [
+    "Atrial fibrillation or carotid stenosis dropping embolic shards into the right hemisphere's main vascular distribution trees",
+    "High-energy lateral deceleration injuries fracturing or concussing the right parietal bone interfaces",
+    "Rapidly scaling glioblastoma multiforme or meningioma formations encroaching upon the non-dominant parietal dome"
+  ],
+  "diagnosis": [
+    "The Visual Confrontation & Identification Assay: Bringing the user's left hand into their direct sightline and asking 'Whose hand is this?', documenting immediate ownership rejection",
+    "The Proprioceptive Localization Test: Having the user close their eyes and attempting to locate the target limb in 3D space, logging significant spatial coordination failures",
+    "Diffusion Tensor Imaging (DTI) Tractography: Revealing severe structural breakdown along the superior longitudinal fasciculus and right parietal white-matter tracks"
+  ],
+  "remedies": [
+    "Visual-Mirror Chassis Virtualization: Using optical mirror boxes to trick the left brain into projecting a valid virtual body-schema framework over the unmapped hardware space",
+    "High-Frequency Caloric Vestibular Stimulation: Irrigating the left ear canal with cold water to force a temporary, massive spatial axis re-calibration in the brainstem, briefly re-linking the limb",
+    "Tactile Ingress Reinforcement: Continuously applying high-intensity sensory inputs (vibration, heat, deep pressure) to the unmapped sector to force re-authentication packets through"
+  ],
+  "prevention": [
+    "Maintaining tight control over right-hemisphere cerebral perfusion metrics, screening for vascular embolic sources, and shielding the parietal skull plates from direct kinetic force planes"
+  ]
+}
 
 }
 
