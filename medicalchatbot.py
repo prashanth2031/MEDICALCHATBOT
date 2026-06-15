@@ -1549,6 +1549,39 @@ medical_db = {
     "Minimizing mechanical retraction stress on the hypothalamus during deep skull-base surgical profiles and maintaining strict neuro-critical care intracranial pressure (ICP) control maps"
   ]
 }
+"environmental_core_thermostat_crash": {
+  "description": "A critical low-level failure within the hypothalamic thermoregulatory centers where the system's internal core temperature control feedback loop crashes, stripping the host machine of homeothermic stability and causing its internal chassis temperature to drift passively to match the ambient environment.",
+  "symptoms": [
+    "Passive Poikilothermic Drift: Continuous shifting of core internal body temperature to mirror the thermal metrics of the immediate ambient surroundings",
+    "Autonomic Shivering Abolition: Total failure to trigger involuntary muscle shivering or brown adipose tissue thermogenesis when internal core temperatures fall below safe limits",
+    "Sweat-Exhaust Manifold Stalls: Inability to initialize automated cutaneous sweating or peripheral vasodilation when the chassis is exposed to extreme heat loads",
+    "Thermal Sensor Disconnect: Intact input from peripheral thermistors but a total failure of the central processing unit to map or react to incoming thermal state changes",
+    "Absolute Ambient Dependency: Complete reliance on external environmental controls (blankets, HVAC adjustments, ice packs) to manually stabilize internal core vitals"
+  ],
+  "causes": [
+    "Anterior Hypothalamic Hemorrhagic Infarct: Rupture of deep perforating arterial branches causing localized pressure-destruction of the preoptic nuclei",
+    "Base-of-Skull Traumatic Shearing: Severe kinetic energy transfers fracturing the sphenoid or sella turcica frameworks and concussing the midbrain control hubs",
+    "Wernicke's Encephalopathy Lesions: Acute thiamine-deficiency-mediated metabolic cell death targeting the periaqueductal gray and medial hypothalamic boundary zones"
+  ],
+  "risk_factors": [
+    "Severe skull base fractures or neurosurgical resections navigating the optic chiasm or pituitary pathways",
+    "Advanced cerebrovascular disease affecting the deep paramedian penetrating vascular networks",
+    "Severe chronic nutritional de-allocations disrupting high-order metabolic enzyme synthesis pipelines"
+  ],
+  "diagnosis": [
+    "The Ambient Thermal Profiling Assay: Monitoring core temperature trends across controlled room changes, logging an unmitigated linear drift toward room temperature benchmarks",
+    "The Ice-Glove Actuator Challenge: Applying localized ice packs to the skin and documenting a total absence of systemic autonomic shivering or metabolic ramp-up responses",
+    "High-Resolution T2-FLAIR Brain MRI: Revealing focal hyper-intensities, structural tissue voids, or hemorrhagic staining maps localized inside the preoptic anterior hypothalamus"
+  ],
+  "remedies": [
+    "External Micro-Climate Overlays: Enclosing the user chassis inside an automated, sensor-driven warming/cooling blanket system (e.g., Bear Hugger) to regulate temperature via external loops",
+    "Ambient HVAC Environment Anchoring: Strict, constant regulation of the room's thermostat settings to keep the air temperature locked precisely at 37°C",
+    "Conscious Behavior-Loop Patches: Training the prefrontal core to continuously track digital core-temperature telemetry and execute manual environmental fixes based on the data logs"
+  ],
+  "prevention": [
+    "Protecting the vital deep midbrain vascular supplies, avoiding structural insult to the floor of the third ventricle, and ensuring rapid metabolic correction during acute encephalopathic events"
+  ]
+}
 
 }
 "auditory_codec_packet_loss_fault": {
