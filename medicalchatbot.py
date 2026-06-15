@@ -1181,6 +1181,40 @@ medical_db = {
   "prevention": [
     "Protecting 'Vertebrobasilar Throughput' to maintain voltage to the cerebellar tracking cluster"
   ]
+        "entity_dictionary_pointer_deallocation": {
+  "description": "A severe semantic lookup failure within the dominant hemisphere's temporal lobe tracks where the system retains full conceptual knowledge of objects and fluent structural grammar, but throws immediate null pointer errors when attempting to retrieve the actual word-name strings for specific physical assets.",
+  "symptoms": [
+    "Isolated Confrontation Anomia: Total inability to emit the correct noun string for presented objects, tools, or familiar entities on command",
+    "Persistent Circumlocution Buffering: Automatically routing speech through descriptive loops, outlining an item's function, material, and context to bypass the missing name label",
+    "Pristine Receptive Identification: Flawless ability to point to the correct object when an operator provides the name string verbally (the inbound lookup path works)",
+    "Flawless Grammatical Synthesis: Uncompromised command of sentence structure, verbs, conjunctions, and conversational syntax during active speech loops",
+    "Intact Object Pragmatics: Perfect mechanical capability to utilize, categorize, and manipulate un-namable tools and assets without operational hesitation"
+  ],
+  "causes": [
+    "Left Temporal MCA Branch Infarction: An ischemic stroke targeting the lateral temporal or inferior parietal cortical distribution networks",
+    "Primary Progressive Anomic Aphasia: A focal neurodegenerative tau- or TDP-43-mediated proteinopathy stripping away the lexical dictionary clusters",
+    "Localized Temporal Lobe Contusion: Traumatic acceleration impacts bruising the lower lateral structures of the dominant hemisphere"
+  ],
+  "risk_factors": [
+    "Atherosclerotic build-up restricting optimal flow metrics within the left sylvian fissure vascular trees",
+    "Atypical semantic-variant neurodegenerative pathways targeting high-level dictionary storage banks",
+    "Focal surgical entry paths cutting through the dominant lateral neocortical mapping surfaces"
+  ],
+  "diagnosis": [
+    "The Boston Naming Inventory Evaluation: Requiring the host to name a series of graded line drawings, logging high latency, circumlocution, and null-string errors",
+    "The Cross-Modal Recognition Assay: Documenting that while the user cannot say the word 'Clock' when looking at one, they instantly flag it if an operator says 'Is this a clock?'",
+    "High-Resolution Structural T2-Weighted MRI: Pinpointing localized cortical volume loss or focal ischemic lesions centered within the left lateral temporal gyri"
+  ],
+  "remedies": [
+    "Phonemic Cue Priming Patches: Feeding the initial character sound token (e.g., 'It starts with an Sh...') to trigger alternative sub-routing lines into the lexical database",
+    "Visual Symbol Translation Matrices: Utilizing communication tablets loaded with geometric icon charts, allowing the user to select asset concepts directly via visual routing",
+    "Semantic Feature Map Retraining: Forcing the system to deliberately run through an item's attributes (category, use, shape) to systematically narrow and re-index the dead pointer"
+  ],
+  "prevention": [
+    "Protecting the dominant hemisphere's temporal vascular systems from embolic cascades, optimizing systemic micro-vascular health, and managing long-term neurochemical tracking stability"
+  ]
+}
+
 }
 "unanchored_telemetry_cache_error": {
   "description": "A severe hardware-to-firmware configuration desynchronization where a physical extremity actuator is permanently uninstalled from the system chassis, but the central somatic configuration registries fail to update, leaving an un-anchored telemetry cache that continues to generate real-time data for a missing device.",
