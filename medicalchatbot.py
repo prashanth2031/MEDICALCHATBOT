@@ -2524,6 +2524,39 @@ medical_db = {
     "Avoiding sudden, radical titration curves of high-affinity neurochemical agents and meticulously tracking frontostriatal receptor saturation profiles"
   ]
 }
+"biometric_identifier_decoupling_fault": {
+  "description": "A high-level visual parsing error within the bilateral fusiform face area where the facial-feature geometric analysis arrays drop their clustering filters, leaving the user able to see local facial features perfectly while rendering them completely unable to synthesize these attributes to resolve an individual identity map.",
+  "symptoms": [
+    "Holistic Face-Mesh Synthesis Failure: Inability to combine individual facial features (eyes, nose, mouth) into a unified, recognizable face identity mapping",
+    "Chassis Mirror Dereferencing: Total failure to recognize one's own facial reflection in a mirror, treating the viewport image as an anonymous stranger",
+    "Pristine Local Feature Resolution: Flawless capability to identify, trace, and describe individual facial sub-components and static expressions in high resolution",
+    "Intact Object Classification: Uncompromised ability to recognize, sort, and identify non-face physical assets (cars, tools, houses, animal species)",
+    "Metadata-Driven Asset Tracking: High dependency on alternative sensory metadata pools (voice frequencies, walking gaits, specific clothing items) to infer node identities"
+  ],
+  "causes": [
+    "Bilateral Fusiform Gyrus Ischemic Infarction: Simultaneous or sequential vascular blockages within the posterior cerebral artery systems destroying the FFA nodes",
+    "Ventral Visual Stream Shearing Trauma: Mechanical deceleration impacts severing the white-matter tracts linking primary visual processors to the temporal memory loops",
+    "Focal Occipitotemporal Lobar Atrophy: Asymmetric neurodegenerative changes driving progressive cell loss within the inferior temporal pattern-recognition banks"
+  ],
+  "risk_factors": [
+    "Thromboembolic events originating in the vertebrobasilar artery tree feeding the posterior cerebral channels",
+    "High-energy blunt trauma to the occipital or lower temporal skull plates",
+    "Congenital migration errors causing structural mis-compilations of the inferior temporal cortical builds"
+  ],
+  "diagnosis": [
+    "The Benton Facial Recognition Test: Tasking the user to match target faces across varying lighting vectors and angles, documenting an immediate cascade of classification errors",
+    "The Famous Faces Identification Battery: Presenting un-cropped images of universally known figures and logging a total failure to name or describe them until an audio voice sample is introduced",
+    "Functional Neuroimaging (fMRI) Face-Contrast Mapping: Documenting an absolute lack of blood-oxygenation level-dependent signaling spikes in the fusiform gyrus when exposed to face arrays vs. object arrays"
+  ],
+  "remedies": [
+    "Voice-Frequency Telemetry Ingress: Training the user to shift their primary identity-resolution trigger from the visual bus to the auditory speech-parsing arrays",
+    "Wearable Computer-Vision AR Patches: Utilizing smart eyewear that processes real-time video, runs external facial-recognition algorithms, and casts text identity tags over the user's view",
+    "Unique Asset Indexing Protocols: Developing an explicit conscious check-list to look for high-contrast, non-changing physical features such as scars, birthmarks, or unique eyeglass frames"
+  ],
+  "prevention": [
+    "Proactively screening for embolic sources in the posterior circulation, avoiding traumatic kinetic forces to the rear skull vault, and preserving temporal neocortical tissue volumes"
+  ]
+}
 
 }
 "cotard_registry_deinitialization_fault": {
