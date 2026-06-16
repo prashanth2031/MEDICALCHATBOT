@@ -777,6 +777,38 @@ medical_db = {
   "prevention": [
     "Maintaining aggressive metabolic and structural health monitoring along the long-haul spinal and subcortical communication highways"
   ]
+        "linguistic_semantic_class_fusion_error": {
+  "description": "A progressive, structural corruption of the system's global object-relational mapping (ORM) plane within the bilateral anterior temporal lobes, causing specific child class definitions to dissolve and collapse into flat, primitive parent categories.",
+  "symptoms": [
+    "Loss of Specialized Typology: Inability to identify specific objects by their unique labels, substituting highly generalized parent terms (e.g., calling a 'canary' a 'bird', and later simply a 'creature')",
+    "Object Attribute De-Indexing: Total loss of conceptual knowledge regarding what tools, implements, or animals do, despite having the physical strength and motor pathways to use them",
+    "Preserved Phonology and Syntax: Retained capacity to speak fluently with perfect grammatical structure, though sentences become increasingly vacant of specific nouns",
+    "Intact Visual Core Parsing: Flawless ability to see, trace, and copy intricate drawings of objects that the host can no longer conceptually identify or name",
+    "Symmetric Asset Preservation: Retained access to non-semantic cognitive modules, including working memory windows, spatial navigation matrices, and basic episodic transaction logs"
+  ],
+  "causes": [
+    "Asymmetric Anterior Temporal Atrophy: Progressive, localized cellular degeneration concentrating heavily within the ventrolateral and polar sectors of the anterior temporal cortex",
+    "TDP-43 Type C Proteopathy: Abnormal accumulation of transactive response DNA-binding protein 43 aggregates, causing structural processing failures along the semantic hub networks"
+  ],
+  "risk_factors": [
+    "Genetic lineage carrying mutations in the GRN or MAPT code sectors",
+    "Primary progressive tauopathic or lobar micro-degenerative trends within the frontotemporal speech and memory corridors"
+  ],
+  "diagnosis": [
+    "The Category Fluency Depletion Test: Prompting the user to generate a list of unique names within a single class (e.g., 'Name 10 animals') and logging rapid data starvation",
+    "The Pyramids and Palm Trees Protocol: Presenting a target item (e.g., a pyramid) alongside two choices (e.g., a palm tree and a pine tree) and documenting an absolute failure to map structural relationships",
+    "Volumetric Coronal Brain MRI: Demonstrating pronounced, razor-sharp 'knife-edge' tissue loss isolated symmetrically or left-asymmetrically within the anterior temporal poles"
+  ],
+  "remedies": [
+    "Contextual Schema Shunting: Substituting missing nouns with functional, multi-word descriptive strings to bypass the corrupted index points",
+    "Multi-Sensory Prompt Augmentation: Utilizing tactile, auditory, and visual prompts simultaneously to attempt to pull residual relational data from surviving cortical sectors",
+    "Dynamic Communication Dashboards: Relying on explicit, static pictographic arrays to manage everyday operational commands before the verbal parsing layer completely flattens"
+  ],
+  "prevention": [
+    "No current structural hot-fixes exist to arrest progressive anterior temporal lobar collapse; management relies entirely on system-level compensation and external environment mirroring"
+  ]
+}
+
     }
     
 "alien_hand_rogue_thread_fault": {
