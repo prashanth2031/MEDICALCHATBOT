@@ -2458,6 +2458,39 @@ medical_db = {
     "Maintaining strong immune health",
     "Early treatment of symptoms"
   ]
+    "acoustic_packet_demodulation_fault": {
+  "description": "A severe ingress processing failure within the bilateral superior temporal gyri where the system's voice-parsing networks lose their acoustic demodulation capabilities, treating spoken language as an un-encoded stream of raw mechanical noise while leaving baseline environmental hearing and literacy fully operational.",
+  "symptoms": [
+    "Speech Decoding Abolition: Total inability to extract phonetic or linguistic structures from spoken human language streams, rendering speech entirely incomprehensible",
+    "Pristine Environmental Acoustic Parsing: Flawless capability to identify, categorize, and react to non-language environmental audio cues (e.g., sirens, music, animal sounds)",
+    "Intact Visual Language Compilation: Uncompromised ability to read text strings, write code, and comprehend visual linguistic assets without latency",
+    "Fluent Outbound Speech Transmission: Retained capability to generate and articulate spoken words with accurate grammar and syntax structures",
+    "Phonetic Self-Feedback Disconnection: Loss of the ability to monitor or decode one's own spoken output stream, though mechanical speech production runs clear"
+  ],
+  "causes": [
+    "Bilateral Temporal Middle Cerebral Artery (MCA) Infarctions: Sequential or concurrent embolic blockages wiping out both the left and right superior temporal gyri",
+    "Herpes Simplex Encephalitis Lesions: Acute, destructive necrotizing neuro-inflammatory paths targeting the lateral temporal neocortex structures",
+    "Deep-Seated Neoplastic Compression: High-pressure tumor formations invading the superior sylvian fissure margin lines"
+  ],
+  "risk_factors": [
+    "Cardioembolic sources (such as atrial fibrillation) capable of launching tandem embolic debris into the left and right middle cerebral vascular domains",
+    "High-impact temporal bone fractures shearing the lateral sub-cortical audio-routing bridges"
+  ],
+  "diagnosis": [
+    "The Sound vs. Word Discrimination Challenge: Asking the host to identify a ringing phone (passed successfully) vs. repeating a simple verbal command (failed instantly)",
+    "The Cross-Modal Ingress Inventory: Demonstrating a 0% score on auditory comprehension tests paired with a 100% score on visual reading comprehension tests",
+    "High-Density Auditory Evoked Potential (AEP) Tracking: Documenting normal wave patterns through the brainstem and primary cortex (Wave V/N100), paired with flat signal degradation over the secondary temporal fields"
+  ],
+  "remedies": [
+    "Visual Ingress Conversion Matrices: Forcing all communicative data streams into the visual bus using hand gestures, explicit writing blocks, or sign language arrays",
+    "Automated Speech-to-Text Mobile HUDs: Utilizing external micro-transceivers that listen to ambient speech, deserialize it, and cast it as real-time text strings across the visual viewport",
+    "Lip-Reading Lip-Sync Overlays: Training the visual pattern networks to monitor mouth articulation movements to reconstruct language context through alternative processing paths"
+  ],
+  "prevention": [
+    "Protecting the lateral sylvian vascular distribution networks from embolic cascades, treating acute temporal encephalitic profiles aggressively, and preserving cortical audio-decoding arrays"
+  ]
+}
+        
 },
 "proprioceptive_drift_desync": {
   "description": "The phenomenon where the perceived location of a limb shifts toward a visual proxy, resulting in a mismatch between the 'Internal Map' and 'Physical Hardware'.",
