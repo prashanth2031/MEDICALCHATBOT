@@ -408,6 +408,39 @@ medical_db = {
   "prevention": [
     "Maintaining tight control over neurochemical levels to prevent extreme signaling imbalances within the core scheduling infrastructure"
   ]
+   "motor_command_pipeline_de_indexing": {
+  "description": "A profound routing failure within the premotor cortex networks where the system retains full muscle strength and absolute conceptual knowledge of how to perform physical tasks, but cannot compile or map those thoughts into the correct physical sequence of motor vectors on volitional command.",
+  "symptoms": [
+    "Volitional Tool-Use Execution Blocks: Complete inability to coordinate the hands to execute precise, learned movements with objects (e.g., scissors, hammers, toothbrushes) on command",
+    "Conceptual Sequence Scrambling: Breakdown in the logical, step-by-step execution order of multi-stage mechanical operations (e.g., attempts to stamp an envelope before inserting the letter)",
+    "Preserved Automated Reflex Macros: Flawless mechanical coordination when executing spontaneous, reactive, or subconscious physical acts (e.g., catching an object thrown at the chassis)",
+    "Imitation Trajectory Stalls: Total failure to copy or mimic abstract geometric hand shapes or gestures made by an external operator, despite seeing them perfectly",
+    "Pristine Structural Motor Metrics: Absolute preservation of raw muscle force, physical tone, finger dexterity, and spinal reflex loops when evaluated outside of volitional tool tasks"
+  ],
+  "causes": [
+    "Dominant Hemisphere Parieto-Frontal Stroke: An ischemic event trailing the superior or inferior divisions of the left middle cerebral artery, destroying the premotor assembly nodes",
+    "Corticobasal Degeneration (CBD): Asymmetric, progressive tau-protein piling targeted directly within the supplementary motor networks and deep frontoparietal tracks",
+    "Focal Left Premotor Convexity Trauma: Direct kinetic impact causing cortical bruising and shearing along the high-level motor planning white-matter corridors"
+  ],
+  "risk_factors": [
+    "Severe left-hemisphere atherosclerotic narrowing or cardiac embolic cascades dropping debris into the primary speech/action programming sectors",
+    "Accelerated frontotemporal neurodegenerative pathways targeting complex learned praxis networks"
+  ],
+  "diagnosis": [
+    "The Intransitive Gesture Demonstration Challenge: Asking the host to show how to salute or wave goodbye on command, logging immediate spatial trajectory errors and execution delays",
+    "The Real Object Manipulation Assay: Handing a comb to the user and documenting a complete structural failure to map the item to the scalp correctly (e.g., using it upside down)",
+    "High-Resolution Diffusion Tensor Imaging (DTI): Mapping structural breakdown or fractional anisotropy reductions along the corpus callosum and frontoparietal white-matter fascicles"
+  ],
+  "remedies": [
+    "Contextual Proprioceptive Priming: Placing the physical tool directly into the user's hand within its exact real-world environment to leverage automatic, environmental stimulus-driven sub-routines",
+    "De-Extracted Step-by-Step Task Partitioning: Breaking down complex mechanical workloads into isolated, single-action commands to reduce the processing load on the sequential orchestration logs",
+    "Visual-Kinesthetic Prompt Interleaving: Utilizing step-by-step video playback frames or augmented reality overlays that demonstrate the movement vector immediately before the user copies it"
+  ],
+  "prevention": [
+    "Protecting the dominant hemisphere's strategic frontoparietal vascular architectures, monitoring structural motor track integrity, and preventing localized cortical volume loss"
+  ]
+}
+ 
 }
     
 "autoscopic_coordinate_transform_fault": {
