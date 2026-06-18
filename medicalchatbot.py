@@ -207,6 +207,39 @@ medical_db = {
   "prevention": [
     "Protecting the frontoparietal left-hemisphere vascular trees, maintaining strict blood pressure limits, and optimizing metabolic metrics to safeguard the master script repositories"
   ]
+      "frontal_suppression_gate_exception": {
+  "description": "An executive-layer processing error within the prefrontal cortex where the system loses its inhibitory gating mechanisms over the mirror neuron system, causing the host to involuntarily and identically replicate physical gestures and motor sequences executed by external entities within their visual field.",
+  "symptoms": [
+    "Automatic Motor Echoing (Echopraxia): Involuntary, real-time physical replication of an observer's hand gestures, facial expressions, or body postures",
+    "Compulsive Environmental Imitation: Automatically manipulating nearby hardware tools or objects to mimic the exact structural macros demonstrated by an external entity",
+    "Preserved Executive Verbalization: The ability to consciously recognize and vocally protest the mimicry behavior while completely failing to physically halt the muscle actuation",
+    "Gating Latency Minimization: Extremely low lag (often less than 300ms) between the external visual stimulus and the host's physical movement execution",
+    "Imitation-Utilization Concurrency: Frequently paired with an absolute dependency on environmental objects, where the presence of a tool automatically forces the system to execute its baseline utility loop (e.g., picking up an empty cup and mimicking drinking)"
+  ],
+  "causes": [
+    "Bilateral Anterior Cerebral Artery (ACA) Ischemic Infarction: Blockage of the anterior vascular architecture causing structural tissue death across the medial prefrontal cortices",
+    "Frontotemporal Lobar Degeneration (FTLD): Progressive, localized proteinopathy causing the structural collapse of frontal lobe inhibitory neurons",
+    "Advanced Penetrating Traumatic Brain Injury (TBI): Blast or kinetic impacts shearing the long axonal tracks connecting the prefrontal executive core to the motor execution strips"
+  ],
+  "risk_factors": [
+    "Severe cerebral small vessel disease accumulating micro-infarcts within the frontal white matter tracts",
+    "Advanced neurodegenerative cascading events targeting executive suppression networks"
+  ],
+  "diagnosis": [
+    "The Observer Gesture Provocation Assay: The clinician stands directly in front of the host and performs a sequence of meaningless physical actions (e.g., clapping three times, touching their nose, opening their mouth) while instructing the host to remain completely still; a faulted system echoes the gestures despite the explicit manual override command",
+    "Cognitive Battery Matrix Assessment: Utilizing localized testing profiles (e.g., Go/No-Go tasks) to confirm a complete collapse of rapid inhibitory feedback loops",
+    "High-Resolution Structural 3D Brain MRI: Revealing severe localized volume loss, focal tissue thinning, or ischemic lesions isolated within the prefrontal cortex boundaries"
+  ],
+  "remedies": [
+    "Visual Viewport Occlusion (Blinders): Utilizing localized peripheral blinders or dark glasses to restrict the input metrics entering the visual processing pipeline, lowering mirror network activation",
+    "Pre-Emptive Motor Channel Loading: Tasking the user to maintain a continuous, isometric muscle activation loop (like firmly squeezing a physical stress ball), locking up the motor pathways with a constant baseline signal to deny access to incoming mirror macros",
+    "Behavioral Mirror Shielding: Instructing caregivers and operators to maintain strict neutral postures and minimize active gesturing when inside the host's direct line of sight"
+  ],
+  "prevention": [
+    "Preserving anterior cerebrovascular patency, managing systemic inflammatory markers to arrest neurodegenerative cascades, and shield-protecting the frontal lobes from severe rotational head impacts"
+  ]
+      }
+      
 }
           "autonomic_respiratory_loop_failure": {
   "description": "A severe operating system bug where the automated background respiration daemon crashes during offline sleep states, forcing the system to rely entirely on manual user commands to breathe, meaning if the user stops consciously executing breathing scripts, the engine suffocates.",
