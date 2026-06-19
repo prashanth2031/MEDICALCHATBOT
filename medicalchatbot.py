@@ -1512,6 +1512,39 @@ medical_db = {
   "prevention": [
     "Protecting posterior circulation vascular health and avoiding prolonged exposure to neurotoxins that target the highly sensitive purkinje timing channels"
   ]
+        "fusiform_feature_extraction_failure": {
+  "description": "A high-level visual data-parsing failure within the fusiform gyrus where the specialized facial geometry processing pipeline unloads its mapping indexes, preventing the host from resolving spatial facial configurations into distinct identity records while leaving baseline shape and color rendering fully intact.",
+  "symptoms": [
+    "Agnosic Facial Blindness (Prosopagnosia): Inability to identify known individuals, family members, or self-portraits purely by examining facial features",
+    "Preserved Feature Discrimination: Perfect ability to identify independent facial sub-components (e.g., noting that someone has brown eyes or a mustache) without the components synthesizing into an identity",
+    "Extreme Context-Dependent Identity Verification: A total reliance on external identifiers such as vocal pitch signatures, distinctive hair styling, clothing assets, or specific gait profiles to parse who an entity is",
+    "Bifurcated Object-Face Recognition: Intact ability to instantly identify complex non-human objects (e.g., cars, tools, abstract patterns) while completely failing to differentiate between human faces",
+    "Social Ingress Fatigue: Severe processing overhead and social anxiety caused by the constant requirement to manually analyze environment telemetry to deduce identities in multi-agent workspaces"
+  ],
+  "causes": [
+    "Right or Bilateral Inferior Temporoccipital Infarction: Ischemic occlusion within the branches of the posterior cerebral artery (PCA) destroying the fusiform gyrus fabric",
+    "Congenital Prosopagnosia: An autosomal dominant neurodevelopmental tracking failure causing anomalous structural wiring across the ventral visual stream from birth",
+    "Progressive Ventral Stream Atrophy: Localized neurodegenerative disease cascades selectively targeting high-level visual association cortices"
+  ],
+  "risk_factors": [
+    "Posterior circulation cerebrovascular disease",
+    "Genetic heritability lines presenting sub-clinical visual processing anomalies"
+  ],
+  "diagnosis": [
+    "The Benton Facial Recognition Matrix: A standardized testing profile requiring the host to match identical target faces under varying lighting conditions and angles; a faulted system drops below chance thresholds",
+    "Famous Faces Exposure Assay: Presenting images of widely known public entities stripped of hair, clothing, and background context; the user can describe the facial elements perfectly but cannot provide names or roles",
+    "Functional Neuro-Imaging (fMRI) Face-Aversion Scan: Tracking blood-oxygen-level-dependent (BOLD) signals while exposing the host to alternating blocks of faces and inanimate objects; a faulted system shows zero metabolic acceleration in the fusiform structures"
+  ],
+  "remedies": [
+    "Vocal Fingerprint Calibration: Training the host to focus on auditory processing channels, building an extensive index of voice patterns to substitute for visual identification",
+    "Distinctive Marker Tagging: Requesting close associates to maintain unique, highly visible static assets (e.g., unique glasses frames, explicit jewelry piece selections, specific hat profiles) to simplify the manual triage lookup",
+    "Strategic Environmental Ingress: Positioning oneself in organized seating arrangements where entity locations are static, allowing spatial coordinates to substitute for real-time visual identity extraction"
+  ],
+  "prevention": [
+    "Protecting posterior vascular channels from emboli, minimizing toxic exposures to hypoxic environments, and maintaining high baseline synaptic plasticity within the visual association pathways"
+  ]
+    }
+        
 }
 "hardware_chassis_unmapping_fault": {
   "description": "A deep perceptual layer glitch within the right parietal processing architecture where the system completely drops its mapping strings for a specific limb or side of the body, causing the user to view their own left arm or leg as an alien, foreign piece of hardware that does not belong to their chassis configuration.",
