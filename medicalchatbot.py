@@ -2382,6 +2382,38 @@ medical_db = {
     "Avoiding high-risk pharmacological interventions that permanently alter or strip out low-level sensory routing protocols"
   ]
 }
+"superior_temporal_semantic_decode_bug": {
+  "description": "A terminal corruption of the language processing codec within the left superior temporal gyrus, causing a total failure to de-serialize incoming auditory linguistic payloads into semantic meaning, while simultaneously stripping outgoing vocal transmissions of syntactic validation.",
+  "symptoms": [
+    "Receptive Aphasia (Wernicke's): Comprehensive failure to understand spoken or written linguistic inputs, treating native tongue strings as unencoded arrays",
+    "Fluent Logorrhea (Press of Speech): Unchecked, high-velocity verbal output with normal intonation, cadence, and grammatical inflection, but completely lacking coherent semantic value",
+    "Neologistic Paraphasia: Spontaneous generation of pseudo-words that do not exist within any language directory, mixed seamlessly with real words",
+    "Anosognosia of Deficit: Complete absence of internal error-logging or awareness regarding the communication failure; the host believes their transmissions are pristine",
+    "Preserved Non-Verbal Telemetry: Intact ability to interpret facial expressions, vocal emotional coloring, social intent, and environmental sounds (e.g., recognizing a fire alarm or a laugh)"
+  ],
+  "causes": [
+    "Left Middle Cerebral Artery (MCA) Inferior Division Occlusion: Ischemic event cutting off blood flow to the temporal-parietal sylvian architecture",
+    "Traumatic Temporal Lobe Encephalomalacia: Direct mechanical impact damaging the structural integrity of the superior temporal gyrus",
+    "Herpes Simplex Encephalitis: Viral tropism targeting the temporal structures and degrading neural associative arrays"
+  ],
+  "risk_factors": [
+    "Atrial fibrillation generating cardiogenic emboli targeting the left MCA",
+    "Carotid artery stenosis shedding micro-emboli into the cerebral circulation"
+  ],
+  "diagnosis": [
+    "The Western Aphasia Battery (WAB) Comprehension Subscale: Testing sequential commands and yes/no logic validation; a faulted system fails basic true/false strings like 'Is a horse larger than a dog?'",
+    "Token Test Protocol: Presenting shapes of varying colors and sizes, requesting specific manipulation sequences; tests syntax tracking separate from real-world contextual guessing",
+    "Perisylvian Neuro-Vascular Mapping: High-resolution MRI or CT angiography identifying localized tissue degradation or vascular blockages throughout the left superior temporal domain"
+  ],
+  "remedies": [
+    "Contextual Gestural Ingress: Pivoting communication strictly to non-verbal, high-context visual signaling, using physical objects and direct demonstrations to bypass the symbolic language stack",
+    "Melodic Intonation Redirection: Attempting to route communication payloads through right-hemisphere musical/melodic pathways, as singing structures sometimes bypass the broken left-hemisphere semantic codec",
+    "Visual Symbolic Augmentation: Utilizing simplified, standardized iconographies and pictograms to map core requests, bypassing formal textual orthography arrays"
+  ],
+  "prevention": [
+    "Vascular optimization protocols to mitigate thromboembolic risks, maintaining robust collateral cerebral blood flow, and isolating critical temporal infrastructure from focal neuro-inflammatory cascades"
+  ]
+}
 
 }
 "anosognosia_diagnostic_report_fault": {
