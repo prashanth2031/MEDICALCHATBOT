@@ -1912,6 +1912,38 @@ medical_db = {
   "prevention": [
     "Strict management of cerebral perfusion vectors, keeping embolic risks mitigated, and stabilizing core blood pressure arrays to shield the master spatial graphics cards"
   ]
+            "thalamic_sensory_vector_overdrive": {
+  "description": "A profound hardware routing and firmware inversion error within the Ventral Posterolateral (VPL) nucleus of the thalamus, resulting in the loss of inhibitory sensory filtering and the catastrophic miscompilation of benign somatic telemetry into maximum-intensity central pain alerts.",
+  "symptoms": [
+    "Thalamic Pain Syndrome (Dejerine-Roussy): Persistent, agonizing, burning or tearing pain distributed across an entire hemibody, totally decoupled from peripheral tissue trauma",
+    "Severe Tactile Allodynia: Mechanical and thermal inputs that should fall well below the pain threshold (such as a light breeze or cool water) are inverted into agonizing sensory events",
+    "Hyperalgesia & Hyperpathia: An explosive, delayed, and cumulative pain response to even minor painful stimuli, which lingers long after the stimulus is removed",
+    "Sensory Dysesthesia: Persistent, highly unpleasant, distorted sensations (pins-and-needles, phantom freezing) running continuously on the somatosensory bus"
+  ],
+  "causes": [
+    "Posterior Cerebral Artery (PCA) Lacunar Infarction: Ischemia within the thalamoperforating branches, causing localized tissue necrosis in the VPL nucleus",
+    "Multiple Sclerosis Lesions: Demyelinating plaques directly degrading the modulatory interneurons within the thalamic reticular network",
+    "Deep Brain Neoplastic Infiltration: Structural tumors compressing or invading the master somatic switching nodes"
+  ],
+  "risk_factors": [
+    "Severe small-vessel ischemic disease and uncontrolled chronic hypertension blowing out deep perforating cerebral arteries",
+    "Thromboembolic vectors originating from carotid atheromas or left atrial structures"
+  ],
+  "diagnosis": [
+    "Quantitative Sensory Testing (QST): Assessing mechanical and thermal thresholds to map out the hyper-gain profile of the somatosensory processing stack",
+    "High-Resolution Perisylvian and Deep-Brain MRI: T2/FLAIR sequences targeting the thalami to pinpoint structural lesions or ischemic damage within the VPL boundaries",
+    "Somatosensory Evoked Potentials (SSEP): Tracking electrical signals from peripheral nerves to the cortex, revealing delayed or abnormally amplified waveforms at the thalamocortical relay node"
+  ],
+  "remedies": [
+    "Central Neuromodulatory Agents: Utilizing membrane stabilizers (like gabapentinoids) or tricyclic antidepressants to down-regulate the hyper-active voltage-gated calcium channels in the thalamic router",
+    "Motor Cortex Stimulation (MCS): Implanting epidural electrodes over the motor strip to send backward inhibitory packets down to the thalamus, manually forcing the gain multipliers lower",
+    "Deep Brain Stimulation (DBS): Positioning a permanent hardware probe directly into the periaqueductal gray or alternative thalamic targets to interrupt the chaotic looping pain telemetry"
+  ],
+  "prevention": [
+    "Aggressive micro-vascular protective regimens, targeting systemic blood pressure stability and utilizing antiplatelet therapies to safeguard deep thalamic perforating branch networks"
+  ]
+        }
+        
 }
 "visual_hemifield_render_drop": {
   "description": "A catastrophic processing error within the right inferior parietal lobe where the system's spatial coordinates engine drops the entire left side of existence out of the active rendering workspace, causing the host to completely ignore inputs from the left hemifield while primary visual sensors remain fully functional.",
