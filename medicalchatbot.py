@@ -2446,6 +2446,39 @@ medical_db = {
   "prevention": [
     "Maintaining stable, long-term neurochemical balancing protocols and avoiding sudden, un-mitigated drops in core synaptic transmission voltages"
   ]
+        "suprachiasmatic_master_daemon_desync": {
+  "description": "A severe chronobiological coordination failure where the master pacemaker of the hypothalamus loses its entrainment link to external light cues, forcing the sleep-wake cycle and underlying metabolic subroutines into an unanchored, free-running period that continuously drifts forward against standard solar time.",
+  "symptoms": [
+    "Free-Running Circadian Drifts: A predictable, systematic shift of the subjective night and day windows by 15 to 30 minutes later every 24-hour cycle",
+    "Periodic Retraction Insomnia: Intense periods where sleep onset is completely blocked during conventional night hours because the internal clock is in an active wake phase",
+    "Exogenous Somnolence Waves: Overwhelming daytime exhaustion events caused by the forced suppression of a biological sleep cycle during solar daytime",
+    "Visceral Desynchronization: Chronic digestive irregularities, temperature regulation instability, and erratic cortisol rhythms as secondary organ clocks fall out of phase",
+    "Cognitive Processing Degradation: Recurrent performance troughs, memory recall failures, and emotional volatility when external work demands force execution during the biological night"
+  ],
+  "causes": [
+    "Total Visual Sensory Disconnection: Total blindness completely severing light perception through the retinohypothalamic tract, denying the SCN its daily NTP synchronization packets",
+    "Genetic Clock-Gene Transcription Mutations: Structural mutations in the core transcription-translation feedback loops (such as CLOCK, BMAL1, PER, or CRY proteins) altering baseline molecular oscillator velocity",
+    "Severe Neurological Lesions: Traumatic, neoplastic, or vascular degradation directly undermining the structural integrity of the suprachiasmatic hypothalamic core"
+  ],
+  "risk_factors": [
+    "Absolute loss of light perception due to ocular trauma or bilateral enucleation",
+    "Extreme isolation environments completely devoid of stable, high-intensity blue-light telemetry and consistent social zeitgebers"
+  ],
+  "diagnosis": [
+    "Multi-Week Actigraphy Mapping: Wearing an acceleration-tracking wrist sensor for 4 to 8 weeks to plot an uninterrupted diagonal drift of sleep-wake blocks across successive days",
+    "Serial Dim-Light Melatonin Onset (DLMO) Assay: Collecting saliva or plasma samples every hour in a darkened room to chart the daily chronological delay in the onset of natural melatonin release",
+    "Continuous Core Temperature Monitoring: Logging basal temperature trends over multiple weeks to track the steady, unguided drift of the early morning temperature nadir"
+  ],
+  "remedies": [
+    "Exogenous Melatonin Chrono-Targeting: Administering high-affinity melatonin receptor agonists at precisely calculated intervals to mimic an artificial sunset signal, dragging the unanchored SCN back into a 24-hour cycle",
+    "High-Intensity Blue Photonic Ingress (Sighted Hosts): Exposing the retina to 10,000 lux of specialized blue-spectrum light at the absolute peak of the internal clock's morning phase to force a hard reset of the molecular clock wheels",
+    "Rigid Social and Behavioral Zeitgebers: Implementing strict, unwavering schedules for physical activity, meal consumption, and cognitive engagement to anchor peripheral body clocks through non-photic pathways"
+  ],
+  "prevention": [
+    "Preserving neural integrity within the optico-hypothalamic pathways and maintaining consistent exposure to high-contrast natural light/dark cycles"
+  ]
+    }
+        
 }
 "peripheral_sensory_crosstalk": {
   "description": "A fascinating routing fault where the isolation barriers between primary sensory ingestion buses breakdown, causing the system to route audio telemetry straight into the graphics card rendering engine, forcing the user to visually see colors and geometric structures generated purely by environmental sounds.",
