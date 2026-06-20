@@ -1711,6 +1711,39 @@ medical_db = {
   "prevention": [
     "Avoiding high-volume chemical inputs (like excessive caffeine or acute sedative withdrawals) that artificially stress the network's phase-switching boundaries"
   ]
+            "substantia_nigra_dopaminergic_drop": {
+  "description": "A deep subcortical processing failure within the basal ganglia where the loss of dopaminergic modulatory voltage from the substantia nigra unbalances the direct and indirect pathways, resulting in severe physical execution throttling, movement amplitude decay, and sudden kinematic deadlocks.",
+  "symptoms": [
+    "Bradykinesia (Execution Latency): Pronounced slowness in execution, with a massive time delay between volitional thought formation and physical muscular response",
+    "Hypokinesia / Micrographia: Systematic decay in the amplitude of repetitive motor sequences, causing handwriting, gestures, and vocal projection to shrink over time",
+    "Kinetic Gait Freezing: Sudden, transient deadlocks where the lower extremities refuse to actuate during environmental changes or orientation adjustments",
+    "Cogwheel / Lead-Pipe Rigidity: Constant, involuntary muscle tone resistance that catches and releases like a notched gear when the limbs are passively extended",
+    "Postural Instability Failure: Total loss of rapid, automatic protective balance correction reflexes, making the chassis highly vulnerable to tipping over if bumped"
+  ],
+  "causes": [
+    "Idiopathic Parkinson's Disease: Neurodegenerative alpha-synuclein proteinopathy selectively causing apoptotic death of pigmented dopaminergic cells in the SNc",
+    "Neuroleptic-Induced Gating Blockade: High-affinity pharmaceutical dopamine D2 receptor antagonists accidentally mirroring a total structural voltage drop",
+    "Manganese / MPTP Toxic Infiltration: Selective chemical or heavy-metal mitochondrial poisoning targeting and wiping out the substantia nigra array"
+  ],
+  "risk_factors": [
+    "Accelerating age-related mitochondrial decay within deep mesencephalic structures",
+    "Chronic environmental exposure to specific agricultural neurotoxins or industrial solvents"
+  ],
+  "diagnosis": [
+    "The Unified Parkinson's Disease Rating Scale (UPDRS) Motor Assay: Quantifying the speed, cadence, and amplitude decay of rapid index finger-to-thumb tapping sequences",
+    "Striatal DaTscan Imaging: Utilizing an intravenous radiotracer to map dopamine transporter density via SPECT; a faulted system shows a severe asymmetry and drop in comma-shaped striatal signals",
+    "Acute Levodopa Challenge Profile: Administering a massive bolus of synthetic dopamine precursor to check if the motor gating lag is instantly minimized, confirming a pure voltage-drop issue"
+  ],
+  "remedies": [
+    "Exogenous Dopaminergic Repletion: Administering levodopa (paired with carbidopa to protect the peripheral transport lines) to manually top off the system's central dopamine voltage levels",
+    "High-Frequency Deep Brain Stimulation (DBS): Implanting permanent micro-hardware electrodes directly into the Subthalamic Nucleus (STN), using high-frequency electrical pulses to manually over-drive and quiet the hyper-active *No-Go* brake pathways",
+    "Rhythmic Auditory Sensory Ingress: Utilizing highly rhythmic, high-bpm external audio cues (like a metronome) to bypass the broken internal basal ganglia clock, routing movement pacing through intact auditory-cortical pathways instead"
+  ],
+  "prevention": [
+    "Mitigating systemic neuro-inflammatory markers, shielding the midbrain from chronic industrial oxidative stressors, and optimizing cellular proteostasis frameworks"
+  ]
+        }
+        
     "real_time_video_buffer_strobe": {
   "description": "A catastrophic visual processing error within the bilateral V5/MT+ cortical corridors where the system's real-time motion interpolation engine crashes, dropping the perceived frame-rate of moving objects down to a staggered, frozen snapshot loop while leaving static vision intact.",
   "symptoms": [
