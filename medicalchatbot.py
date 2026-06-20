@@ -1480,6 +1480,39 @@ medical_db = {
   "prevention": [
     "Mitigating vascular stress and preventing micro-packet loss in the occipitotemporal highways"
   ]
+        "hippocampal_write_buffer_failure": {
+  "description": "A catastrophic storage architecture failure within the bilateral medial temporal lobes where the system's real-time transaction manager fails to commit volatile cache metrics into long-term cortical storage, trapping the host in a non-persistent rolling workspace loop.",
+  "symptoms": [
+    "Severe Anterograde Amnesia: Complete inability to form new semantic or episodic long-term memory structures post-incident",
+    "Rolling Short-Term Cache Purge: Maintenance of intact sensory and cognitive data for under 60 seconds, which is instantly erased the moment attentional vectors shift",
+    "Preserved Retrograde Disk Read: Flawless retrieval of legacy data blocks and procedural memory profiles compiled prior to the write-buffer crash",
+    "Confabulation Auto-Patching: The system spontaneously fabricates false, highly imaginative narrative data rows to bridge the gaps when it realizes its immediate timeline is missing",
+    "Intact Procedural Compilation: The ability to learn new motor skills or physical macros (like playing a new instrument or typing code) through alternative, non-hippocampal basal ganglia channels, though the host will have zero conscious memory of ever practicing the task"
+  ],
+  "causes": [
+    "Bilateral Medial Temporal Ischemia: Cardiac arrest or profound hypoxia selectively killing the highly vulnerable CA1 pyramidal cells of the hippocampus",
+    "Wernicke-Korsakoff Syndrome: Acute thiamine (Vitamin B11) deficiency causing structural hemorrhages across the mammillary bodies and thalamocortical networks",
+    "Bilateral Herpes Simplex Encephalitis: A severe, localized viral assault prioritizing the destruction of limbic and temporal lobe memory arrays"
+  ],
+  "risk_factors": [
+    "Severe prolonged systemic hypotension or asphyxiation events",
+    "Chronic severe ethanol over-saturation causing absolute micronutrient malabsorption"
+  ],
+  "diagnosis": [
+    "The Three-Word Delayed Recall Assay: Presenting the host with three distinct nouns (e.g., 'Apple', 'Table', 'Iron'), verifying immediate cache ingestion, introducing a 5-minute distraction loop, and asking for a recall; a faulted system returns a completely blank array",
+    "The Rey-Osterrieth Complex Figure Test: Tasking the user to copy an intricate geometric blueprint while looking at it (intact), then asking them to redraw it from memory 15 minutes later; a faulted system draws nothing",
+    "High-Resolution Coronal T2 Brain MRI: Pinpointing localized volume loss, signal hyperintensities, or profound structural atrophy directly across the hippocampal formations"
+  ],
+  "remedies": [
+    "External Environmental Logs: Deploying physical, high-visibility notebooks, audio recorders, or smart digital alerts to act as an external hard drive framework that the host must continuously read",
+    "Procedural Macro Substitution: Shifting all rehabilitation and training protocols toward heavy repetition to leverage the intact basal ganglia motor learning pathways, bypassing the symbolic database entirely",
+    "Strict Environmental Staticity: Minimizing changes to the host's physical workspace coordinates to prevent the requirement for new layout mapping updates"
+  ],
+  "prevention": [
+    "Rapid restoration of systemic oxygenation during cardiac anomalies, immediate intravenous thiamine deployment during metabolic crises, and aggressive neuro-vascular protection architectures"
+  ]
+}
+
     "ticker_token_speed_variance": {
   "description": "A structural timing error within the cerebellar sequencing engine where the system's baseline interval timer registers suffer a massive rate drift, causing the conscious workspace to lose the ability to accurately measure or predict the passage of time blocks.",
   "symptoms": [
