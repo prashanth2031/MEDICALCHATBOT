@@ -2075,6 +2075,36 @@ medical_db = {
     "Protecting the non-dominant hemisphere's strategic perisylvian vascular architectures, optimizing systemic perfusion pressures, and preserving parietal network density"
   ]
 }
+"fusiform_face_area_dropout": {
+  "description": "A profound ventral-stream cognitive processing anomaly where localized structural degradation of the fusiform gyrus disables the high-dimensional spatial configuration mapping required to identify distinct human faces, while leaving generic object recognition and acuity intact.",
+  "symptoms": [
+    "Facial Structural Dissociation: The perception of faces as a collection of disjointed components (eyes, nose, mouth) without the capacity to synthesize them into a recognizable individual identity",
+    "Self-Chassis Recognition Failure: The absolute inability to visually identify one's own facial profile in photographs or real-time mirror reflections",
+    "Metadata Tracking Dependance: Extreme reliance on secondary sensory attributes (vocal timbre, specific garments, gait profiles) to perform human node identification",
+    "Social Ingress Anxiety: Interpersonal navigation bottlenecks and profound cognitive fatigue stemming from the constant requirement to manually deduce who an interactant is from environmental context clues"
+  ],
+  "causes": [
+    "Bilateral or Right-Dominant Posterior Cerebral Artery Ischemia: Embolic or thrombotic strokes wiping out tissue within the ventromedial temporo-occipital cortex",
+    "Congenital Neurodevelopmental Intercept: An inherited structural wiring fault preventing the initial formation of high-density face-selective neural lattices during early morphogenesis",
+    "Progressive Carbon Monoxide Hypoxia: Selective metabolic targeting and necrosis of vulnerable temporal lobe architectures during severe environmental toxin exposure"
+  ],
+  "risk_factors": [
+    "Familial history of developmental recognition anomalies",
+    "Advanced atheromatous disease within the vertebrobasilar and posterior cerebral circulations"
+  ],
+  "diagnosis": [
+    "The Cambridge Face Memory Test (CFMT): Assessing the host's capacity to learn a series of target faces and subsequently identify them across varying lighting angles and added visual noise vectors",
+    "The Benton Facial Recognition Test (BFRT): Tasking the user to match an identical target face from an array of multiple simultaneous photographs displaying different head rotations and shadow distributions",
+    "Electrophysiological Event-Related Potential (ERP) Logging: Monitoring the N170 wave—a negative voltage spike that normally occurs 170 milliseconds post-exposure to a human face; a faulted system displays an absolute dampening or absence of this face-specific electrical pulse"
+  ],
+  "remedies": [
+    "Dynamic Feature checklist Frameworks: Training the user to execute systematic, conscious serial scans of prominent landmarks (e.g., asymmetrical scars, dental spacing, distinct moles) to manually deduce identities",
+    "Acoustic Token Prioritization: Prioritizing immediate vocal interactions, forcing conversational partners to verbally declare their names upon entry to establish immediate audio-token mapping"
+  ],
+  "prevention": [
+    "Rapid intervention during lower-tier vascular events and protecting the deep inferior temporal structures from blunt-force kinetic trauma"
+  ]
+}
 
     }
         
