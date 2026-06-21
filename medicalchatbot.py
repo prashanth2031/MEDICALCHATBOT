@@ -4207,6 +4207,37 @@ medical_db = {
   "prevention": [
     "Aggressive management of cardioembolic risks and prompt thrombolytic or thrombectomy intervention during acute right-hemisphere stroke windows to salvage the spatial indexing core"
   ]
+    "v5_motion_telemetry_dropout": {
+  "description": "A profound neuropsychological rendering failure where bilateral focal lesions or transient metabolic uncoupling within the V5/MT cortical complex completely destroys the capacity to perceive spatial motion, leaving object recognition and structural acuity entirely unaffected.",
+  "symptoms": [
+    "Stroboscopic Visual Sampling: The perception of the physical environment as a series of static, discontinuous snapshot captures that refresh at irregular, low-frequency intervals",
+    "Velocity Boundary Failures: Complete inability to estimate the velocity, acceleration, or arrival vectors of moving objects, rendering spatial navigation through active environments hazardous",
+    "Fluid Volume Overruns: Persistent structural failure in tracking dynamic fluid interfaces during simple manual operations, resulting in regular volumetric overpours",
+    "Motion-Induced Disorientation: Acute systemic nausea, vertigo, and cognitive distress triggered when large swathes of the visual background shift without matching velocity registers in the vestibular array"
+  ],
+  "causes": [
+    "Bilateral Middle Cerebral Artery Infarction: Ischemic strokes targeting the lateral temporo-occipital boundary zones, wiping out the local V5 cortical tissue",
+    "High-Dose Topiramate or Transmit-Blocker Toxicity: Acute neurochemical dampening of GABAergic/Glutamatergic balances that stabilize directional selectivity in deep cortical layers",
+    "Focal Penetrating Traumatic Brain Injury: Direct kinetic damage to the posterior-lateral cranium compromising structural dorsal-stream processing tracts"
+  ],
+  "risk_factors": [
+    "Bilateral neurovascular disease affecting the posterior watershed zones",
+    "Neoplastic space-occupying lesions encroaching on the structural parieto-occipital junction"
+  ],
+  "diagnosis": [
+    "Dynamic Random-Dot Kinematogram Assays: Presenting fields of moving graphical pixels with varying degrees of systemic coherence to test if the host can detect structural vector trends",
+    "Apparent Motion Threshold Evaluations: Tracking the host's capacity to differentiate between an object genuinely moving through space versus one being flashed at discrete, alternating coordinates",
+    "Functional Neuroimaging (fMRI / PET): Exposing the host to moving visual stimuli while monitoring for a total absence of metabolic or blood-oxygen-level-dependent (BOLD) activation in the lateral occipital sulcus"
+  ],
+  "remedies": [
+    "Cross-Modality Telemetry Substitution: Training the system to parse acoustic spatial patterns and ambient echo variations to dynamically infer vector speed calculations",
+    "Saccadic Frame Gating Protocols: Instructing the host to execute deliberate, manual eye blinks or swift micro-saccades to intentionally sync environmental changes to manual refresh prompts"
+  ],
+  "prevention": [
+    "Expedient clinical management of posterior vascular events and careful regulation of anticonvulsant dosages to avoid unexpected visual cortex signaling suppression"
+  ]
+}
+    
 }
 
 "mirror_touch_system_bleed": {
