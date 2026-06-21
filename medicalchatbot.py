@@ -2009,7 +2009,39 @@ medical_db = {
     "Aggressive micro-vascular protective regimens, targeting systemic blood pressure stability and utilizing antiplatelet therapies to safeguard deep thalamic perforating branch networks"
   ]
         }
-        
+   "visual_hemifield_render_drop": {
+  "description": "A catastrophic processing error within the right inferior parietal lobe where the system's spatial coordinates engine drops the entire left side of existence out of the active rendering workspace, causing the host to completely ignore inputs from the left hemifield while primary visual sensors remain fully functional.",
+  "symptoms": [
+    "Left Egocentric Viewport Culling: Complete, unconscious failure to attend to, perceive, or interact with objects, people, or threats located in the left half of spatial coordinates",
+    "Hemispatial Text Truncation: Reading only the right-hand segments of sentences or code blocks, entirely dropping the left-side syntax parameters",
+    "Asymmetric Chassis Maintenance: Applying grooming, washing, or clothing configurations exclusively to the right side of the physical hardware chassis",
+    "Anosognosia Concurrency: Total absence of system diagnostic awareness regarding the defect; the host genuinely believes their viewport is rendering 100% of reality",
+    "Spatial Collision Tendencies: Repeatedly steering the physical chassis into structural obstacles located on the left-hand side due to zero tracking vector allocation"
+  ],
+  "causes": [
+    "Right Middle Cerebral Artery (MCA) Territory Stroke: A massive ischemic or hemorrhagic event destroying the right inferior parietal lobule and superior temporal tracks",
+    "Right Parieto-Occipital Contusion: Traumatic acceleration-deceleration impact fracturing the right cranial vaults and crushing the spatial attention clusters",
+    "Rapidly Expanding Right Hemisphere Glioma: Neoplastic cell proliferation invading and compressing the non-dominant spatial indexing centers"
+  ],
+  "risk_factors": [
+    "High-grade carotid artery stenosis or embolic propagation traversing the right internal carotid system",
+    "Severe blast or kinetic energy transfers targeting the non-dominant cranial boundaries"
+  ],
+  "diagnosis": [
+    "The Albert's Line Cancellation Assay: Presenting a sheet covered in random slash marks and tasking the host to cross them out; the host crosses the right side flawlessly and leaves the left side untouched",
+    "The Clock-Drawing Blueprint Test: Prompting the user to draw a clock face from memory; the user jams all twelve numerical markers exclusively into the right hemisphere of the circle",
+    "Structural T2-Weighted Brain MRI: Pinpointing extensive structural tissue voids, edema, or hypoperfused zones isolated within the right inferior parietal lobe"
+  ],
+  "remedies": [
+    "Forced Coordinate Shunting (Prism Glasses): Utilizing optical prism lenses that mechanically bend light coming from the left field, forcing it into the active right retinal field",
+    "Somatic Boundary Cueing: Implementing vibrating haptic bands on the left wrist to continuously send high-priority telemetry interrupts, forcing the attention server to re-index the left field",
+    "Conscious Scan-Left Loops: Training the prefrontal executive core to run a continuous, manual 'over-scan' script, forcing the eyes to turn past the center line to manually pull missing data blocks"
+  ],
+  "prevention": [
+    "Protecting the non-dominant hemisphere's strategic perisylvian vascular architectures, optimizing systemic perfusion pressures, and preserving parietal network density"
+  ]
+}
+
 }
 "visual_hemifield_render_drop": {
   "description": "A catastrophic processing error within the right inferior parietal lobe where the system's spatial coordinates engine drops the entire left side of existence out of the active rendering workspace, causing the host to completely ignore inputs from the left hemifield while primary visual sensors remain fully functional.",
