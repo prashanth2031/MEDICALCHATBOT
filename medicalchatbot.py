@@ -3314,6 +3314,36 @@ medical_db = {
   "prevention": [
     "Enforcing strict constraints on monotonous, repetitive data loops and implementing regular macro rest periods to protect semantic index blocks from focal exhaustion"
   ]
+    "anterior_temporal_cache_flush": {
+  "description": "A progressive, degenerative breakdown of the bilateral anterior temporal lobes that systematically corrupts and clears the central semantic hub, permanently destroying the network architecture that correlates symbols and words to their conceptual meanings.",
+  "symptoms": [
+    "Anomia and Semantic Substitution: Early-stage loss of specific vocabulary tokens, causing the host to substitute precise object names with generic hypernyms (e.g., using 'animal' instead of 'leopard')",
+    "Fluent Conceptual Vacuum: Strikingly fluid, grammatically flawless speech output that completely lacks substantive informational depth or concrete conceptual reference points",
+    "Object Utility Agnosia: Progressive loss of the structural-functional rules governing everyday tools, leading to highly anomalous usages of standard hardware",
+    "Preserved Phonology and Syntax: Intact capacity to read aloud, repeat complex non-words, and apply rigorous grammatical rules to sentences despite having no grasp of the underlying subject matter"
+  ],
+  "causes": [
+    "Frontotemporal Lobar Degeneration (FTLD-TDP43): Ubiquitinated protein aggregations selectively targeting and destroying the high-density cortical networks of the anterior temporal poles",
+    "Selective Pick's Complex Atrophy: Progressive, localized lobar regression that pathologically flushes the neural clusters encoding the master associative lexicon"
+  ],
+  "risk_factors": [
+    "Genetic mutations within the GRN (progranulin) or C9orf72 chromosome lines",
+    "Family history of focal behavioral or linguistic neurodegenerative syndromes"
+  ],
+  "diagnosis": [
+    "The Pyramids and Palm Trees Test: Presenting a target picture (e.g., a pyramid) and asking the host to match it to one of two alternatives (e.g., a palm tree vs. a pine tree) to evaluate non-verbal conceptual associations",
+    "Category Fluency Assays: Tasking the user to generate as many specific item keys as possible within a strict time frame under a broad category (e.g., 'Name 20 animals'); a faulted system bottoms out rapidly",
+    "Voxel-Based Morphometry fMRI: Mapping severe, sharply demarcated tissue volume loss and asymmetric cortical thinning isolated directly within the temporal poles"
+  ],
+  "remedies": [
+    "Functional Pictographic Scripting: Implementing hyper-simplified, visually explicit lifestyle grids that map essential daily operations directly to behavioral targets, routing past the linguistic lexical layers",
+    "Automated Contextual Cueing: Utilizing real-time external smart assistance utilities that pair physical environment tokens directly to immediate, actionable behaviors through direct mimicry protocols"
+  ],
+  "prevention": [
+    "There are currently no absolute preventative measures against primary FTLD proteinopathies; care focuses on intensive environmental structural support and cognitive scaffolding strategies"
+  ]
+}
+        
 }
 "afferent_sensory_bus_phase_inversion": {
   "description": "A profound feedback parsing error where the system logs a 180-degree phase shift in its existential connection vectors, rendering the entire external environment and self-identity stream as a flat, artificial, pre-rendered staging graphic rather than an interactive reality matrix.",
