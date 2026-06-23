@@ -142,6 +142,37 @@ medical_db = {
   "prevention": [
     "Immediate management of cerebral oxygenation profiles during medical emergencies to protect the ultra-sensitive storage controller nodes from irreversible ischemic decay"
   ]
+            "left_parietal_somatic_map_wipe": {
+  "description": "A profound somatosensory processing failure where structural damage to the dominant posterior parietal cortex obliterates the internal body-schema database, leaving the system completely unable to localize, differentiate, or orient the distinct structural components of its own chassis.",
+  "symptoms": [
+    "Autotopagnosia: Absolute inability to localize or point to specific body parts upon verbal or visual command, despite intact motor mechanics",
+    "Spatial Contiguity Drift: A systematic error where attempts to target a specific hardware component result in touching adjacent or structurally contiguous parts of the same limb",
+    "Somatognostic Dissociation: A deep cognitive disconnect where the host can conceptually define a body part's utility but cannot map that utility to their personal physical architecture",
+    "Intact External Vector Routing: Perfect spatial accuracy when interacting with external objects or environmental boundaries, contrasted against total failure during self-directed movements"
+  ],
+  "causes": [
+    "Left Middle Cerebral Artery (MCA) Ischemic Event: Occlusion of the angular or posterior parietal branches causing tissue death in the dominant somatosensory association zones",
+    "Focal Cortical Atrophy: Localized neurodegenerative patterns selectively clearing the neural networks that encode the internal spatial topology map",
+    "Midline Parietal Trauma: Penetrating or blunt-force kinetic impacts causing structural disruption of the structural orientation loops"
+  ],
+  "risk_factors": [
+    "Severe carotid artery atheromatous plaque formation channeling embolic debris into the dominant hemisphere's vascular tree",
+    "Chronic uncontrolled systemic hypertension degrading small-vessel compliance within cortical watersheds"
+  ],
+  "diagnosis": [
+    "The Point-to-Body Localization Assay: Issuing rapid, alternating verbal prompts demanding the host target specific anatomical nodes with their eyes closed to verify structural pointer resolution",
+    "The Structural Body Model Matching Test: Asking the host to assemble a disassembled puzzle or diagram of human body parts; a faulted system fails to map structural relationships correctly",
+    "High-Resolution T2-Weighted FLAIR MRI: Visualizing clear hyperintensities, cortical thinning, or localized encephalomalacia localized within the dominant angular gyrus"
+  ],
+  "remedies": [
+    "External Visual Guidance Overrides: Training the host to perform tasks in front of a mirror, using external visual feedback streams to manually recalculate limb locations and bypass the missing internal schema",
+    "Tactile Landmark Anchor Points: Placing high-contrast or uniquely textured physical markers (like rough tape bands) on key joints to provide high-frequency tactile alerts that trigger alternative sensory routing tracks"
+  ],
+  "prevention": [
+    "Aggressive management of cardioembolic risk vectors and immediate thrombolytic deployment during acute hemispheric vascular events"
+  ]
+            }
+            
         }
         "zeitraffer_clock_desync_fault": {
   "description": "A catastrophic hardware clock synchronization failure where the internal timing engine's cycle speed shifts radically out of bounds, causing external environmental events to parse at highly distorted temporal velocities.",
