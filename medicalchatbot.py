@@ -6896,6 +6896,36 @@ the persistent sensation that one has already lived through the current moment a
   "prevention": [
     "Switching from 'Vibrate' to 'Auditory' cues to reset the tactile driver"
   ]
+    "premotor_sequence_disconnection": {
+  "description": "A high-level motor planning anomaly where structural disruption of the left supramarginal gyrus or its white-matter connections to the premotor cortex severs the link between abstract conceptual intent and motor execution loops, disabling volitional tool use and symbolic gestures on command despite completely intact muscle strength and comprehension.",
+  "symptoms": [
+    "Volational Kinematic Imprecision: Complete failure to execute learned complex gestures or tool-use maneuvers on command while displaying no signs of limb paralysis",
+    "Automatic-Voluntary Dissociation: Retaining the capacity to use tools automatically and reactively in natural contexts while failing to simulate those exact same actions under deliberate instruction",
+    "Body-Part-as-Object Substitution: A distinctive structural error where the user attempts to simulate a tool by using their own body part literally (e.g., rubbing their finger against their teeth when asked to simulate a toothbrush)",
+    "Spatial Configuration Errors: Severe drift in hand orientation, joint alignment, and force modulation during complex movement profiles"
+  ],
+  "causes": [
+    "Left Hemisphere Middle Cerebral Artery (MCA) Infarction: Ischemia damaging the left inferior parietal lobule or the deep arcuate/superior longitudinal fasciculus white-matter tracts",
+    "Corticobasal Degeneration (CBD): Asymmetric frontoparietal tau-protein accumulation systematically dismantling the praxis network structures"
+  ],
+  "risk_factors": [
+    "High-grade internal carotid artery stenosis launching embolic fragments into the dominant speech/motor planning hemisphere",
+    "Systemic vascular diseases compromising high-order association cortices"
+  ],
+  "diagnosis": [
+    "The Transitive and Intransitive Gesture Assay: Requesting the host to execute both tool-based actions ('show me how you carve with a knife') and abstract symbolic gestures ('wave goodbye', 'stop'); a faulted system fails both cleanly",
+    "Object-Imitation Matching Protocols: Tasking the user to meticulously copy the manual kinetic loops of an examiner in real-time to assess whether the failure is motor-perceptual or motor-planning based",
+    "Structural T1/T2 Weighted Brain MRI: Profiling localized ischemic boundaries or focal gyral atrophy isolated within the left inferior parietal lobule"
+  ],
+  "remedies": [
+    "Contextual Environmental Affordance Mapping: Placing real, physical tools directly within their natural environments to trigger uncorrupted, automatic subcortical reflexive execution paths rather than giving verbal prompts",
+    "Errorless Functional Task Training: Guiding the user's limbs through repetitive physical paths during daily tasks to hardcode alternative somatic and proprioceptive tracking pathways"
+  ],
+  "prevention": [
+    "Proactive management of persistent atrial fibrillation vectors and immediate clinical response to transient ischemic attacks (TIAs) flashing transient right-sided motor-coordination alerts"
+  ]
+}
+        
 }
 "zeigarnik_unclosed_transaction": {
   "description": "A psychological phenomenon stating that people remember uncompleted or interrupted tasks better than completed tasks.",
