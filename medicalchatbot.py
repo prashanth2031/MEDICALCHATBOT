@@ -4122,6 +4122,37 @@ medical_db = {
   "prevention": [
     "Proactive tracking of myelin-sheath integrity, protecting fast-conducting somatosensory fibers from persistent neurotoxic exposures or metabolic deficiencies"
   ]
+        "v4_ventral_color_shader_failure": {
+  "description": "An acquired cortical rendering anomaly caused by localized structural destruction of Area V4 in the ventromedial occipitotemporal cortex, characterized by the complete loss of color perception and color constancy while retaining high-definition spatial acuity, form detection, and line tracking.",
+  "symptoms": [
+    "Total Cortical Achromatopsia: System-wide rendering of the conscious visual field exclusively within grayscale, monochrome value bands",
+    "Chromatic Asset Anomia: Inability to mentally imagine, recall, or describe colors, even for deeply familiar historical assets (e.g., the sky or grass)",
+    "Visual Appetitive Suppression: Severe drop in caloric ingestion drive caused by food assets rendering as unappealing shades of gray and black",
+    "Preserved Spatial Modulation: Uncompromised reading proficiency, vernier acuity, and high-frequency spatial contrast processing"
+  ],
+  "causes": [
+    "Bilateral Ventromedial Occipitotemporal Infarction: Ischemic events within the inferior calcarine and fusiform branches of the posterior cerebral artery (PCA)",
+    "Selective Visual Cortex Glioma: Space-occupying neoplastic cell growths encroaching directly on the lingual and fusiform structural tracts",
+    "Focal Occipito-Parietal Traumatic Shearing: High-impact deceleration injuries disrupting the local vertical occipital fasciculus processing loops"
+  ],
+  "risk_factors": [
+    "Vertebrobasilar circulatory insufficiency",
+    "Embolic risk vectors secondary to mechanical cardiac valve replacements"
+  ],
+  "diagnosis": [
+    "The Ishihara Pseudoisochromatic Plate Calibration: Presenting dot matrices containing hidden numerical patterns; a cerebral achromatopsic fails completely despite asserting perfect visibility of the structural dots",
+    "The Farnsworth-Munsell 100-Hue Organizing Assay: Tasking the user to arrange a spectrum of caps in sequential chromatic order; a failed shader engine produces a completely chaotic, random alignment map",
+    "Functional Magnetic Resonance Imaging (fMRI): Presenting alternating blocks of highly saturated color patterns versus black-and-white grids; a corrupted system shows zero metabolic or BOLD signal changes within the fusiform gyrus layers"
+  ],
+  "remedies": [
+    "Luma-Contrast UI Optimization: Re-configuring home and workspace layouts to emphasize radical variations in geometric shapes, lighting intensities, and tactile boundaries over color coding",
+    "Wavelength-to-Acoustic Transduction: Utilizing external scanning sensors that translate local pixel color frequencies into distinct auditory pitches to artificially verify color data values"
+  ],
+  "prevention": [
+    "Aggressive clinical tracking of posterior circulation vascular profiles and minimizing direct mechanical stress to the lower back coordinates of the cranium"
+  ]
+        }
+        
 }
 
 "capgras_auth_spoofing_fault": {
