@@ -4562,6 +4562,36 @@ medical_db = {
   "prevention": [
     "Disabling 'Vibration' for 'Low-Priority Threads' to reduce 'Systemic Noise'"
   ]
+    "right_parietal_spatial_matrix_failure": {
+  "description": "A catastrophic visuospatial attention allocation failure caused by acute structural damage to the non-dominant posterior parietal cortex, resulting in the absolute systematic unmapping and neglect of the left egocentric coordinate hemisphere across sensory, motor, and representational domains.",
+  "symptoms": [
+    "Hemispatial Neglect: Complete failure to attend to, respond to, or perceive stimuli presented within the left spatial field, independent of primary sensory integrity",
+    "Severe Spatial Anosognosia: A profound lack of cognitive awareness regarding the spatial deficit, with the system actively asserting its processing framework is 100% complete",
+    "Left-Sided Motor Neglect: Disuse or under-utilization of functional left limbs during bilateral tasks due to a total lack of spatial activation signals",
+    "Representational Topographic Eviction: The loss of the left quadrant inside internal mental indexing loops, affecting dreams, memories, and spatial reconstructions"
+  ],
+  "causes": [
+    "Right Middle Cerebral Artery (MCA) Inferior Division Ischemic Stroke: Large-scale tissue death across the right inferior parietal lobule and superior temporal gyrus watershed zones",
+    "Acute Intracerebral Hemorrhage: Rupture of deep penetrating vessels causing local mass effect and structural disruption of the right frontoparietal attentional loops"
+  ],
+  "risk_factors": [
+    "Unmanaged atrial fibrillation driving cardioembolic showering into the right carotid system",
+    "Advanced intracranial atherosclerotic disease"
+  ],
+  "diagnosis": [
+    "The Line Bisection Assay: Requesting the host to mark the exact midpoint of a horizontal line; a faulted system drifts significantly to the right, treating the right half as the entire line",
+    "The Target Cancellation Test: Spreading random symbols across a page and asking the user to cross them out; a neglected state leaves all targets on the left half completely untouched",
+    "High-Resolution Computed Tomography (CT) or MRI: Visualizing acute wedge-shaped densities or restricted diffusion signatures localized in the right parietal association cortex"
+  ],
+  "remedies": [
+    "Contralateral Prismatic Adaptation: Utilizing specialized optical prism glasses that physically shift the visual field degrees to the right, forcing the intact right hemisphere tracking engine to engage with left-sided inputs",
+    "Somatic Vestibular Stimulation: Applying caloric irrigation (cold water) to the left ear canal to alter vestibular telemetry, temporarily re-centering the master egocentric matrix"
+  ],
+  "prevention": [
+    "Strict management of systemic vascular profiles, immediate antiplatelet or anticoagulant deployment, and rapid endovascular thrombectomy for large-vessel occlusions"
+  ]
+}
+        
 }
 "semantic_satiation_cache_flush": {
   "description": "A psychological phenomenon in which repetition causes a word or phrase to temporarily lose its meaning for the listener/reader, who then perceives the speech as meaningless sounds.",
