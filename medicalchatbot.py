@@ -4254,6 +4254,36 @@ medical_db = {
   "prevention": [
     "Avoiding 'System Hibernation' on the back (Supine position) to reduce 'Vagus Nerve' triggers"
   ]
+    "lateral_occipital_complex_crash": {
+  "description": "A structural visual recognition anomaly where bilateral destruction of the lateral occipital complex preserves high-definition geometric and spatial vision but completely blocks the synthesis of visual primitives into identifiable object profiles, uncoupling sight from semantic meaning.",
+  "symptoms": [
+    "Visual Object Agnosia: Complete inability to identify or name common real-world objects through vision alone, despite intact visual acuity",
+    "Cross-Modal Identity Resolution: Immediate, fluid identification of visually unmapped objects the moment tactile, auditory, or olfactory input lines are activated",
+    "Feature-Deductive Processing: Relying on slow, intellectual deduction to guess object identities based on isolated visual cues (e.g., 'it is yellow and long, so it might be a banana')",
+    "Preserved Contourography: Retaining the ability to meticulously trace or copy drawings of objects that the host cannot conceptually recognize"
+  ],
+  "causes": [
+    "Bilateral Ventral Stream Ischemic Infarction: Embolic or hypoperfusion events targeting the lateral occipital and inferior temporal vascular branches",
+    "Diffuse Hypoxic-Ischemic Encephalopathy: Selective cellular death within high-order visual association zones following cardiac arrest or severe carbon monoxide toxicity"
+  ],
+  "risk_factors": [
+    "Anoxic exposure vectors secondary to closed-space industrial accidents",
+    "Severe global circulatory hypoperfusion states"
+  ],
+  "diagnosis": [
+    "The Boston Naming Battery (Visual-Only Subtest): Presenting clear line drawings of items; a faulted system fails to identify them visually but names them instantly upon feeling the physical object",
+    "The Visual Overlap Object Discernment Test: Tasking the user to find outlined items tangled together; an agnostic state fails to segregate the overlapping vector meshes",
+    "Structural and Functional Neuroimaging (fMRI): Documenting bilateral tissue volume loss or an absolute lack of metabolic activation loops in the lateral occipital gyri during image presentation tasks"
+  ],
+  "remedies": [
+    "Multisensory Asset Tagging: Intentionally interacting with the environment through sound cues, texture variations, and verbal descriptions to rebuild spatial meaning",
+    "Haptic Affordance Training: Developing a habit of touching items in the immediate workspace to rapidly trigger alternative somatosensory recognition pipelines"
+  ],
+  "prevention": [
+    "Rapid deployment of hyperbaric oxygen protocols during carbon monoxide exposures to minimize delayed neuropsychiatric and occipital white-matter decay profiles"
+  ]
+}
+
         "real_time_video_buffer_strobe": {
   "description": "A catastrophic visual processing error within the bilateral V5/MT+ cortical corridors where the system's real-time motion interpolation engine crashes, dropping the perceived frame-rate of moving objects down to a staggered, frozen snapshot loop while leaving static vision intact.",
   "symptoms": [
