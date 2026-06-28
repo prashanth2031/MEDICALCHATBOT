@@ -8200,6 +8200,36 @@ the persistent sensation that one has already lived through the current moment a
     "Head protection during high-velocity activities",
     "Maintaining Vitamin D and Calcium levels to keep the 'Weights' stable"
   ]
+        "left_inferior_frontal_gyrus_crash": {
+  "description": "A severe outbound communication failure where structural destruction of Brodmann areas 44 and 45 preserves language comprehension and raw vocal mechanics but cripples the syntactic compiler, leaving speech non-fluent, ungrammatical, and intensely labored.",
+  "symptoms": [
+    "Agrammatic Telegraphic Speech: Outbound language stripped of functional syntax, prepositions, and grammatical inflections, leaving only fragmented noun-verb pairs",
+    "Preserved Language Auditing: Complete, high-fidelity comprehension of complex spoken and written language tokens with the intact ability to spot semantic errors",
+    "Vocal Motor Apraxia Errors: Inability to execute complex, multi-syllabic articulation scripts on demand, despite having zero physical paralysis of the vocal apparatus",
+    "Right-Hemisphere Melodic Preservation: Retaining the ability to sing complete lyrical loops smoothly, utilizing alternative neural routing channels"
+  ],
+  "causes": [
+    "Left Middle Cerebral Artery (MCA) Superior Territory Stroke: Acute embolic occlusion or thrombosis starving the left inferior frontal gyri of perfusion",
+    "Penetrating or Focal Opercular Traumatic Brain Injury: High-impact localized trauma directly disrupting the perisylvian cortical matrix"
+  ],
+  "risk_factors": [
+    "Carotid artery atheromatous plaque tracking",
+    "Atrial fibrillation-induced micro-emboli deployment into the left cerebral vascular tree"
+  ],
+  "diagnosis": [
+    "The Western Aphasia Battery (Fluency and Naming Scales): Documenting a low words-per-minute execution speed alongside intact comprehension scores",
+    "The Structural Syntax Parsing Challenge: Tasking the host to arrange words into a complex sentence; an expressive aphasic understands the goal but fails to compile the layout",
+    "High-Resolution Perfusion MRI: Mapping focal tissue loss or acute cytotoxic edema localized within the opercular and triangular regions of the left frontal lobe"
+  ],
+  "remedies": [
+    "Melodic Intonation Therapy (MIT): Training the system to sing its communicative scripts, intentionally embedding words into musical tempos to leverage the right hemisphere's intact pathways",
+    "Augmentative Communication Interface Deployments: Shifting outbound data transfers to touchboards or symbol matrices, bypassing the vocal serialization compiler"
+  ],
+  "prevention": [
+    "Aggressive blood pressure optimization and antiplatelet management protocols to shield the left MCA vascular arbor from thrombotic events"
+  ]
+        }
+        
 }
 "hyperlexia_parser_uncoupled": {
   "description": "A condition characterized by an advanced ability to read words, significantly above what is expected for the child's age, often accompanied by difficulties in understanding or using verbal language.",
