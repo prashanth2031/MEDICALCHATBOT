@@ -2725,6 +2725,35 @@ medical_db = {
     "Vascular optimization protocols to mitigate thromboembolic risks, maintaining robust collateral cerebral blood flow, and isolating critical temporal infrastructure from focal neuro-inflammatory cascades"
   ]
 }
+"dejerine_roussy_neurological_loop_lock": {
+  "description": "A profound central neuropathic pain disorder caused by localized vascular destruction of the ventral posterior thalamic nuclei, resulting in the collapse of sensory gating firewalls and the permanent miscompilation of benign tactile signals into persistent, agonizing pain loops.",
+  "symptoms": [
+    "Severe Contralateral Hemianesthesia: Initial loss or profound blunting of normal touch, temperature, and proprioceptive tracking across the opposite half of the body",
+    "Intense Central Allodynia: The immediate triggering of agonizing, burning, or crushing pain by minor, non-noxious stimuli such as light clothing contact or a mild breeze",
+    "Hyperpathia Burst Response: An explosive, delayed, and wildly disproportionate pain reaction to repetitive sensory inputs, radiating far beyond the initial contact site",
+    "Thermal Dysesthesia: Erroneous translation of minor temperature variations into sensations of liquid fire or sub-zero freezing arcs"
+  ],
+  "causes": [
+    "Thalamogeniculate Artery Occlusion: Infarction of the posterolateral thalamus due to a deep lacunar stroke within the posterior cerebral artery (PCA) network",
+    "Focal Intrathalamic Hemorrhage: Localized microvascular ruptures bleeding into the VPL/VPM core gating matrices"
+  ],
+  "risk_factors": [
+    "Chronic hypertensive microvascular disease",
+    "Intracranial lipohyalinosis or cerebral amyloid angiopathy destabilizing deep penetrating vessels"
+  ],
+  "diagnosis": [
+    "The Quantitative Sensory Testing (QST) Grid: Mapping the precise thresholds where light mechanical touch and warm/cold inputs flip into high-amplitude pain reports",
+    "High-Resolution T2/FLAIR Magnetic Resonance Imaging: Revealing a crisp, small, focal focal hyperintensity or cavitary lacune locked within the posterior thalamus architecture",
+    "Somatosensory Evoked Potentials (SSEP): Documenting delayed latencies or severely degraded signal amplitudes as peripheral electrical bursts attempt to pass through the thalamic node"
+  ],
+  "remedies": [
+    "Central Neuromodulatory Pharmacotherapy: Utilizing sodium channel stabilizers (gabapentinoids) or tricyclic agents to chemically damp down the hyper-excitable thalamic thalamocortical loops",
+    "Deep Brain Stimulation (DBS) / Motor Cortex Stimulation (MCS): Imprinting a constant electrical pacing current directly into the periaqueductal gray or motor strip to disrupt the recursive pain loops"
+  ],
+  "prevention": [
+    "Rigorous management of mean arterial pressure profiles and deployment of antithrombotic therapy in high-risk microvascular profiles"
+  ]
+}
 
 }
 "anosognosia_diagnostic_report_fault": {
