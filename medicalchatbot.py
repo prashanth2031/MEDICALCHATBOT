@@ -3857,6 +3857,35 @@ medical_db = {
     "Utilizing micro-surgical, fiber-sparing navigation tracks during deep midline brain interventions to avoid compromising the primary inter-hemispheric data bus"
   ]
 }
+"ventromedial_prefrontal_executive_disinhibition": {
+  "description": "A profound behavioral configuration failure caused by the structural destruction of the ventromedial and orbitofrontal prefrontal cortices, resulting in the collapse of the somatic marker system, an inability to process anticipatory risk or social feedback, and unchecked execution of raw emotional impulses.",
+  "symptoms": [
+    "Catastrophic Risk Blindness: Complete loss of anticipatory anxiety and risk avoidance during decision-making loops, despite retaining intact intellectual awareness of potential negative outcomes",
+    "Social Codec Dissolution: Shift to highly profane, unpredictable, and socially uncoupled behavior patterns, paired with an inability to process peer feedback or empathy markers",
+    "Abrupt Personality Divergence: A radical, permanent shift in behavioral configurations from a controlled, reliable profile to an uninhibited, immediate-gratification processing bias",
+    "Executive Myopia: Inability to plan or allocate current processing resources toward long-term strategic goals, completely prioritizing immediate, low-latency micro-rewards"
+  ],
+  "causes": [
+    "Penetrating Frontal Traumatic Brain Injury: High-velocity structural trauma directly vaporizing or isolating the orbitofrontal and ventromedial cortical matrices",
+    "Anterior Communicating Artery (ACoA) Aneurysm Rupture: Localized subarachnoid hemorrhage and subsequent vasospasm starving the subcallosal and ventromedial frontal segments of perfusion"
+  ],
+  "risk_factors": [
+    "High-impact industrial environmental exposure profiles",
+    "Intracranial vascular anomalies within the anterior circle of Willis"
+  ],
+  "diagnosis": [
+    "The Iowa Gambling Task (IGT) Behavioral Analysis: Tracking the persistent selection of high-risk, negative-expectancy decks alongside flat skin conductance responses (SCR) during risk selection",
+    "High-Resolution 3D FLAIR Brain MRI: Revealing localized encephalomalacia, tissue cavitation, or structural void paths cutting through the lower medial frontal lobes",
+    "The Faux Pas Recognition Assessment: Testing the host's ability to process subtle social rule violations; a vmPFC-damaged host parses the text but fails to identify the social friction"
+  ],
+  "remedies": [
+    "External Rule-Engine Scaffolding: Implementing highly structured, rigid external environments with explicit, near-instantaneous feedback metrics to simulate the missing internal guardrails",
+    "Serotonergic and Noradrenergic Neuromodulation: Utilizing highly targeted chemical agents to artificially boost signal stability within the remaining lateral prefrontal executive tracks"
+  ],
+  "prevention": [
+    "Enforcing strict physical ballistic head-protection protocols in high-risk industrial environments and conducting microvascular tracking of familial intracranial aneurysms"
+  ]
+}
 
 }
 "simultanagnosic_viewport_saturation_fault": {
