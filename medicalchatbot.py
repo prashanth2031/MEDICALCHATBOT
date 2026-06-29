@@ -4433,7 +4433,36 @@ medical_db = {
     "Shielding the bilateral posterior cerebral vascular trees from embolic cascades, minimizing high-impact kinetic head hazards, and maintaining optimal cerebral perfusion pressures"
   ]
         }
-        
+  "substantia_nigra_dopaminergic_signal_drop": {
+  "description": "An episodic, paroxysmal motor execution failure caused by severe neurodegenerative degradation of the nigrostriatal dopaminergic pathway, resulting in an inability of the striatal direct pathway to override the indirect pathway's inhibition loops during environmental context switches.",
+  "symptoms": [
+    "Paroxysmal Gait Freezing: Sudden, involuntary cessation of forward stepping, most frequently triggered during turns, doorway navigation, or under time pressure",
+    "Target Antagonistic Muscle Co-Contraction: High-frequency (3-6 Hz) trembling of the lower extremities as opposing muscle groups attempt to execute conflicting commands simultaneously",
+    "Kinesia Paradoxica: The sudden, temporary restoration of fluid, high-velocity motor execution when triggered by explicit external visual, auditory, or emotional environmental prompts",
+    "Postural Instability Micro-Falls: Loss of balance caused by the divergence between the frozen lower chassis and the forward-moving upper torso"
+  ],
+  "causes": [
+    "Nigrostriatal Alpha-Synuclein Aggregation: Progressive intracellular deposition of Lewy bodies within the substantia nigra pars compacta, leading to apoptotic cell death",
+    "Focal Manganese or MPTP Toxic Exposures: Acute selective metabolic poisoning targeting mitochondrial complex I within dopaminergic cell lines"
+  ],
+  "risk_factors": [
+    "Advanced systemic chronological aging profiles",
+    "Environmental pesticide exposure vectors combined with genetic variants in the glucocerebrosidase (GBA) gene"
+  ],
+  "diagnosis": [
+    "Timed Up-and-Go (TUG) Doorway Challenge: Observing the host execute a 180-degree turn inside a narrow spatial boundary to actively replicate the freezing anomaly",
+    "Striatal Iodine-123 ioflupane SPECT Imaging (DaTscan): Quantifying a marked asymmetrical reduction in dopamine transporter density within the putamen matrices",
+    "Acute Levodopa Threshold Response Assay: Observing whether the introduction of immediate-release dopamine precursors successfully lowers the frequency of freezing episodes"
+  ],
+  "remedies": [
+    "Nigrostriatal Precursor Replacement Therapy: Delivering continuous carbidopa-levodopa updates to restore terminal striatal dopaminergic signaling levels",
+    "Rhythmic Laser Visual Line Projection: Utilizing footwear or canes that project an active cross-line on the floor to feed alternative cerebellar navigation loops"
+  ],
+  "prevention": [
+    "Optimizing neuroprotective metabolic profiles and avoiding secondary dopamine receptor antagonists that worsen the indirect pathway's braking bias"
+  ]
+  }
+
 }
 "false_memory_write_back_fault": {
   "description": "A memory error where gaps in memory are unconsciously filled with fabricated, misinterpreted, or distorted information, which the user then accepts as fact.",
