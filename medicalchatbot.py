@@ -2223,6 +2223,35 @@ medical_db = {
     "Avoiding sudden, extreme Valsalva maneuvers or rapid thermal variations in individuals with documented jugular venous valve insufficiencies"
   ]
 }
+"posterior_parietal_coordinate_translation_failure": {
+  "description": "A precise visuomotor coordination failure caused by structural disruption of the superior parietal lobule and intraparietal sulcus, resulting in the collapse of the egocentric spatial coordinate translation engine while preserving primary visual acuity and somatic muscle power.",
+  "symptoms": [
+    "Visuomotor Dysmetria (Mis-Reaching): Severe inaccuracy when reaching for objects localized within the visual field, characterized by wild spatial overshooting or undershooting",
+    "Preshaping Orientation Failure: Inability to dynamically adjust hand rotation, wrist angle, or finger span to match the geometric properties of an approaching object",
+    "Gaze-Dependent Error Scaling: Pronounced exaggeration of tracking errors when attempting to reach for targets located within peripheral fields compared to foveal fixation",
+    "Isolated Somatosensory Compensation: Instantaneous restoration of fluid manual dexterity the moment direct tactile or proprioceptive feedback overrides the visual tracking line"
+  ],
+  "causes": [
+    "Bilateral or Unilateral Posterior Parietal Infarction: Boundary-zone watershed tissue necrosis occurring between the terminal branches of the MCA and PCA systems",
+    "Focal Tumors or Gunshot Traumas: Structural penetration or compression of Brodmann areas 5 and 7 within the superior parietal matrix"
+  ],
+  "risk_factors": [
+    "Severe systemic hypoperfusion episodes or cardiac arrest inducing boundary-zone watershed brain infarctions",
+    "Cerebral amyloid angiopathy tracking through the posterior parietal lobes"
+  ],
+  "diagnosis": [
+    "The Foveal vs. Extra-Foveal Reaching Matrix Assay: Tasking the host to fixate their gaze on a central marker while reaching for flashing peripheral targets to isolate the visual mis-reaching vector",
+    "The Slotted Disc Alignment Test: Requesting the host to insert their hand through a rotated slot; observing a total failure to pre-orient the hand during approach despite perfect object orientation awareness",
+    "Structural T2-Weighted MRI or Diffusion Tensor Imaging (DTI): Mapping structural gaps or white-matter tract disruptions (Superior Longitudinal Fasciculus) terminating in the SPL"
+  ],
+  "remedies": [
+    "Proprioceptive-Guided Retraining Protocols: Teaching the system to heavily favor somatic, tactile, and auditory feedback loops to guide reach trajectories, bypassing visual estimation",
+    "Fixation-Point Training: Forcing the host to shift their central gaze entirely onto a target before initiating any motor execution commands, reducing peripheral tracking dependency"
+  ],
+  "prevention": [
+    "Rapid correction of systemic orthostatic shock states to shield fragile cerebral watershed zones from hypoxic-ischemic degradation"
+  ]
+}
 
     }
         
