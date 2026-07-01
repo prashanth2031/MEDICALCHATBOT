@@ -201,6 +201,35 @@ medical_db = {
     "Aggressive anticoagulation management during persistent cardiac arrhythmias and immediate neurovascular tracking during temporal lobe stroke warning flags"
   ]
 }
+"congenital_central_hypoventilation_slumber_fault": {
+  "description": "A critical autonomic processing failure characterized by the complete loss of metabolic, hypercapnic drive to breathe during sleep states, caused by neuro-developmental or structural degradation of the retrotrapezoid nucleus and medullary respiratory centers.",
+  "symptoms": [
+    "Sleep-Associated Alveolar Hypoventilation: Immediate drop in respiratory rate and tidal volume upon sleep onset, escalating to prolonged central apnea",
+    "Hypercapnic Arousal Deficit: Total absence of behavioral waking, dyspnea, or gasping reflexes when blood carbon dioxide levels exceed critical toxic thresholds",
+    "Waking Hypoventilation Shifts: Subtle, progressive blunting of baseline autonomic respiratory depth during complex cognitive waking activities when manual focus drifts",
+    "Systemic Autonomic Dysregulation: Variable heart rate profiles, altered sweating patterns, and reduced gastrointestinal tracking speed"
+  ],
+  "causes": [
+    "PHOX2B Polyalanine Repeat Mutation: Heterozygous expansion mutations disrupting the transcription factor critical for configuring central chemoreceptor neural networks",
+    "Lateral Medullary Stroke (Wallenberg Variant): Ischemic damage destroying the solitary tract nucleus and specialized respiratory interneurons within the brainstem"
+  ],
+  "risk_factors": [
+    "Autosomal dominant inheritance vectors with variable penetrance profiles",
+    "Deep posterior fossa neurosurgical operations or brainstem compression injuries"
+  ],
+  "diagnosis": [
+    "Continuous Overnight Polysomnography (Sleep Study): Documenting severe, uncompensated central apneas and oxygen desaturations strictly isolated to sleep stages",
+    "Hypercapnic Ventilatory Response Challenge: Exposing the awake host to elevated CO2 concentrations; documenting a flat, unresponsive respiratory output curve",
+    "Targeted PHOX2B Genetic Sequencing: Identifying the precise count of polyalanine repeats on chromosome 4p12 to confirm structural automation absence"
+  ],
+  "remedies": [
+    "Mechanical Ventilation Scaffolding: Deploying permanent positive-pressure mechanical ventilation via a tracheostomy for mandatory nighttime breathing control",
+    "Phrenic Nerve Pacemaker Ingrowth: Implanting an active diaphragmatic pacer to deliver continuous, rhythmic electrical pulses to the phrenic nerve during sleep hours"
+  ],
+  "prevention": [
+    "Absolute avoidance of central nervous system depressants (anesthetics, sedatives, alcohol) that further suppress residual waking brainstem pathways"
+  ]
+}
 
         }
         "zeitraffer_clock_desync_fault": {
