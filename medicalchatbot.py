@@ -3042,7 +3042,35 @@ medical_db = {
     "Aggressive screening of high-risk neonates showing autonomic dysregulation and prompt surgical decompression of posterior fossa anomalies before tissue compression occurs"
   ]
         }
-        
+ "thalamic_sleep_gating_degradation": {
+  "description": "A terminal, progressive neurodegenerative prion disease characterized by the selective apoptosis of the anteroventral and mediodorsal thalamic nuclei, causing a permanent failure of sensory-gating mechanisms, total loss of slow-wave sleep architecture, and untreatable autonomic over-activation.",
+  "symptoms": [
+    "Refractory Insomnia: Absolute, unyielding loss of slow-wave delta sleep and structured REM cycles, completely unresponsive to high-dose pharmacological sedatives",
+    "Persistent Sympathetic Hyper-Drive: Permanent autonomic deregulation manifest as unremitting tachycardia, severe arterial hypertension, and dysregulated thermal tracking",
+    "Oneiric Stupor (Agrypnia Excitata): Frequent lapses into an un-gated dream-waking state where the host enacts semi-purposeful automated motor gestures without cortical rest",
+    "Rapid Progressive Dementia: Non-linear cognitive degradation marked by ataxia, severe myoclonus, speech de-serialization, and global short-term memory loss"
+  ],
+  "causes": [
+    "PRNP D178N/129M Prion Mutation: Inherited autosomal dominant missense mutation resulting in the structural misfolding of cellular prion proteins into protease-resistant β-sheet plaques",
+    "Selective Thalamic Encephalopathy: Target-specific astrocytic gliosis and neuronal cell death isolated within the anteroventral and mediodorsal thalamic nodes"
+  ],
+  "risk_factors": [
+    "Familial genetic lineage possessing the mutated PRNP allele configurations"
+  ],
+  "diagnosis": [
+    "Overnight Video Polysomnography (vPSG): Documenting the total erasure of sleep spindles, K-complexes, and distinct non-REM/REM stage transitions",
+    "Fluorodeoxyglucose (FDG) PET Scan: Revealing profound, isolated bilateral thalamic hypometabolism (the 'dark thalamus' signature) contrasting with a preserved cortex",
+    "Direct PRNP Genetic Assays: Sequencing blood or CSF vectors to confirm the presence of the point mutation at codon 178 alongside methionine homozygosity"
+  ],
+  "remedies": [
+    "Palliative Autonomic Dampening: Deploying central alpha-2 agonists (like clonidine) and beta-blockers to manually lower the host's toxic sympathetic vitals",
+    "Experimental Prion Clearance Anti-Sense Oligonucleotides (ASOs): Administering intrathecal micro-RNA therapies designed to suppress the base PRNP translation line before misfolding cascades lock"
+  ],
+  "prevention": [
+    "Pre-implantation genetic diagnosis (PGD) screening for known carrier lineages to prevent transmission of the mutated genomic vector to offspring"
+  ]
+}
+
 }
 "prosopagnosia_identity_mapping_fault": {
   "description": "A cognitive disorder of face perception where the ability to recognize familiar faces, including one's own, is impaired, while other aspects of visual processing remain intact.",
