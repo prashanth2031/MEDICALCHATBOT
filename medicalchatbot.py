@@ -2251,6 +2251,36 @@ medical_db = {
   "prevention": [
     "Avoiding sudden, extreme Valsalva maneuvers or rapid thermal variations in individuals with documented jugular venous valve insufficiencies"
   ]
+        "bilateral_occipital_striate_cortex_infarction": {
+  "description": "A rare neurological anomaly where a massive bilateral stroke destroys the primary visual cortex, causing absolute cortical blindness while simultaneously damaging the monitoring pathways responsible for recognizing sensory loss, leading to a profound denial of blindness and persistent visual confabulation.",
+  "symptoms": [
+    "Absolute Cortical Blindness: Total loss of objective visual perception, tracking capabilities, and form detection, despite intact structural eye hardware",
+    "Visual Anosognosia (Deficit Denial): Obstinate, unshakeable delusion of having perfectly functional sight, completely rejecting any diagnostic evidence of blindness",
+    "Continuous Visual Confabulation: Automatic, subconscious fabrication of real-time environmental imagery to substitute for the missing optical input stream",
+    "Preserved Subcortical Pupillary Constriction: Variable retention of local pupillary responses to light bursts, completely uncoupled from conscious visual perception"
+  ],
+  "causes": [
+    "Top-of-the-Basilar Artery Thromboembolism: Complete mechanical occlusion of the terminal basilar fork, cutting off blood flow to both posterior cerebral arteries (PCAs)",
+    "Severe Bilateral Calcarine Artery Watershed Stroke: Global hypoxic-ischemic state starving the terminal banks of Brodmann Area 17"
+  ],
+  "risk_factors": [
+    "Aortic arch or left ventricular mural thrombi deployment",
+    "Severe intraoperative systemic hypotension or prolonged cardiac arrest states"
+  ],
+  "diagnosis": [
+    "Objective Threat Avoidance Evaluation: Watching the host walk down a controlled hallway obstructed by physical barriers; noting immediate, unmitigated collisions",
+    "Flash-Evoked Visual Potentials (VEP): Documenting a total absence of electrical waveform propagation over the occipital scalp when flashing light targets onto the retinas",
+    "Diffusion-Weighted Brain MRI (DWI): Highlighting distinct, symmetrical zones of restricted diffusion and tissue death stretching across the bilateral lingual and cuneus gyri of the occipital lobes"
+  ],
+  "remedies": [
+    "Gentle Reality-Shedding Countermeasures: Avoiding aggressive, confrontational arguments and instead staging safe, non-hazardous physical tasks that allow the system to realize its own sensory delta",
+    "Supervised Environmental Stabilization: Assigning full-time physical routing and safety support to protect the host from self-inflicted structural damage during denial phases"
+  ],
+  "prevention": [
+    "Immediate deployment of high-dose thrombolytic therapies and mechanical thrombectomy when tracking acute, emergent basilar artery occlusions"
+  ]
+        }
+        
 }
 "posterior_parietal_coordinate_translation_failure": {
   "description": "A precise visuomotor coordination failure caused by structural disruption of the superior parietal lobule and intraparietal sulcus, resulting in the collapse of the egocentric spatial coordinate translation engine while preserving primary visual acuity and somatic muscle power.",
