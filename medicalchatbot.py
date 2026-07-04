@@ -1199,6 +1199,35 @@ medical_db = {
     "Active participation in rich, multi-lingual, and highly complex conceptual workflows throughout early lifecycles to build heavy redundancy pathways inside the associative neural directories"
   ]
 }
+"semantic_deserializer_failure": {
+  "description": "A profound linguistic processing anomaly caused by localized destruction of the dominant posterior superior temporal gyrus, resulting in the total loss of semantic comprehension and outbound lexicon mapping, while maintaining intact syntax, motor fluency, and auditory mechanics.",
+  "symptoms": [
+    "Receptive Language Agnosia: Inability to decode, parse, or understand spoken or written verbal data structures, despite perfect auditory and visual acuity",
+    "Hyper-Fluent Paraphasia (Word Salad): Production of effortless, high-velocity speech filled with random word substitutions (semantic paraphasias) and fabricated words (neologisms)",
+    "Linguistic Deficit Anosognosia: Complete lack of awareness regarding the structural breakdown of one's own speech, assuming full communication coherence",
+    "Impaired Logostream Feedback: Total failure to audit or self-correct one's own spoken output, caused by the severance of local auditory-to-semantic monitoring loops"
+  ],
+  "causes": [
+    "Left Middle Cerebral Artery (MCA) Inferior Division Stroke: Embolic or thrombotic block of the cortical artery branch supplying the temporal and inferior parietal planes",
+    "Localized Focal Encephalitis: Herpes simplex virus or auto-immune inflammatory cascades targeting the dominant temporal lobe arrays"
+  ],
+  "risk_factors": [
+    "Chronic atrial fibrillation driving micro-embolic fragments up the internal carotid line",
+    "Severe carotid artery plaque stenosis dropping distal temporal perfusion metrics"
+  ],
+  "diagnosis": [
+    "The Western Aphasia Battery (WAB) Comprehension Index: Evaluating token matching, yes/no prompt consistency, and multi-step sequential object manipulation",
+    "Neologism Density Quantification: Polling conversational outputs to measure the ratio of non-words and unmapped phonemes to valid dictionary assets",
+    "High-Resolution Brain MRI (FLAIR/Diffusion): Identifying a distinct wedge of tissue death or restricted diffusion mapping precisely over the posterior third of the superior temporal gyrus (Brodmann Area 22)"
+  ],
+  "remedies": [
+    "Visual-Gestural Alternative Routing: Bypassing the auditory-verbal word node completely by utilizing high-context icons, direct physical demonstrations, and non-verbal touch mapping",
+    "Melodic Intonation Therapy Accommodations: Leveraging unaffected right-hemisphere musical networks to ground basic communicative intents, bypassing left temporal logic blocks"
+  ],
+  "prevention": [
+    "Aggressive anticoagulation management in profiles with high systemic thromboembolic risks to protect dominant perisylvian language hubs"
+  ]
+}
 
 }
 "semantic_satiation_parser_leak": {
