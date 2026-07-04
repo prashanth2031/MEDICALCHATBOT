@@ -2251,6 +2251,36 @@ medical_db = {
   "prevention": [
     "Rapid intervention during lower-tier vascular events and protecting the deep inferior temporal structures from blunt-force kinetic trauma"
   ]
+    "global_scene_spatial_array_crash": {
+  "description": "A profound visuospatial processing deficit resulting from bilateral damage to the dorsal occipitoparietal networks, characterized by the complete inability to perceive more than one visual object or component of a scene at a time, despite intact visual acuity and individual object recognition.",
+  "symptoms": [
+    "Bilateral Simultanagnosia: Complete restriction of visual perception to a single isolated object or detail, causing a total loss of environmental context",
+    "Optic Ataxia Co-manifestation: Inability to accurately guide the hands toward a perceived item due to the absence of a shared spatial coordinate matrix",
+    "Ocular Apraxia (Psychic Gaze Paralysis): Inability to voluntarily direct fixation to a new target, with the eyes remaining locked or drifting randomly between single details",
+    "Extreme Spatial Disorientation: Profound functional blindness when navigating rooms, caused by the failure to map the spatial relationships of doors, furniture, and floors"
+  ],
+  "causes": [
+    "Bilateral Border-Zone (Watershed) Posterior Infarctions: Symmetrical tissue death at the terminal boundaries of the middle and posterior cerebral arteries, typically following severe systemic hypotension",
+    "Posterior Cortical Atrophy (PCA / Benson’s Variant): A progressive neurodegenerative tauopathy or amyloid cascade targeting the visual association areas of the brain"
+  ],
+  "risk_factors": [
+    "Profound intraoperative shock, cardiac arrest, or severe hypovolemic events",
+    "Genetic predisposition to early-onset atypical neurodegenerative syndromes"
+  ],
+  "diagnosis": [
+    "The Ishihara or Boston Diagnostic Picture Description Test: Presenting a complex multi-layered scene (e.g., a family wash scene); noting if the host only lists isolated small elements while missing the entire plot",
+    "The Intersecting Geometric Figures Challenge: Drawing a circle and a square overlapping on a page; noting if the host can only see either the circle or the square, never both at once",
+    "Structural Brain MRI or FDG-PET Neuroimaging: Highlighting pronounced bilateral cortical thinning, volume loss, or sharp metabolic drops isolated across the parieto-occipital junctions"
+  ],
+  "remedies": [
+    "Single-Asset Isolation Frameworks: Minimizing visual confusion by covering complex environments with black contrast sheets, exposing only one structural input at a time",
+    "Tactile-Auditory Cross-Modality Mapping: Bypassing the damaged visual coordinate engine by using physical touch and descriptive verbal audio to rebuild spatial arrays"
+  ],
+  "prevention": [
+    "Rigorous maintenance of systemic mean arterial pressure during complex cardiac operations to prevent watershed hypoperfusion in terminal visual zones"
+  ]
+}
+        
 }
 "ca1_hippocampal_synaptic_gate_jam": {
   "description": "A benign, temporary, yet profound memory write failure characterized by the sudden onset of anterograde amnesia, caused by transient metabolic or microvascular congestion within the CA1 sector of the hippocampal formation, leading to a temporary inability to encode new episodic memory strings.",
