@@ -3002,7 +3002,36 @@ medical_db = {
   "prevention": [
     "Maintaining stable systemic hydration and avoiding extended high-stress cognitive overloads that degrade the temporal precision of parallel neural transmission lines"
   ]
-        
+     "proprioceptive_spatial_telemetry_disconnect": {
+  "description": "A profound body-schema processing anomaly caused by localized destruction of the non-dominant posterior parietal cortex, resulting in a selective failure to assign somatic ownership metadata to a limb, leading to the unshakeable delusion that one's own body part belongs to a stranger.",
+  "symptoms": [
+    "Asomatognosia (Ownership Loss): Total loss of the conscious awareness or recognition of a specific limb, typically the left arm or leg, treating it as an independent foreign object",
+    "Somatoparaphrenia (Delusional Fabulation): Developing complex, paranoid narratives to explain the limb's presence, such as claiming it belongs to a family member or was surgically swapped",
+    "Hemispatial Visual Neglect: Completely dropping the left half of the surrounding universe from the active attention buffer, ignoring food on the left side of a plate or text on the left margin of a page",
+    "Motor Deficit Anosognosia: Absolute denial of paralysis or weakness in the affected limb, insisting that the limb is functioning normally even when it is completely motionless"
+  ],
+  "causes": [
+    "Right Middle Cerebral Artery (MCA) Superior Division Stroke: Ischemic occlusion depriving the non-dominant post-central gyrus and inferior parietal lobule of vital blood supply",
+    "Traumatic Brain Injury (TBI): Focused counter-coup structural damage crushing the right-sided visuospatial coordinate tracking networks"
+  ],
+  "risk_factors": [
+    "Severe carotid bifurcation atheroma deployment",
+    "Uncontrolled chronic hypertension causing deep micro-vascular lacunar breakdowns"
+  ],
+  "diagnosis": [
+    "The Confrontation Body Tracking Protocol: Placing the host's left hand directly into their right visual field; documenting if they completely disown the hand or attribute it to the examiner",
+    "The Albert's Line Cancellation Task: Asking the host to cross out a series of lines scattered across a sheet of paper; noting if they exclusively cross out lines on the right side while completely ignoring the left side",
+    "Diffusion Brain MRI or Computed Tomography (CT): Highlighting a prominent structural lesion or hypoperfusion zone mapped squarely over the right supramarginal gyrus and adjacent somatosensory centers"
+  ],
+  "remedies": [
+    "Cross-Hemispheric Caloric Vestibular Stimulation: Irrigating the left ear canal with cold water to temporarily alter vestibular telemetry inputs, which artificially forces a brief, transient re-synchronization of the spatial body-schema",
+    "Mirror Visual Feedback Redirection: Positioning a vertical mirror to project a reflected image of the functional right limb as if it were the left, attempting to trick the parietal tracking array into re-mapping the dead sector"
+  ],
+  "prevention": [
+    "Rapid deployment of endovascular mechanical thrombectomies to restore immediate blood flow to the right parietal spatial lobes during emergent stroke configurations"
+  ]
+}
+
 }
 
 "wernickes_semantic_parsing_fault": {
