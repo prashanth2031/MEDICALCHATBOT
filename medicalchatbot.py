@@ -2673,6 +2673,36 @@ medical_db = {
   "prevention": [
     "Strict enforcement of regular system-rest cycles and avoiding chemical compounds that downregulate the prefrontal cortex's top-down gating integrity"
   ]
+        "real_time_storage_write_failure": {
+  "description": "A chronic, irreversible amnestic defect caused by thiamine deficiency-induced damage to the mammillary bodies and dorsomedial thalamus, characterized by a near-total loss of anterograde memory formation accompanied by spontaneous or provoked confabulation.",
+  "symptoms": [
+    "Dense Anterograde Amnesia: Complete inability to form new episodic, semantic, or autobiographical memory tracks following the metabolic crash",
+    "Spontaneous Confabulation: Automatic, unconscious fabrication of false narrative records to fill systemic memory gaps, presented with absolute conviction of truth",
+    "Chronological Retrograde Disorientation: Massive distortion of the past timeline, where real memories from decades ago are misdated and inserted into current daily context",
+    "Apathy and Initiative Atrophy: Severe drop in voluntary executive planning and spontaneous behavior, though baseline intellect and conversational mechanics remain preserved"
+  ],
+  "causes": [
+    "Severe Thiamine (Vitamin B1) Depletion: Chronic dietary deficiency halting pyruvate dehydrogenase processing, causing localized metabolic cellular death",
+    "Wernicke-Korsakoff Encephalopathy Consolidation: The chronic, structural progression of untreated acute neuro-petechial lesions within the limbic circuits"
+  ],
+  "risk_factors": [
+    "Chronic severe alcohol abuse coupled with nutritional neglect",
+    "Hyperemesis gravidarum, prolonged bariatric starvation, or un-supplemented long-term IV feeding regimens"
+  ],
+  "diagnosis": [
+    "The 5-Minute Delayed Word Recall Metric: Presenting three simple object tokens; noting an immediate 0/3 recall score after a short cognitive distraction step",
+    "Blood Erythrocyte Transketolase Activity Assays: Confirming depleted systemic thiamine utilization values",
+    "High-Resolution Brain MRI (T2/FLAIR): Revealing classic bilateral atrophy, structural shrinking, and hyperintense signal anomalies isolated in the mammillary bodies and paraventricular gray matrices"
+  ],
+  "remedies": [
+    "Aggressive Parenteral Thiamine Loading: Immediate, high-dose IV administration of thiamine *before* any glucose intake to stabilize surviving limbic border tissue and prevent total brainstem collapse",
+    "External Log-Scribble Scaffolding: Utilizing external, physical notebook logging and rigid environmental smart alarms to manually act as a proxy for the missing biological hard disk array"
+  ],
+  "prevention": [
+    "Proactive nutritional fortification programs and mandatory thiamine repletion protocols during emergency medical intakes for high-risk profiles"
+  ]
+        }
+        
 }
         "motion_frame_rate_drop_glitch": {
   "description": "A critical presentation layer refresh error where the visual processing engine's motion-tracking hub (Area V5/MT) drops from a fluid 60 Hz down to a staggered 1 Hz slide-show output, causing moving physical objects to look like a sequence of frozen, disconnected snapshots suspended in space.",
