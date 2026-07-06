@@ -1861,6 +1861,35 @@ medical_db = {
     "Mitigating systemic neuro-inflammatory markers, shielding the midbrain from chronic industrial oxidative stressors, and optimizing cellular proteostasis frameworks"
   ]
         }
+    "kinematic_code_script_de_serialization": {
+  "description": "A profound cognitive-motor coordination deficit caused by a structural lesion within the dominant inferior parietal lobule, characterized by the complete loss of the kinetic blueprints required to execute purposeful, complex tool movements, despite completely intact muscle power, reflexes, and semantic comprehension of the task.",
+  "symptoms": [
+    "Ideomotor Apraxia: Severe breakdown in the physical execution of learned, purposeful movements on command, despite full understanding and zero motor weakness",
+    "Spatial-Temporal Motor Distortion: Making massive spatial errors when attempting tasks, such as holding a key upside down or trying to turn it with a stabbing motion rather than rotation",
+    "Pantomime De-Structuring Failure: Inability to mimic or pretend to use an object (e.g., 'pretend to brush your teeth') without physically holding the device",
+    "Body-Part-As-Object Substitution: When asked to show how to use a hammer, the host will use their actual clenched fist as the heavy iron head of the hammer, rather than pretending to grip a handle"
+  ],
+  "causes": [
+    "Dominant Left Hemisphere Ischemic Stroke: Cortical branch blocks of the left Middle Cerebral Artery destroying the supramarginal and angular cortical arrays",
+    "Degenerative Corticobasal Degeneration (CBD): A rare tauopathy causing progressive asymmetrical neuron loss across the frontoparietal praxis interfaces"
+  ],
+  "risk_factors": [
+    "Severe internal carotid artery stenosis launching micro-emboli into the left hemisphere",
+    "Uncontrolled atrial fibrillation dropping systemic perfusion consistency"
+  ],
+  "diagnosis": [
+    "The Ideomotor Praxis Imitation Battery: Scoring the host on their ability to copy meaningless hand configurations, transit familiar symbolic gestures (saluting, waving), and execute tool commands on prompt",
+    "The Object Manipulation Discrepancy Assessment: Comparing the host's performance when explicitly asked to use an object versus tracking their spontaneous tool usage in a natural environment",
+    "Diffusion-Weighted Brain MRI (DWI): Revealing a distinct hyperintense ischemic zone or localized tissue loss mapped directly across the left inferior parietal lobule"
+  ],
+  "remedies": [
+    "High-Context Tactile Guiding: Physically placing the tool directly inside the host's palm within its real-world environment to kickstart automatic basal-ganglia-driven routines",
+    "Errorless Motor Training Frameworks: Re-teaching basic tasks step-by-step using intense physical repetition and continuous hand-over-hand structural guidance to build alternative subcortical motor tracks"
+  ],
+  "prevention": [
+    "Aggressive acute stroke management, including rapid tissue plasminogen activator (tPA) infusion to save critical perisylvian planning tissue from necrosis"
+  ]
+    }
         
     "real_time_video_buffer_strobe": {
   "description": "A catastrophic visual processing error within the bilateral V5/MT+ cortical corridors where the system's real-time motion interpolation engine crashes, dropping the perceived frame-rate of moving objects down to a staggered, frozen snapshot loop while leaving static vision intact.",
