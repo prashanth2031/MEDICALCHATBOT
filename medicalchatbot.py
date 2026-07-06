@@ -2960,6 +2960,35 @@ medical_db = {
     "Rigorous management of mean arterial pressure profiles and deployment of antithrombotic therapy in high-risk microvascular profiles"
   ]
 }
+"semantic_index_token_retrieval_timeout": {
+  "description": "A highly isolated language processing anomaly caused by damage to the dominant angular gyrus, characterized by a selective inability to retrieve specific proper nouns and common names, while grammatical syntax, articulation, and semantic comprehension remain perfectly intact.",
+  "symptoms": [
+    "Severe Anomia: Profound difficulty naming common physical objects, people, or locations on demand",
+    "Continuous Circumlocution: Automatically generating detailed functional descriptions of objects as a software bypass to mask missing target tokens",
+    "Frequent Generic Token Substitutions: Overusing vague placeholder strings such as 'thingamajig', 'whatchamacallit', or 'stuff' to maintain sentence completion tracks",
+    "Preserved Auditory Ingestion Verification: If the examiner provides the correct target word ('Is it a clock?'), the host's system instantly validates it ('Yes! That is the word I was looking for!'), proving the storage file is intact but un-indexed"
+  ],
+  "causes": [
+    "Left Angular Gyrus Infarction: Ischemic damage localized to the posterior branches of the left Middle Cerebral Artery",
+    "Primary Progressive Aphasia (Logopenic Variant): Asymmetrical, progressive focal cortical atrophy eroding the temporoparietal language junction networks"
+  ],
+  "risk_factors": [
+    "Micro-embolic showers originating from carotid wall ulcerative plaques",
+    "Early stage Alzheimer's disease pathology accelerating localized synaptic density loss"
+  ],
+  "diagnosis": [
+    "The Boston Naming Test (BNT): Presenting 60 line drawings of objects ranging from common (bed) to rare (abacus) to measure isolated noun retrieval limits",
+    "The Controlled Oral Word Association Test (COWAT): Evaluating verbal fluency metrics across specific phonetic or semantic categories within fixed time boundaries",
+    "Structural Brain MRI or FDG-PET Imaging: Documenting localized hypometabolism or clear tissue volume drops centered squarely within Brodmann Area 39"
+  ],
+  "remedies": [
+    "Semantic Feature Analysis (SFA) Therapy: Forcing the system to map a target object's group, use, action, and location, manually constructing alternative neural index pathways to bypass the damaged node",
+    "Phonological Component Analysis: Utilizing starting sounds, rhyming patterns, and syllable tracking mechanics to rebuild phonemic retrieval cues"
+  ],
+  "prevention": [
+    "Proactive management of cerebrovascular health metrics to preserve the critical perisylvian and trans-cortical plumbing lines from focal ischemic drops"
+  ]
+}
 
 }
 "anosognosia_diagnostic_report_fault": {
