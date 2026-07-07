@@ -7860,6 +7860,35 @@ the persistent sensation that one has already lived through the current moment a
   "prevention": [
     "N/A for congenital cases; standard vascular health for acquired cases"
   ]
+        "involuntary_auditory_script_injection": {
+  "description": "An acquired sensory release phenomenon caused by auditory deafferentation or non-dominant temporal lobe irritation, resulting in the vivid, unceasing perception of structured music due to autonomous hyper-activation of the auditory association networks.",
+  "symptoms": [
+    "Musical Paracusis: Continuous or paroxysmal perception of high-fidelity instrumental music or vocal songs in the absence of an external acoustic source",
+    "Unmodifiable Playback State: Absolute failure of cognitive, attention-shifting, or volitional suppression techniques to halt or alter the intrusive audio track",
+    "Phonophobic Tuning: The internal volume or clarity of the phantom track often intensifies in dead-silent environments, as the network struggles to find external signal grounding"
+  ],
+  "causes": [
+    "Sensory Deafferentation (Oliver Sacks 'Release' Phenomenon): Severe peripheral hearing loss causing the brain's auditory mapping arrays to run wild in a vacuum",
+    "Focal Temporal Lobe Epileptic Discharges: Sub-clinical, localized micro-seizures inside the non-dominant superior temporal gyrus continually re-triggering acoustic memory files"
+  ],
+  "risk_factors": [
+    "Profound advanced otosclerosis or chronic cochlear nerve degeneration",
+    "Isolated right-hemisphere lacunar strokes altering localized GABAergic inhibitory pathways"
+  ],
+  "diagnosis": [
+    "Pure-Tone and Speech Audiometry: Quantifying the degree of baseline sensory gating loss or conduction input drops",
+    "Continuous Scalp Video-EEG Monitoring: Ranging out whether the musical stream correlates with rhythmic, epileptiform electrical spikes in the temporal lobes",
+    "Functional Neuroimaging (fMRI / PET): Showing active, bright metabolic hot spots localized inside Heschl’s gyrus and the superior temporal sulcus during active hallucination phases"
+  ],
+  "remedies": [
+    "Acoustic Masking Scaffolding: Fitting an external, wearable hearing aid or white-noise generator to flood the system with real sound packets, which artificially restores the gating suppressions",
+    "GABAergic Neurotransmitter Modulation: Utilizing low-dose gabapentin or carbamazepine to dampen the autonomous hyper-excitability of the isolated temporal cells"
+  ],
+  "prevention": [
+    "Early intervention and aggressive treatment of progressive hearing degradation via high-gain amplification arrays to keep the temporal processing centers continuously anchored"
+  ]
+}
+
 }
 "aboulia_execution_latency": {
   "description": "A pathological inability to make decisions or initiate voluntary actions, ranging from subtle hesitation to a total lack of willpower.",
