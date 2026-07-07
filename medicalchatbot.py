@@ -5626,6 +5626,36 @@ medical_db = {
   "prevention": [
     "Wearing high-efficiency protective headgear during high-impact activities to prevent cribriform data lane shearing, and addressing chronic ENT inflammatory cycles before they degrade central registries"
   ]
+    "spatial_intercept_coordinate_desync": {
+  "description": "An isolated visuospatial coordination anomaly caused by structural damage to the superior parietal lobule, presenting as a severe impairment in using real-time visual feedback to guide limb movements toward a target, despite entirely intact visual fields, muscle power, and basic motor pathways.",
+  "symptoms": [
+    "Optic Ataxia: Pronounced spatial inaccuracy and mis-reaching when trying to touch or grasp objects under direct visual control",
+    "Grasp Configuration Deficit: Total failure to dynamically pre-shape the hand, finger spread, or wrist rotation angle to match the physical dimensions of an approaching object",
+    "Peripheral Perceptual Spatial Drift: Extreme amplification of reaching errors when attempting to intercept targets located within the extrafoveal peripheral visual fields",
+    "Preserved Proprioceptive Targeting: Full preservation of reaching accuracy when guided by touch, internal body-map data, or acoustic markers rather than sight"
+  ],
+  "causes": [
+    "Bilateral Superior Parietal Infarction: Ischemic strokes localized to the watershed vascular zones between the Middle and Posterior Cerebral Arteries",
+    "Posterior Cortical Atrophy (PCA): A progressive, atypical variant of neurodegeneration that aggressively erodes the parietal-occipital visual processing networks"
+  ],
+  "risk_factors": [
+    "Severe systemic hypotension causing hypoperfusion drops across the cerebral border zones",
+    "Arterial embolic events originating from cardiac valve calcifications"
+  ],
+  "diagnosis": [
+    "The Visual Pointing and Intercept Matrix: Tracking structural accuracy as the host attempts to quickly point to targets scattered across central and peripheral view sectors",
+    "The Slot Orientation Alignment Test: Evaluating whether the host can accurately tilt their hand to pass through a variable-angle slit barrier without halting",
+    "High-Resolution Structural Brain MRI: Documenting distinct structural tissue loss or focal ischemic lesions mapped directly across the superior parietal lobules and intraparietal sulci"
+  ],
+  "remedies": [
+    "Tactile-Proprioceptive Anchor Scaffolding: Training the host to use physical touch boundaries and self-guided bodily reference points to bypass visual coordinate mapping",
+    "Slow-Velocity Compensation Routines: Forcing deliberate, ultra-slow limb advancement to allow slower frontal tracking networks to intervene and correct the trajectory path manually"
+  ],
+  "prevention": [
+    "Rapid stabilization of global perfusion metrics during acute ischemic incidents to shield vulnerable parietal watershed networks from permanent focal necrosis"
+  ]
+}
+
 }
 
 "zeigarnik_uncommitted_transaction_error": {
