@@ -5418,6 +5418,35 @@ medical_db = {
   "remedies": [
     "Audio Masking: Using 'White/Brown Noise' to 'Drown Out' the 'Trigger Packet' in 'Signal Noise'",
     "Cognitive Counter-Conditioning: Attempting to 'Re-map' the 'Trigger' to a 'Neutral Identity
+"global_visual_core_frame_drop": {
+  "description": "A profound neuro-sensory anosognosia where a host rendered totally blind by bilateral primary visual cortex destruction fiercely denies their visual loss, due to the simultaneous erasure of the neural monitoring systems responsible for flagging sensory failure.",
+  "symptoms": [
+    "Cortical Blindness: Total loss of visual perception and light processing capability at the cerebral cortical layer",
+    "Visual Anosognosia (Anton's Denial): Vehement, unshakeable denial of blindness, asserting that vision is perfectly normal even when completely incapacitated",
+    "Continuous Visual Confabulation: Elaborate, highly detailed fabrication of the surrounding visual landscape to patch the dead sensory data slots",
+    "Systemic Coordination Disconnect: Attempting to walk and maneuver through spaces normally, resulting in constant physical impacts with unperceived structural barriers"
+  ],
+  "causes": [
+    "Bilateral Posterior Cerebral Artery (PCA) Stroke: Ischemic infarction causing complete tissue death across both calcarine fissures simultaneously",
+    "Traumatic Occipital Pole Disruption: High-impact occipital skull fractures crushing the primary visual receiving zones and associative feedback lines"
+  ],
+  "risk_factors": [
+    "Basilar artery apex thrombosis throwing twin emboli into the terminal PCA segments",
+    "Severe global cerebral hypoperfusion during prolonged cardiac arrest phases"
+  ],
+  "diagnosis": [
+    "The Threat-Reflex Visual Confrontation Test: Bringing an object rapidly toward the host's eyes; noting a complete lack of a defensive blink response while the host claims to watch it approach",
+    "The Contradictory Environmental Audit: Turning off all room lights into absolute pitch darkness and asking the host if it affects their reading ability; noting if they claim they can still read perfectly",
+    "Diffusion-Weighted Brain MRI (DWI): Revealing stark, symmetrical hyperintense strokes spanning the entire primary visual cortex across both hemispheres"
+  ],
+  "remedies": [
+    "Cognitive Contradiction Confrontation: Gently guiding the host through undeniable physical tasks (e.g., asking them to pick up a bright object placed directly before them) to try and force alternative frontal nodes to recognize the data error",
+    "Neurological Stabilization Support: Maximizing collateral blood flow to adjacent visual association tissue to preserve surrounding spatial mapping grids"
+  ],
+  "prevention": [
+    "Immediate endovascular clot retrieval or thrombolytic deployment at the top of the basilar artery to rescue the occipital visual poles before total ischemia locks in"
+  ]
+}
 
 "cotard_global_kernel_panic": {
   "description": "A rare neuropsychiatric delusion in which the person holds the delusional belief that they are already dead, do not exist, are putrefying, or have lost their blood or internal organs.",
