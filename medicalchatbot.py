@@ -4557,6 +4557,36 @@ medical_db = {
   "prevention": [
     "Aggressive 'Maintenance' of 'Affective Health' and 'Signal Connectivity'"
   ]
+    "affective_perceptual_identity_mismatch": {
+  "description": "A rare misidentification syndrome caused by a structural or functional disconnection between the facial recognition networks of the fusiform gyrus and the emotional processing centers of the amygdala, resulting in the fixed delusion that familiar people have been replaced by identical impostors.",
+  "symptoms": [
+    "Capgras Impostor Delusion: Rigid, absolute conviction that a close family member or partner is a highly convincing physical double or fraudulent actor",
+    "Flat Skin Conductance Response (SCR): Total objective loss of the expected autonomic nervous system arousal spikes when looking at faces of loved ones",
+    "Hyper-Isolated Paranoid Fabulation: Developing intricate, localized security narratives to explain how and why the target person was cloned or swapped",
+    "Cross-Modal Sensory Paradox: Resolving the target as authentic through voice networks (auditory) while instantly rejecting them upon visual confirmation"
+  ],
+  "causes": [
+    "Right-Sided Frontoparietal or Occipitotemporal Lesions: Focal traumatic brain injury or ischemic strokes disrupting the dorsal visual-limbic structural cabling",
+    "Lewy Body Dementia or Severe Neurodegeneration: Progressive alpha-synuclein accumulation degrading the subcortical emotional valuation nodes"
+  ],
+  "risk_factors": [
+    "Advanced cortical tissue thinning across the right hemisphere coordinate processing centers",
+    "Sub-clinical white matter tract shear injuries following high-impact rotational head deceleration"
+  ],
+  "diagnosis": [
+    "Autonomic Psychophysiological SCR Testing: Measuring sweat gland voltage shifts while presenting images of strangers alternating with close family relatives to confirm a flat lined response",
+    "The Capgras Cross-Modal Presentation Protocol: Auditing consistency in identity validation as the examiner switches the target between voice-only and face-to-face visibility states",
+    "Fluorodeoxyglucose (FDG) PET Scan: Highlighting distinct patterns of hypometabolism within the right temporal lobe and the frontoparietal coordination hubs"
+  ],
+  "remedies": [
+    "Auditory-Dominant Communication Scaffolding: Instructing family members to always call out loudly or speak from behind a screen before entering the host’s line of sight, maximizing acoustic validation keys",
+    "Atypical Antipsychotic Micro-Dosing: Deploying low-dose risperidone or olanzapine to dampen the fronto-cortical predictive engine's drive to construct hyper-paranoid narratives over the empty data sectors"
+  ],
+  "prevention": [
+    "Proactive tracking and maintenance of right hemisphere deep white matter perfusion to preserve the critical structural data bridges linking vision to emotion"
+  ]
+}
+
 }
 "proprioceptive_bus_desynchronization_fault": {
   "description": "A critical timing mismatch anomaly where the latency gap between physical muscle command execution and inbound tactile positional feedback exceeds acceptable processing limits, causing the system to lose track of the chassis coordinate alignment.",
