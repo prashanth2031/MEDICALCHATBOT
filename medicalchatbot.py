@@ -5613,6 +5613,36 @@ medical_db = {
   "prevention": [
     "Standard 'Neural Pruning' during 'System Development' (Ages 0-5)"
   ]
+    "volitional_motor_target_disconnect": {
+  "description": "An acquired or congenital neurological control loop failure where a host loses the ability to initiate voluntary, horizontal saccadic eye movements on command, despite fully preserved reflexive eye movements, intact ocular muscles, and healthy extraocular cranial nerves.",
+  "symptoms": [
+    "Volitional Saccadic Paralysis: Complete inability to initiate rapid horizontal eye movements toward a requested object on command",
+    "Compensatory Head Thrusts (Cogan's Sign): Forceful, fast head rotations past a target to mechanically drag the eyes onto the object using vestibular reflexes",
+    "Preserved Reflexive Tracking: Intact capability to instantly lock onto and track moving objects or sudden unexpected peripheral flashes",
+    "Fixation Lock Instability: Squeezing the eyelids closed frequently to force a manual system reset and unlock the eyes from a static focus point"
+  ],
+  "causes": [
+    "Bilateral Frontal Eye Field Infarction: Ischemic strokes targeting the prefrontal motor control zones along the middle frontal gyrus",
+    "Gaucher Disease Type 3 or Niemann-Pick Type C: Progressive lysosomal storage disorders causing metabolic degradation across the brainstem-cerebellar coordination centers"
+  ],
+  "risk_factors": [
+    "Inborn errors of lipid metabolism causing systemic accumulation of glucocerebrosides inside neural tissues",
+    "Perisylvian or prefrontal structural damage secondary to perinatal hypoxia"
+  ],
+  "diagnosis": [
+    "The Command vs. Reflex Saccade Audit: Monitoring eye velocity when instructed to 'look left' versus their response to a sudden finger-snap in the peripheral field",
+    "The Optokinetic Nystagmus (OKN) Drum Test: Rotating a striped cylinder before the host's eyes; noting if the fast-phase resetting saccades drop out entirely",
+    "Sagittal and Axial Brain MRI: Auditing for distinctive structural atrophy inside the cerebellum, frontoparietal networks, or deep bilateral frontal eye fields"
+  ],
+  "remedies": [
+    "Neck-Chassis Compensation Training: Teaching the host to execute smooth, controlled head-thrust maneuvers to limit cervical muscle strain during scanning",
+    "Moving-Target Communication Scaffolding: Utilizing dynamic, animated user interfaces that slide into view to engage the host's intact reflexive tracking systems"
+  ],
+  "prevention": [
+    "Enzyme replacement therapy or substrate reduction pathways in metabolic genetic variants to protect the brainstem gaze centers from structural cellular drop-outs"
+  ]
+}
+        
 }
 "synesthetic_bus_leakage_fault": {
   "description": "A major cross-talk anomaly where independent sensory input lines suffer a gating failure, causing data packets from one modal channel to bleed into and execute inside a parallel processing matrix.",
