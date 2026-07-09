@@ -4650,7 +4650,36 @@ medical_db = {
     "Aggressive clinical tracking of posterior circulation vascular profiles and minimizing direct mechanical stress to the lower back coordinates of the cranium"
   ]
         }
-        
+   "acoustic_pattern_parsing_dropout": {
+  "description": "An isolated auditory processing anomaly caused by the structural disconnection of the primary auditory cortex from the left hemisphere speech-processing centers, resulting in a total inability to decode or comprehend spoken language while preserving non-verbal hearing, reading, and spoken output.",
+  "symptoms": [
+    "Auditory Verbal Agnosia: Complete failure to recognize, parse, or understand spoken language structures",
+    "Preserved Environmental Auditory Processing: Flawless detection and identification of environmental sounds, sound effects, and musical instruments",
+    "Preserved Graphic Literacy: 100% intact ability to read, comprehend written text, and express complex thought via writing",
+    "Fluent Autonomous Speech: Fully preserved ability to speak fluently with normal syntax, vocabulary, and logical sentence composition"
+  ],
+  "causes": [
+    "Bilateral Superior Temporal Gyrus Infarction: Embolic blocks tracking down both left and right temporal branches of the Middle Cerebral Artery (MCA)",
+    "Herpes Simplex Virus (HSV-1) Encephalitis: A viral intrusion demonstrating high tropism for temporal lobe white matter pathways"
+  ],
+  "risk_factors": [
+    "Sequential or simultaneous embolic events affecting the perisylvian language processing corridors",
+    "Deep subcortical temporal demyelinating lesions cutting beneath the transverse temporal gyri"
+  ],
+  "diagnosis": [
+    "The Audiometric Sound/Word Differentiation Audit: Demonstrating normal pure-tone thresholds on an audiogram while returning a 0% score on spoken word recognition tests",
+    "The Cross-Modal Ingestion Protocol: Testing a host's immediate turnaround response to an instruction delivered via audio speech versus the same text delivered via written card",
+    "High-Resolution Fluid-Attenuated Inversion Recovery (FLAIR) MRI: Confirming targeted, bilateral hyperintense lesions or structural damage spanning the superior temporal planes"
+  ],
+  "remedies": [
+    "Visual-Graphic Communication Scaffolding: Transitioning all interactive workflows to text-based, live captioning displays, lip-reading training, or physical sign boards",
+    "Acoustic Context Training: Utilizing highly repetitive non-verbal audio cues to help the host establish reliable environmental markers while operating without speech inputs"
+  ],
+  "prevention": [
+    "Aggressive clinical management of transient ischemic attacks (TIAs) involving perisylvian blood supply zones to avoid multi-focal tissue drops"
+  ]
+}
+
 }
 
 "capgras_auth_spoofing_fault": {
