@@ -2309,7 +2309,36 @@ medical_db = {
     "Rigorous maintenance of systemic mean arterial pressure during complex cardiac operations to prevent watershed hypoperfusion in terminal visual zones"
   ]
 }
-        
+"somatic_coordinate_plane_inversion": {
+  "description": "An agnosic somatognostic breakdown where a host loses the ability to locate or point to distinct parts of their own body on command, due to a localized corruption of the internal 3D visuospatial body schema map within the left parietal cortex, while retaining intact semantic definitions of those body parts.",
+  "symptoms": [
+    "Autotopagnosia: Absolute failure to locate, index, or point to specific areas of one's own physical chassis upon verbal instruction",
+    "Contiguity Orientation Errors: Inadvertently pointing to adjacent or structurally connected body parts when targeting a specific requested node",
+    "Preserved Functional Object Mapping: Retaining a flawless ability to locate and point out the components of mechanical assemblies, tools, or geographical maps",
+    "Reflexive Somatosensory Sparing: Intact capability to instantly touch or scratch a specific body part if triggered by a direct localized tactile stimulus or pinch"
+  ],
+  "causes": [
+    "Left Posterior Parietal Cortex Stroke: Ischemic or hemorrhagic disruption within the angular gyrus or superior parietal lobule networks",
+    "Focal Parietal Neoplastic Infestation: Glioblastoma or metastatic growths selectively degrading the inter-sensory structural coordinate tables"
+  ],
+  "risk_factors": [
+    "Embolic blocks migrating through the terminal parietal branches of the Left Middle Cerebral Artery (MCA)",
+    "Penetrating traumatic brain injuries disrupting the deep structural white matter lines of the left hemisphere"
+  ],
+  "diagnosis": [
+    "The Verbal Body-Mapping Protocol: Requesting the host to point to a randomized sequence of body parts (e.g., 'nose, knee, ear, thumb') and tracking spatial drift",
+    "The Conceptual-Chassis Contrast Audit: Comparing the host's accuracy when pointing to parts of a drawn human figure versus pointing to those same parts on their own body",
+    "T2-Weighted Fluid-Attenuated Inversion Recovery (FLAIR) MRI: Identifying clear structural lesions or tissue loss concentrated inside the left parietal lobe boundaries"
+  ],
+  "remedies": [
+    "Tactile-Prompt Communication Scaffolding: Instructing caregivers to physically tap or touch the target limb to trigger subcortical reflexive routing instead of giving purely verbal directions",
+    "Proprioceptive Anchor Routines: Utilizing weighted bands or heavy tracking rings on extremities to boost raw somatosensory feedback up into alternative sensory registers"
+  ],
+  "prevention": [
+    "Rapid endovascular mitigation of left hemisphere cerebral vascular events to preserve the highly sensitive inter-sensory coordinate matrices"
+  ]
+}
+
 }
 "ca1_hippocampal_synaptic_gate_jam": {
   "description": "A benign, temporary, yet profound memory write failure characterized by the sudden onset of anterograde amnesia, caused by transient metabolic or microvascular congestion within the CA1 sector of the hippocampal formation, leading to a temporary inability to encode new episodic memory strings.",
