@@ -5569,7 +5569,36 @@ medical_db = {
     "N/A: Usually a 'Critical-State' failure of the 'Self-Monitoring Kernel'"
   ]
 }
-
+"chronological_core_frame_interpolation_failure": {
+  "description": "A rare and devastating neurological visual processing defect where a host loses the capacity to perceive spatial motion or movement trajectories in real-time, caused by selective bilateral degradation of the extrastriate visual cortical area V5/MT, leaving object recognition and static vision entirely unaffected.",
+  "symptoms": [
+    "Akinetopsia: Complete absence of fluid motion perception, turning the visual field into a series of disjointed, static snapshots",
+    "Dynamic Teleportation Delusions: Perceiving moving environmental assets (people, vehicles, falling objects) as instantly jumping from one coordinate node to another",
+    "Pouring/Filling Fluid Blindness: Inability to gauge the rising level of liquids in a vessel due to the stream appearing entirely frozen and motionless",
+    "Social Tracking Dispersal: Experiencing extreme disorientation during group conversations because faces and mouths blink into new states without visible transitions"
+  ],
+  "causes": [
+    "Bilateral Middle Temporal (V5/MT) Cortical Stroke: Symmetrical ischemic damage typically following deep posterior cerebral or middle cerebral artery branch occlusions",
+    "High-Dose Neoplastic/Antidepressant Toxicity Profiles: Rare localized metabolic toxicity selectively compromising the magnocellular visual pathway interneurons"
+  ],
+  "risk_factors": [
+    "Penetrating bilateral occipitotemporal junction trauma",
+    "Symmetrical watershed infarctions at the boundary limits of the posterior cerebral vascular tree"
+  ],
+  "diagnosis": [
+    "The Apparent-Motion Vector Challenge: Presenting a screen displaying dot arrays moving at varying coherence percentages and tracking the drop-out of direction detection",
+    "The Ventral vs. Dorsal Vision Isolation Audit: Testing high-resolution object naming (intact) directly against the tracking of a swinging pendulum (fails entirely)",
+    "High-Resolution Functional MRI (fMRI): Visualizing a total absence of blood-oxygen-level-dependent (BOLD) activation inside the V5/MT complex when exposed to moving visual patterns"
+  ],
+  "remedies": [
+    "Acoustic Velocity Cross-Mapping: Training the host to utilize auditory tracking mechanisms, clickers, or environmental sounds to deduce motion metrics",
+    "High-Contrast Static Boundary Adaptation: Using strobe-blocking lens arrays and focusing strictly on static structural landmarks during environmental navigation"
+  ],
+  "prevention": [
+    "Mitigation of prolonged systemic hypoxia and rapid management of multi-focal posterior circulatory strokes to insulate the highly specialized motion-processing hubs"
+  ]
+}
+        
 "fas_motor_thread_reroute": {
   "description": "A speech disorder that causes a sudden change in speech patterns so that a person is perceived to speak with a 'foreign' accent.",
   "symptoms": [
