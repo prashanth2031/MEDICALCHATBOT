@@ -3373,6 +3373,36 @@ medical_db = {
   "prevention": [
     "Cognitive 'Pinging': Regularly 'Exercising' the 'Spatial Navigation Engine' without 'External Assistance'"
   ]
+        "volitional_motor_initialization_lock": {
+  "description": "A severe subcortical extrapyramidal movement execution failure caused by the progressive degradation of dopaminergic projections from the substantia nigra to the striatum, leading to chronic hyper-activation of the indirect pathway and an absolute failure to initiate voluntary motor programs.",
+  "symptoms": [
+    "Akinesia / Freezing: Absolute inability to break internal static friction to execute a planned, voluntary motor sequence on command",
+    "Micro-Kinetic Shuffling: Striking reduction in step amplitude and mechanical velocity once movement passes the striatal gate",
+    "Paradoxical Kinesia: The instantaneous, temporary restoration of fluid motor agility triggered exclusively by sudden, high-threat external environmental prompts",
+    "Amimia / Masked Facies: Complete loss of automatic micromovements in the facial musculature, freezing expression into a static state"
+  ],
+  "causes": [
+    "Idiopathic Nigrostriatal Degeneration: Progressive loss of tyrosine hydroxylase-positive neurons within the substantia nigra pars compacta",
+    "Neuroleptic Dopamine Blockade: Drug-induced extrapyramidal lockouts triggered by high-affinity D2 receptor antagonists"
+  ],
+  "risk_factors": [
+    "Chronic alpha-synuclein protein aggregation resulting in structural Lewy body accumulation within brainstem nuclei",
+    "Environmental neurotoxin exposure selectively targeting mitochondrial complex I within dopaminergic cells"
+  ],
+  "diagnosis": [
+    "The Visual-Kinetic Paradoxical Test: Placing high-contrast parallel lines along a walkway to see if external visual cues unlock the freezing mechanism",
+    "The Levopdopa Challenge Protocol: Administering a baseline dose of exogenous dopamine precursors and measuring the immediate reduction in initialization latency",
+    "Dopamine Transporter (DaTscan) SPECT Imaging: Visualizing an absolute loss of striatal radiotracer binding, confirming the degradation of dopamine transporters"
+  ],
+  "remedies": [
+    "Exogenous Dopamine Replenishment: Administering Carbidopa/Levodopa to bypass the degenerated nigra cells and artificially restore striatal neurochemical levels",
+    "High-Frequency Deep Brain Stimulation (DBS): Implanting chronic stimulation leads directly into the subthalamic nucleus ($STN$) or internal globus pallidus ($GPi$) to electrically suppress the overactive brake loop"
+  ],
+  "prevention": [
+    "Insulating deep brainstem networks from neuroinflammatory stressors and tracking early prodromal markers like rapid eye movement (REM) sleep behavior disruptions"
+  ]
+}
+
 }
 
 "zoster_sine_herpete": {
