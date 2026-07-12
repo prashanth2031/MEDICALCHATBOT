@@ -2959,6 +2959,36 @@ medical_db = {
   "prevention": [
     "Vascular optimization protocols to mitigate thromboembolic risks, maintaining robust collateral cerebral blood flow, and isolating critical temporal infrastructure from focal neuro-inflammatory cascades"
   ]
+    "haptic_address_erasure": {
+  "description": "A profound somatosensory agnosia where a host loses the capacity to identify common objects by tactile manipulation alone in the absence of visual input, caused by focal degradation of the superior parietal somatosensory association areas, despite fully intact primary cutaneous touch, temperature, and pain sensitivity.",
+  "symptoms": [
+    "Astereognosis: Total failure to synthesize individual tactile data packets (edges, angles, curves) into a recognizable 3D object shape",
+    "Haptic Identity Blanking: Manipulating familiar tools (keys, coins, rings) blindly without generating an internal asset lookup match",
+    "Symmetric Modality Disparity: Instantaneous object identification upon visual exposure, contrasting with complete failure during isolated manual touch",
+    "Tactile Contiguity Preservation: Full capability to detect localized pressure points, temperature shifts, and micro-textural differences on the skin surface"
+  ],
+  "causes": [
+    "Superior Parietal Lobule Infarction: Ischemic strokes localized within the terminal parietal distribution of the Middle Cerebral Artery (MCA)",
+    "Contusional Parietal Trauma: Focal deceleration impacts causing localized tissue degradation across Brodmann Areas 5 and 7"
+  ],
+  "risk_factors": [
+    "Thromboembolic migrations targeting the non-dominant or dominant parietal association hubs",
+    "Deep cortical demyelinating plaques disrupting the short association fibers linking S1 to S2"
+  ],
+  "diagnosis": [
+    "The Stereognosis Object Manipulation Test: Placing a series of common geometric shapes (spheres, cubes, pyramids) in the host's hand with eyes closed and tracking error rates",
+    "The Dual-Transmodal Identity Audit: Measuring asset recognition latencies during blind tactile manipulation versus immediate cross-modal visual validation",
+    "High-Resolution Structural T2-FLAIR MRI: Spotting distinct ischemic scars, focal tissue drop-outs, or localized encephalomalacia inside the superior parietal lobule boundaries"
+  ],
+  "remedies": [
+    "Visual-Anchored Exploration Strategies: Training the host to always maintain direct line-of-sight tracking during object manipulation, preventing blind manual reaching tasks",
+    "Bimodal Verbal Cueing Protocols: Having the host describe tactile characteristics out loud ('it is cold, it has sharp points') to engage alternative language-linked retrieval pathways"
+  ],
+  "prevention": [
+    "Proactive management of internal carotid artery stenosis and embolic risk sources to prevent downstream tissue loss within the terminal parietal vascular beds"
+  ]
+}
+        
 }
 "dejerine_roussy_neurological_loop_lock": {
   "description": "A profound central neuropathic pain disorder caused by localized vascular destruction of the ventral posterior thalamic nuclei, resulting in the collapse of sensory gating firewalls and the permanent miscompilation of benign tactile signals into persistent, agonizing pain loops.",
