@@ -3402,6 +3402,35 @@ medical_db = {
     "Insulating deep brainstem networks from neuroinflammatory stressors and tracking early prodromal markers like rapid eye movement (REM) sleep behavior disruptions"
   ]
 }
+"ocular_shutter_lockout": {
+  "description": "A severe brainstem oculomotor gating failure caused by the degradation of omnipause neurons within the paramedian pontine reticular formation, resulting in a complete failure of saccadic suppression and chronic, chaotic ocular oscillations that manifest as a permanently unstable visual environment.",
+  "symptoms": [
+    "Saccadic Oscillopsia: An intensely disorienting visual defect where the entire environment appears to shake, vibrate, or whip during eye movements",
+    "Opsoclonus / Ocular Flutter: Involuntary, chaotic, high-frequency continuous ocular oscillations occurring in multiple planes without any fixation intervals",
+    "Saccadic Over-Shoot / Dysmetria: Inability to execute a clean, single-step ocular landing, causing the eyes to oscillate wildly around a new visual target",
+    "Motion-Induced Vestibulocochlear Emesis: Profound, systemic nausea and equilibrium collapse triggered exclusively by the unsuppressed visual blurs"
+  ],
+  "causes": [
+    "Nucleus Raphe Interpositus Encephalitis: Autoimmune or paraneoplastic degradation of brainstem omnipause cells, frequently linked to anti-Ri or anti-Hu antibody arrays",
+    "Pontine Tegmental Infarction: Focal ischemic events within the perforating paramedian branches of the basilar artery destroying the PPRF core hubs"
+  ],
+  "risk_factors": [
+    "Underlying occult neuroendocrine or small-cell lung malignancies triggering cross-reactive autoantibody profiles against brainstem structures",
+    "Microvascular brainstem disease causing focal watershed tissue loss within the lower brainstem core"
+  ],
+  "diagnosis": [
+    "The High-Speed Video-Oculography Gaze Audit: Utilizing infrared tracking matrices to capture the un-damped, multi-directional oscillatory waves during fixation attempts",
+    "The Saccadic Velocity Profile Analysis: Observing a complete absence of stable deceleration curves, replaced by irregular burst cycles",
+    "Targeted Cerebrospinal Fluid (CSF) Western Blotting: Screening for specific anti-neuronal nuclear antibodies confirming a localized, paraneoplastic brainstem inflammation profile"
+  ],
+  "remedies": [
+    "Gabaergic Burst-Suppression Pharmacology: Administering high-affinity GABA receptor agonists (like Clonazepam) or membrane stabilizers to artificially mute the overactive burst neurons",
+    "Immune-Modulating Infusion Sweeps: Utilizing intravenous immunoglobulins (IVIg) or plasma exchange therapies to remove systemic antibodies targeting the OPN membrane matrix"
+  ],
+  "prevention": [
+    "Rapid intervention during acute brainstem inflammatory presentations and systemic tumor surveillance to capture paraneoplastic cascades before deep brainstem tracking hubs suffer permanent structural loss"
+  ]
+}
 
 }
 
