@@ -5092,7 +5092,35 @@ medical_db = {
     "Expedient clinical management of posterior vascular events and careful regulation of anticonvulsant dosages to avoid unexpected visual cortex signaling suppression"
   ]
 }
-    
+  "limb_kinematic_mirror_lock": {
+  "description": "A rare congenital motor routing anomaly characterized by an absolute inability to initiate purely unilateral voluntary movements with the upper extremities, resulting in involuntary, simultaneous, mirrored movements of the contralateral limb due to disrupted corticospinal decussation or absent inter-hemispheric inhibition.",
+  "symptoms": [
+    "Bimanual Synkinesis: Immediate, involuntary mirroring of voluntary finger, hand, or wrist movements in the opposite limb",
+    "Asynchronous Task Exhaustion: High-latency cognitive fatigue and physical strain when attempting to manually suppress mirror feedback during fine-motor tasks",
+    "Coordination Packet Collisions: Severe difficulty executing complex bimanual workflows that require non-identical, independent kinetic plans",
+    "Preserved Symmetrical Dexterity: Intact muscle mass, normal reflex arcs, and clean tactile sensation across both arms when operating in matched unison"
+  ],
+  "causes": [
+    "DCC or RAD51 Axon Guidance Mutations: Genetic variations disrupting netrin-1 receptor signalling, leading to anomalous uncrossed corticospinal tract pathways",
+    "Congenital Corpus Callosum Dysgenesis: Structural malformations of the inter-hemispheric commissure causing a total failure of transcallosal inhibition protocols"
+  ],
+  "risk_factors": [
+    "Autosomal dominant inheritance profiles passing down compromised axon-guidance steering arrays across generations"
+  ],
+  "diagnosis": [
+    "The Quantitative Bimanual Synkinesis Audit: Utilizing electronic strain-gauge gloves to measure the precise force and micro-second latency matching of the involuntary hand",
+    "Transcranial Magnetic Stimulation (TMS): Electrically stimulating the left motor cortex and discovering abnormal, simultaneous bilateral Motor Evoked Potentials (MEPs) in both wrists",
+    "Diffusion Tensor Imaging (DTI) Tractography: Mapping the white matter architecture to confirm an abnormally high ratio of uncrossed, ipsilateral corticospinal fibers running down the brainstem"
+  ],
+  "remedies": [
+    "Ergonomic Alternation Workflows: Modifying physical tasks to leverage symmetrical, two-handed mirror actions where possible, turning the bug into an optimized state",
+    "Sub-Task Isolation Coaching: Utilizing highly structured tactile anchors to keep the non-dominant hand physically clamped to a stationary surface, mechanically bracing against the involuntary mirror force"
+  ],
+  "prevention": [
+    "Genetic screening for known axon steering mutations to understand familial inheritance patterns and map developmental motor milestones early"
+  ]
+}
+
 }
 
 "mirror_touch_system_bleed": {
