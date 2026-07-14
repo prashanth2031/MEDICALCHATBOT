@@ -5179,6 +5179,34 @@ medical_db = {
     "Genetic screening for known axon steering mutations to understand familial inheritance patterns and map developmental motor milestones early"
   ]
 }
+"visuospatial_coordinates_grid_drop": {
+  "description": "A profound topographical orientation failure where a host completely loses the ability to navigate familiar environments or recognize known landmarks, caused by focal lesions within the parahippocampal place area, despite perfectly preserved static object vision and general intelligence.",
+  "symptoms": [
+    "Topographical Agnosia: Total failure to identify known geographic environments, streets, or landmarks that were previously deeply familiar",
+    "Internal Grid Desynchronization: Loss of directional orientation inside one's own domestic residence, turning simple floor plans into un-navigable spaces",
+    "Procedural Map Reset Effect: Perceiving previously traveled pathways as completely novel, unfamiliar layouts upon every new entry sequence",
+    "Rigid Alphanumeric Navigation Reliance: Forced dependency on explicit, non-spatial text instructions to execute basic route changes"
+  ],
+  "causes": [
+    "Lingual/Parahippocampal Gyrus Infarction: Ischemic drop-outs tracking the branch extensions of the Posterior Cerebral Artery (PCA)",
+    "Localized Ventromedial Occipitotemporal Trauma: Structural tissue disruption following direct contusional impacts to the basal brain structures"
+  ],
+  "risk_factors": [
+    "Embolic events originating in the vertebrobasilar arterial distribution, compromising downstream spatial processing hubs"
+  ],
+  "diagnosis": [
+    "The Famous Landmark Matching Audit: Evaluating the host's capacity to identify international landmarks (e.g., the Eiffel Tower) versus local daily crossroads",
+    "The Procedural Floorplan Drawing Challenge: Requesting the host sketch a basic blueprint of their own home layout, noting severe spatial distortion or total failure",
+    "High-Resolution Functional Neuroimaging (fMRI): Documenting a total absence of blood-oxygen-level-dependent (BOLD) tracking changes inside the parahippocampal place area ($PPA$) when exposed to landscape arrays"
+  ],
+  "remedies": [
+    "GPS-Tethered Auditory Guidance: Using real-time, compass-locked mobile voice navigators that provide explicit turn-by-turn auditory directions",
+    "Distinct Textual Labeling arrays: Placing high-contrast text signs directly onto home doors ('KITCHEN', 'BATHROOM') to bypass spatial recognition maps entirely"
+  ],
+  "prevention": [
+    "Rapid stabilization of posterior circulatory stroke indicators to insulate the highly fragile ventromedial indexing hubs from permanent tissue drop-outs"
+  ]
+}
 
 }
 
