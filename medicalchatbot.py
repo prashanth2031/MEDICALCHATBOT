@@ -4925,6 +4925,36 @@ medical_db = {
   "prevention": [
     "Rapid deployment of hyperbaric oxygen protocols during carbon monoxide exposures to minimize delayed neuropsychiatric and occipital white-matter decay profiles"
   ]
+        "auditory_language_bus_failure": {
+  "description": "A highly selective central auditory processing defect where a host loses the ability to comprehend spoken language while retaining normal hearing for environmental sounds, music, and pitch, caused by the structural isolation of Wernicke's area from primary auditory inputs.",
+  "symptoms": [
+    "Pure Word Deafness: The complete perception of human speech as unstructured, un-decodable environmental noise or gibberish",
+    "Preserved Non-Verbal Auditory Mapping: Full capability to instantly identify tool clicks, animal calls, musical melodies, and sirens by sound alone",
+    "Intact Graphic-Linguistic Routing: Uncompromised capacity to read text, write fluently, and communicate via written scripts or sign language",
+    "Preserved Motor Speech Output: Articulate, grammatically correct spontaneous speech generation, independent of the input parsing failure"
+  ],
+  "causes": [
+    "Bilateral Temporal Gyrus Infarction: Symmetrical embolic strokes destroying subcortical white matter beneath Heschl's gyrus, severing the acoustic-linguistic data lines",
+    "Herpes Simplex Encephalitis: Localized viral degradation targeting the superior temporal cortical networks"
+  ],
+  "risk_factors": [
+    "Recurrent embolic events affecting the left and right posterior branches of the middle cerebral arteries",
+    "Deep subcortical lesions interrupting the inter-hemispheric auditory pathways running through the corpus callosum splenium"
+  ],
+  "diagnosis": [
+    "The Non-Verbal Auditory Matching Audit: Testing if the host can distinguish a ringing phone from a barking dog (intact) while failing to match spoken words to pictures (fails entirely)",
+    "Pure Tone Audiogram Calibration: Verifying 100% normal decibel response thresholds across all key auditory frequencies",
+    "Brainstem Auditory Evoked Potentials (BAEPs): Tracking early electrical wave continuity through the midbrain to confirm peripheral hardware function"
+  ],
+  "remedies": [
+    "Cross-Modal Communication Offloading: Using real-time automated speech-to-text software to convert incoming audio into visual text scripts",
+    "Lip-Reading / Visual Anchoring: Training the host to leverage facial movement tracking to provide visual clues for the broken acoustic decoder"
+  ],
+  "prevention": [
+    "Aggressive cardiovascular monitoring to prevent successive embolic strokes from knocking out matching temporal hubs across both hemispheres"
+  ]
+    }
+        
 }
 
         "real_time_video_buffer_strobe": {
