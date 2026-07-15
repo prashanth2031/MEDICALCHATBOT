@@ -6003,6 +6003,36 @@ medical_db = {
   "prevention": [
     "Protecting 'Temporal-Occipital' pathways from 'Hardware Trauma' and 'Vascular Failure'"
   ]
+    "implicit_motor_script_de_indexing": {
+  "description": "A high-level motor planning impairment where a host cannot execute learned, purposeful movements on command, despite possessing fully intact muscle strength, coordination, and complete comprehension of the task instruction.",
+  "symptoms": [
+    "Ideomotor Apraxia: The inability to retrieve and execute stored kinetic scripts (e.g., waving, saluting, key-turning) when prompted verbally or visually",
+    "Body-Part-As-Object Errors: Involuntarily using a literal limb or digit as a physical substitute for an imagined tool during motor simulation tasks",
+    "Spatial-Temporal Kinetic Distortion: Executing requested hand gestures with clumsy, erratic spatial trajectories and mismatched grasp patterns",
+    "Contextual Preservation Paradox: Flawless automatic execution of the exact same motor scripts when interacting with real objects in their natural environment"
+  ],
+  "causes": [
+    "Left Inferior Parietal Lobule (IPL) Infarction: Ischemic strokes localized within the parietal branches of the Left Middle Cerebral Artery (MCA)",
+    "Cortico-Basal Degeneration (CBD): Progressive, asymmetric neurodegeneration selectively degrading the frontoparietal motor planning loops"
+  ],
+  "risk_factors": [
+    "Atherosclerotic disease affecting the dominant hemisphere's cerebral blood flow",
+    "Tauopathy-related neurodegenerative profiles targeting the parietal association networks"
+  ],
+  "diagnosis": [
+    "The Transitive and Intransitive Gesture Test: Prompting the host to wave goodbye (intransitive) and mime using a key (transitive) and tracking alignment errors",
+    "The Object-Use Context Contrast: Comparing motor execution performance with an imagined tool versus a physical tool held in the palm",
+    "High-Resolution Structural T1-Weighted MRI: Pinpointing localized tissue drop-outs or white matter lesions within the left inferior parietal lobule or arcuate fasciculus"
+  ],
+  "remedies": [
+    "Context-Anchored Sensory Training: Structuring rehabilitation tasks around real physical objects rather than abstract, verbal motor commands",
+    "Errorless Motor Completion Protocols: Utilizing physical hand-over-hand guidance to rebuild the synaptic connections of the motor planning schema"
+  ],
+  "prevention": [
+    "Proactive management of systemic vascular risks to prevent focal tissue loss within the dominant parietal cortex, preserving the brain's central movement program library"
+  ]
+}
+        
 }
 "olfactory_packet_corruption_anomaly": {
   "description": "A localized database corruption within the olfactory bulb processing array where the system's chemical sensory pipelines spontaneously generate false smell payloads, forcing the user to process vivid, highly intrusive, and typically foul scents in an environment that is perfectly clean.",
