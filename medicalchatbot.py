@@ -4664,6 +4664,34 @@ medical_db = {
     "No definitive baseline software or hardware preventive patch exists once the alpha-synuclein protein corruption loop maps onto the physical storage sectors"
   ]
 }
+"somatic_attentional_null_state": {
+  "description": "A profound lateral attention allocation failure resulting from lesions in the right posterior parietal cortex, causing the brain to entirely drop, ignore, and deny the existence of the left half of egocentric and allocentric space.",
+  "symptoms": [
+    "Left Hemispatial Neglect: Complete failure to attend to, respond to, or perceive sensory inputs originating from the left side of space",
+    "Somatic Depersonalization / Somatoparaphrenia: Absolute denial of ownership regarding the host's own left limbs, often attributing them to other people",
+    "Anosognosia: A profound lack of cognitive awareness regarding one's own physical paralysis or spatial deficits",
+    "Midline-Biased Motor Drift: Involuntary steering of wheelchairs, walking paths, and gaze direction exclusively toward the right-hand boundary"
+  ],
+  "causes": [
+    "Right Posterior Parietal Cortex (PPC) Infarction: Ischemic strokes secondary to acute thromboembolic occlusions of the Right Middle Cerebral Artery (MCA)",
+    "Parieto-Occipital Hemorrhage: Deep parenchymal bleeds disrupting the structural integrity of the global spatial attention hubs"
+  ],
+  "risk_factors": [
+    "Uncontrolled atrial fibrillation or carotid artery stenosis seeding emboli into the right cerebral circulation"
+  ],
+  "diagnosis": [
+    "The Albert's Line Cancellation Test: Presenting a sheet of paper covered in random lines and asking the host to cross out every line, observing a complete neglect of all targets on the left half of the page",
+    "The Sensory Extinction Evaluation: Testing bilateral tactile perception by touching both hands simultaneously, where the host only registers the right touch despite perfectly perceiving a solo left touch",
+    "CT/MRI Perfusion Neuroimaging: Documenting acute tissue drop-outs or severe hypoperfusion localized inside the right superior/inferior parietal lobules"
+  ],
+  "remedies": [
+    "Prism Adaptation Therapy: Fitting the host with specialized optical prism glasses that shift the visual field 10 degrees to the right, forcing the brain to recalibrate and drag attention back left",
+    "Contralateral Limb Activation Protocols: Actively moving the left limb within the left hemispace to force the remaining subcortical networks to register the neglected coordinates"
+  ],
+  "prevention": [
+    "Rapid mechanical thrombectomy intervention during acute right-hemisphere strokes to salvage the parietal attention allocators before permanent tissue death occurs"
+  ]
+}
 
 }
 
