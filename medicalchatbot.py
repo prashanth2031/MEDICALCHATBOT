@@ -3276,6 +3276,36 @@ medical_db = {
   "prevention": [
     "Aggressive screening of high-risk neonates showing autonomic dysregulation and prompt surgical decompression of posterior fossa anomalies before tissue compression occurs"
   ]
+    "auditory_cortex_stream_partition": {
+  "description": "A rare, localized sensory processing disconnect where structural isolation of Wernicke's area from bilateral primary auditory cortices completely halts the transmission of acoustic speech tokens to the phonological decoding engine, rendering spoken language un-parsable while preserving non-verbal hearing and internal language generation.",
+  "symptoms": [
+    "Auditory Verbal Agnosia: Complete failure to comprehend, repeat, or write down spoken language upon acoustic delivery",
+    "Preserved Environmental Audio Parsing: Intact capacity to identify, categorize, and track non-verbal acoustic signals (e.g., sirens, animal calls, musical melodies)",
+    "Intact Visual Language Ingress: Flawless reading comprehension, text processing, and written communication capabilities",
+    "Uncorrupted Spontaneous Vocalization: The retention of fully articulate, grammatically complex speech output with natural prosody and voice modulation"
+  ],
+  "causes": [
+    "Bilateral Superior Temporal Gyrus Infarctions: Sequential or simultaneous vascular strokes targeting the superior temporal structures, destroying the white-matter ingress tracts to Wernicke's area",
+    "Subacute Herpes Simplex Encephalitis: Localized viral inflation causing focal necrosis across the primary auditory-linguistic junction networks"
+  ],
+  "risk_factors": [
+    "Embolic cardiac anomalies (e.g., atrial fibrillation) launching debris into bilateral temporal vascular branches",
+    "Advanced cerebrovascular small-vessel disease compromising perisylvian networks"
+  ],
+  "diagnosis": [
+    "The Environmental vs. Verbal Audio Discrimination Assay: Playing alternating audio files of a dog barking (correctly identified) and a human speaking standard English phrases (completely un-parsed)",
+    "Pure-Tone Audiometry Calibration: Testing baseline auditory thresholds to confirm the physical microphone array (cochlea and vestibulocochlear nerve) can register normal volume and frequency ranges",
+    "Auditory Evoked Potential (AEP) Cortical Logging: Tracking the N100 wave over the primary auditory cortex (normal presence) vs. the complete dampening or absence of the subsequent language-selective P300 wave during verbal stimulation"
+  ],
+  "remedies": [
+    "Visual Communication Scaffolding: Shifting all communication ingress to text-based interfaces, sign language, or high-visibility written transcripts",
+    "Dynamic Speech-to-Text Translocation: Utilizing real-time mobile translation software to capture local verbal audio and render it instantly as a visual text display inside the host's active focus field"
+  ],
+  "prevention": [
+    "Aggressive anticoagulation management during persistent cardiac arrhythmias and immediate neurovascular tracking during temporal lobe stroke warning flags"
+  ]
+}
+
         }
  "thalamic_sleep_gating_degradation": {
   "description": "A terminal, progressive neurodegenerative prion disease characterized by the selective apoptosis of the anteroventral and mediodorsal thalamic nuclei, causing a permanent failure of sensory-gating mechanisms, total loss of slow-wave sleep architecture, and untreatable autonomic over-activation.",
