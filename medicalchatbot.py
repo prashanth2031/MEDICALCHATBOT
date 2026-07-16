@@ -5709,6 +5709,35 @@ medical_db = {
   "prevention": [
     "N/A: Primarily a 'Boot-Level' structural configuration"
   ]
+        "retrograde_identity_pointer_wipe": {
+  "description": "A highly selective memory retrieval failure where a host completely loses access to all pre-existing autobiographical memories and personal history records, while retaining perfect working memory, language capabilities, general knowledge, and the ability to form new long-term memories.",
+  "symptoms": [
+    "Focal Retrograde Amnesia: The absolute inability to retrieve past personal life events, biographical details, or relationship histories prior to the onset event",
+    "Preserved Anterograde Logging: Pristine capability to encode, consolidate, and recall new daily experiences and information moving forward",
+    "Procedural Continuity: Intact execution of complex, learned physical and intellectual skills (e.g., typing, driving, playing instruments) without knowing when they were learned",
+    "Semantic Stability: Intact retention of global facts, language structures, and general objective knowledge about the external world"
+  ],
+  "causes": [
+    "Focal Limbic Encephalitis: Autoimmune or viral inflammation selectively disrupting the hippocampal-cortical retrieval pathways",
+    "Traumatic Diffuse Axonal Shearing: Mechanical trauma tearing the subcortical white matter tracts that route queries between the indexing nodes and the neocortex"
+  ],
+  "risk_factors": [
+    "Severe closed-head acceleration-deceleration impacts causing structural shearing along the limbic and temporal axes"
+  ],
+  "diagnosis": [
+    "The Autobiographical Memory Interview (AMI): Quantitative testing contrasting the host's complete failure to recall childhood milestones against their perfect recall of post-injury events",
+    "The Semantic-Autobiographical Dissociation Audit: Verifying that the host can define what a 'wedding' is (semantic) while having zero memory of their own wedding day (autobiographical)",
+    "Diffusion Tensor Imaging (DTI) Microstructural Tracking: Mapping white matter pathways to locate specific axonal disconnects within the fornix, mamillothalamic tracts, or uncinate fasciculus"
+  ],
+  "remedies": [
+    "External Biography Reconstruction: Utilizing historical digital assets, photos, and family records to reconstruct a new secondary user profile from scratch",
+    "Cognitive Mapping Scaffolding: Training the host to anchor their current identity to their fully functional real-time cognitive strengths and newly formed relationships"
+  ],
+  "prevention": [
+    "Rapid treatment of acute neuroinflammatory conditions and using proper safety gear during high-velocity impacts to protect subcortical routing networks from mechanical shearing"
+  ]
+        }
+        
 }
 "misophonia_priority_inversion": {
   "description": "A condition where specific soft sounds trigger an immediate, intense emotional or physiological response that is completely disproportionate to the stimulus.",
