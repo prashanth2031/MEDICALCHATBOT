@@ -2496,6 +2496,34 @@ medical_db = {
     "Mitigating progressive deep-brain ischemic risks and avoiding long-term exposure to typical neuroleptic classes that induce extrapyramidal pathway gating instability"
   ]
 }
+"autonomic_thermal_governor_melt": {
+  "description": "A catastrophic homeostatic failure caused by structural degradation of the preoptic nucleus within the anterior hypothalamus, resulting in a complete loss of autonomous thermoregulation and causing the host's core body temperature to passively drift with ambient environmental values.",
+  "symptoms": [
+    "Hypothalamic Poikilothermia: Passive fluctuation of core body temperature in direct alignment with external environmental shifts",
+    "Autonomic Anhidrosis: Total absence of involuntary sweating or cooling responses during core hyperthermia conditions",
+    "Thermogenesis Lockout: Complete failure to initiate autonomic shivering, piloerection, or peripheral vasoconstriction during core hypothermia drops",
+    "Homeostatic System Volatility: Rapid, unpredictable transitions between extreme fever states and hypothermic drops within short timeframes based entirely on room microclimates"
+  ],
+  "causes": [
+    "Suprasellar Craniopharyngioma Compression: Slow-growing tumors expanding into the third ventricle corridor and crushing the preoptic structural array",
+    "Neurosurgical Resection Trauma: Accidental mechanical or vascular disruption of the highly fragile hypothalamic nuclei during complex skull-base surgeries"
+  ],
+  "risk_factors": [
+    "Large macroadenomas or anterior communicating artery aneurysms directly compromising the microvascular branches supplying the ventromedial preoptic tracts"
+  ],
+  "diagnosis": [
+    "The Controlled Environmental Ambient Challenge: Tracking the host's core temperature via a continuous rectal probe inside a warm versus cold room, documenting a complete lack of compensatory sweating or shivering responses",
+    "Bilateral Sudomotor Function Testing: Verifying that sweat glands are physically functional via direct chemical stimulation, proving the fault is central, not peripheral",
+    "High-Resolution Sagittal Brain MRI: Confirming distinct structural tissue degradation or mass effect displacement within the anterior ventral hypothalamic borders"
+  ],
+  "remedies": [
+    "Manual Climate Scaffolding: Utilizing external, automated thermostat feedback loops, cooling vests, and programmable heating pads to manually balance the host's body temperature",
+    "Continuous Core Telemetry Monitoring: Fitting the host with wearable, real-time internal thermal sensors linked to audible alerts to signal immediate environmental corrections"
+  ],
+  "prevention": [
+    "Utilizing micro-dissection techniques and intraoperative navigation systems during skull-base surgeries to minimize collateral damage to the delicate hypothalamic floor structures"
+  ]
+}
 
 }
 
