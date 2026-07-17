@@ -6250,6 +6250,7 @@ medical_db = {
   "prevention": [
     "Optimizing 'Shutdown Routines' (consistent sleep schedule) to stabilize the 'RAS'"
   ]
+    
 }
 "visual_snow_filter_failure": {
   "description": "A neurological condition where the individual sees persistent flickering dots across the entire visual field, resembling the static of an analog television.",
@@ -6284,6 +6285,35 @@ medical_db = {
   "prevention": [
     "Managing 'Neural Excitability' and preventing 'Sensory Burnout'"
   ]
+        "proprioceptive_frame_buffer_dropout": {
+  "description": "A profound peripheral sensory failure where a host loses all internal awareness of limb positioning and spatial body posture due to the selective degradation of large, myelinated dorsal root ganglion neurons, forcing an absolute dependency on continuous visual tracking to coordinate movement.",
+  "symptoms": [
+    "Severe Sensory Ataxia: Chaotic, uncoordinated physical movements caused by a total breakdown of internal spatial limb-state tracking",
+    "Vision-Gated Ambulation: Inability to execute stepping sequences or maintain balance without keeping eyes fixed directly on the legs and floor layout",
+    "The Pseudoathetosis Drift: Involuntary, slow, wandering movements of the fingers and hands when outstretched out of direct line of sight",
+    "De-Calibrated Force Control: Crushing fragile items or dropping heavy objects because the system cannot gauge muscle tension without return telemetry"
+  ],
+  "causes": [
+    "Autoimmune Sensory Ganglionopathy: Targeted immune-mediated destruction of the large T-junction cell bodies inside the dorsal root frames",
+    "Mega-Dose Pyridoxine Neurotoxicity: Megavitamin B6 toxic exposure selectively damaging the large-diameter myelinated sensory afferents"
+  ],
+  "risk_factors": [
+    "Sjögren’s syndrome or occult paraneoplastic syndromes triggering specific anti-ganglion cell antibody sweeps"
+  ],
+  "diagnosis": [
+    "The Eyes-Closed Postural Test (Extended Romberg): Noting immediate, total balance failure and limb drift the microsecond visual feedback channels are shuttered",
+    "Sensory Nerve Conduction Velocity (NCV) Audit: Showing an absolute, clean drop-out of Sensory Nerve Action Potentials (SNAPs) while Motor Nerve Conduction remains 100% nominal",
+    "Dorsal Column Spinal MRI: Visualizing distinct T2-hyperintense degeneration tracing down the length of the fasciculus gracilis and cuneatus path arrays"
+  ],
+  "remedies": [
+    "Visual-Kinematic Re-Mapping: Training the host to replace subconscious spatial tracking with rigid, high-focus visual navigation routines",
+    "Tactile and Auditory Scaffolding: Utilizing micro-clickers or weighted orthotics to engage remaining uncompromised touch registers for environmental feedback"
+  ],
+  "prevention": [
+    "Immediate cessation of high-dose pyridoxine vectors and aggressive deployment of immunomodulatory therapies during early acute ganglionitis flags"
+  ]
+        }
+        
         "internal_clock_stratum_desync": {
   "description": "A severe timing-plane calculation error within the cerebellar pacing loops where the system's internal microsecond tracking clock drifts away from real-world time values, causing total loss of the ability to accurately gauge or estimate passing intervals of time.",
   "symptoms": [
