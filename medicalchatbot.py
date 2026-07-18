@@ -6651,6 +6651,35 @@ medical_db = {
   "prevention": [
     "Managing 'Optical Exposure' and 'Neural Stress' to maintain 'Buffer Integrity'"
   ]
+    "visual_semantics_key_disconnect": {
+  "description": "A deep neurological visual recognition failure where a host cannot recognize or name objects by sight alone despite fully intact visual acuity, field of view, and general semantic knowledge, caused by structural lesions isolating the ventral stream visual processing hubs from the temporal language networks.",
+  "symptoms": [
+    "Visual Object Agnosia: Total failure to name or identify common tools, utensils, or household objects purely by looking at them",
+    "Intact Structural Copying: Flawless capability to trace, draw, or replicate complex visual line art without comprehending what the image represents",
+    "Cross-Modal Sparing: Instant asset identification when the visual object provides a distinct acoustic signal or is manually touched by the host",
+    "Preserved Visual Acuity: Pristine performance on standard eye charts, text font legibility tasks, and low-level contrast tests"
+  ],
+  "causes": [
+    "Bilateral Ventrolateral Occipitotemporal Infarction: Ischemic strokes tracking the posterior cerebral artery (PCA) branches that supply the inferior temporal gyri",
+    "Diffuse Hypoxic-Ischemic Encephalopathy: Selective carbon monoxide or anoxic damage targeting the highly metabolic visual association neurons"
+  ],
+  "risk_factors": [
+    "Basilar artery tip embolisms or cardiac arrest events causing symmetrical hypoperfusion across the visual association hubs"
+  ],
+  "diagnosis": [
+    "The Visual Overlap Object Recognition Challenge: Presenting line drawings of objects superimposed on top of one another and tracking the host's failure to segment or categorize them",
+    "The Tactile-Visual Disparity Audit: Contrasting the host's 100% accurate identification of a blindfolded held object against their 0% accuracy when looking at it from a distance",
+    "High-Resolution Fluid-Attenuated Inversion Recovery (FLAIR) MRI: Visualizing distinct bilateral ischemic lesions inside the lingual, fusiform, or inferior temporal gyri"
+  ],
+  "remedies": [
+    "Multisensory Integration Strategies: Training the host to intentionally tap, scratch, or handle objects to trigger non-visual sensory routes for rapid recognition",
+    "Linguistic Context Anchoring: Having the host verbally describe individual visual sub-components out loud ('it has teeth, it is flat metal') to help cross-reference the text vocabulary system manually"
+  ],
+  "prevention": [
+    "Rapid intervention during baseline vertebrobasilar hypoperfusion flags to protect the fragile ventral feature-binding matrices from permanent structural drops"
+  ]
+}
+
 }
 
 "cotard_existence_status_fault": {
