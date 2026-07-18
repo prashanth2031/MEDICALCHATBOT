@@ -3363,7 +3363,35 @@ medical_db = {
     "Pre-implantation genetic diagnosis (PGD) screening for known carrier lineages to prevent transmission of the mutated genomic vector to offspring"
   ]
 }
-
+"autonomic_respiratory_driver_drop": {
+  "description": "A severe, life-threatening brainstem failure where the central nervous system completely loses the capacity for involuntary, autonomous breathing due to the loss of chemosensitive pacemaker neurons within the medulla oblongata, requiring continuous conscious effort to breathe while awake and mechanical ventilation during sleep.",
+  "symptoms": [
+    "Central Alveolar Hypoventilation / Ondine's Curse: Absolute cessation of rhythmic breathing the instant the host transitions from waking consciousness into sleep",
+    "Chemosensory Areflexia: Complete lack of automatic ventilatory adjustment or air hunger responses when blood carbon dioxide levels spike hypercapnic boundaries",
+    "Sleep-Induced Hypoxemic Systems Lock: Rapid, extreme oxygen saturation drops and severe respiratory acidosis during unassisted sleep intervals",
+    "Preserved Voluntary Apnea Control: Intact capability to intentionally inhale, exhale, or hold breath on command while awake using forebrain motor lines"
+  ],
+  "causes": [
+    "PHOX2B Polyalanine Repeat Expansion Mutations: Genetic anomalies causing malformation of the retrotrapezoid nucleus structures during embryonic development",
+    "Lateral Medullary Stroke (Wallenberg or Variant Profiles): Ischemic infarctions following posterior inferior cerebellar artery (PICA) occlusions destroying the rhythmic pace centers"
+  ],
+  "risk_factors": [
+    "Neoplastic brainstem compression or localized demyelinating plaques targeting the ventral respiratory column matrices"
+  ],
+  "diagnosis": [
+    "The Hypercapnic Ventilatory Response Challenge: Documenting an absolute flatline in breathing rate adjustments when the awake host breathes elevated CO2 gas mixtures",
+    "Polysomnographic Sleep Path Profiling: Capturing instant, repetitive prolonged central apneas lacking any respiratory effort the second EEG signatures confirm sleep onset",
+    "Targeted PHOX2B Genetic Sequencing: Identifying polyalanine repeat expansion mutations to confirm congenital autonomic structural deficits"
+  ],
+  "remedies": [
+    "Continuous Positive Pressure Mechanical Ventilation: Deploying mask-based or tracheostomy-tethered mechanical ventilation loops automatically synchronized to sleep windows",
+    "Surgical Phrenic Nerve Pacemaker Implantation: Fitting chronic electrical stimulation leads to the bilateral phrenic nerves to artificially drive rhythmic diaphragmatic contractions"
+  ],
+  "prevention": [
+    "Insulating brainstem vascular channels from ischemic trauma and tracking genetic carrier profiles to flag high-risk congenital airway drop-outs at birth"
+  ]
+}
+        
 }
 "prosopagnosia_identity_mapping_fault": {
   "description": "A cognitive disorder of face perception where the ability to recognize familiar faces, including one's own, is impaired, while other aspects of visual processing remain intact.",
