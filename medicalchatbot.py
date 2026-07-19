@@ -9206,6 +9206,34 @@ the persistent sensation that one has already lived through the current moment a
   "prevention": [
     "N/A; it is a fundamental 'Hard-Wiring' variation"
   ]
+    "visual_word_form_area_alexia": {
+  "description": "A striking structural language processing disconnection where a host completely loses the ability to read printed text while retaining perfect capabilities to write, speak, and comprehend spoken language, caused by lesions isolating the Visual Word Form Area.",
+  "symptoms": [
+    "Pure Alexia: The complete loss of visual reading comprehension, treating known typographical arrays as un-decodable geometric squiggles",
+    "Agraphia Preservation: Perfect maintenance of manual handwriting and text generation capabilities, independent of the reading failure",
+    "Letter-by-Letter (LBL) Processing Backlog: Forced fallback to tracing and naming individual characters sequentially to deduce a word through the auditory channel",
+    "Tactile/Auditory Language Stability: Normal linguistic comprehension when data payloads are delivered via sound waves or finger tactile checks"
+  ],
+  "causes": [
+    "Left PCA Stroke with Splenial Extension: Ischemic infarctions knocking out the left visual cortex and the splenium of the corpus callosum, preventing right-field visual inputs from reaching the left-hemisphere word parser",
+    "Localized Mid-Fusiform Encephalomalacia: Traumatic or infectious degradation selectively attacking the VWFA structural boundaries"
+  ],
+  "risk_factors": [
+    "Embolic events originating in the vertebrobasilar arterial distribution, compromising downstream posterior circulatory tracks"
+  ],
+  "diagnosis": [
+    "The Writing-Reading Dissociation Challenge: Requiring the host to write a coherent paragraph on a terminal and then immediately attempt to read the screen output, tracking the complete lookup failure",
+    "Word-Length Effect Latency Profile: Documenting a steep, linear increase in reaction time for every additional letter in a target word, indicating a shift to primitive LBL processing",
+    "Structural T2-Weighted Brain MRI: Showing distinct tissue drops across the left medial occipitotemporal cortex and structural damage inside the corpus callosum splenium"
+  ],
+  "remedies": [
+    "Auditory Loop Offloading: Utilizing high-speed Text-to-Speech (TTS) engine layers to automatically read screen content directly into the host's clear auditory bus",
+    "Tactile Kinesthetic Tracing Protocols: Training the host to physically trace the outlines of letters with their finger, using touch mechanics to bypass the visual word form crash"
+  ],
+  "prevention": [
+    "Rapid anti-thrombotic interventions during posterior cerebral circulatory events to save the callosal splenium and left mid-fusiform gyrus grids from permanent cell drops"
+  ]
+}
 }
 "catatonia_state_deadlock": {
   "description": "A complex behavioral syndrome characterized by abnormal movements, immobility, abnormal behaviors, and withdrawal.",
